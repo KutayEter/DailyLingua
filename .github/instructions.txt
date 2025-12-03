@@ -37,7 +37,7 @@ com.example.dailylingua
 - “Quiz’e Başla” butonu QuizActivity sayfasına yönlendirir.
 
 3️⃣ Quiz (QuizActivity)
-- JSON’dan rastgele 5 kelime alınır.
+- JSON’dan rastgele 10 kelime alınır.
 - Her biri 4 şıklı çoktan seçmeli sorulara dönüştürülür.
 - Kullanıcı doğru cevabı seçtiğinde buton yeşil, yanlışta kırmızı olur.
 - Quiz sonunda skor ekranda gösterilir.

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <!-- Horizontal gradient matching provided CSS: linear-gradient(90deg, #67aa90, #83913c, #b95e11) -->
+    <gradient
+        android:startColor="#67AA90"
+        android:centerColor="#83913C"
+        android:endColor="#B95E11"
+        android:angle="0" />
+</shape>

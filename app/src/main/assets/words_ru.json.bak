@@ -1,0 +1,2527 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "word": "дом",
+      "translation": "ev",
+      "example": "Это мой 'дом'.",
+      "exampleTranslation": "Bu benim evim.",
+      "options": ["ev", "araba", "okul", "masa"],
+      "correct": "ev"
+    },
+    {
+      "id": 2,
+      "word": "кошка",
+      "translation": "kedi",
+      "example": "У меня есть 'кошка'.",
+      "exampleTranslation": "Bir kedim var.",
+      "options": ["köpek", "kedi", "kuş", "balık"],
+      "correct": "kedi"
+    },
+    {
+      "id": 3,
+      "word": "собака",
+      "translation": "köpek",
+      "example": "Моя 'собака' очень добрая.",
+      "exampleTranslation": "Köpeğim çok sevecen.",
+      "options": ["kedi", "köpek", "kuş", "balık"],
+      "correct": "köpek"
+    },
+    {
+      "id": 4,
+      "word": "вода",
+      "translation": "su",
+      "example": "Я пью 'воду' каждый день.",
+      "exampleTranslation": "Her gün su içerim.",
+      "options": ["su", "süt", "çay", "kahve"],
+      "correct": "su"
+    },
+    {
+      "id": 5,
+      "word": "хлеб",
+      "translation": "ekmek",
+      "example": "Он ест 'хлеб' на завтрак.",
+      "exampleTranslation": "O kahvaltıda ekmek yer.",
+      "options": ["ekmek", "peynir", "yumurta", "süt"],
+      "correct": "ekmek"
+    },
+    {
+      "id": 6,
+      "word": "мама",
+      "translation": "anne",
+      "example": "Моя 'мама' готовит вкусный ужин.",
+      "exampleTranslation": "Annem lezzetli bir akşam yemeği yapıyor.",
+      "options": ["baba", "anne", "kız kardeş", "abla"],
+      "correct": "anne"
+    },
+    {
+      "id": 7,
+      "word": "папа",
+      "translation": "baba",
+      "example": "Мой 'папа' работает в офисе.",
+      "exampleTranslation": "Babam ofiste çalışıyor.",
+      "options": ["baba", "amca", "dayı", "dede"],
+      "correct": "baba"
+    },
+    {
+      "id": 8,
+      "word": "школа",
+      "translation": "okul",
+      "example": "Моя сестра идёт в 'школу'.",
+      "exampleTranslation": "Kız kardeşim okula gidiyor.",
+      "options": ["okul", "ev", "market", "ofis"],
+      "correct": "okul"
+    },
+    {
+      "id": 9,
+      "word": "учитель",
+      "translation": "öğretmen",
+      "example": "Наш 'учитель' очень добрый.",
+      "exampleTranslation": "Öğretmenimiz çok nazik.",
+      "options": ["öğrenci", "öğretmen", "doktor", "mühendis"],
+      "correct": "öğretmen"
+    },
+    {
+      "id": 10,
+      "word": "книга",
+      "translation": "kitap",
+      "example": "Я читаю интересную 'книгу'.",
+      "exampleTranslation": "İlginç bir kitap okuyorum.",
+      "options": ["defter", "gazete", "kitap", "dergi"],
+      "correct": "kitap"
+    },
+    {
+      "id": 11,
+      "word": "ручка",
+      "translation": "kalem",
+      "example": "Дай мне 'ручку', пожалуйста.",
+      "exampleTranslation": "Lütfen bana kalemi ver.",
+      "options": ["silgi", "kalem", "kitap", "masa"],
+      "correct": "kalem"
+    },
+    {
+      "id": 12,
+      "word": "стол",
+      "translation": "masa",
+      "example": "На 'столе' лежит книга.",
+      "exampleTranslation": "Masada bir kitap duruyor.",
+      "options": ["masa", "sandalye", "dolap", "pencere"],
+      "correct": "masa"
+    },
+    {
+      "id": 13,
+      "word": "окно",
+      "translation": "pencere",
+      "example": "Открой 'окно', пожалуйста.",
+      "exampleTranslation": "Lütfen pencereyi aç.",
+      "options": ["kapı", "pencere", "masa", "lamba"],
+      "correct": "pencere"
+    },
+    {
+      "id": 14,
+      "word": "дверь",
+      "translation": "kapı",
+      "example": "Закрой 'дверь'!",
+      "exampleTranslation": "Kapıyı kapat!",
+      "options": ["pencere", "masa", "kapı", "kitap"],
+      "correct": "kapı"
+    },
+    {
+      "id": 15,
+      "word": "город",
+      "translation": "şehir",
+      "example": "Москва — большой 'город'.",
+      "exampleTranslation": "Moskova büyük bir şehirdir.",
+      "options": ["köy", "şehir", "ülke", "bölge"],
+      "correct": "şehir"
+    },
+    {
+      "id": 16,
+      "word": "улица",
+      "translation": "sokak",
+      "example": "Мы живём на тихой 'улице'.",
+      "exampleTranslation": "Sessiz bir sokakta yaşıyoruz.",
+      "options": ["cadde", "ev", "sokak", "park"],
+      "correct": "sokak"
+    },
+    {
+      "id": 17,
+      "word": "магазин",
+      "translation": "mağaza",
+      "example": "Я иду в 'магазин' за хлебом.",
+      "exampleTranslation": "Ekmek almak için mağazaya gidiyorum.",
+      "options": ["okul", "mağaza", "hastane", "ev"],
+      "correct": "mağaza"
+    },
+    {
+      "id": 18,
+      "word": "работа",
+      "translation": "iş",
+      "example": "Он идёт на 'работу'.",
+      "exampleTranslation": "O işe gidiyor.",
+      "options": ["iş", "okul", "park", "ev"],
+      "correct": "iş"
+    },
+    {
+      "id": 19,
+      "word": "друг",
+      "translation": "arkadaş",
+      "example": "Мой лучший 'друг' живёт рядом.",
+      "exampleTranslation": "En iyi arkadaşım yakında oturuyor.",
+      "options": ["kardeş", "arkadaş", "komşu", "öğretmen"],
+      "correct": "arkadaş"
+    },
+    {
+      "id": 20,
+      "word": "время",
+      "translation": "zaman",
+      "example": "У меня нет 'времени'.",
+      "exampleTranslation": "Zamanım yok.",
+      "options": ["para", "vakit", "zaman", "iş"],
+      "correct": "zaman"
+    }
+  ]
+}
+{
+  "words": [
+    {
+      "id": 21,
+      "word": "деньги",
+      "translation": "para",
+      "example": "У меня нет 'денег'.",
+      "exampleTranslation": "Param yok.",
+      "options": ["para", "zaman", "iş", "hediye"],
+      "correct": "para"
+    },
+    {
+      "id": 22,
+      "word": "еда",
+      "translation": "yemek",
+      "example": "Я готовлю вкусную 'еду'.",
+      "exampleTranslation": "Lezzetli yemek pişiriyorum.",
+      "options": ["yemek", "su", "ekmek", "meyve"],
+      "correct": "yemek"
+    },
+    {
+      "id": 23,
+      "word": "вилка",
+      "translation": "çatal",
+      "example": "Где моя 'вилка'?",
+      "exampleTranslation": "Çatalım nerede?",
+      "options": ["kaşık", "bıçak", "çatal", "tabak"],
+      "correct": "çatal"
+    },
+    {
+      "id": 24,
+      "word": "ложка",
+      "translation": "kaşık",
+      "example": "Положи 'ложку' на стол.",
+      "exampleTranslation": "Kaşığı masaya koy.",
+      "options": ["bıçak", "çatal", "kaşık", "tabak"],
+      "correct": "kaşık"
+    },
+    {
+      "id": 25,
+      "word": "чашка",
+      "translation": "fincan",
+      "example": "Я пью чай из 'чашки'.",
+      "exampleTranslation": "Çayı fincandan içiyorum.",
+      "options": ["fincan", "şişe", "bardak", "tabak"],
+      "correct": "fincan"
+    },
+    {
+      "id": 26,
+      "word": "чай",
+      "translation": "çay",
+      "example": "Моя бабушка любит 'чай'.",
+      "exampleTranslation": "Büyükannem çayı sever.",
+      "options": ["kahve", "çay", "su", "süt"],
+      "correct": "çay"
+    },
+    {
+      "id": 27,
+      "word": "кофе",
+      "translation": "kahve",
+      "example": "Я не могу жить без 'кофе'.",
+      "exampleTranslation": "Kahvesiz yaşayamam.",
+      "options": ["kahve", "çay", "su", "meyve suyu"],
+      "correct": "kahve"
+    },
+    {
+      "id": 28,
+      "word": "молоко",
+      "translation": "süt",
+      "example": "Ребёнок пьёт 'молоко'.",
+      "exampleTranslation": "Çocuk süt içiyor.",
+      "options": ["su", "süt", "meyve suyu", "çay"],
+      "correct": "süt"
+    },
+    {
+      "id": 29,
+      "word": "яблоко",
+      "translation": "elma",
+      "example": "Я ем красное 'яблоко'.",
+      "exampleTranslation": "Kırmızı bir elma yiyorum.",
+      "options": ["armut", "muz", "elma", "kiraz"],
+      "correct": "elma"
+    },
+    {
+      "id": 30,
+      "word": "банан",
+      "translation": "muz",
+      "example": "Моя сестра любит 'бананы'.",
+      "exampleTranslation": "Kız kardeşim muzları sever.",
+      "options": ["muz", "elma", "karpuz", "üzüm"],
+      "correct": "muz"
+    },
+    {
+      "id": 31,
+      "word": "стул",
+      "translation": "sandalye",
+      "example": "Поставь 'стул' у окна.",
+      "exampleTranslation": "Sandalyeyi pencerenin yanına koy.",
+      "options": ["masa", "sandalye", "yatak", "kapı"],
+      "correct": "sandalye"
+    },
+    {
+      "id": 32,
+      "word": "кровать",
+      "translation": "yatak",
+      "example": "Я лежу на 'кровати'.",
+      "exampleTranslation": "Yatakta uzanıyorum.",
+      "options": ["yatak", "masa", "koltuk", "sandalye"],
+      "correct": "yatak"
+    },
+    {
+      "id": 33,
+      "word": "окно",
+      "translation": "pencere",
+      "example": "Солнце светит в 'окно'.",
+      "exampleTranslation": "Güneş pencereye vuruyor.",
+      "options": ["pencere", "kapı", "masa", "yatak"],
+      "correct": "pencere"
+    },
+    {
+      "id": 34,
+      "word": "работать",
+      "translation": "çalışmak",
+      "example": "Мой брат любит 'работать'.",
+      "exampleTranslation": "Kardeşim çalışmayı sever.",
+      "options": ["uyumak", "oynamak", "çalışmak", "yemek"],
+      "correct": "çalışmak"
+    },
+    {
+      "id": 35,
+      "word": "читать",
+      "translation": "okumak",
+      "example": "Она любит 'читать' книги.",
+      "exampleTranslation": "O kitap okumayı sever.",
+      "options": ["yazmak", "çizmek", "okumak", "dinlemek"],
+      "correct": "okumak"
+    },
+    {
+      "id": 36,
+      "word": "писать",
+      "translation": "yazmak",
+      "example": "Я люблю 'писать' письма.",
+      "exampleTranslation": "Mektup yazmayı severim.",
+      "options": ["yazmak", "çizmek", "okumak", "dinlemek"],
+      "correct": "yazmak"
+    },
+    {
+      "id": 37,
+      "word": "спать",
+      "translation": "uyumak",
+      "example": "Я хочу 'спать'.",
+      "exampleTranslation": "Uyumak istiyorum.",
+      "options": ["okumak", "uyumak", "yemek", "çalışmak"],
+      "correct": "uyumak"
+    },
+    {
+      "id": 38,
+      "word": "идти",
+      "translation": "gitmek",
+      "example": "Я иду в 'школу'.",
+      "exampleTranslation": "Okula gidiyorum.",
+      "options": ["gelmek", "gitmek", "kalmak", "koşmak"],
+      "correct": "gitmek"
+    },
+    {
+      "id": 39,
+      "word": "говорить",
+      "translation": "konuşmak",
+      "example": "Он любит 'говорить' по телефону.",
+      "exampleTranslation": "O telefonla konuşmayı sever.",
+      "options": ["yazmak", "okumak", "konuşmak", "dinlemek"],
+      "correct": "konuşmak"
+    },
+    {
+      "id": 40,
+      "word": "слышать",
+      "translation": "duymak",
+      "example": "Я не могу 'слышать' музыку.",
+      "exampleTranslation": "Müziği duyamıyorum.",
+      "options": ["görmek", "duymak", "okumak", "dokunmak"],
+      "correct": "duymak"
+    },
+    {
+      "id": 41,
+      "word": "видеть",
+      "translation": "görmek",
+      "example": "Я 'вижу' красивое небо.",
+      "exampleTranslation": "Güzel bir gökyüzü görüyorum.",
+      "options": ["duymak", "görmek", "dokunmak", "okumak"],
+      "correct": "görmek"
+    },
+    {
+      "id": 42,
+      "word": "идти пешком",
+      "translation": "yürümek",
+      "example": "Мы любим 'идти пешком' в парк.",
+      "exampleTranslation": "Parkta yürümeyi severiz.",
+      "options": ["koşmak", "yürümek", "oturmak", "uçmak"],
+      "correct": "yürümek"
+    },
+    {
+      "id": 43,
+      "word": "работа",
+      "translation": "iş",
+      "example": "Его 'работа' очень интересная.",
+      "exampleTranslation": "İşi çok ilginç.",
+      "options": ["okul", "iş", "ev", "tatil"],
+      "correct": "iş"
+    },
+    {
+      "id": 44,
+      "word": "машина",
+      "translation": "araba",
+      "example": "Моя 'машина' новая.",
+      "exampleTranslation": "Arabam yeni.",
+      "options": ["araba", "bisiklet", "otobüs", "tren"],
+      "correct": "araba"
+    },
+    {
+      "id": 45,
+      "word": "поезд",
+      "translation": "tren",
+      "example": "Мы едем на 'поезде' в Петербург.",
+      "exampleTranslation": "Trenle Petersburg’a gidiyoruz.",
+      "options": ["araba", "tren", "uçak", "otobüs"],
+      "correct": "tren"
+    },
+    {
+      "id": 46,
+      "word": "самолёт",
+      "translation": "uçak",
+      "example": "Я лечу на 'самолёте' в Москву.",
+      "exampleTranslation": "Moskova’ya uçakla gidiyorum.",
+      "options": ["uçak", "tren", "otobüs", "bisiklet"],
+      "correct": "uçak"
+    },
+    {
+      "id": 47,
+      "word": "вчера",
+      "translation": "dün",
+      "example": "Я был дома 'вчера'.",
+      "exampleTranslation": "Dün evdeydim.",
+      "options": ["bugün", "yarın", "dün", "şimdi"],
+      "correct": "dün"
+    },
+    {
+      "id": 48,
+      "word": "сегодня",
+      "translation": "bugün",
+      "example": "Сегодня хороший день.",
+      "exampleTranslation": "Bugün güzel bir gün.",
+      "options": ["yarın", "bugün", "dün", "gece"],
+      "correct": "bugün"
+    },
+    {
+      "id": 49,
+      "word": "завтра",
+      "translation": "yarın",
+      "example": "Мы увидимся 'завтра'.",
+      "exampleTranslation": "Yarın görüşeceğiz.",
+      "options": ["bugün", "yarın", "dün", "şimdi"],
+      "correct": "yarın"
+    },
+    {
+      "id": 50,
+      "word": "время",
+      "translation": "vakit",
+      "example": "У нас мало 'времени'.",
+      "exampleTranslation": "Vaktimiz az.",
+      "options": ["para", "vakit", "yemek", "iş"],
+      "correct": "vakit"
+    }
+  ]
+}
+{
+  "words": [
+    {
+      "id": 51,
+      "word": "красный",
+      "translation": "kırmızı",
+      "example": "Мой велосипед 'красный'.",
+      "exampleTranslation": "Bisikletim kırmızı.",
+      "options": ["yeşil", "kırmızı", "mavi", "siyah"],
+      "correct": "kırmızı"
+    },
+    {
+      "id": 52,
+      "word": "синий",
+      "translation": "mavi",
+      "example": "Небо сегодня 'синее'.",
+      "exampleTranslation": "Bugün gökyüzü mavi.",
+      "options": ["yeşil", "mavi", "sarı", "kırmızı"],
+      "correct": "mavi"
+    },
+    {
+      "id": 53,
+      "word": "зелёный",
+      "translation": "yeşil",
+      "example": "Я вижу 'зелёное' дерево.",
+      "exampleTranslation": "Yeşil bir ağaç görüyorum.",
+      "options": ["yeşil", "siyah", "mavi", "gri"],
+      "correct": "yeşil"
+    },
+    {
+      "id": 54,
+      "word": "жёлтый",
+      "translation": "sarı",
+      "example": "Моё платье 'жёлтое'.",
+      "exampleTranslation": "Elbisem sarı.",
+      "options": ["sarı", "kırmızı", "beyaz", "mavi"],
+      "correct": "sarı"
+    },
+    {
+      "id": 55,
+      "word": "белый",
+      "translation": "beyaz",
+      "example": "Мой кот 'белый'.",
+      "exampleTranslation": "Kedim beyaz.",
+      "options": ["siyah", "beyaz", "gri", "mavi"],
+      "correct": "beyaz"
+    },
+    {
+      "id": 56,
+      "word": "чёрный",
+      "translation": "siyah",
+      "example": "Она носит 'чёрное' платье.",
+      "exampleTranslation": "Siyah bir elbise giyiyor.",
+      "options": ["kırmızı", "siyah", "beyaz", "gri"],
+      "correct": "siyah"
+    },
+    {
+      "id": 57,
+      "word": "добрый",
+      "translation": "iyi, nazik",
+      "example": "Он очень 'добрый' человек.",
+      "exampleTranslation": "O çok nazik bir insan.",
+      "options": ["kötü", "nazik", "üzgün", "sinirli"],
+      "correct": "iyi, nazik"
+    },
+    {
+      "id": 58,
+      "word": "весёлый",
+      "translation": "neşeli",
+      "example": "Моя подруга всегда 'весёлая'.",
+      "exampleTranslation": "Arkadaşım her zaman neşelidir.",
+      "options": ["üzgün", "yorgun", "neşeli", "sinirli"],
+      "correct": "neşeli"
+    },
+    {
+      "id": 59,
+      "word": "грустный",
+      "translation": "üzgün",
+      "example": "Он выглядит 'грустным'.",
+      "exampleTranslation": "O üzgün görünüyor.",
+      "options": ["mutlu", "yorgun", "üzgün", "sinirli"],
+      "correct": "üzgün"
+    },
+    {
+      "id": 60,
+      "word": "злой",
+      "translation": "kızgın",
+      "example": "Она сегодня немного 'злая'.",
+      "exampleTranslation": "Bugün biraz kızgın.",
+      "options": ["kızgın", "mutlu", "yorgun", "sakin"],
+      "correct": "kızgın"
+    },
+    {
+      "id": 61,
+      "word": "спокойный",
+      "translation": "sakin",
+      "example": "Он очень 'спокойный' человек.",
+      "exampleTranslation": "O çok sakin bir insandır.",
+      "options": ["sakin", "sinirli", "yorgun", "üzgün"],
+      "correct": "sakin"
+    },
+    {
+      "id": 62,
+      "word": "высокий",
+      "translation": "uzun, yüksek",
+      "example": "Этот дом очень 'высокий'.",
+      "exampleTranslation": "Bu ev çok yüksek.",
+      "options": ["uzun", "kısa", "geniş", "dar"],
+      "correct": "uzun, yüksek"
+    },
+    {
+      "id": 63,
+      "word": "маленький",
+      "translation": "küçük",
+      "example": "У меня 'маленький' котёнок.",
+      "exampleTranslation": "Küçük bir kedim var.",
+      "options": ["küçük", "büyük", "geniş", "ince"],
+      "correct": "küçük"
+    },
+    {
+      "id": 64,
+      "word": "большой",
+      "translation": "büyük",
+      "example": "Моя комната 'большая'.",
+      "exampleTranslation": "Odam büyük.",
+      "options": ["küçük", "büyük", "dar", "yüksek"],
+      "correct": "büyük"
+    },
+    {
+      "id": 65,
+      "word": "быстрый",
+      "translation": "hızlı",
+      "example": "Моя машина очень 'быстрая'.",
+      "exampleTranslation": "Arabam çok hızlı.",
+      "options": ["hızlı", "yavaş", "güçlü", "zayıf"],
+      "correct": "hızlı"
+    },
+    {
+      "id": 66,
+      "word": "медленный",
+      "translation": "yavaş",
+      "example": "Черепаха — очень 'медленное' животное.",
+      "exampleTranslation": "Kaplumbağa çok yavaş bir hayvandır.",
+      "options": ["hızlı", "yavaş", "büyük", "güçlü"],
+      "correct": "yavaş"
+    },
+    {
+      "id": 67,
+      "word": "дорогой",
+      "translation": "pahalı",
+      "example": "Этот телефон слишком 'дорогой'.",
+      "exampleTranslation": "Bu telefon çok pahalı.",
+      "options": ["ucuz", "pahalı", "eski", "yeni"],
+      "correct": "pahalı"
+    },
+    {
+      "id": 68,
+      "word": "дешёвый",
+      "translation": "ucuz",
+      "example": "Этот магазин очень 'дешёвый'.",
+      "exampleTranslation": "Bu mağaza çok ucuz.",
+      "options": ["ucuz", "pahalı", "büyük", "dar"],
+      "correct": "ucuz"
+    },
+    {
+      "id": 69,
+      "word": "новый",
+      "translation": "yeni",
+      "example": "Я купил 'новый' компьютер.",
+      "exampleTranslation": "Yeni bir bilgisayar aldım.",
+      "options": ["eski", "yeni", "büyük", "ucuz"],
+      "correct": "yeni"
+    },
+    {
+      "id": 70,
+      "word": "старый",
+      "translation": "eski",
+      "example": "Это 'старый' дом.",
+      "exampleTranslation": "Bu eski bir ev.",
+      "options": ["yeni", "eski", "büyük", "yavaş"],
+      "correct": "eski"
+    },
+    {
+      "id": 71,
+      "word": "снег",
+      "translation": "kar",
+      "example": "Зимой идёт 'снег'.",
+      "exampleTranslation": "Kışın kar yağıyor.",
+      "options": ["kar", "yağmur", "rüzgar", "güneş"],
+      "correct": "kar"
+    },
+    {
+      "id": 72,
+      "word": "дождь",
+      "translation": "yağmur",
+      "example": "На улице идёт 'дождь'.",
+      "exampleTranslation": "Dışarıda yağmur yağıyor.",
+      "options": ["kar", "rüzgar", "yağmur", "güneş"],
+      "correct": "yağmur"
+    },
+    {
+      "id": 73,
+      "word": "солнце",
+      "translation": "güneş",
+      "example": "Сегодня светит 'солнце'.",
+      "exampleTranslation": "Bugün güneş parlıyor.",
+      "options": ["ay", "yıldız", "bulut", "güneş"],
+      "correct": "güneş"
+    },
+    {
+      "id": 74,
+      "word": "ветер",
+      "translation": "rüzgar",
+      "example": "Сильный 'ветер' дует с севера.",
+      "exampleTranslation": "Kuzeyden güçlü bir rüzgar esiyor.",
+      "options": ["rüzgar", "kar", "güneş", "yağmur"],
+      "correct": "rüzgar"
+    },
+    {
+      "id": 75,
+      "word": "река",
+      "translation": "nehir",
+      "example": "В нашем городе есть 'река'.",
+      "exampleTranslation": "Şehrimizde bir nehir var.",
+      "options": ["dağ", "deniz", "nehir", "göl"],
+      "correct": "nehir"
+    },
+    {
+      "id": 76,
+      "word": "гора",
+      "translation": "dağ",
+      "example": "Мы видим высокую 'гору'.",
+      "exampleTranslation": "Yüksek bir dağ görüyoruz.",
+      "options": ["dağ", "ova", "göl", "deniz"],
+      "correct": "dağ"
+    },
+    {
+      "id": 77,
+      "word": "море",
+      "translation": "deniz",
+      "example": "Летом я люблю 'море'.",
+      "exampleTranslation": "Yazın denizi severim.",
+      "options": ["deniz", "nehir", "dağ", "göl"],
+      "correct": "deniz"
+    },
+    {
+      "id": 78,
+      "word": "лес",
+      "translation": "orman",
+      "example": "Мы гуляем в 'лесу'.",
+      "exampleTranslation": "Ormanda yürüyoruz.",
+      "options": ["orman", "park", "bahçe", "köy"],
+      "correct": "orman"
+    },
+    {
+      "id": 79,
+      "word": "цветок",
+      "translation": "çiçek",
+      "example": "На столе стоит 'цветок'.",
+      "exampleTranslation": "Masada bir çiçek duruyor.",
+      "options": ["çiçek", "ağaç", "yaprak", "meyve"],
+      "correct": "çiçek"
+    },
+    {
+      "id": 80,
+      "word": "дерево",
+      "translation": "ağaç",
+      "example": "Это большое 'дерево'.",
+      "exampleTranslation": "Bu büyük bir ağaç.",
+      "options": ["çiçek", "ağaç", "yaprak", "gül"],
+      "correct": "ağaç"
+    },
+    {
+      "id": 81,
+      "word": "понедельник",
+      "translation": "pazartesi",
+      "example": "В 'понедельник' я иду в школу.",
+      "exampleTranslation": "Pazartesi günü okula gidiyorum.",
+      "options": ["salı", "pazartesi", "cumartesi", "perşembe"],
+      "correct": "pazartesi"
+    },
+    {
+      "id": 82,
+      "word": "вторник",
+      "translation": "salı",
+      "example": "Мы встречаемся во 'вторник'.",
+      "exampleTranslation": "Salı günü buluşuyoruz.",
+      "options": ["pazartesi", "salı", "çarşamba", "cuma"],
+      "correct": "salı"
+    },
+    {
+      "id": 83,
+      "word": "среда",
+      "translation": "çarşamba",
+      "example": "В 'среду' у меня урок музыки.",
+      "exampleTranslation": "Çarşamba günü müzik dersim var.",
+      "options": ["çarşamba", "perşembe", "cuma", "cumartesi"],
+      "correct": "çarşamba"
+    }
+  ]
+}
+{
+  "words": [
+    {
+      "id": 83,
+      "word": "понимать",
+      "translation": "anlamak",
+      "example": "Я не могу 'понимать' этот текст без словаря.",
+      "exampleTranslation": "Bu metni sözlük olmadan anlayamıyorum.",
+      "options": ["okumak", "anlamak", "yazmak", "duymak"],
+      "correct": "anlamak"
+    },
+    {
+      "id": 84,
+      "word": "объяснять",
+      "translation": "açıklamak",
+      "example": "Учитель хорошо 'объясняет' новую тему.",
+      "exampleTranslation": "Öğretmen yeni konuyu iyi açıklıyor.",
+      "options": ["açıklamak", "anlamak", "yazmak", "okumak"],
+      "correct": "açıklamak"
+    },
+    {
+      "id": 85,
+      "word": "встречать",
+      "translation": "karşılamak, buluşmak",
+      "example": "Я 'встречаю' друзей у метро.",
+      "exampleTranslation": "Arkadaşlarımla metroda buluşuyorum.",
+      "options": ["buluşmak", "görmek", "gelmek", "yürümek"],
+      "correct": "karşılamak, buluşmak"
+    },
+    {
+      "id": 86,
+      "word": "приглашать",
+      "translation": "davet etmek",
+      "example": "Я хочу 'пригласить' тебя на мой день рождения.",
+      "exampleTranslation": "Doğum günüme seni davet etmek istiyorum.",
+      "options": ["istemek", "çağırmak", "davet etmek", "beklemek"],
+      "correct": "davet etmek"
+    },
+    {
+      "id": 87,
+      "word": "звонить",
+      "translation": "aramak",
+      "example": "Он часто 'звонит' своей маме.",
+      "exampleTranslation": "Annesini sık sık arar.",
+      "options": ["yazmak", "aramak", "dinlemek", "görmek"],
+      "correct": "aramak"
+    },
+    {
+      "id": 88,
+      "word": "решать",
+      "translation": "karar vermek, çözmek",
+      "example": "Мы должны 'решить' эту проблему вместе.",
+      "exampleTranslation": "Bu sorunu birlikte çözmeliyiz.",
+      "options": ["düşünmek", "çözmek", "sormak", "anlatmak"],
+      "correct": "karar vermek, çözmek"
+    },
+    {
+      "id": 89,
+      "word": "использовать",
+      "translation": "kullanmak",
+      "example": "Я 'использую' компьютер для учёбы.",
+      "exampleTranslation": "Ders çalışmak için bilgisayar kullanıyorum.",
+      "options": ["taşımak", "kullanmak", "açmak", "yazmak"],
+      "correct": "kullanmak"
+    },
+    {
+      "id": 90,
+      "word": "создавать",
+      "translation": "oluşturmak",
+      "example": "Компания 'создаёт' новое приложение.",
+      "exampleTranslation": "Şirket yeni bir uygulama oluşturuyor.",
+      "options": ["oluşturmak", "yapmak", "satmak", "okumak"],
+      "correct": "oluşturmak"
+    },
+    {
+      "id": 91,
+      "word": "помогать",
+      "translation": "yardım etmek",
+      "example": "Я всегда 'помогаю' своим друзьям.",
+      "exampleTranslation": "Her zaman arkadaşlarıma yardım ederim.",
+      "options": ["istemek", "yardım etmek", "öğretmek", "sormak"],
+      "correct": "yardım etmek"
+    },
+    {
+      "id": 92,
+      "word": "изучать",
+      "translation": "öğrenmek, incelemek",
+      "example": "Мы 'изучаем' русский язык в университете.",
+      "exampleTranslation": "Üniversitede Rusça öğreniyoruz.",
+      "options": ["okumak", "öğrenmek", "dinlemek", "yazmak"],
+      "correct": "öğrenmek, incelemek"
+    },
+    {
+      "id": 93,
+      "word": "находить",
+      "translation": "bulmak",
+      "example": "Я не могу 'найти' свои ключи.",
+      "exampleTranslation": "Anahtarlarımı bulamıyorum.",
+      "options": ["aramak", "bulmak", "unutmak", "taşımak"],
+      "correct": "bulmak"
+    },
+    {
+      "id": 94,
+      "word": "терять",
+      "translation": "kaybetmek",
+      "example": "Он часто 'теряет' телефон.",
+      "exampleTranslation": "Sık sık telefonunu kaybeder.",
+      "options": ["kaybetmek", "bulmak", "unutmak", "aramak"],
+      "correct": "kaybetmek"
+    },
+    {
+      "id": 95,
+      "word": "покупать",
+      "translation": "satın almak",
+      "example": "Я 'покупаю' продукты в супермаркете.",
+      "exampleTranslation": "Süpermarketten yiyecek alıyorum.",
+      "options": ["satmak", "satın almak", "göstermek", "taşımak"],
+      "correct": "satın almak"
+    },
+    {
+      "id": 96,
+      "word": "продавать",
+      "translation": "satmak",
+      "example": "Он 'продаёт' машины уже десять лет.",
+      "exampleTranslation": "O, on yıldır araba satıyor.",
+      "options": ["satmak", "almak", "taşımak", "kapatmak"],
+      "correct": "satmak"
+    },
+    {
+      "id": 97,
+      "word": "вспоминать",
+      "translation": "hatırlamak",
+      "example": "Я хорошо 'вспоминаю' своё детство.",
+      "exampleTranslation": "Çocukluğumu iyi hatırlıyorum.",
+      "options": ["unutmak", "hatırlamak", "bilmek", "düşünmek"],
+      "correct": "hatırlamak"
+    },
+    {
+      "id": 98,
+      "word": "забывать",
+      "translation": "unutmak",
+      "example": "Я иногда 'забываю' выключить свет.",
+      "exampleTranslation": "Bazen ışığı kapatmayı unuturum.",
+      "options": ["unutmak", "hatırlamak", "bilmek", "yazmak"],
+      "correct": "unutmak"
+    },
+    {
+      "id": 99,
+      "word": "думать",
+      "translation": "düşünmek",
+      "example": "Я часто 'думаю' о будущем.",
+      "exampleTranslation": "Sık sık geleceği düşünürüm.",
+      "options": ["sormak", "düşünmek", "konuşmak", "duymak"],
+      "correct": "düşünmek"
+    },
+    {
+      "id": 100,
+      "word": "верить",
+      "translation": "inanmak",
+      "example": "Она 'верит' в любовь.",
+      "exampleTranslation": "Aşka inanıyor.",
+      "options": ["inanmak", "bilmek", "düşünmek", "konuşmak"],
+      "correct": "inanmak"
+    },
+    {
+      "id": 101,
+      "word": "мечтать",
+      "translation": "hayal etmek",
+      "example": "Я 'мечтаю' путешествовать по миру.",
+      "exampleTranslation": "Dünyayı gezmeyi hayal ediyorum.",
+      "options": ["hayal etmek", "planlamak", "çalışmak", "görmek"],
+      "correct": "hayal etmek"
+    },
+    {
+      "id": 102,
+      "word": "путешествовать",
+      "translation": "seyahat etmek",
+      "example": "Мы любим 'путешествовать' летом.",
+      "exampleTranslation": "Yazın seyahat etmeyi severiz.",
+      "options": ["çalışmak", "gezmek", "seyahat etmek", "okumak"],
+      "correct": "seyahat etmek"
+    },
+    {
+      "id": 103,
+      "word": "улыбаться",
+      "translation": "gülümsemek",
+      "example": "Она всегда 'улыбается' людям.",
+      "exampleTranslation": "O, insanlara her zaman gülümser.",
+      "options": ["ağlamak", "gülümsemek", "konuşmak", "susmak"],
+      "correct": "gülümsemek"
+    },
+    {
+      "id": 104,
+      "word": "плакать",
+      "translation": "ağlamak",
+      "example": "Ребёнок 'плачет', потому что голоден.",
+      "exampleTranslation": "Çocuk ağlıyor çünkü aç.",
+      "options": ["ağlamak", "gülmek", "koşmak", "yazmak"],
+      "correct": "ağlamak"
+    },
+    {
+      "id": 105,
+      "word": "смеяться",
+      "translation": "gülmek",
+      "example": "Мы много 'смеялись' вчера вечером.",
+      "exampleTranslation": "Dün akşam çok güldük.",
+      "options": ["ağlamak", "gülmek", "koşmak", "okumak"],
+      "correct": "gülmek"
+    }
+  ]
+}
+{
+  "words": [
+    {
+      "id": 106,
+      "word": "участвовать",
+      "translation": "katılmak",
+      "example": "Он любит 'участвовать' в школьных проектах.",
+      "exampleTranslation": "Okul projelerine katılmayı sever.",
+      "options": ["katılmak", "izlemek", "öğretmek", "dinlemek"],
+      "correct": "katılmak"
+    },
+    {
+      "id": 107,
+      "word": "развивать",
+      "translation": "geliştirmek",
+      "example": "Эта программа помогает 'развивать' навыки общения.",
+      "exampleTranslation": "Bu program iletişim becerilerini geliştirmeye yardımcı olur.",
+      "options": ["öğretmek", "geliştirmek", "başlatmak", "bitirmek"],
+      "correct": "geliştirmek"
+    },
+    {
+      "id": 108,
+      "word": "обсуждать",
+      "translation": "tartışmak",
+      "example": "Мы часто 'обсуждаем' новости за ужином.",
+      "exampleTranslation": "Akşam yemeğinde sık sık haberleri tartışırız.",
+      "options": ["sormak", "tartışmak", "yazmak", "anlatmak"],
+      "correct": "tartışmak"
+    },
+    {
+      "id": 109,
+      "word": "организовать",
+      "translation": "düzenlemek",
+      "example": "Она помогла 'организовать' конференцию.",
+      "exampleTranslation": "Konferansı düzenlemeye yardım etti.",
+      "options": ["düzenlemek", "katılmak", "planlamak", "anlatmak"],
+      "correct": "düzenlemek"
+    },
+    {
+      "id": 110,
+      "word": "проверять",
+      "translation": "kontrol etmek",
+      "example": "Учитель 'проверяет' домашние задания.",
+      "exampleTranslation": "Öğretmen ödevleri kontrol ediyor.",
+      "options": ["kontrol etmek", "okumak", "yazmak", "öğretmek"],
+      "correct": "kontrol etmek"
+    },
+    {
+      "id": 111,
+      "word": "сравнивать",
+      "translation": "karşılaştırmak",
+      "example": "Я 'сравниваю' цены в разных магазинах.",
+      "exampleTranslation": "Farklı mağazalardaki fiyatları karşılaştırıyorum.",
+      "options": ["karşılaştırmak", "hesaplamak", "bulmak", "satmak"],
+      "correct": "karşılaştırmak"
+    },
+    {
+      "id": 112,
+      "word": "предлагать",
+      "translation": "önermek",
+      "example": "Он 'предложил' интересную идею.",
+      "exampleTranslation": "İlginç bir fikir önerdi.",
+      "options": ["anlatmak", "öğretmek", "önermek", "tavsiye etmek"],
+      "correct": "önermek"
+    },
+    {
+      "id": 113,
+      "word": "обещать",
+      "translation": "söz vermek",
+      "example": "Я 'обещаю' прийти вовремя.",
+      "exampleTranslation": "Zamanında geleceğime söz veriyorum.",
+      "options": ["söz vermek", "beklemek", "yardım etmek", "aramak"],
+      "correct": "söz vermek"
+    },
+    {
+      "id": 114,
+      "word": "приглашение",
+      "translation": "davet",
+      "example": "Спасибо за 'приглашение' на ужин.",
+      "exampleTranslation": "Akşam yemeği daveti için teşekkürler.",
+      "options": ["davet", "hediye", "plan", "toplantı"],
+      "correct": "davet"
+    },
+    {
+      "id": 115,
+      "word": "праздновать",
+      "translation": "kutlamak",
+      "example": "Мы будем 'праздновать' Новый год вместе.",
+      "exampleTranslation": "Yeni Yılı birlikte kutlayacağız.",
+      "options": ["kutlamak", "beklemek", "hazırlamak", "gezmek"],
+      "correct": "kutlamak"
+    },
+    {
+      "id": 116,
+      "word": "событие",
+      "translation": "olay",
+      "example": "Это важное 'событие' для всей семьи.",
+      "exampleTranslation": "Bu tüm aile için önemli bir olay.",
+      "options": ["haber", "olay", "toplantı", "plan"],
+      "correct": "olay"
+    },
+    {
+      "id": 117,
+      "word": "настроение",
+      "translation": "ruh hali",
+      "example": "У меня сегодня хорошее 'настроение'.",
+      "exampleTranslation": "Bugün moralim iyi.",
+      "options": ["hava", "ruh hali", "düşünce", "enerji"],
+      "correct": "ruh hali"
+    },
+    {
+      "id": 118,
+      "word": "опыт",
+      "translation": "deneyim",
+      "example": "У него большой рабочий 'опыт'.",
+      "exampleTranslation": "Onun büyük bir iş deneyimi var.",
+      "options": ["deneyim", "bilgi", "teori", "görüş"],
+      "correct": "deneyim"
+    },
+    {
+      "id": 119,
+      "word": "будущее",
+      "translation": "gelecek",
+      "example": "Мы должны думать о 'будущем'.",
+      "exampleTranslation": "Geleceği düşünmeliyiz.",
+      "options": ["geçmiş", "bugün", "gelecek", "şimdi"],
+      "correct": "gelecek"
+    },
+    {
+      "id": 120,
+      "word": "прошлое",
+      "translation": "geçmiş",
+      "example": "Иногда нужно отпустить 'прошлое'.",
+      "exampleTranslation": "Bazen geçmişi bırakmak gerekir.",
+      "options": ["gelecek", "şimdi", "geçmiş", "umut"],
+      "correct": "geçmiş"
+    },
+    {
+      "id": 121,
+      "word": "надежда",
+      "translation": "umut",
+      "example": "У нас всегда есть 'надежда'.",
+      "exampleTranslation": "Her zaman bir umudumuz var.",
+      "options": ["umut", "hayal", "korku", "plan"],
+      "correct": "umut"
+    },
+    {
+      "id": 122,
+      "word": "страх",
+      "translation": "korku",
+      "example": "Он чувствует 'страх' перед экзаменом.",
+      "exampleTranslation": "Sınavdan önce korku hissediyor.",
+      "options": ["korku", "umut", "sevinç", "üzüntü"],
+      "correct": "korku"
+    },
+    {
+      "id": 123,
+      "word": "радость",
+      "translation": "sevinç",
+      "example": "Дети прыгают от 'радости'.",
+      "exampleTranslation": "Çocuklar sevinçten zıplıyor.",
+      "options": ["üzüntü", "sevinç", "öfke", "korku"],
+      "correct": "sevinç"
+    },
+    {
+      "id": 124,
+      "word": "печаль",
+      "translation": "üzüntü",
+      "example": "В её глазах видна 'печаль'.",
+      "exampleTranslation": "Gözlerinde bir üzüntü var.",
+      "options": ["sevinç", "umut", "üzüntü", "öfke"],
+      "correct": "üzüntü"
+    },
+    {
+      "id": 125,
+      "word": "успех",
+      "translation": "başarı",
+      "example": "Его труд принёс большой 'успех'.",
+      "exampleTranslation": "Çabası büyük bir başarı getirdi.",
+      "options": ["başarı", "hata", "umut", "deneyim"],
+      "correct": "başarı"
+    },
+    {
+      "id": 126,
+      "word": "ошибка",
+      "translation": "hata",
+      "example": "Все люди иногда делают 'ошибки'.",
+      "exampleTranslation": "Herkes bazen hata yapar.",
+      "options": ["hata", "başarı", "plan", "çözüm"],
+      "correct": "hata"
+    },
+    {
+      "id": 127,
+      "word": "память",
+      "translation": "hafıza",
+      "example": "У бабушки отличная 'память'.",
+      "exampleTranslation": "Büyükannemin hafızası mükemmel.",
+      "options": ["hafıza", "hayal", "akıl", "duygu"],
+      "correct": "hafıza"
+    },
+    {
+      "id": 128,
+      "word": "цель",
+      "translation": "hedef",
+      "example": "Моя 'цель' — стать врачом.",
+      "exampleTranslation": "Hedefim doktor olmak.",
+      "options": ["amaç", "hedef", "hayal", "umut"],
+      "correct": "hedef"
+    },
+    {
+      "id": 129,
+      "word": "природа",
+      "translation": "doğa",
+      "example": "Мы любим отдыхать на 'природе'.",
+      "exampleTranslation": "Doğada dinlenmeyi severiz.",
+      "options": ["şehir", "doğa", "orman", "deniz"],
+      "correct": "doğa"
+    },
+    {
+      "id": 130,
+      "word": "общество",
+      "translation": "toplum",
+      "example": "Каждый человек важен для 'общества'.",
+      "exampleTranslation": "Her insan toplum için önemlidir.",
+      "options": ["ülke", "şehir", "toplum", "devlet"],
+      "correct": "toplum"
+    }
+  ]
+}
+{
+  "words": [
+    {
+      "id": 131,
+      "word": "технология",
+      "translation": "teknoloji",
+      "example": "Современные 'технологии' быстро развиваются.",
+      "exampleTranslation": "Modern teknolojiler hızla gelişiyor.",
+      "options": ["bilim", "teknoloji", "enerji", "sanayi"],
+      "correct": "teknoloji"
+    },
+    {
+      "id": 132,
+      "word": "интернет",
+      "translation": "internet",
+      "example": "Без 'интернета' трудно представить жизнь.",
+      "exampleTranslation": "İnternetsiz bir hayatı hayal etmek zor.",
+      "options": ["televizyon", "internet", "bilgisayar", "telefon"],
+      "correct": "internet"
+    },
+    {
+      "id": 133,
+      "word": "сообщение",
+      "translation": "mesaj",
+      "example": "Я получил твоё 'сообщение' утром.",
+      "exampleTranslation": "Mesajını sabah aldım.",
+      "options": ["mektup", "mesaj", "çağrı", "bildiri"],
+      "correct": "mesaj"
+    },
+    {
+      "id": 134,
+      "word": "информация",
+      "translation": "bilgi",
+      "example": "Эта 'информация' очень полезна для студентов.",
+      "exampleTranslation": "Bu bilgi öğrenciler için çok faydalı.",
+      "options": ["bilgi", "haber", "dosya", "kitap"],
+      "correct": "bilgi"
+    },
+    {
+      "id": 135,
+      "word": "сеть",
+      "translation": "ağ",
+      "example": "Социальные 'сети' влияют на общество.",
+      "exampleTranslation": "Sosyal ağlar toplumu etkiliyor.",
+      "options": ["ağ", "haber", "internet", "bağlantı"],
+      "correct": "ağ"
+    },
+    {
+      "id": 136,
+      "word": "команда",
+      "translation": "takım",
+      "example": "Наша 'команда' выиграла матч.",
+      "exampleTranslation": "Takımımız maçı kazandı.",
+      "options": ["takım", "okul", "grup", "şirket"],
+      "correct": "takım"
+    },
+    {
+      "id": 137,
+      "word": "проект",
+      "translation": "proje",
+      "example": "Мы начали новый 'проект' по экологии.",
+      "exampleTranslation": "Ekoloji üzerine yeni bir proje başlattık.",
+      "options": ["proje", "çalışma", "plan", "deney"],
+      "correct": "proje"
+    },
+    {
+      "id": 138,
+      "word": "результат",
+      "translation": "sonuç",
+      "example": "Результаты экзамена будут завтра.",
+      "exampleTranslation": "Sınav sonuçları yarın açıklanacak.",
+      "options": ["cevap", "sonuç", "not", "puan"],
+      "correct": "sonuç"
+    },
+    {
+      "id": 139,
+      "word": "компания",
+      "translation": "şirket",
+      "example": "Наша 'компания' работает с международными партнёрами.",
+      "exampleTranslation": "Şirketimiz uluslararası ortaklarla çalışıyor.",
+      "options": ["firma", "okul", "şirket", "dernek"],
+      "correct": "şirket"
+    },
+    {
+      "id": 140,
+      "word": "возможность",
+      "translation": "fırsat",
+      "example": "Это отличная 'возможность' для роста.",
+      "exampleTranslation": "Bu gelişim için harika bir fırsat.",
+      "options": ["fırsat", "tehdit", "amaç", "hedef"],
+      "correct": "fırsat"
+    },
+    {
+      "id": 141,
+      "word": "проблема",
+      "translation": "sorun",
+      "example": "Каждая 'проблема' имеет решение.",
+      "exampleTranslation": "Her sorunun bir çözümü vardır.",
+      "options": ["problem", "cevap", "fikir", "yöntem"],
+      "correct": "sorun"
+    },
+    {
+      "id": 142,
+      "word": "решение",
+      "translation": "çözüm",
+      "example": "Мы нашли 'решение' этой задачи.",
+      "exampleTranslation": "Bu görevin çözümünü bulduk.",
+      "options": ["çözüm", "soru", "cevap", "problem"],
+      "correct": "çözüm"
+    },
+    {
+      "id": 143,
+      "word": "объявление",
+      "translation": "duyuru, ilan",
+      "example": "Я видел новое 'объявление' о работе.",
+      "exampleTranslation": "Yeni bir iş ilanı gördüm.",
+      "options": ["ilan", "duyuru", "haber", "fırsat"],
+      "correct": "duyuru, ilan"
+    },
+    {
+      "id": 144,
+      "word": "предприятие",
+      "translation": "işletme",
+      "example": "Это крупное 'предприятие' производит машины.",
+      "exampleTranslation": "Bu büyük işletme araba üretiyor.",
+      "options": ["işletme", "ofis", "fabrika", "kurum"],
+      "correct": "işletme"
+    },
+    {
+      "id": 145,
+      "word": "работодатель",
+      "translation": "işveren",
+      "example": "Мой 'работодатель' заботится о сотрудниках.",
+      "exampleTranslation": "İşverenim çalışanlarla ilgileniyor.",
+      "options": ["çalışan", "işveren", "müdür", "patron"],
+      "correct": "işveren"
+    },
+    {
+      "id": 146,
+      "word": "зарплата",
+      "translation": "maaş",
+      "example": "Я получил 'зарплату' вчера.",
+      "exampleTranslation": "Dün maaşımı aldım.",
+      "options": ["ücret", "maaş", "prim", "borç"],
+      "correct": "maaş"
+    },
+    {
+      "id": 147,
+      "word": "сотрудник",
+      "translation": "çalışan",
+      "example": "Каждый 'сотрудник' важен для успеха компании.",
+      "exampleTranslation": "Her çalışan şirketin başarısı için önemlidir.",
+      "options": ["patron", "çalışan", "yönetici", "müşteri"],
+      "correct": "çalışan"
+    },
+    {
+      "id": 148,
+      "word": "встреча",
+      "translation": "toplantı, buluşma",
+      "example": "Завтра у нас важная 'встреча' с клиентом.",
+      "exampleTranslation": "Yarın müşterimizle önemli bir toplantımız var.",
+      "options": ["görüşme", "toplantı", "tatil", "sözleşme"],
+      "correct": "toplantı, buluşma"
+    },
+    {
+      "id": 149,
+      "word": "письмо",
+      "translation": "mektup",
+      "example": "Я написал длинное 'письмо' другу.",
+      "exampleTranslation": "Arkadaşıma uzun bir mektup yazdım.",
+      "options": ["e-posta", "mektup", "not", "mesaj"],
+      "correct": "mektup"
+    },
+    {
+      "id": 150,
+      "word": "новость",
+      "translation": "haber",
+      "example": "Эта 'новость' удивила всех.",
+      "exampleTranslation": "Bu haber herkesi şaşırttı.",
+      "options": ["haber", "bilgi", "duyuru", "makale"],
+      "correct": "haber"
+    }
+  ]
+}
+{
+  "words": [
+    {
+      "id": 151,
+      "word": "sentence_151",
+      "translation": "Gerçek başarı, zorlukları aşabilenlerin işidir.",
+      "example": "Настоящий успех приходит к тем, кто умеет преодолевать трудности.",
+      "exampleTranslation": "Gerçek başarı, zorlukları aşabilenlerin işidir.",
+      "options": [
+        "Gerçek başarı, zorlukları aşabilenlerin işidir.",
+        "Başarı sadece şansla mümkündür.",
+        "Zorluklardan kaçanlar her zaman kazanır.",
+        "Hayat kolay olduğunda herkes başarılı olur."
+      ],
+      "correct": "Gerçek başarı, zorlukları aşabilenlerin işidir."
+    },
+    {
+      "id": 152,
+      "word": "sentence_152",
+      "translation": "Bilgi, paylaşıldıkça çoğalır.",
+      "example": "Знание увеличивается, когда им делятся.",
+      "exampleTranslation": "Bilgi, paylaşıldıkça çoğalır.",
+      "options": [
+        "Bilgi, paylaşıldıkça çoğalır.",
+        "Bilgi gizli tutulursa değer kazanır.",
+        "Öğrenmek sadece kitaplarla mümkündür.",
+        "Bilgi yalnızca deneyimle ölçülür."
+      ],
+      "correct": "Bilgi, paylaşıldıkça çoğalır."
+    },
+    {
+      "id": 153,
+      "word": "sentence_153",
+      "translation": "Zaman, en adil yargıçtır.",
+      "example": "Время — самый справедливый судья.",
+      "exampleTranslation": "Zaman, en adil yargıçtır.",
+      "options": [
+        "Zaman, en adil yargıçtır.",
+        "Zaman her şeyi unutturur.",
+        "Geçmişi değiştirmek mümkündür.",
+        "Yargı sadece insanlara aittir."
+      ],
+      "correct": "Zaman, en adil yargıçtır."
+    },
+    {
+      "id": 154,
+      "word": "sentence_154",
+      "translation": "Her seçim bir sorumluluk getirir.",
+      "example": "Каждый выбор несёт за собой ответственность.",
+      "exampleTranslation": "Her seçim bir sorumluluk getirir.",
+      "options": [
+        "Her seçim bir sorumluluk getirir.",
+        "Karar vermek her zaman kolaydır.",
+        "Sorumluluk başkalarına bırakılmalıdır.",
+        "Hatalar sadece rastlantıdır."
+      ],
+      "correct": "Her seçim bir sorumluluk getirir."
+    },
+    {
+      "id": 155,
+      "word": "sentence_155",
+      "translation": "İnsan, değişimden korkmamalıdır.",
+      "example": "Человек не должен бояться перемен.",
+      "exampleTranslation": "İnsan, değişimden korkmamalıdır.",
+      "options": [
+        "İnsan, değişimden korkmamalıdır.",
+        "Değişim her zaman kötüdür.",
+        "Korku insanı korur.",
+        "Değişiklikler gereksizdir."
+      ],
+      "correct": "İnsan, değişimden korkmamalıdır."
+    },
+    {
+      "id": 156,
+      "word": "sentence_156",
+      "translation": "Sabır, başarının gizli anahtarıdır.",
+      "example": "Терпение — это скрытый ключ к успеху.",
+      "exampleTranslation": "Sabır, başarının gizli anahtarıdır.",
+      "options": [
+        "Sabır, başarının gizli anahtarıdır.",
+        "Başarı sadece zekâya bağlıdır.",
+        "Sabır çoğu zaman işe yaramaz.",
+        "Başarının sırrı hızdır."
+      ],
+      "correct": "Sabır, başarının gizli anahtarıdır."
+    },
+    {
+      "id": 157,
+      "word": "sentence_157",
+      "translation": "Hayal kurmak, ilerlemenin ilk adımıdır.",
+      "example": "Мечтать — это первый шаг к прогрессу.",
+      "exampleTranslation": "Hayal kurmak, ilerlemenin ilk adımıdır.",
+      "options": [
+        "Hayal kurmak, ilerlemenin ilk adımıdır.",
+        "Gerçekçi olmak hayal kurmaktan önemlidir.",
+        "Hayal kurmak vakit kaybıdır.",
+        "İlerleme sadece emekle olur."
+      ],
+      "correct": "Hayal kurmak, ilerlemenin ilk adımıdır."
+    },
+    {
+      "id": 158,
+      "word": "sentence_158",
+      "translation": "Gerçek dost, zor zamanlarda belli olur.",
+      "example": "Настоящий друг узнаётся в трудное время.",
+      "exampleTranslation": "Gerçek dost, zor zamanlarda belli olur.",
+      "options": [
+        "Gerçek dost, zor zamanlarda belli olur.",
+        "Dostluk çıkar üzerine kuruludur.",
+        "Dost her zaman yakındır.",
+        "Zor zamanlarda herkes yardım eder."
+      ],
+      "correct": "Gerçek dost, zor zamanlarda belli olur."
+    },
+    {
+      "id": 159,
+      "word": "sentence_159",
+      "translation": "Cesaret, korkunun yokluğu değil, ona rağmen ilerlemektir.",
+      "example": "Мужество — это не отсутствие страха, а способность двигаться вперёд, несмотря на него.",
+      "exampleTranslation": "Cesaret, korkunun yokluğu değil, ona rağmen ilerlemektir.",
+      "options": [
+        "Cesaret, korkunun yokluğu değil, ona rağmen ilerlemektir.",
+        "Korku güçlülerin silahıdır.",
+        "Cesaret, hiçbir şey hissetmemektir.",
+        "Korkmamak başarı getirir."
+      ],
+      "correct": "Cesaret, korkunun yokluğu değil, ona rağmen ilerlemektir."
+    },
+    {
+      "id": 160,
+      "word": "sentence_160",
+      "translation": "Bilgelik, tecrübeyle kazanılır.",
+      "example": "Мудрость приходит с опытом.",
+      "exampleTranslation": "Bilgelik, tecrübeyle kazanılır.",
+      "options": [
+        "Bilgelik, tecrübeyle kazanılır.",
+        "Bilgelik doğuştandır.",
+        "Tecrübe gereksizdir.",
+        "Zeka, bilgeliğin yerini alır."
+      ],
+      "correct": "Bilgelik, tecrübeyle kazanılır."
+    }
+  ]
+}
+{
+  "words": [
+    {
+      "id": 161,
+      "word": "sentence_161",
+      "translation": "Mutluluk, sahip olduklarında değil, farkında olduklarında gizlidir.",
+      "example": "Счастье скрыто не в том, что у тебя есть, а в том, что ты замечаешь.",
+      "exampleTranslation": "Mutluluk, sahip olduklarında değil, farkında olduklarında gizlidir.",
+      "options": [
+        "Mutluluk, sahip olduklarında değil, farkında olduklarında gizlidir.",
+        "Mutluluk sadece zenginlikle mümkündür.",
+        "İnsan, sahip olduklarını unuttukça mutlu olur.",
+        "Farkındalık mutluluğu engeller."
+      ],
+      "correct": "Mutluluk, sahip olduklarında değil, farkında olduklarında gizlidir."
+    },
+    {
+      "id": 162,
+      "word": "sentence_162",
+      "translation": "Sessizlik bazen kelimelerden daha çok şey anlatır.",
+      "example": "Иногда тишина говорит больше, чем слова.",
+      "exampleTranslation": "Sessizlik bazen kelimelerden daha çok şey anlatır.",
+      "options": [
+        "Sessizlik bazen kelimelerden daha çok şey anlatır.",
+        "Sessizlik yalnızca korkakların yoludur.",
+        "Söz her zaman sessizlikten değerlidir.",
+        "Sessizlik iletişimi bitirir."
+      ],
+      "correct": "Sessizlik bazen kelimelerden daha çok şey anlatır."
+    },
+    {
+      "id": 163,
+      "word": "sentence_163",
+      "translation": "Küçük adımlar, büyük değişimlerin başlangıcıdır.",
+      "example": "Маленькие шаги становятся началом больших изменений.",
+      "exampleTranslation": "Küçük adımlar, büyük değişimlerin başlangıcıdır.",
+      "options": [
+        "Küçük adımlar, büyük değişimlerin başlangıcıdır.",
+        "Değişim sadece büyük kararlarla olur.",
+        "Küçük şeyler önemsizdir.",
+        "Değişim insanı yorar."
+      ],
+      "correct": "Küçük adımlar, büyük değişimlerin başlangıcıdır."
+    },
+    {
+      "id": 164,
+      "word": "sentence_164",
+      "translation": "Birini anlamak için dinlemek, yargılamaktan daha değerlidir.",
+      "example": "Слушать человека гораздо важнее, чем судить его.",
+      "exampleTranslation": "Birini anlamak için dinlemek, yargılamaktan daha değerlidir.",
+      "options": [
+        "Birini anlamak için dinlemek, yargılamaktan daha değerlidir.",
+        "İnsanları yargılamak onları anlamayı kolaylaştırır.",
+        "Dinlemek zaman kaybıdır.",
+        "Anlamak sadece konuşarak mümkündür."
+      ],
+      "correct": "Birini anlamak için dinlemek, yargılamaktan daha değerlidir."
+    },
+    {
+      "id": 165,
+      "word": "sentence_165",
+      "translation": "Gerçek dost, seni eleştirmekten korkmayan kişidir.",
+      "example": "Настоящий друг — тот, кто не боится тебя критиковать.",
+      "exampleTranslation": "Gerçek dost, seni eleştirmekten korkmayan kişidir.",
+      "options": [
+        "Gerçek dost, seni eleştirmekten korkmayan kişidir.",
+        "Eleştiriler dostluğu zayıflatır.",
+        "Dostlar her zaman aynı fikirde olmalıdır.",
+        "Gerçek dostlar konuşmaz, susar."
+      ],
+      "correct": "Gerçek dost, seni eleştirmekten korkmayan kişidir."
+    },
+    {
+      "id": 166,
+      "word": "sentence_166",
+      "translation": "Bazı cevaplar sessiz kalmakta saklıdır.",
+      "example": "Иногда ответы скрываются в молчании.",
+      "exampleTranslation": "Bazı cevaplar sessiz kalmakta saklıdır.",
+      "options": [
+        "Bazı cevaplar sessiz kalmakta saklıdır.",
+        "Sessizlik her zaman hatadır.",
+        "Cevaplar sadece konuşarak bulunur.",
+        "Soru sormamak en iyi çözümdür."
+      ],
+      "correct": "Bazı cevaplar sessiz kalmakta saklıdır."
+    },
+    {
+      "id": 167,
+      "word": "sentence_167",
+      "translation": "Bir hatayı kabul etmek, bilgelik göstergesidir.",
+      "example": "Признать ошибку — это признак мудрости.",
+      "exampleTranslation": "Bir hatayı kabul etmek, bilgelik göstergesidir.",
+      "options": [
+        "Bir hatayı kabul etmek, bilgelik göstergesidir.",
+        "Hata yapmak zayıflıktır.",
+        "Bilge insan hata yapmaz.",
+        "Hatalar gizlenmelidir."
+      ],
+      "correct": "Bir hatayı kabul etmek, bilgelik göstergesidir."
+    },
+    {
+      "id": 168,
+      "word": "sentence_168",
+      "translation": "Zamanı iyi kullanmak, hayatı anlamanın yoludur.",
+      "example": "Умение ценить время — путь к пониманию жизни.",
+      "exampleTranslation": "Zamanı iyi kullanmak, hayatı anlamanın yoludur.",
+      "options": [
+        "Zamanı iyi kullanmak, hayatı anlamanın yoludur.",
+        "Zaman hızla geçer, onu durdurmak gerekir.",
+        "Hayatın anlamı zamandan bağımsızdır.",
+        "Zamanı düşünmek faydasızdır."
+      ],
+      "correct": "Zamanı iyi kullanmak, hayatı anlamanın yoludur."
+    },
+    {
+      "id": 169,
+      "word": "sentence_169",
+      "translation": "Kelimeler yaralar, ama aynı zamanda iyileştirir.",
+      "example": "Слова могут ранить, но они же способны исцелить.",
+      "exampleTranslation": "Kelimeler yaralar, ama aynı zamanda iyileştirir.",
+      "options": [
+        "Kelimeler yaralar, ama aynı zamanda iyileştirir.",
+        "Kelimeler önemsizdir, sadece eylemler değerlidir.",
+        "Yaraları zaman değil, kelimeler kapatır.",
+        "Konuşmak duyguları yok eder."
+      ],
+      "correct": "Kelimeler yaralar, ama aynı zamanda iyileştirir."
+    },
+    {
+      "id": 170,
+      "word": "sentence_170",
+      "translation": "Hayatın anlamı, onu başkalarıyla paylaşmaktır.",
+      "example": "Смысл жизни в том, чтобы делиться ею с другими.",
+      "exampleTranslation": "Hayatın anlamı, onu başkalarıyla paylaşmaktır.",
+      "options": [
+        "Hayatın anlamı, onu başkalarıyla paylaşmaktır.",
+        "Hayat yalnız yaşanmalıdır.",
+        "Başkalarıyla paylaşmak gereksizdir.",
+        "Hayatın anlamı sadece başarıdır."
+      ],
+      "correct": "Hayatın anlamı, onu başkalarıyla paylaşmaktır."
+    }
+  ]
+}
+{
+  "words": [
+    {
+      "id": 171,
+      "word": "sentence_171",
+      "translation": "Bir insanın değeri, söylediklerinden çok yaptıklarıyla ölçülür.",
+      "example": "Ценность человека измеряется не словами, а поступками.",
+      "exampleTranslation": "Bir insanın değeri, söylediklerinden çok yaptıklarıyla ölçülür.",
+      "options": [
+        "Bir insanın değeri, söylediklerinden çok yaptıklarıyla ölçülür.",
+        "Değer, sadece sözlerle anlaşılır.",
+        "Eylemler önemsizdir, niyet önemlidir.",
+        "İnsanlar söyledikleriyle tanınır."
+      ],
+      "correct": "Bir insanın değeri, söylediklerinden çok yaptıklarıyla ölçülür."
+    },
+    {
+      "id": 172,
+      "word": "sentence_172",
+      "translation": "Kendini bilmek, tüm bilgeliğin başlangıcıdır.",
+      "example": "Познать себя — начало всякой мудрости.",
+      "exampleTranslation": "Kendini bilmek, tüm bilgeliğin başlangıcıdır.",
+      "options": [
+        "Kendini bilmek, tüm bilgeliğin başlangıcıdır.",
+        "Bilgelik kitaplarda bulunur.",
+        "İnsanı başkaları tanımlar.",
+        "Bilgi, kendini bilmeden mümkündür."
+      ],
+      "correct": "Kendini bilmek, tüm bilgeliğin başlangıcıdır."
+    },
+    {
+      "id": 173,
+      "word": "sentence_173",
+      "translation": "Affetmek, güçlü insanların erdemidir.",
+      "example": "Прощение — это добродетель сильных.",
+      "exampleTranslation": "Affetmek, güçlü insanların erdemidir.",
+      "options": [
+        "Affetmek, güçlü insanların erdemidir.",
+        "Güçlü insanlar asla affetmez.",
+        "Affetmek zayıflıktır.",
+        "Erdem sadece sabırdır."
+      ],
+      "correct": "Affetmek, güçlü insanların erdemidir."
+    },
+    {
+      "id": 174,
+      "word": "sentence_174",
+      "translation": "Gerçek lider, emretmeyen ama ilham veren kişidir.",
+      "example": "Настоящий лидер — тот, кто не приказывает, а вдохновляет.",
+      "exampleTranslation": "Gerçek lider, emretmeyen ama ilham veren kişidir.",
+      "options": [
+        "Gerçek lider, emretmeyen ama ilham veren kişidir.",
+        "Liderlik sadece güçle ilgilidir.",
+        "İlham vermek gereksizdir.",
+        "Lider, her zaman kontrol etmelidir."
+      ],
+      "correct": "Gerçek lider, emretmeyen ama ilham veren kişidir."
+    },
+    {
+      "id": 175,
+      "word": "sentence_175",
+      "translation": "Başarısızlık, son değil; yeniden denemenin başlangıcıdır.",
+      "example": "Неудача — это не конец, а начало новой попытки.",
+      "exampleTranslation": "Başarısızlık, son değil; yeniden denemenin başlangıcıdır.",
+      "options": [
+        "Başarısızlık, son değil; yeniden denemenin başlangıcıdır.",
+        "Başarısızlık her şeyin sonudur.",
+        "Tekrar denemek anlamsızdır.",
+        "Başarısızlık öğrenmenin düşmanıdır."
+      ],
+      "correct": "Başarısızlık, son değil; yeniden denemenin başlangıcıdır."
+    },
+    {
+      "id": 176,
+      "word": "sentence_176",
+      "translation": "Mutluluk, dış koşullardan değil, iç huzurdan doğar.",
+      "example": "Счастье рождается не от обстоятельств, а от внутреннего покоя.",
+      "exampleTranslation": "Mutluluk, dış koşullardan değil, iç huzurdan doğar.",
+      "options": [
+        "Mutluluk, dış koşullardan değil, iç huzurdan doğar.",
+        "Mutluluk maddi şeylerle ölçülür.",
+        "İç huzur, mutluluğu engeller.",
+        "Mutluluk sadece başkalarıyla mümkündür."
+      ],
+      "correct": "Mutluluk, dış koşullardan değil, iç huzurdan doğar."
+    },
+    {
+      "id": 177,
+      "word": "sentence_177",
+      "translation": "Hayat, fırtınanın geçmesini beklemek değil, yağmurda dans etmeyi öğrenmektir.",
+      "example": "Жизнь — это не ожидание конца бури, а умение танцевать под дождём.",
+      "exampleTranslation": "Hayat, fırtınanın geçmesini beklemek değil, yağmurda dans etmeyi öğrenmektir.",
+      "options": [
+        "Hayat, fırtınanın geçmesini beklemek değil, yağmurda dans etmeyi öğrenmektir.",
+        "Yağmurda kalmak anlamsızdır.",
+        "Zorluklardan kaçmak en iyisidir.",
+        "Hayat beklemeyi gerektirir."
+      ],
+      "correct": "Hayat, fırtınanın geçmesini beklemek değil, yağmurda dans etmeyi öğrenmektir."
+    },
+    {
+      "id": 178,
+      "word": "sentence_178",
+      "translation": "Bazı kapılar ancak sabırla açılır.",
+      "example": "Некоторые двери открываются только терпением.",
+      "exampleTranslation": "Bazı kapılar ancak sabırla açılır.",
+      "options": [
+        "Bazı kapılar ancak sabırla açılır.",
+        "Kapılar her zaman açıktır.",
+        "Sabır sadece zaman kaybıdır.",
+        "Zamanla her şey kapanır."
+      ],
+      "correct": "Bazı kapılar ancak sabırla açılır."
+    },
+    {
+      "id": 179,
+      "word": "sentence_179",
+      "translation": "Zorluklar, karakteri şekillendiren en iyi öğretmendir.",
+      "example": "Трудности — лучший учитель, формирующий характер.",
+      "exampleTranslation": "Zorluklar, karakteri şekillendiren en iyi öğretmendir.",
+      "options": [
+        "Zorluklar, karakteri şekillendiren en iyi öğretmendir.",
+        "Karakter doğuştan gelir.",
+        "Zorluklar gereksizdir.",
+        "Öğretmenlik sabır ister."
+      ],
+      "correct": "Zorluklar, karakteri şekillendiren en iyi öğretmendir."
+    },
+    {
+      "id": 180,
+      "word": "sentence_180",
+      "translation": "İnsanı yoran hayat değil, anlamını kaybetmiş hayattır.",
+      "example": "Утомляет не сама жизнь, а жизнь без смысла.",
+      "exampleTranslation": "İnsanı yoran hayat değil, anlamını kaybetmiş hayattır.",
+      "options": [
+        "İnsanı yoran hayat değil, anlamını kaybetmiş hayattır.",
+        "Yorgunluk sadece fiziksel bir durumdur.",
+        "Hayat anlamlı olmasa da güzeldir.",
+        "Anlam aramak gereksizdir."
+      ],
+      "correct": "İnsanı yoran hayat değil, anlamını kaybetmiş hayattır."
+    }
+  ]
+}
+{
+  "words": [
+    {
+      "id": 201,
+      "word": "sentence_201",
+      "translation": "Gerçek özgürlük, kendi düşüncelerine sahip olmaktır.",
+      "example": "Истинная свобода — это умение мыслить самостоятельно.",
+      "exampleTranslation": "Gerçek özgürlük, kendi düşüncelerine sahip olmaktır.",
+      "options": [
+        "Gerçek özgürlük, kendi düşüncelerine sahip olmaktır.",
+        "Özgürlük sadece fizikseldir.",
+        "Düşünmek insanı özgür yapmaz.",
+        "Bağımsızlık başkalarına bağlıdır."
+      ],
+      "correct": "Gerçek özgürlük, kendi düşüncelerine sahip olmaktır."
+    },
+    {
+      "id": 202,
+      "word": "sentence_202",
+      "translation": "İnsan bazen sessiz kalarak en güçlü cevabı verir.",
+      "example": "Иногда человек отвечает самым сильным образом, оставаясь в тишине.",
+      "exampleTranslation": "İnsan bazen sessiz kalarak en güçlü cevabı verir.",
+      "options": [
+        "İnsan bazen sessiz kalarak en güçlü cevabı verir.",
+        "Sessizlik korkaklıktır.",
+        "Her zaman konuşmak gerekir.",
+        "Cevap vermemek ilgisizliktir."
+      ],
+      "correct": "İnsan bazen sessiz kalarak en güçlü cevabı verir."
+    },
+    {
+      "id": 203,
+      "word": "sentence_203",
+      "translation": "Gerçek değişim, insanın iç dünyasında başlar.",
+      "example": "Настоящие перемены начинаются внутри человека.",
+      "exampleTranslation": "Gerçek değişim, insanın iç dünyasında başlar.",
+      "options": [
+        "Gerçek değişim, insanın iç dünyasında başlar.",
+        "Değişim sadece toplumla mümkündür.",
+        "İç değişim gereksizdir.",
+        "Değişim başkalarıyla başlar."
+      ],
+      "correct": "Gerçek değişim, insanın iç dünyasında başlar."
+    },
+    {
+      "id": 204,
+      "word": "sentence_204",
+      "translation": "Hatalar, doğru yolu bulmanın rehberidir.",
+      "example": "Ошибки — это проводники на пути к правильным решениям.",
+      "exampleTranslation": "Hatalar, doğru yolu bulmanın rehberidir.",
+      "options": [
+        "Hatalar, doğru yolu bulmanın rehberidir.",
+        "Hatalar unutulmalıdır.",
+        "Doğru yolu sadece başkaları gösterir.",
+        "Hatalar zayıflığın işaretidir."
+      ],
+      "correct": "Hatalar, doğru yolu bulmanın rehberidir."
+    },
+    {
+      "id": 205,
+      "word": "sentence_205",
+      "translation": "Bilgelik, dinlemekle başlar.",
+      "example": "Мудрость начинается с умения слушать.",
+      "exampleTranslation": "Bilgelik, dinlemekle başlar.",
+      "options": [
+        "Bilgelik, dinlemekle başlar.",
+        "Bilgelik konuşmayla kazanılır.",
+        "Dinlemek zaman kaybıdır.",
+        "Bilgelik doğuştandır."
+      ],
+      "correct": "Bilgelik, dinlemekle başlar."
+    },
+    {
+      "id": 206,
+      "word": "sentence_206",
+      "translation": "Bir hedefe ulaşmak için önce inanmak gerekir.",
+      "example": "Чтобы достичь цели, нужно сначала поверить в неё.",
+      "exampleTranslation": "Bir hedefe ulaşmak için önce inanmak gerekir.",
+      "options": [
+        "Bir hedefe ulaşmak için önce inanmak gerekir.",
+        "Hedefler sadece planla gerçekleşir.",
+        "İnanmak yeterli değildir.",
+        "Hedefler tesadüfen oluşur."
+      ],
+      "correct": "Bir hedefe ulaşmak için önce inanmak gerekir."
+    },
+    {
+      "id": 207,
+      "word": "sentence_207",
+      "translation": "Gerçek güç, sakin kalabilme yeteneğindedir.",
+      "example": "Истинная сила заключается в способности сохранять спокойствие.",
+      "exampleTranslation": "Gerçek güç, sakin kalabilme yeteneğindedir.",
+      "options": [
+        "Gerçek güç, sakin kalabilme yeteneğindedir.",
+        "Güç her zaman fiziksel kuvvettir.",
+        "Sakinlik zayıflıktır.",
+        "Güç öfkeyle gelir."
+      ],
+      "correct": "Gerçek güç, sakin kalabilme yeteneğindedir."
+    },
+    {
+      "id": 208,
+      "word": "sentence_208",
+      "translation": "Hayat, cevapları değil, doğru soruları bulma sanatıdır.",
+      "example": "Жизнь — это искусство находить правильные вопросы, а не ответы.",
+      "exampleTranslation": "Hayat, cevapları değil, doğru soruları bulma sanatıdır.",
+      "options": [
+        "Hayat, cevapları değil, doğru soruları bulma sanatıdır.",
+        "Sorular gereksizdir, cevaplar önemlidir.",
+        "Hayat sadece sonuçlardan ibarettir.",
+        "Sorular insanı yorar."
+      ],
+      "correct": "Hayat, cevapları değil, doğru soruları bulma sanatıdır."
+    },
+    {
+      "id": 209,
+      "word": "sentence_209",
+      "translation": "Yalnızlık bazen en verimli öğretmendir.",
+      "example": "Одиночество иногда становится самым плодотворным учителем.",
+      "exampleTranslation": "Yalnızlık bazen en verimli öğretmendir.",
+      "options": [
+        "Yalnızlık bazen en verimli öğretmendir.",
+        "Yalnızlık her zaman zararlıdır.",
+        "İnsan yalnız kaldığında hata yapar.",
+        "Yalnızlık korkunun sonucudur."
+      ],
+      "correct": "Yalnızlık bazen en verimli öğretmendir."
+    },
+    {
+      "id": 210,
+      "word": "sentence_210",
+      "translation": "Her gün, yeni bir başlangıç için fırsattır.",
+      "example": "Каждый день — это возможность для нового начала.",
+      "exampleTranslation": "Her gün, yeni bir başlangıç için fırsattır.",
+      "options": [
+        "Her gün, yeni bir başlangıç için fırsattır.",
+        "Başlangıçlar nadirdir.",
+        "Fırsatlar bir kez gelir.",
+        "Her gün aynı geçer."
+      ],
+      "correct": "Her gün, yeni bir başlangıç için fırsattır."
+    },
+    {
+      "id": 211,
+      "word": "sentence_211",
+      "translation": "Başkalarını anlamak, kendini anlamaktan geçer.",
+      "example": "Понимание других начинается с понимания себя.",
+      "exampleTranslation": "Başkalarını anlamak, kendini anlamaktan geçer.",
+      "options": [
+        "Başkalarını anlamak, kendini anlamaktan geçer.",
+        "Kendini bilmek gereksizdir.",
+        "Başkaları bizi tanımlar.",
+        "Anlamak sadece gözlemle olur."
+      ],
+      "correct": "Başkalarını anlamak, kendini anlamaktan geçer."
+    },
+    {
+      "id": 212,
+      "word": "sentence_212",
+      "translation": "Korku, hayal gücünün yanlış kullanımıdır.",
+      "example": "Страх — это неправильное использование воображения.",
+      "exampleTranslation": "Korku, hayal gücünün yanlış kullanımıdır.",
+      "options": [
+        "Korku, hayal gücünün yanlış kullanımıdır.",
+        "Korku, zekânın göstergesidir.",
+        "Hayal gücü korkuyu yok eder.",
+        "Korku doğal bir duygudur."
+      ],
+      "correct": "Korku, hayal gücünün yanlış kullanımıdır."
+    },
+    {
+      "id": 213,
+      "word": "sentence_213",
+      "translation": "Hayatın anlamı, onu sevmeyi öğrenmektir.",
+      "example": "Смысл жизни — научиться любить её.",
+      "exampleTranslation": "Hayatın anlamı, onu sevmeyi öğrenmektir.",
+      "options": [
+        "Hayatın anlamı, onu sevmeyi öğrenmektir.",
+        "Hayatı sevmek zayıflıktır.",
+        "Hayatın anlamı başarıdır.",
+        "Sevgi sadece bir duygudur."
+      ],
+      "correct": "Hayatın anlamı, onu sevmeyi öğrenmektir."
+    },
+    {
+      "id": 214,
+      "word": "sentence_214",
+      "translation": "Gerçek bilgelik, bilmediklerini kabul etmektir.",
+      "example": "Истинная мудрость — это признание того, чего не знаешь.",
+      "exampleTranslation": "Gerçek bilgelik, bilmediklerini kabul etmektir.",
+      "options": [
+        "Gerçek bilgelik, bilmediklerini kabul etmektir.",
+        "Bilgeliğin temeli her şeyi bilmektir.",
+        "Bilgi gizlenmelidir.",
+        "Her şeyi öğrenmek mümkündür."
+      ],
+      "correct": "Gerçek bilgelik, bilmediklerini kabul etmektir."
+    },
+    {
+      "id": 215,
+      "word": "sentence_215",
+      "translation": "Bazı soruların cevabı zamandır.",
+      "example": "На некоторые вопросы отвечает только время.",
+      "exampleTranslation": "Bazı soruların cevabı zamandır.",
+      "options": [
+        "Bazı soruların cevabı zamandır.",
+        "Her şeyin cevabı insandadır.",
+        "Zaman hiçbir şeyi çözmez.",
+        "Cevaplar sabırsızlıkla gelir."
+      ],
+      "correct": "Bazı soruların cevabı zamandır."
+    }
+  ]
+}
+{
+  "words": [
+    {
+      "id": 216,
+      "word": "sentence_216",
+      "translation": "Gerçek huzur, geçmişi affedebilmekte yatar.",
+      "example": "Истинное спокойствие заключается в умении прощать прошлое.",
+      "exampleTranslation": "Gerçek huzur, geçmişi affedebilmekte yatar.",
+      "options": [
+        "Gerçek huzur, geçmişi affedebilmekte yatar.",
+        "Geçmiş unutulmalıdır, affedilmemelidir.",
+        "Affetmek insanı zayıf kılar.",
+        "Huzur, sadece sessizlikte bulunur."
+      ],
+      "correct": "Gerçek huzur, geçmişi affedebilmekte yatar."
+    },
+    {
+      "id": 217,
+      "word": "sentence_217",
+      "translation": "Bir fikrin gücü, onu savunanların inancına bağlıdır.",
+      "example": "Сила идеи зависит от веры тех, кто её защищает.",
+      "exampleTranslation": "Bir fikrin gücü, onu savunanların inancına bağlıdır.",
+      "options": [
+        "Bir fikrin gücü, onu savunanların inancına bağlıdır.",
+        "Fikirler kendi kendine değer kazanır.",
+        "İnanç fikirleri zayıflatır.",
+        "Bir fikri savunmak gereksizdir."
+      ],
+      "correct": "Bir fikrin gücü, onu savunanların inancına bağlıdır."
+    },
+    {
+      "id": 218,
+      "word": "sentence_218",
+      "translation": "Bir insanın kalitesi, başkalarına nasıl davrandığıyla ölçülür.",
+      "example": "Качество человека определяется тем, как он относится к другим.",
+      "exampleTranslation": "Bir insanın kalitesi, başkalarına nasıl davrandığıyla ölçülür.",
+      "options": [
+        "Bir insanın kalitesi, başkalarına nasıl davrandığıyla ölçülür.",
+        "İnsan kalitesi doğuştandır.",
+        "Davranışlar önemli değildir.",
+        "Kendine davranış en önemlisidir."
+      ],
+      "correct": "Bir insanın kalitesi, başkalarına nasıl davrandığıyla ölçülür."
+    },
+    {
+      "id": 219,
+      "word": "sentence_219",
+      "translation": "Hayal gücü, insanlığın en büyük armağanıdır.",
+      "example": "Воображение — величайший дар человечества.",
+      "exampleTranslation": "Hayal gücü, insanlığın en büyük armağanıdır.",
+      "options": [
+        "Hayal gücü, insanlığın en büyük armağanıdır.",
+        "Hayal gücü tehlikelidir.",
+        "Yaratıcılık gereksizdir.",
+        "Gerçeklik hayalden üstündür."
+      ],
+      "correct": "Hayal gücü, insanlığın en büyük armağanıdır."
+    },
+    {
+      "id": 220,
+      "word": "sentence_220",
+      "translation": "Kendine dürüst olmak, yaşamın en zor dersidir.",
+      "example": "Быть честным с самим собой — самый трудный урок жизни.",
+      "exampleTranslation": "Kendine dürüst olmak, yaşamın en zor dersidir.",
+      "options": [
+        "Kendine dürüst olmak, yaşamın en zor dersidir.",
+        "Dürüstlük yalnızca başkaları içindir.",
+        "Gerçekler zarar verir, bu yüzden gizlenmelidir.",
+        "Yaşamın en kolay dersi dürüstlüktür."
+      ],
+      "correct": "Kendine dürüst olmak, yaşamın en zor dersidir."
+    },
+    {
+      "id": 221,
+      "word": "sentence_221",
+      "translation": "Bazen hiçbir şey yapmamak, en bilge seçimdir.",
+      "example": "Иногда ничего не делать — самое мудрое решение.",
+      "exampleTranslation": "Bazen hiçbir şey yapmamak, en bilge seçimdir.",
+      "options": [
+        "Bazen hiçbir şey yapmamak, en bilge seçimdir.",
+        "Hareketsizlik her zaman kaybettirir.",
+        "Bilgelik eylem gerektirir.",
+        "Hiçbir şey yapmamak tembelliktir."
+      ],
+      "correct": "Bazen hiçbir şey yapmamak, en bilge seçimdir."
+    },
+    {
+      "id": 222,
+      "word": "sentence_222",
+      "translation": "Mutluluk bazen sadece bir anı fark etmektir.",
+      "example": "Счастье — это иногда просто умение заметить момент.",
+      "exampleTranslation": "Mutluluk bazen sadece bir anı fark etmektir.",
+      "options": [
+        "Mutluluk bazen sadece bir anı fark etmektir.",
+        "Mutluluk gelecekte aranmalıdır.",
+        "Anları fark etmek önemsizdir.",
+        "Geçmiş, mutluluğun kaynağıdır."
+      ],
+      "correct": "Mutluluk bazen sadece bir anı fark etmektir."
+    },
+    {
+      "id": 223,
+      "word": "sentence_223",
+      "translation": "Her yenilgi, gizlenmiş bir derstir.",
+      "example": "Каждое поражение — это скрытый урок.",
+      "exampleTranslation": "Her yenilgi, gizlenmiş bir derstir.",
+      "options": [
+        "Her yenilgi, gizlenmiş bir derstir.",
+        "Yenilgi her zaman utançtır.",
+        "Dersler sadece başarıyla gelir.",
+        "Hatalar değersizdir."
+      ],
+      "correct": "Her yenilgi, gizlenmiş bir derstir."
+    },
+    {
+      "id": 224,
+      "word": "sentence_224",
+      "translation": "Bir gülümseme, bazen bin kelimeden daha çok şey anlatır.",
+      "example": "Иногда одна улыбка говорит больше, чем тысяча слов.",
+      "exampleTranslation": "Bir gülümseme, bazen bin kelimeden daha çok şey anlatır.",
+      "options": [
+        "Bir gülümseme, bazen bin kelimeden daha çok şey anlatır.",
+        "Sözler her zaman daha güçlüdür.",
+        "Gülümsemek sahte bir davranıştır.",
+        "İfade etmek için kelimeler gereklidir."
+      ],
+      "correct": "Bir gülümseme, bazen bin kelimeden daha çok şey anlatır."
+    },
+    {
+      "id": 225,
+      "word": "sentence_225",
+      "translation": "Bazı sessizlikler, kelimelerden daha derindir.",
+      "example": "Некоторые тишины глубже любых слов.",
+      "exampleTranslation": "Bazı sessizlikler, kelimelerden daha derindir.",
+      "options": [
+        "Bazı sessizlikler, kelimelerden daha derindir.",
+        "Sessizlik anlaşılmamanın göstergesidir.",
+        "Konuşmak her zaman çözüm getirir.",
+        "Sessizlik boşluktur."
+      ],
+      "correct": "Bazı sessizlikler, kelimelerden daha derindir."
+    },
+    {
+      "id": 226,
+      "word": "sentence_226",
+      "translation": "Sabır, duyguların en güçlü olanıdır.",
+      "example": "Терпение — самое сильное из чувств.",
+      "exampleTranslation": "Sabır, duyguların en güçlü olanıdır.",
+      "options": [
+        "Sabır, duyguların en güçlü olanıdır.",
+        "Sabır zayıflık belirtisidir.",
+        "Güç öfkeyle gelir.",
+        "Duygular kontrol edilemez."
+      ],
+      "correct": "Sabır, duyguların en güçlü olanıdır."
+    },
+    {
+      "id": 227,
+      "word": "sentence_227",
+      "translation": "Gerçek dostluk, mesafeden etkilenmez.",
+      "example": "Настоящая дружба не зависит от расстояния.",
+      "exampleTranslation": "Gerçek dostluk, mesafeden etkilenmez.",
+      "options": [
+        "Gerçek dostluk, mesafeden etkilenmez.",
+        "Uzaklık dostluğu bitirir.",
+        "Dostluk sadece yakınlıkla mümkündür.",
+        "Zaman dostluğu unutturur."
+      ],
+      "correct": "Gerçek dostluk, mesafeden etkilenmez."
+    },
+    {
+      "id": 228,
+      "word": "sentence_228",
+      "translation": "Küçük iyilikler, büyük farklar yaratır.",
+      "example": "Маленькие добрые дела создают большие перемены.",
+      "exampleTranslation": "Küçük iyilikler, büyük farklar yaratır.",
+      "options": [
+        "Küçük iyilikler, büyük farklar yaratır.",
+        "İyilik sadece büyük şeylerle olur.",
+        "Küçük şeyler önemsizdir.",
+        "İyilik her zaman geri döner."
+      ],
+      "correct": "Küçük iyilikler, büyük farklar yaratır."
+    },
+    {
+      "id": 229,
+      "word": "sentence_229",
+      "translation": "Geçmiş, bugünü anlamanın anahtarıdır.",
+      "example": "Прошлое — ключ к пониманию настоящего.",
+      "exampleTranslation": "Geçmiş, bugünü anlamanın anahtarıdır.",
+      "options": [
+        "Geçmiş, bugünü anlamanın anahtarıdır.",
+        "Geçmiş gereksizdir.",
+        "Bugün geçmişten bağımsızdır.",
+        "Gelecek geçmişi unutturur."
+      ],
+      "correct": "Geçmiş, bugünü anlamanın anahtarıdır."
+    },
+    {
+      "id": 230,
+      "word": "sentence_230",
+      "translation": "Kendine inanmak, mucizelerin başlangıcıdır.",
+      "example": "Вера в себя — начало чудес.",
+      "exampleTranslation": "Kendine inanmak, mucizelerin başlangıcıdır.",
+      "options": [
+        "Kendine inanmak, mucizelerin başlangıcıdır.",
+        "Mucizeler sadece şansla olur.",
+        "İnanç gereksizdir.",
+        "Kendine inanmak kibirdir."
+      ],
+      "correct": "Kendine inanmak, mucizelerin başlangıcıdır."
+    }
+  ]
+}
+{
+  "words": [
+    {
+      "id": 231,
+      "word": "sentence_231",
+      "translation": "Bir fikri değiştirmek, bazen bir hayatı kurtarabilir.",
+      "example": "Иногда изменение одной мысли может спасти жизнь.",
+      "exampleTranslation": "Bir fikri değiştirmek, bazen bir hayatı kurtarabilir.",
+      "options": [
+        "Bir fikri değiştirmek, bazen bir hayatı kurtarabilir.",
+        "Fikirler hiçbir şeyi etkilemez.",
+        "Hayatlar değişmez.",
+        "Değişim yalnızca fiziksel olabilir."
+      ],
+      "correct": "Bir fikri değiştirmek, bazen bir hayatı kurtarabilir."
+    },
+    {
+      "id": 232,
+      "word": "sentence_232",
+      "translation": "Sessiz insanlar, en derin düşünceleri taşırlar.",
+      "example": "Тихие люди носят в себе самые глубокие мысли.",
+      "exampleTranslation": "Sessiz insanlar, en derin düşünceleri taşırlar.",
+      "options": [
+        "Sessiz insanlar, en derin düşünceleri taşırlar.",
+        "Sessizlik düşüncesizliği gösterir.",
+        "Konuşmak düşünmenin göstergesidir.",
+        "Sessizlik korkudan doğar."
+      ],
+      "correct": "Sessiz insanlar, en derin düşünceleri taşırlar."
+    },
+    {
+      "id": 233,
+      "word": "sentence_233",
+      "translation": "Hayat, öğrendiğin kadar değil; öğrendiklerini uyguladığın kadardır.",
+      "example": "Жизнь — это не то, чему ты учишься, а то, что применяешь.",
+      "exampleTranslation": "Hayat, öğrendiğin kadar değil; öğrendiklerini uyguladığın kadardır.",
+      "options": [
+        "Hayat, öğrendiğin kadar değil; öğrendiklerini uyguladığın kadardır.",
+        "Bilgi birikimi yeterlidir.",
+        "Uygulama gereksizdir.",
+        "Deneyim bilgiye engeldir."
+      ],
+      "correct": "Hayat, öğrendiğin kadar değil; öğrendiklerini uyguladığın kadardır."
+    },
+    {
+      "id": 234,
+      "word": "sentence_234",
+      "translation": "Gerçek cesaret, korkuya rağmen ilerlemektir.",
+      "example": "Истинное мужество — это двигаться вперёд, несмотря на страх.",
+      "exampleTranslation": "Gerçek cesaret, korkuya rağmen ilerlemektir.",
+      "options": [
+        "Gerçek cesaret, korkuya rağmen ilerlemektir.",
+        "Cesaret korkusuzluktur.",
+        "Korku cesareti yok eder.",
+        "Cesaret doğuştandır."
+      ],
+      "correct": "Gerçek cesaret, korkuya rağmen ilerlemektir."
+    },
+    {
+      "id": 235,
+      "word": "sentence_235",
+      "translation": "İyilik, bazen tek bir kelimeyle başlar.",
+      "example": "Добро иногда начинается с одного слова.",
+      "exampleTranslation": "İyilik, bazen tek bir kelimeyle başlar.",
+      "options": [
+        "İyilik, bazen tek bir kelimeyle başlar.",
+        "İyilik büyük çabalar ister.",
+        "Kelimeler etkisizdir.",
+        "İyilik görünmezdir."
+      ],
+      "correct": "İyilik, bazen tek bir kelimeyle başlar."
+    },
+    {
+      "id": 236,
+      "word": "sentence_236",
+      "translation": "Bilgelik, duygularını kontrol edebilmektir.",
+      "example": "Мудрость — это умение управлять своими эмоциями.",
+      "exampleTranslation": "Bilgelik, duygularını kontrol edebilmektir.",
+      "options": [
+        "Bilgelik, duygularını kontrol edebilmektir.",
+        "Duygular bastırılamaz.",
+        "Bilgelik doğuştan gelir.",
+        "Kontrolsüzlük özgürlüktür."
+      ],
+      "correct": "Bilgelik, duygularını kontrol edebilmektir."
+    },
+    {
+      "id": 237,
+      "word": "sentence_237",
+      "translation": "Bir gül, dikenleriyle güzeldir.",
+      "example": "Роза прекрасна благодаря своим шипам.",
+      "exampleTranslation": "Bir gül, dikenleriyle güzeldir.",
+      "options": [
+        "Bir gül, dikenleriyle güzeldir.",
+        "Dikenler çiçeği bozar.",
+        "Güzellik kusursuzlukla gelir.",
+        "Doğa hatasızdır."
+      ],
+      "correct": "Bir gül, dikenleriyle güzeldir."
+    },
+    {
+      "id": 238,
+      "word": "sentence_238",
+      "translation": "Bilgi, güç değil; sorumluluktur.",
+      "example": "Знание — это не сила, а ответственность.",
+      "exampleTranslation": "Bilgi, güç değil; sorumluluktur.",
+      "options": [
+        "Bilgi, güç değil; sorumluluktur.",
+        "Bilgi insanı üstün kılar.",
+        "Sorumluluk bilgiyle azalır.",
+        "Güç her şeydir."
+      ],
+      "correct": "Bilgi, güç değil; sorumluluktur."
+    },
+    {
+      "id": 239,
+      "word": "sentence_239",
+      "translation": "Kendini değiştirmeden dünyayı değiştiremezsin.",
+      "example": "Нельзя изменить мир, не изменив себя.",
+      "exampleTranslation": "Kendini değiştirmeden dünyayı değiştiremezsin.",
+      "options": [
+        "Kendini değiştirmeden dünyayı değiştiremezsin.",
+        "Dünya insanı değiştirir.",
+        "Değişim gereksizdir.",
+        "Kendini değiştirmek imkansızdır."
+      ],
+      "correct": "Kendini değiştirmeden dünyayı değiştiremezsin."
+    },
+    {
+      "id": 240,
+      "word": "sentence_240",
+      "translation": "En karanlık gece bile bir sabaha çıkar.",
+      "example": "Даже самая тёмная ночь приводит к рассвету.",
+      "exampleTranslation": "En karanlık gece bile bir sabaha çıkar.",
+      "options": [
+        "En karanlık gece bile bir sabaha çıkar.",
+        "Gece sonsuzdur.",
+        "Karanlık her zaman kalıcıdır.",
+        "Sabah karanlıktan doğmaz."
+      ],
+      "correct": "En karanlık gece bile bir sabaha çıkar."
+    },
+    {
+      "id": 241,
+      "word": "sentence_241",
+      "translation": "Zaman, iyileştirmeyen ama öğretendir.",
+      "example": "Время не лечит, оно учит.",
+      "exampleTranslation": "Zaman, iyileştirmeyen ama öğretendir.",
+      "options": [
+        "Zaman, iyileştirmeyen ama öğretendir.",
+        "Zaman her şeyi unutturur.",
+        "Öğrenmek zamana bağlı değildir.",
+        "Zaman hiçbir şey yapmaz."
+      ],
+      "correct": "Zaman, iyileştirmeyen ama öğretendir."
+    },
+    {
+      "id": 242,
+      "word": "sentence_242",
+      "translation": "Gerçek dost, senden bir şey istemeden yanında olandır.",
+      "example": "Настоящий друг — тот, кто рядом, ничего не прося.",
+      "exampleTranslation": "Gerçek dost, senden bir şey istemeden yanında olandır.",
+      "options": [
+        "Gerçek dost, senden bir şey istemeden yanında olandır.",
+        "Dostluk çıkar ilişkisine dayanır.",
+        "Gerçek dostluk nadirdir.",
+        "Yalnızlık dostluktan iyidir."
+      ],
+      "correct": "Gerçek dost, senden bir şey istemeden yanında olandır."
+    },
+    {
+      "id": 243,
+      "word": "sentence_243",
+      "translation": "Gerçek güzellik, gözle değil kalple görülür.",
+      "example": "Истинная красота видна не глазами, а сердцем.",
+      "exampleTranslation": "Gerçek güzellik, gözle değil kalple görülür.",
+      "options": [
+        "Gerçek güzellik, gözle değil kalple görülür.",
+        "Güzellik dış görünüşle ölçülür.",
+        "Kalp yanılır.",
+        "Güzellik nesneldir."
+      ],
+      "correct": "Gerçek güzellik, gözle değil kalple görülür."
+    },
+    {
+      "id": 244,
+      "word": "sentence_244",
+      "translation": "Kaybetmeden değerini anlayamazsın.",
+      "example": "Невозможно понять ценность, не потеряв.",
+      "exampleTranslation": "Kaybetmeden değerini anlayamazsın.",
+      "options": [
+        "Kaybetmeden değerini anlayamazsın.",
+        "Her şeyin değeri aynıdır.",
+        "Kaybetmek gereksizdir.",
+        "Değer yalnız kazançta gizlidir."
+      ],
+      "correct": "Kaybetmeden değerini anlayamazsın."
+    },
+    {
+      "id": 245,
+      "word": "sentence_245",
+      "translation": "Sabırsız insan, fırsatları göremez.",
+      "example": "Нетерпеливый человек не видит возможностей.",
+      "exampleTranslation": "Sabırsız insan, fırsatları göremez.",
+      "options": [
+        "Sabırsız insan, fırsatları göremez.",
+        "Sabırsızlık ilerleme getirir.",
+        "Fırsatlar herkes içindir.",
+        "Görmek için acele etmek gerekir."
+      ],
+      "correct": "Sabırsız insan, fırsatları göremez."
+    },
+    {
+      "id": 246,
+      "word": "sentence_246",
+      "translation": "Her insan, kendi hikayesinin yazarıdır.",
+      "example": "Каждый человек — автор своей истории.",
+      "exampleTranslation": "Her insan, kendi hikayesinin yazarıdır.",
+      "options": [
+        "Her insan, kendi hikayesinin yazarıdır.",
+        "Kader her şeyi belirler.",
+        "Hikayemizi başkaları yazar.",
+        "Yaşam kontrol edilemez."
+      ],
+      "correct": "Her insan, kendi hikayesinin yazarıdır."
+    },
+    {
+      "id": 247,
+      "word": "sentence_247",
+      "translation": "Bazı cevaplar kalpte saklıdır, dilde değil.",
+      "example": "Некоторые ответы спрятаны в сердце, а не на языке.",
+      "exampleTranslation": "Bazı cevaplar kalpte saklıdır, dilde değil.",
+      "options": [
+        "Bazı cevaplar kalpte saklıdır, dilde değil.",
+        "Cevaplar konuşarak bulunur.",
+        "Kalp yanlış yönlendirir.",
+        "Düşünceler sözlerle değer kazanır."
+      ],
+      "correct": "Bazı cevaplar kalpte saklıdır, dilde değil."
+    },
+    {
+      "id": 248,
+      "word": "sentence_248",
+      "translation": "Yaşam, nefes aldığın anlarla değil, hissettiğin anlarla ölçülür.",
+      "example": "Жизнь измеряется не количеством вдохов, а моментами, которые захватывают дух.",
+      "exampleTranslation": "Yaşam, nefes aldığın anlarla değil, hissettiğin anlarla ölçülür.",
+      "options": [
+        "Yaşam, nefes aldığın anlarla değil, hissettiğin anlarla ölçülür.",
+        "Yaşam sayılarla ölçülür.",
+        "Hissetmek zayıflıktır.",
+        "Hayat yalnızca süreden ibarettir."
+      ],
+      "correct": "Yaşam, nefes aldığın anlarla değil, hissettiğin anlarla ölçülür."
+    },
+    {
+      "id": 249,
+      "word": "sentence_249",
+      "translation": "En büyük keşif, kendini bulmaktır.",
+      "example": "Величайшее открытие — это найти самого себя.",
+      "exampleTranslation": "En büyük keşif, kendini bulmaktır.",
+      "options": [
+        "En büyük keşif, kendini bulmaktır.",
+        "Keşif sadece dünyaya aittir.",
+        "Kendini bulmak imkansızdır.",
+        "Keşiflerin anlamı yoktur."
+      ],
+      "correct": "En büyük keşif, kendini bulmaktır."
+    },
+    {
+      "id": 250,
+      "word": "sentence_250",
+      "translation": "Gerçek başarı, başkalarına da ilham verebilmektir.",
+      "example": "Истинный успех — это способность вдохновлять других.",
+      "exampleTranslation": "Gerçek başarı, başkalarına da ilham verebilmektir.",
+      "options": [
+        "Gerçek başarı, başkalarına da ilham verebilmektir.",
+        "Başarı kişiseldir, paylaşılmaz.",
+        "İlham değersizdir.",
+        "Gerçek başarı maddidir."
+      ],
+      "correct": "Gerçek başarı, başkalarına da ilham verebilmektir."
+    }
+  ]
+}

@@ -2,1173 +2,2103 @@
   "words": [
     {
       "id": 1,
-      "word": "яблоко",
-      "translation": "elma",
-      "example": "Я использую слово «яблоко» в простом предложении.",
+      "word": "дом",
+      "translation": "ev",
+      "example": "Это мой 'дом'.",
+      "exampleTranslation": "Bu benim evim.",
       "options": [
-        "стол",
-        "небо",
-        "компьютер",
-        "яблоко"
+        "ev",
+        "araba",
+        "okul",
+        "masa"
       ],
-      "correct": "яблоко"
+      "correct": "ev"
     },
     {
       "id": 2,
-      "word": "книга",
-      "translation": "kitap",
-      "example": "Я использую слово «книга» в простом предложении.",
+      "word": "кошка",
+      "translation": "kedi",
+      "example": "У меня есть 'кошка'.",
+      "exampleTranslation": "Bir kedim var.",
       "options": [
-        "нет",
-        "грустный",
-        "книга",
-        "ручка"
+        "köpek",
+        "kedi",
+        "kuş",
+        "balık"
       ],
-      "correct": "книга"
+      "correct": "kedi"
     },
     {
       "id": 3,
-      "word": "дом",
-      "translation": "ev",
-      "example": "Я использую слово «дом» в простом предложении.",
+      "word": "собака",
+      "translation": "köpek",
+      "example": "Моя 'собака' очень добрая.",
+      "exampleTranslation": "Köpeğim çok sevecen.",
       "options": [
-        "дом",
-        "знать",
-        "чай",
-        "пока"
+        "kedi",
+        "köpek",
+        "kuş",
+        "balık"
       ],
-      "correct": "дом"
+      "correct": "köpek"
     },
     {
       "id": 4,
-      "word": "машина",
-      "translation": "araba",
-      "example": "Я использую слово «машина» в простом предложении.",
+      "word": "вода",
+      "translation": "su",
+      "example": "Я пью 'воду' каждый день.",
+      "exampleTranslation": "Her gün su içerim.",
       "options": [
-        "машина",
-        "старый",
-        "телефон",
-        "думать"
+        "su",
+        "süt",
+        "çay",
+        "kahve"
       ],
-      "correct": "машина"
+      "correct": "su"
     },
     {
       "id": 5,
-      "word": "вода",
-      "translation": "su",
-      "example": "Я использую слово «вода» в простом предложении.",
+      "word": "хлеб",
+      "translation": "ekmek",
+      "example": "Он ест 'хлеб' на завтрак.",
+      "exampleTranslation": "O kahvaltıda ekmek yer.",
       "options": [
-        "мясо",
-        "пить",
-        "открыть",
-        "вода"
+        "ekmek",
+        "peynir",
+        "yumurta",
+        "süt"
       ],
-      "correct": "вода"
+      "correct": "ekmek"
     },
     {
       "id": 6,
-      "word": "кошка",
-      "translation": "kedi",
-      "example": "Я использую слово «кошка» в простом предложении.",
+      "word": "мама",
+      "translation": "anne",
+      "example": "Моя 'мама' готовит вкусный ужин.",
+      "exampleTranslation": "Annem lezzetli bir akşam yemeği yapıyor.",
       "options": [
-        "дверь",
-        "мясо",
-        "пока",
-        "кошка"
+        "baba",
+        "anne",
+        "kız kardeş",
+        "abla"
       ],
-      "correct": "кошка"
+      "correct": "anne"
     },
     {
       "id": 7,
-      "word": "собака",
-      "translation": "köpek",
-      "example": "Я использую слово «собака» в простом предложении.",
+      "word": "папа",
+      "translation": "baba",
+      "example": "Мой 'папа' работает в офисе.",
+      "exampleTranslation": "Babam ofiste çalışıyor.",
       "options": [
-        "еда",
-        "молоко",
-        "собака",
-        "счастливый"
+        "baba",
+        "amca",
+        "dayı",
+        "dede"
       ],
-      "correct": "собака"
+      "correct": "baba"
     },
     {
       "id": 8,
-      "word": "солнце",
-      "translation": "güneş",
-      "example": "Я использую слово «солнце» в простом предложении.",
+      "word": "школа",
+      "translation": "okul",
+      "example": "Моя сестра идёт в 'школу'.",
+      "exampleTranslation": "Kız kardeşim okula gidiyor.",
       "options": [
-        "играть",
-        "рис",
-        "дом",
-        "солнце"
+        "okul",
+        "ev",
+        "market",
+        "ofis"
       ],
-      "correct": "солнце"
+      "correct": "okul"
     },
     {
       "id": 9,
-      "word": "луна",
-      "translation": "ay",
-      "example": "Я использую слово «луна» в простом предложении.",
+      "word": "учитель",
+      "translation": "öğretmen",
+      "example": "Наш 'учитель' очень добрый.",
+      "exampleTranslation": "Öğretmenimiz çok nazik.",
       "options": [
-        "хороший",
-        "собака",
-        "работать",
-        "луна"
+        "öğrenci",
+        "öğretmen",
+        "doktor",
+        "mühendis"
       ],
-      "correct": "луна"
+      "correct": "öğretmen"
     },
     {
       "id": 10,
-      "word": "звезда",
-      "translation": "yıldız",
-      "example": "Я использую слово «звезда» в простом предложении.",
+      "word": "книга",
+      "translation": "kitap",
+      "example": "Я читаю интересную 'книгу'.",
+      "exampleTranslation": "İlginç bir kitap okuyorum.",
       "options": [
-        "читать",
-        "звезда",
-        "отец",
-        "поезд"
+        "defter",
+        "gazete",
+        "kitap",
+        "dergi"
       ],
-      "correct": "звезда"
+      "correct": "kitap"
     },
     {
       "id": 11,
-      "word": "небо",
-      "translation": "gökyüzü",
-      "example": "Я использую слово «небо» в простом предложении.",
+      "word": "ручка",
+      "translation": "kalem",
+      "example": "Дай мне 'ручку', пожалуйста.",
+      "exampleTranslation": "Lütfen bana kalemi ver.",
       "options": [
-        "небо",
-        "думать",
-        "работать",
-        "видеть"
+        "silgi",
+        "kalem",
+        "kitap",
+        "masa"
       ],
-      "correct": "небо"
+      "correct": "kalem"
     },
     {
       "id": 12,
-      "word": "дерево",
-      "translation": "ağaç",
-      "example": "Я использую слово «дерево» в простом предложении.",
+      "word": "стол",
+      "translation": "masa",
+      "example": "На 'столе' лежит книга.",
+      "exampleTranslation": "Masada bir kitap duruyor.",
       "options": [
-        "дерево",
-        "кошка",
-        "есть",
-        "идти"
+        "masa",
+        "sandalye",
+        "dolap",
+        "pencere"
       ],
-      "correct": "дерево"
+      "correct": "masa"
     },
     {
       "id": 13,
-      "word": "цветок",
-      "translation": "çiçek",
-      "example": "Я использую слово «цветок» в простом предложении.",
+      "word": "окно",
+      "translation": "pencere",
+      "example": "Открой 'окно', пожалуйста.",
+      "exampleTranslation": "Lütfen pencereyi aç.",
       "options": [
-        "цветок",
-        "грустный",
-        "ученик",
-        "сестра"
+        "kapı",
+        "pencere",
+        "masa",
+        "lamba"
       ],
-      "correct": "цветок"
+      "correct": "pencere"
     },
     {
       "id": 14,
-      "word": "город",
-      "translation": "şehir",
-      "example": "Я использую слово «город» в простом предложении.",
+      "word": "дверь",
+      "translation": "kapı",
+      "example": "Закрой 'дверь'!",
+      "exampleTranslation": "Kapıyı kapat!",
       "options": [
-        "стол",
-        "город",
-        "дверь",
-        "вечер"
+        "pencere",
+        "masa",
+        "kapı",
+        "kitap"
       ],
-      "correct": "город"
+      "correct": "kapı"
     },
     {
       "id": 15,
-      "word": "деревня",
-      "translation": "köy",
-      "example": "Я использую слово «деревня» в простом предложении.",
+      "word": "город",
+      "translation": "şehir",
+      "example": "Москва — большой 'город'.",
+      "exampleTranslation": "Moskova büyük bir şehirdir.",
       "options": [
-        "яйцо",
-        "холодный",
-        "деревня",
-        "большой"
+        "köy",
+        "şehir",
+        "ülke",
+        "bölge"
       ],
-      "correct": "деревня"
+      "correct": "şehir"
     },
     {
       "id": 16,
-      "word": "школа",
-      "translation": "okul",
-      "example": "Я использую слово «школа» в простом предложении.",
+      "word": "улица",
+      "translation": "sokak",
+      "example": "Мы живём на тихой 'улице'.",
+      "exampleTranslation": "Sessiz bir sokakta yaşıyoruz.",
       "options": [
-        "друг",
-        "деревня",
-        "рис",
-        "школа"
+        "cadde",
+        "ev",
+        "sokak",
+        "park"
       ],
-      "correct": "школа"
+      "correct": "sokak"
     },
     {
       "id": 17,
-      "word": "ученик",
-      "translation": "öğrenci",
-      "example": "Я использую слово «ученик» в простом предложении.",
+      "word": "магазин",
+      "translation": "mağaza",
+      "example": "Я иду в 'магазин' за хлебом.",
+      "exampleTranslation": "Ekmek almak için mağazaya gidiyorum.",
       "options": [
-        "ученик",
-        "день",
-        "думать",
-        "поезд"
+        "okul",
+        "mağaza",
+        "hastane",
+        "ev"
       ],
-      "correct": "ученик"
+      "correct": "mağaza"
     },
     {
       "id": 18,
-      "word": "учитель",
-      "translation": "öğretmen",
-      "example": "Я использую слово «учитель» в простом предложении.",
+      "word": "работа",
+      "translation": "iş",
+      "example": "Он идёт на 'работу'.",
+      "exampleTranslation": "O işe gidiyor.",
       "options": [
-        "учитель",
-        "хлеб",
-        "книга",
-        "новый"
+        "iş",
+        "okul",
+        "park",
+        "ev"
       ],
-      "correct": "учитель"
+      "correct": "iş"
     },
     {
       "id": 19,
-      "word": "ручка",
-      "translation": "kalem",
-      "example": "Я использую слово «ручка» в простом предложении.",
+      "word": "друг",
+      "translation": "arkadaş",
+      "example": "Мой лучший 'друг' живёт рядом.",
+      "exampleTranslation": "En iyi arkadaşım yakında oturuyor.",
       "options": [
-        "думать",
-        "грустный",
-        "хлеб",
-        "ручка"
+        "kardeş",
+        "arkadaş",
+        "komşu",
+        "öğretmen"
       ],
-      "correct": "ручка"
+      "correct": "arkadaş"
     },
     {
       "id": 20,
-      "word": "бумага",
-      "translation": "kağıt",
-      "example": "Я использую слово «бумага» в простом предложении.",
+      "word": "время",
+      "translation": "zaman",
+      "example": "У меня нет 'времени'.",
+      "exampleTranslation": "Zamanım yok.",
       "options": [
-        "велосипед",
-        "думать",
-        "город",
-        "бумага"
+        "para",
+        "vakit",
+        "zaman",
+        "iş"
       ],
-      "correct": "бумага"
+      "correct": "zaman"
     },
     {
       "id": 21,
-      "word": "телефон",
-      "translation": "telefon",
-      "example": "Я использую слово «телефон» в простом предложении.",
+      "word": "деньги",
+      "translation": "para",
+      "example": "У меня нет 'денег'.",
+      "exampleTranslation": "Param yok.",
       "options": [
-        "телефон",
-        "поезд",
-        "писать",
-        "идти"
+        "para",
+        "zaman",
+        "iş",
+        "hediye"
       ],
-      "correct": "телефон"
+      "correct": "para"
     },
     {
       "id": 22,
-      "word": "компьютер",
-      "translation": "bilgisayar",
-      "example": "Я использую слово «компьютер» в простом предложении.",
+      "word": "еда",
+      "translation": "yemek",
+      "example": "Я готовлю вкусную 'еду'.",
+      "exampleTranslation": "Lezzetli yemek pişiriyorum.",
       "options": [
-        "приходить",
-        "играть",
-        "мясо",
-        "компьютер"
+        "yemek",
+        "su",
+        "ekmek",
+        "meyve"
       ],
-      "correct": "компьютер"
+      "correct": "yemek"
     },
     {
       "id": 23,
-      "word": "стол",
-      "translation": "masa",
-      "example": "Я использую слово «стол» в простом предложении.",
+      "word": "вилка",
+      "translation": "çatal",
+      "example": "Где моя 'вилка'?",
+      "exampleTranslation": "Çatalım nerede?",
       "options": [
-        "кошка",
-        "вода",
-        "мясо",
-        "стол"
+        "kaşık",
+        "bıçak",
+        "çatal",
+        "tabak"
       ],
-      "correct": "стол"
+      "correct": "çatal"
     },
     {
       "id": 24,
-      "word": "стул",
-      "translation": "sandalye",
-      "example": "Я использую слово «стул» в простом предложении.",
+      "word": "ложка",
+      "translation": "kaşık",
+      "example": "Положи 'ложку' на стол.",
+      "exampleTranslation": "Kaşığı masaya koy.",
       "options": [
-        "новый",
-        "молоко",
-        "учитель",
-        "стул"
+        "bıçak",
+        "çatal",
+        "kaşık",
+        "tabak"
       ],
-      "correct": "стул"
+      "correct": "kaşık"
     },
     {
       "id": 25,
-      "word": "окно",
-      "translation": "pencere",
-      "example": "Я использую слово «окно» в простом предложении.",
+      "word": "чашка",
+      "translation": "fincan",
+      "example": "Я пью чай из 'чашки'.",
+      "exampleTranslation": "Çayı fincandan içiyorum.",
       "options": [
-        "старый",
-        "играть",
-        "знать",
-        "окно"
+        "fincan",
+        "şişe",
+        "bardak",
+        "tabak"
       ],
-      "correct": "окно"
+      "correct": "fincan"
     },
     {
       "id": 26,
-      "word": "дверь",
-      "translation": "kapı",
-      "example": "Я использую слово «дверь» в простом предложении.",
+      "word": "чай",
+      "translation": "çay",
+      "example": "Моя бабушка любит 'чай'.",
+      "exampleTranslation": "Büyükannem çayı sever.",
       "options": [
-        "приходить",
-        "цветок",
-        "вечер",
-        "дверь"
+        "kahve",
+        "çay",
+        "su",
+        "süt"
       ],
-      "correct": "дверь"
+      "correct": "çay"
     },
     {
       "id": 27,
-      "word": "дорога",
-      "translation": "yol",
-      "example": "Я использую слово «дорога» в простом предложении.",
+      "word": "кофе",
+      "translation": "kahve",
+      "example": "Я не могу жить без 'кофе'.",
+      "exampleTranslation": "Kahvesiz yaşayamam.",
       "options": [
-        "дорога",
-        "вода",
-        "соль",
-        "учиться"
+        "kahve",
+        "çay",
+        "su",
+        "meyve suyu"
       ],
-      "correct": "дорога"
+      "correct": "kahve"
     },
     {
       "id": 28,
-      "word": "автобус",
-      "translation": "otobüs",
-      "example": "Я использую слово «автобус» в простом предложении.",
+      "word": "молоко",
+      "translation": "süt",
+      "example": "Ребёнок пьёт 'молоко'.",
+      "exampleTranslation": "Çocuk süt içiyor.",
       "options": [
-        "автобус",
-        "сестра",
-        "молоко",
-        "завтра"
+        "su",
+        "süt",
+        "meyve suyu",
+        "çay"
       ],
-      "correct": "автобус"
+      "correct": "süt"
     },
     {
       "id": 29,
-      "word": "поезд",
-      "translation": "tren",
-      "example": "Я использую слово «поезд» в простом предложении.",
+      "word": "яблоко",
+      "translation": "elma",
+      "example": "Я ем красное 'яблоко'.",
+      "exampleTranslation": "Kırmızı bir elma yiyorum.",
       "options": [
-        "поезд",
-        "отец",
-        "старый",
-        "идти"
+        "armut",
+        "muz",
+        "elma",
+        "kiraz"
       ],
-      "correct": "поезд"
+      "correct": "elma"
     },
     {
       "id": 30,
-      "word": "велосипед",
-      "translation": "bisiklet",
-      "example": "Я использую слово «велосипед» в простом предложении.",
+      "word": "банан",
+      "translation": "muz",
+      "example": "Моя сестра любит 'бананы'.",
+      "exampleTranslation": "Kız kardeşim muzları sever.",
       "options": [
-        "окно",
-        "велосипед",
-        "школа",
-        "пока"
+        "muz",
+        "elma",
+        "karpuz",
+        "üzüm"
       ],
-      "correct": "велосипед"
+      "correct": "muz"
     },
     {
       "id": 31,
-      "word": "молоко",
-      "translation": "süt",
-      "example": "Я использую слово «молоко» в простом предложении.",
+      "word": "стул",
+      "translation": "sandalye",
+      "example": "Поставь 'стул' у окна.",
+      "exampleTranslation": "Sandalyeyi pencerenin yanına koy.",
       "options": [
-        "идти",
-        "закрыть",
-        "молоко",
-        "пить"
+        "masa",
+        "sandalye",
+        "yatak",
+        "kapı"
       ],
-      "correct": "молоко"
+      "correct": "sandalye"
     },
     {
       "id": 32,
-      "word": "кофе",
-      "translation": "kahve",
-      "example": "Я использую слово «кофе» в простом предложении.",
+      "word": "кровать",
+      "translation": "yatak",
+      "example": "Я лежу на 'кровати'.",
+      "exampleTranslation": "Yatakta uzanıyorum.",
       "options": [
-        "хороший",
-        "кофе",
-        "ученик",
-        "дорога"
+        "yatak",
+        "masa",
+        "koltuk",
+        "sandalye"
       ],
-      "correct": "кофе"
+      "correct": "yatak"
     },
     {
       "id": 33,
-      "word": "чай",
-      "translation": "çay",
-      "example": "Я использую слово «чай» в простом предложении.",
+      "word": "окно",
+      "translation": "pencere",
+      "example": "Солнце светит в 'окно'.",
+      "exampleTranslation": "Güneş pencereye vuruyor.",
       "options": [
-        "открыть",
-        "чай",
-        "автобус",
-        "велосипед"
+        "pencere",
+        "kapı",
+        "masa",
+        "yatak"
       ],
-      "correct": "чай"
+      "correct": "pencere"
     },
     {
       "id": 34,
-      "word": "хлеб",
-      "translation": "ekmek",
-      "example": "Я использую слово «хлеб» в простом предложении.",
+      "word": "работать",
+      "translation": "çalışmak",
+      "example": "Мой брат любит 'работать'.",
+      "exampleTranslation": "Kardeşim çalışmayı sever.",
       "options": [
-        "ручка",
-        "хлеб",
-        "соль",
-        "ученик"
+        "uyumak",
+        "oynamak",
+        "çalışmak",
+        "yemek"
       ],
-      "correct": "хлеб"
+      "correct": "çalışmak"
     },
     {
       "id": 35,
-      "word": "яйцо",
-      "translation": "yumurta",
-      "example": "Я использую слово «яйцо» в простом предложении.",
+      "word": "читать",
+      "translation": "okumak",
+      "example": "Она любит 'читать' книги.",
+      "exampleTranslation": "O kitap okumayı sever.",
       "options": [
-        "ученик",
-        "яйцо",
-        "машина",
-        "видеть"
+        "yazmak",
+        "çizmek",
+        "okumak",
+        "dinlemek"
       ],
-      "correct": "яйцо"
+      "correct": "okumak"
     },
     {
       "id": 36,
-      "word": "соль",
-      "translation": "tuz",
-      "example": "Я использую слово «соль» в простом предложении.",
+      "word": "писать",
+      "translation": "yazmak",
+      "example": "Я люблю 'писать' письма.",
+      "exampleTranslation": "Mektup yazmayı severim.",
       "options": [
-        "открыть",
-        "дом",
-        "соль",
-        "ребёнок"
+        "yazmak",
+        "çizmek",
+        "okumak",
+        "dinlemek"
       ],
-      "correct": "соль"
+      "correct": "yazmak"
     },
     {
       "id": 37,
-      "word": "сахар",
-      "translation": "şeker",
-      "example": "Я использую слово «сахар» в простом предложении.",
+      "word": "спать",
+      "translation": "uyumak",
+      "example": "Я хочу 'спать'.",
+      "exampleTranslation": "Uyumak istiyorum.",
       "options": [
-        "вечер",
-        "сахар",
-        "ученик",
-        "большой"
+        "okumak",
+        "uyumak",
+        "yemek",
+        "çalışmak"
       ],
-      "correct": "сахар"
+      "correct": "uyumak"
     },
     {
       "id": 38,
-      "word": "рис",
-      "translation": "pirinç",
-      "example": "Я использую слово «рис» в простом предложении.",
+      "word": "идти",
+      "translation": "gitmek",
+      "example": "Я иду в 'школу'.",
+      "exampleTranslation": "Okula gidiyorum.",
       "options": [
-        "спасибо",
-        "рис",
-        "сестра",
-        "привет"
+        "gelmek",
+        "gitmek",
+        "kalmak",
+        "koşmak"
       ],
-      "correct": "рис"
+      "correct": "gitmek"
     },
     {
       "id": 39,
-      "word": "мясо",
-      "translation": "et",
-      "example": "Я использую слово «мясо» в простом предложении.",
+      "word": "говорить",
+      "translation": "konuşmak",
+      "example": "Он любит 'говорить' по телефону.",
+      "exampleTranslation": "O telefonla konuşmayı sever.",
       "options": [
-        "мясо",
-        "кошка",
-        "видеть",
-        "писать"
+        "yazmak",
+        "okumak",
+        "konuşmak",
+        "dinlemek"
       ],
-      "correct": "мясо"
+      "correct": "konuşmak"
     },
     {
       "id": 40,
-      "word": "рыба",
-      "translation": "balık",
-      "example": "Я использую слово «рыба» в простом предложении.",
+      "word": "слышать",
+      "translation": "duymak",
+      "example": "Я не могу 'слышать' музыку.",
+      "exampleTranslation": "Müziği duyamıyorum.",
       "options": [
-        "солнце",
-        "ночь",
-        "извините",
-        "рыба"
+        "görmek",
+        "duymak",
+        "okumak",
+        "dokunmak"
       ],
-      "correct": "рыба"
+      "correct": "duymak"
     },
     {
       "id": 41,
-      "word": "птица",
-      "translation": "kuş",
-      "example": "Я использую слово «птица» в простом предложении.",
+      "word": "видеть",
+      "translation": "görmek",
+      "example": "Я 'вижу' красивое небо.",
+      "exampleTranslation": "Güzel bir gökyüzü görüyorum.",
       "options": [
-        "да",
-        "птица",
-        "завтра",
-        "звезда"
+        "duymak",
+        "görmek",
+        "dokunmak",
+        "okumak"
       ],
-      "correct": "птица"
+      "correct": "görmek"
     },
     {
       "id": 42,
-      "word": "ребёнок",
-      "translation": "çocuk",
-      "example": "Я использую слово «ребёнок» в простом предложении.",
+      "word": "идти пешком",
+      "translation": "yürümek",
+      "example": "Мы любим 'идти пешком' в парк.",
+      "exampleTranslation": "Parkta yürümeyi severiz.",
       "options": [
-        "соль",
-        "ребёнок",
-        "луна",
-        "ученик"
+        "koşmak",
+        "yürümek",
+        "oturmak",
+        "uçmak"
       ],
-      "correct": "ребёнок"
+      "correct": "yürümek"
     },
     {
       "id": 43,
-      "word": "семья",
-      "translation": "aile",
-      "example": "Я использую слово «семья» в простом предложении.",
+      "word": "работа",
+      "translation": "iş",
+      "example": "Его 'работа' очень интересная.",
+      "exampleTranslation": "İşi çok ilginç.",
       "options": [
-        "пока",
-        "холодный",
-        "читать",
-        "семья"
+        "okul",
+        "iş",
+        "ev",
+        "tatil"
       ],
-      "correct": "семья"
+      "correct": "iş"
     },
     {
       "id": 44,
-      "word": "друг",
-      "translation": "arkadaş",
-      "example": "Я использую слово «друг» в простом предложении.",
+      "word": "машина",
+      "translation": "araba",
+      "example": "Моя 'машина' новая.",
+      "exampleTranslation": "Arabam yeni.",
       "options": [
-        "автобус",
-        "красивый",
-        "приходить",
-        "друг"
+        "araba",
+        "bisiklet",
+        "otobüs",
+        "tren"
       ],
-      "correct": "друг"
+      "correct": "araba"
     },
     {
       "id": 45,
-      "word": "мать",
-      "translation": "anne",
-      "example": "Я использую слово «мать» в простом предложении.",
+      "word": "поезд",
+      "translation": "tren",
+      "example": "Мы едем на 'поезде' в Петербург.",
+      "exampleTranslation": "Trenle Petersburg’a gidiyoruz.",
       "options": [
-        "утро",
-        "пока",
-        "друг",
-        "мать"
+        "araba",
+        "tren",
+        "uçak",
+        "otobüs"
       ],
-      "correct": "мать"
+      "correct": "tren"
     },
     {
       "id": 46,
-      "word": "отец",
-      "translation": "baba",
-      "example": "Я использую слово «отец» в простом предложении.",
+      "word": "самолёт",
+      "translation": "uçak",
+      "example": "Я лечу на 'самолёте' в Москву.",
+      "exampleTranslation": "Moskova’ya uçakla gidiyorum.",
       "options": [
-        "отец",
-        "птица",
-        "вчера",
-        "знать"
+        "uçak",
+        "tren",
+        "otobüs",
+        "bisiklet"
       ],
-      "correct": "отец"
+      "correct": "uçak"
     },
     {
       "id": 47,
-      "word": "сестра",
-      "translation": "kız kardeş",
-      "example": "Я использую слово «сестра» в простом предложении.",
+      "word": "вчера",
+      "translation": "dün",
+      "example": "Я был дома 'вчера'.",
+      "exampleTranslation": "Dün evdeydim.",
       "options": [
-        "работать",
-        "спасибо",
-        "сестра",
-        "луна"
+        "bugün",
+        "yarın",
+        "dün",
+        "şimdi"
       ],
-      "correct": "сестра"
+      "correct": "dün"
     },
     {
       "id": 48,
-      "word": "брат",
-      "translation": "erkek kardeş",
-      "example": "Я использую слово «брат» в простом предложении.",
+      "word": "сегодня",
+      "translation": "bugün",
+      "example": "Сегодня хороший день.",
+      "exampleTranslation": "Bugün güzel bir gün.",
       "options": [
-        "брат",
-        "ученик",
-        "цветок",
-        "сегодня"
+        "yarın",
+        "bugün",
+        "dün",
+        "gece"
       ],
-      "correct": "брат"
+      "correct": "bugün"
     },
     {
       "id": 49,
-      "word": "еда",
-      "translation": "yemek",
-      "example": "Я использую слово «еда» в простом предложении.",
+      "word": "завтра",
+      "translation": "yarın",
+      "example": "Мы увидимся 'завтра'.",
+      "exampleTranslation": "Yarın görüşeceğiz.",
       "options": [
-        "школа",
-        "утро",
-        "еда",
-        "знать"
+        "bugün",
+        "yarın",
+        "dün",
+        "şimdi"
       ],
-      "correct": "еда"
+      "correct": "yarın"
     },
     {
       "id": 50,
       "word": "время",
-      "translation": "zaman",
-      "example": "Я использую слово «время» в простом предложении.",
+      "translation": "vakit",
+      "example": "У нас мало 'времени'.",
+      "exampleTranslation": "Vaktimiz az.",
       "options": [
-        "время",
-        "собака",
-        "сахар",
-        "закрыть"
+        "para",
+        "vakit",
+        "yemek",
+        "iş"
       ],
-      "correct": "время"
+      "correct": "vakit"
     },
     {
       "id": 51,
-      "word": "день",
-      "translation": "gün",
-      "example": "Я использую слово «день» в простом предложении.",
+      "word": "красный",
+      "translation": "kırmızı",
+      "example": "Мой велосипед 'красный'.",
+      "exampleTranslation": "Bisikletim kırmızı.",
       "options": [
-        "автобус",
-        "день",
-        "счастливый",
-        "холодный"
+        "yeşil",
+        "kırmızı",
+        "mavi",
+        "siyah"
       ],
-      "correct": "день"
+      "correct": "kırmızı"
     },
     {
       "id": 52,
-      "word": "ночь",
-      "translation": "gece",
-      "example": "Я использую слово «ночь» в простом предложении.",
+      "word": "синий",
+      "translation": "mavi",
+      "example": "Небо сегодня 'синее'.",
+      "exampleTranslation": "Bugün gökyüzü mavi.",
       "options": [
-        "ночь",
-        "мать",
-        "город",
-        "поезд"
+        "yeşil",
+        "mavi",
+        "sarı",
+        "kırmızı"
       ],
-      "correct": "ночь"
+      "correct": "mavi"
     },
     {
       "id": 53,
-      "word": "утро",
-      "translation": "sabah",
-      "example": "Я использую слово «утро» в простом предложении.",
+      "word": "зелёный",
+      "translation": "yeşil",
+      "example": "Я вижу 'зелёное' дерево.",
+      "exampleTranslation": "Yeşil bir ağaç görüyorum.",
       "options": [
-        "утро",
-        "поезд",
-        "счастливый",
-        "вчера"
+        "yeşil",
+        "siyah",
+        "mavi",
+        "gri"
       ],
-      "correct": "утро"
+      "correct": "yeşil"
     },
     {
       "id": 54,
-      "word": "вечер",
-      "translation": "akşam",
-      "example": "Я использую слово «вечер» в простом предложении.",
+      "word": "жёлтый",
+      "translation": "sarı",
+      "example": "Моё платье 'жёлтое'.",
+      "exampleTranslation": "Elbisem sarı.",
       "options": [
-        "стул",
-        "вечер",
-        "яйцо",
-        "машина"
+        "sarı",
+        "kırmızı",
+        "beyaz",
+        "mavi"
       ],
-      "correct": "вечер"
+      "correct": "sarı"
     },
     {
       "id": 55,
-      "word": "вчера",
-      "translation": "dün",
-      "example": "Я использую слово «вчера» в простом предложении.",
+      "word": "белый",
+      "translation": "beyaz",
+      "example": "Мой кот 'белый'.",
+      "exampleTranslation": "Kedim beyaz.",
       "options": [
-        "яблоко",
-        "ручка",
-        "стул",
-        "вчера"
+        "siyah",
+        "beyaz",
+        "gri",
+        "mavi"
       ],
-      "correct": "вчера"
+      "correct": "beyaz"
     },
     {
       "id": 56,
-      "word": "сегодня",
-      "translation": "bugün",
-      "example": "Я использую слово «сегодня» в простом предложении.",
+      "word": "чёрный",
+      "translation": "siyah",
+      "example": "Она носит 'чёрное' платье.",
+      "exampleTranslation": "Siyah bir elbise giyiyor.",
       "options": [
-        "машина",
-        "дерево",
-        "сегодня",
-        "пить"
+        "kırmızı",
+        "siyah",
+        "beyaz",
+        "gri"
       ],
-      "correct": "сегодня"
+      "correct": "siyah"
     },
     {
       "id": 57,
-      "word": "завтра",
-      "translation": "yarın",
-      "example": "Я использую слово «завтра» в простом предложении.",
+      "word": "добрый",
+      "translation": "iyi, nazik",
+      "example": "Он очень 'добрый' человек.",
+      "exampleTranslation": "O çok nazik bir insan.",
       "options": [
-        "пока",
-        "завтра",
-        "телефон",
-        "друг"
+        "kötü",
+        "nazik",
+        "üzgün",
+        "sinirli"
       ],
-      "correct": "завтра"
+      "correct": "iyi, nazik"
     },
     {
       "id": 58,
-      "word": "привет",
-      "translation": "merhaba",
-      "example": "Я использую слово «привет» в простом предложении.",
+      "word": "весёлый",
+      "translation": "neşeli",
+      "example": "Моя подруга всегда 'весёлая'.",
+      "exampleTranslation": "Arkadaşım her zaman neşelidir.",
       "options": [
-        "закрыть",
-        "хороший",
-        "привет",
-        "небо"
+        "üzgün",
+        "yorgun",
+        "neşeli",
+        "sinirli"
       ],
-      "correct": "привет"
+      "correct": "neşeli"
     },
     {
       "id": 59,
-      "word": "пока",
-      "translation": "güle güle",
-      "example": "Я использую слово «пока» в простом предложении.",
+      "word": "грустный",
+      "translation": "üzgün",
+      "example": "Он выглядит 'грустным'.",
+      "exampleTranslation": "O üzgün görünüyor.",
       "options": [
-        "пока",
-        "собака",
-        "думать",
-        "говорить"
+        "mutlu",
+        "yorgun",
+        "üzgün",
+        "sinirli"
       ],
-      "correct": "пока"
+      "correct": "üzgün"
     },
     {
       "id": 60,
-      "word": "пожалуйста",
-      "translation": "lütfen",
-      "example": "Я использую слово «пожалуйста» в простом предложении.",
+      "word": "злой",
+      "translation": "kızgın",
+      "example": "Она сегодня немного 'злая'.",
+      "exampleTranslation": "Bugün biraz kızgın.",
       "options": [
-        "видеть",
-        "вчера",
-        "да",
-        "пожалуйста"
+        "kızgın",
+        "mutlu",
+        "yorgun",
+        "sakin"
       ],
-      "correct": "пожалуйста"
+      "correct": "kızgın"
     },
     {
       "id": 61,
-      "word": "спасибо",
-      "translation": "teşekkürler",
-      "example": "Я использую слово «спасибо» в простом предложении.",
+      "word": "спокойный",
+      "translation": "sakin",
+      "example": "Он очень 'спокойный' человек.",
+      "exampleTranslation": "O çok sakin bir insandır.",
       "options": [
-        "спасибо",
-        "автобус",
-        "деревня",
-        "горячий"
+        "sakin",
+        "sinirli",
+        "yorgun",
+        "üzgün"
       ],
-      "correct": "спасибо"
+      "correct": "sakin"
     },
     {
       "id": 62,
-      "word": "извините",
-      "translation": "özür dilerim",
-      "example": "Я использую слово «извините» в простом предложении.",
+      "word": "высокий",
+      "translation": "uzun, yüksek",
+      "example": "Этот дом очень 'высокий'.",
+      "exampleTranslation": "Bu ev çok yüksek.",
       "options": [
-        "думать",
-        "сахар",
-        "открыть",
-        "извините"
+        "uzun",
+        "kısa",
+        "geniş",
+        "dar"
       ],
-      "correct": "извините"
+      "correct": "uzun, yüksek"
     },
     {
       "id": 63,
-      "word": "да",
-      "translation": "evet",
-      "example": "Я использую слово «да» в простом предложении.",
+      "word": "маленький",
+      "translation": "küçük",
+      "example": "У меня 'маленький' котёнок.",
+      "exampleTranslation": "Küçük bir kedim var.",
       "options": [
-        "день",
-        "поезд",
-        "да",
-        "кошка"
+        "küçük",
+        "büyük",
+        "geniş",
+        "ince"
       ],
-      "correct": "да"
+      "correct": "küçük"
     },
     {
       "id": 64,
-      "word": "нет",
-      "translation": "hayır",
-      "example": "Я использую слово «нет» в простом предложении.",
+      "word": "большой",
+      "translation": "büyük",
+      "example": "Моя комната 'большая'.",
+      "exampleTranslation": "Odam büyük.",
       "options": [
-        "мясо",
-        "нет",
-        "учитель",
-        "автобус"
+        "küçük",
+        "büyük",
+        "dar",
+        "yüksek"
       ],
-      "correct": "нет"
+      "correct": "büyük"
     },
     {
       "id": 65,
-      "word": "холодный",
-      "translation": "soğuk",
-      "example": "Я использую слово «холодный» в простом предложении.",
+      "word": "быстрый",
+      "translation": "hızlı",
+      "example": "Моя машина очень 'быстрая'.",
+      "exampleTranslation": "Arabam çok hızlı.",
       "options": [
-        "школа",
-        "нет",
-        "яблоко",
-        "холодный"
+        "hızlı",
+        "yavaş",
+        "güçlü",
+        "zayıf"
       ],
-      "correct": "холодный"
+      "correct": "hızlı"
     },
     {
       "id": 66,
-      "word": "горячий",
-      "translation": "sıcak",
-      "example": "Я использую слово «горячий» в простом предложении.",
+      "word": "медленный",
+      "translation": "yavaş",
+      "example": "Черепаха — очень 'медленное' животное.",
+      "exampleTranslation": "Kaplumbağa çok yavaş bir hayvandır.",
       "options": [
-        "горячий",
-        "еда",
-        "новый",
-        "велосипед"
+        "hızlı",
+        "yavaş",
+        "büyük",
+        "güçlü"
       ],
-      "correct": "горячий"
+      "correct": "yavaş"
     },
     {
       "id": 67,
-      "word": "маленький",
-      "translation": "küçük",
-      "example": "Я использую слово «маленький» в простом предложении.",
+      "word": "дорогой",
+      "translation": "pahalı",
+      "example": "Этот телефон слишком 'дорогой'.",
+      "exampleTranslation": "Bu telefon çok pahalı.",
       "options": [
-        "дом",
-        "сегодня",
-        "кошка",
-        "маленький"
+        "ucuz",
+        "pahalı",
+        "eski",
+        "yeni"
       ],
-      "correct": "маленький"
+      "correct": "pahalı"
     },
     {
       "id": 68,
-      "word": "большой",
-      "translation": "büyük",
-      "example": "Я использую слово «большой» в простом предложении.",
+      "word": "дешёвый",
+      "translation": "ucuz",
+      "example": "Этот магазин очень 'дешёвый'.",
+      "exampleTranslation": "Bu mağaza çok ucuz.",
       "options": [
-        "ночь",
-        "вчера",
-        "счастливый",
-        "большой"
+        "ucuz",
+        "pahalı",
+        "büyük",
+        "dar"
       ],
-      "correct": "большой"
+      "correct": "ucuz"
     },
     {
       "id": 69,
       "word": "новый",
       "translation": "yeni",
-      "example": "Я использую слово «новый» в простом предложении.",
+      "example": "Я купил 'новый' компьютер.",
+      "exampleTranslation": "Yeni bir bilgisayar aldım.",
       "options": [
-        "дом",
-        "новый",
-        "ночь",
-        "ребёнок"
+        "eski",
+        "yeni",
+        "büyük",
+        "ucuz"
       ],
-      "correct": "новый"
+      "correct": "yeni"
     },
     {
       "id": 70,
       "word": "старый",
       "translation": "eski",
-      "example": "Я использую слово «старый» в простом предложении.",
+      "example": "Это 'старый' дом.",
+      "exampleTranslation": "Bu eski bir ev.",
       "options": [
-        "сестра",
-        "дерево",
-        "учиться",
-        "старый"
+        "yeni",
+        "eski",
+        "büyük",
+        "yavaş"
       ],
-      "correct": "старый"
+      "correct": "eski"
     },
     {
       "id": 71,
-      "word": "красивый",
-      "translation": "güzel",
-      "example": "Я использую слово «красивый» в простом предложении.",
+      "word": "снег",
+      "translation": "kar",
+      "example": "Зимой идёт 'снег'.",
+      "exampleTranslation": "Kışın kar yağıyor.",
       "options": [
-        "красивый",
-        "ночь",
-        "открыть",
-        "сегодня"
+        "kar",
+        "yağmur",
+        "rüzgar",
+        "güneş"
       ],
-      "correct": "красивый"
+      "correct": "kar"
     },
     {
       "id": 72,
-      "word": "плохой",
-      "translation": "kötü",
-      "example": "Я использую слово «плохой» в простом предложении.",
+      "word": "дождь",
+      "translation": "yağmur",
+      "example": "На улице идёт 'дождь'.",
+      "exampleTranslation": "Dışarıda yağmur yağıyor.",
       "options": [
-        "плохой",
-        "поезд",
-        "семья",
-        "друг"
+        "kar",
+        "rüzgar",
+        "yağmur",
+        "güneş"
       ],
-      "correct": "плохой"
+      "correct": "yağmur"
     },
     {
       "id": 73,
-      "word": "хороший",
-      "translation": "iyi",
-      "example": "Я использую слово «хороший» в простом предложении.",
+      "word": "солнце",
+      "translation": "güneş",
+      "example": "Сегодня светит 'солнце'.",
+      "exampleTranslation": "Bugün güneş parlıyor.",
       "options": [
-        "хороший",
-        "горячий",
-        "окно",
-        "большой"
+        "ay",
+        "yıldız",
+        "bulut",
+        "güneş"
       ],
-      "correct": "хороший"
+      "correct": "güneş"
     },
     {
       "id": 74,
-      "word": "счастливый",
-      "translation": "mutlu",
-      "example": "Я использую слово «счастливый» в простом предложении.",
+      "word": "ветер",
+      "translation": "rüzgar",
+      "example": "Сильный 'ветер' дует с севера.",
+      "exampleTranslation": "Kuzeyden güçlü bir rüzgar esiyor.",
       "options": [
-        "молоко",
-        "счастливый",
-        "город",
-        "ручка"
+        "rüzgar",
+        "kar",
+        "güneş",
+        "yağmur"
       ],
-      "correct": "счастливый"
+      "correct": "rüzgar"
     },
     {
       "id": 75,
-      "word": "грустный",
-      "translation": "üzgün",
-      "example": "Я использую слово «грустный» в простом предложении.",
+      "word": "река",
+      "translation": "nehir",
+      "example": "В нашем городе есть 'река'.",
+      "exampleTranslation": "Şehrimizde bir nehir var.",
       "options": [
-        "приходить",
-        "бумага",
-        "грустный",
-        "читать"
+        "dağ",
+        "deniz",
+        "nehir",
+        "göl"
       ],
-      "correct": "грустный"
+      "correct": "nehir"
     },
     {
       "id": 76,
-      "word": "открыть",
-      "translation": "açmak",
-      "example": "Я использую слово «открыть» в простом предложении.",
+      "word": "гора",
+      "translation": "dağ",
+      "example": "Мы видим высокую 'гору'.",
+      "exampleTranslation": "Yüksek bir dağ görüyoruz.",
       "options": [
-        "пожалуйста",
-        "хороший",
-        "грустный",
-        "открыть"
+        "dağ",
+        "ova",
+        "göl",
+        "deniz"
       ],
-      "correct": "открыть"
+      "correct": "dağ"
     },
     {
       "id": 77,
-      "word": "закрыть",
-      "translation": "kapatmak",
-      "example": "Я использую слово «закрыть» в простом предложении.",
+      "word": "море",
+      "translation": "deniz",
+      "example": "Летом я люблю 'море'.",
+      "exampleTranslation": "Yazın denizi severim.",
       "options": [
-        "есть",
-        "бумага",
-        "птица",
-        "закрыть"
+        "deniz",
+        "nehir",
+        "dağ",
+        "göl"
       ],
-      "correct": "закрыть"
+      "correct": "deniz"
     },
     {
       "id": 78,
-      "word": "читать",
-      "translation": "okumak",
-      "example": "Я использую слово «читать» в простом предложении.",
+      "word": "лес",
+      "translation": "orman",
+      "example": "Мы гуляем в 'лесу'.",
+      "exampleTranslation": "Ormanda yürüyoruz.",
       "options": [
-        "завтра",
-        "мясо",
-        "читать",
-        "есть"
+        "orman",
+        "park",
+        "bahçe",
+        "köy"
       ],
-      "correct": "читать"
+      "correct": "orman"
     },
     {
       "id": 79,
-      "word": "писать",
-      "translation": "yazmak",
-      "example": "Я использую слово «писать» в простом предложении.",
+      "word": "цветок",
+      "translation": "çiçek",
+      "example": "На столе стоит 'цветок'.",
+      "exampleTranslation": "Masada bir çiçek duruyor.",
       "options": [
-        "звезда",
-        "писать",
-        "холодный",
-        "отец"
+        "çiçek",
+        "ağaç",
+        "yaprak",
+        "meyve"
       ],
-      "correct": "писать"
+      "correct": "çiçek"
     },
     {
       "id": 80,
-      "word": "говорить",
-      "translation": "konuşmak",
-      "example": "Я использую слово «говорить» в простом предложении.",
+      "word": "дерево",
+      "translation": "ağaç",
+      "example": "Это большое 'дерево'.",
+      "exampleTranslation": "Bu büyük bir ağaç.",
       "options": [
-        "солнце",
-        "говорить",
-        "вода",
-        "брат"
+        "çiçek",
+        "ağaç",
+        "yaprak",
+        "gül"
       ],
-      "correct": "говорить"
+      "correct": "ağaç"
     },
     {
       "id": 81,
-      "word": "есть",
-      "translation": "yemek",
-      "example": "Я использую слово «есть» в простом предложении.",
+      "word": "понедельник",
+      "translation": "pazartesi",
+      "example": "В 'понедельник' я иду в школу.",
+      "exampleTranslation": "Pazartesi günü okula gidiyorum.",
       "options": [
-        "писать",
-        "закрыть",
-        "холодный",
-        "есть"
+        "salı",
+        "pazartesi",
+        "cumartesi",
+        "perşembe"
       ],
-      "correct": "есть"
+      "correct": "pazartesi"
     },
     {
       "id": 82,
-      "word": "пить",
-      "translation": "içmek",
-      "example": "Я использую слово «пить» в простом предложении.",
+      "word": "вторник",
+      "translation": "salı",
+      "example": "Мы встречаемся во 'вторник'.",
+      "exampleTranslation": "Salı günü buluşuyoruz.",
       "options": [
-        "приходить",
-        "привет",
-        "пить",
-        "счастливый"
+        "pazartesi",
+        "salı",
+        "çarşamba",
+        "cuma"
       ],
-      "correct": "пить"
+      "correct": "salı"
     },
     {
       "id": 83,
-      "word": "идти",
-      "translation": "gitmek",
-      "example": "Я использую слово «идти» в простом предложении.",
+      "word": "среда",
+      "translation": "çarşamba",
+      "example": "В 'среду' у меня урок музыки.",
+      "exampleTranslation": "Çarşamba günü müzik dersim var.",
       "options": [
-        "солнце",
-        "холодный",
-        "бумага",
-        "идти"
+        "çarşamba",
+        "perşembe",
+        "cuma",
+        "cumartesi"
       ],
-      "correct": "идти"
+      "correct": "çarşamba"
     },
     {
       "id": 84,
-      "word": "приходить",
-      "translation": "gelmek",
-      "example": "Я использую слово «приходить» в простом предложении.",
+      "word": "объяснять",
+      "translation": "açıklamak",
+      "example": "Учитель хорошо 'объясняет' новую тему.",
+      "exampleTranslation": "Öğretmen yeni konuyu iyi açıklıyor.",
       "options": [
-        "приходить",
-        "холодный",
-        "небо",
-        "идти"
+        "açıklamak",
+        "anlamak",
+        "yazmak",
+        "okumak"
       ],
-      "correct": "приходить"
+      "correct": "açıklamak"
     },
     {
       "id": 85,
-      "word": "видеть",
-      "translation": "görmek",
-      "example": "Я использую слово «видеть» в простом предложении.",
+      "word": "встречать",
+      "translation": "karşılamak, buluşmak",
+      "example": "Я 'встречаю' друзей у метро.",
+      "exampleTranslation": "Arkadaşlarımla metroda buluşuyorum.",
       "options": [
-        "маленький",
-        "большой",
-        "видеть",
-        "завтра"
+        "buluşmak",
+        "görmek",
+        "gelmek",
+        "yürümek"
       ],
-      "correct": "видеть"
+      "correct": "karşılamak, buluşmak"
     },
     {
       "id": 86,
-      "word": "знать",
-      "translation": "bilmek",
-      "example": "Я использую слово «знать» в простом предложении.",
+      "word": "приглашать",
+      "translation": "davet etmek",
+      "example": "Я хочу 'пригласить' тебя на мой день рождения.",
+      "exampleTranslation": "Doğum günüme seni davet etmek istiyorum.",
       "options": [
-        "утро",
-        "сахар",
-        "знать",
-        "время"
+        "istemek",
+        "çağırmak",
+        "davet etmek",
+        "beklemek"
       ],
-      "correct": "знать"
+      "correct": "davet etmek"
     },
     {
       "id": 87,
-      "word": "думать",
-      "translation": "düşünmek",
-      "example": "Я использую слово «думать» в простом предложении.",
+      "word": "звонить",
+      "translation": "aramak",
+      "example": "Он часто 'звонит' своей маме.",
+      "exampleTranslation": "Annesini sık sık arar.",
       "options": [
-        "идти",
-        "думать",
-        "есть",
-        "семья"
+        "yazmak",
+        "aramak",
+        "dinlemek",
+        "görmek"
       ],
-      "correct": "думать"
+      "correct": "aramak"
     },
     {
       "id": 88,
-      "word": "работать",
-      "translation": "çalışmak",
-      "example": "Я использую слово «работать» в простом предложении.",
+      "word": "решать",
+      "translation": "karar vermek, çözmek",
+      "example": "Мы должны 'решить' эту проблему вместе.",
+      "exampleTranslation": "Bu sorunu birlikte çözmeliyiz.",
       "options": [
-        "работать",
-        "думать",
-        "плохой",
-        "время"
+        "düşünmek",
+        "çözmek",
+        "sormak",
+        "anlatmak"
       ],
-      "correct": "работать"
+      "correct": "karar vermek, çözmek"
     },
     {
       "id": 89,
-      "word": "учиться",
-      "translation": "öğrenmek",
-      "example": "Я использую слово «учиться» в простом предложении.",
+      "word": "использовать",
+      "translation": "kullanmak",
+      "example": "Я 'использую' компьютер для учёбы.",
+      "exampleTranslation": "Ders çalışmak için bilgisayar kullanıyorum.",
       "options": [
-        "небо",
-        "грустный",
-        "учиться",
-        "семья"
+        "taşımak",
+        "kullanmak",
+        "açmak",
+        "yazmak"
       ],
-      "correct": "учиться"
+      "correct": "kullanmak"
     },
     {
       "id": 90,
-      "word": "играть",
-      "translation": "oynamak",
-      "example": "Я использую слово «играть» в простом предложении.",
+      "word": "создавать",
+      "translation": "oluşturmak",
+      "example": "Компания 'создаёт' новое приложение.",
+      "exampleTranslation": "Şirket yeni bir uygulama oluşturuyor.",
       "options": [
-        "играть",
-        "видеть",
-        "приходить",
-        "день"
+        "oluşturmak",
+        "yapmak",
+        "satmak",
+        "okumak"
       ],
-      "correct": "играть"
+      "correct": "oluşturmak"
+    },
+    {
+      "id": 91,
+      "word": "помогать",
+      "translation": "yardım etmek",
+      "example": "Я всегда 'помогаю' своим друзьям.",
+      "exampleTranslation": "Her zaman arkadaşlarıma yardım ederim.",
+      "options": [
+        "istemek",
+        "yardım etmek",
+        "öğretmek",
+        "sormak"
+      ],
+      "correct": "yardım etmek"
+    },
+    {
+      "id": 92,
+      "word": "изучать",
+      "translation": "öğrenmek, incelemek",
+      "example": "Мы 'изучаем' русский язык в университете.",
+      "exampleTranslation": "Üniversitede Rusça öğreniyoruz.",
+      "options": [
+        "okumak",
+        "öğrenmek",
+        "dinlemek",
+        "yazmak"
+      ],
+      "correct": "öğrenmek, incelemek"
+    },
+    {
+      "id": 93,
+      "word": "находить",
+      "translation": "bulmak",
+      "example": "Я не могу 'найти' свои ключи.",
+      "exampleTranslation": "Anahtarlarımı bulamıyorum.",
+      "options": [
+        "aramak",
+        "bulmak",
+        "unutmak",
+        "taşımak"
+      ],
+      "correct": "bulmak"
+    },
+    {
+      "id": 94,
+      "word": "терять",
+      "translation": "kaybetmek",
+      "example": "Он часто 'теряет' телефон.",
+      "exampleTranslation": "Sık sık telefonunu kaybeder.",
+      "options": [
+        "kaybetmek",
+        "bulmak",
+        "unutmak",
+        "aramak"
+      ],
+      "correct": "kaybetmek"
+    },
+    {
+      "id": 95,
+      "word": "покупать",
+      "translation": "satın almak",
+      "example": "Я 'покупаю' продукты в супермаркете.",
+      "exampleTranslation": "Süpermarketten yiyecek alıyorum.",
+      "options": [
+        "satmak",
+        "satın almak",
+        "göstermek",
+        "taşımak"
+      ],
+      "correct": "satın almak"
+    },
+    {
+      "id": 96,
+      "word": "продавать",
+      "translation": "satmak",
+      "example": "Он 'продаёт' машины уже десять лет.",
+      "exampleTranslation": "O, on yıldır araba satıyor.",
+      "options": [
+        "satmak",
+        "almak",
+        "taşımak",
+        "kapatmak"
+      ],
+      "correct": "satmak"
+    },
+    {
+      "id": 97,
+      "word": "вспоминать",
+      "translation": "hatırlamak",
+      "example": "Я хорошо 'вспоминаю' своё детство.",
+      "exampleTranslation": "Çocukluğumu iyi hatırlıyorum.",
+      "options": [
+        "unutmak",
+        "hatırlamak",
+        "bilmek",
+        "düşünmek"
+      ],
+      "correct": "hatırlamak"
+    },
+    {
+      "id": 98,
+      "word": "забывать",
+      "translation": "unutmak",
+      "example": "Я иногда 'забываю' выключить свет.",
+      "exampleTranslation": "Bazen ışığı kapatmayı unuturum.",
+      "options": [
+        "unutmak",
+        "hatırlamak",
+        "bilmek",
+        "yazmak"
+      ],
+      "correct": "unutmak"
+    },
+    {
+      "id": 99,
+      "word": "думать",
+      "translation": "düşünmek",
+      "example": "Я часто 'думаю' о будущем.",
+      "exampleTranslation": "Sık sık geleceği düşünürüm.",
+      "options": [
+        "sormak",
+        "düşünmek",
+        "konuşmak",
+        "duymak"
+      ],
+      "correct": "düşünmek"
+    },
+    {
+      "id": 100,
+      "word": "верить",
+      "translation": "inanmak",
+      "example": "Она 'верит' в любовь.",
+      "exampleTranslation": "Aşka inanıyor.",
+      "options": [
+        "inanmak",
+        "bilmek",
+        "düşünmek",
+        "konuşmak"
+      ],
+      "correct": "inanmak"
+    },
+    {
+      "id": 101,
+      "word": "мечтать",
+      "translation": "hayal etmek",
+      "example": "Я 'мечтаю' путешествовать по миру.",
+      "exampleTranslation": "Dünyayı gezmeyi hayal ediyorum.",
+      "options": [
+        "hayal etmek",
+        "planlamak",
+        "çalışmak",
+        "görmek"
+      ],
+      "correct": "hayal etmek"
+    },
+    {
+      "id": 102,
+      "word": "путешествовать",
+      "translation": "seyahat etmek",
+      "example": "Мы любим 'путешествовать' летом.",
+      "exampleTranslation": "Yazın seyahat etmeyi severiz.",
+      "options": [
+        "çalışmak",
+        "gezmek",
+        "seyahat etmek",
+        "okumak"
+      ],
+      "correct": "seyahat etmek"
+    },
+    {
+      "id": 103,
+      "word": "улыбаться",
+      "translation": "gülümsemek",
+      "example": "Она всегда 'улыбается' людям.",
+      "exampleTranslation": "O, insanlara her zaman gülümser.",
+      "options": [
+        "ağlamak",
+        "gülümsemek",
+        "konuşmak",
+        "susmak"
+      ],
+      "correct": "gülümsemek"
+    },
+    {
+      "id": 104,
+      "word": "плакать",
+      "translation": "ağlamak",
+      "example": "Ребёнок 'плачет', потому что голоден.",
+      "exampleTranslation": "Çocuk ağlıyor çünkü aç.",
+      "options": [
+        "ağlamak",
+        "gülmek",
+        "koşmak",
+        "yazmak"
+      ],
+      "correct": "ağlamak"
+    },
+    {
+      "id": 105,
+      "word": "смеяться",
+      "translation": "gülmek",
+      "example": "Мы много 'смеялись' вчера вечером.",
+      "exampleTranslation": "Dün akşam çok güldük.",
+      "options": [
+        "ağlamak",
+        "gülmek",
+        "koşmak",
+        "okumak"
+      ],
+      "correct": "gülmek"
+    },
+    {
+      "id": 106,
+      "word": "участвовать",
+      "translation": "katılmak",
+      "example": "Он любит 'участвовать' в школьных проектах.",
+      "exampleTranslation": "Okul projelerine katılmayı sever.",
+      "options": [
+        "katılmak",
+        "izlemek",
+        "öğretmek",
+        "dinlemek"
+      ],
+      "correct": "katılmak"
+    },
+    {
+      "id": 107,
+      "word": "развивать",
+      "translation": "geliştirmek",
+      "example": "Эта программа помогает 'развивать' навыки общения.",
+      "exampleTranslation": "Bu program iletişim becerilerini geliştirmeye yardımcı olur.",
+      "options": [
+        "öğretmek",
+        "geliştirmek",
+        "başlatmak",
+        "bitirmek"
+      ],
+      "correct": "geliştirmek"
+    },
+    {
+      "id": 108,
+      "word": "обсуждать",
+      "translation": "tartışmak",
+      "example": "Мы часто 'обсуждаем' новости за ужином.",
+      "exampleTranslation": "Akşam yemeğinde sık sık haberleri tartışırız.",
+      "options": [
+        "sormak",
+        "tartışmak",
+        "yazmak",
+        "anlatmak"
+      ],
+      "correct": "tartışmak"
+    },
+    {
+      "id": 109,
+      "word": "организовать",
+      "translation": "düzenlemek",
+      "example": "Она помогла 'организовать' конференцию.",
+      "exampleTranslation": "Konferansı düzenlemeye yardım etti.",
+      "options": [
+        "düzenlemek",
+        "katılmak",
+        "planlamak",
+        "anlatmak"
+      ],
+      "correct": "düzenlemek"
+    },
+    {
+      "id": 110,
+      "word": "проверять",
+      "translation": "kontrol etmek",
+      "example": "Учитель 'проверяет' домашние задания.",
+      "exampleTranslation": "Öğretmen ödevleri kontrol ediyor.",
+      "options": [
+        "kontrol etmek",
+        "okumak",
+        "yazmak",
+        "öğretmek"
+      ],
+      "correct": "kontrol etmek"
+    },
+    {
+      "id": 111,
+      "word": "сравнивать",
+      "translation": "karşılaştırmak",
+      "example": "Я 'сравниваю' цены в разных магазинах.",
+      "exampleTranslation": "Farklı mağazalardaki fiyatları karşılaştırıyorum.",
+      "options": [
+        "karşılaştırmak",
+        "hesaplamak",
+        "bulmak",
+        "satmak"
+      ],
+      "correct": "karşılaştırmak"
+    },
+    {
+      "id": 112,
+      "word": "предлагать",
+      "translation": "önermek",
+      "example": "Он 'предложил' интересную идею.",
+      "exampleTranslation": "İlginç bir fikir önerdi.",
+      "options": [
+        "anlatmak",
+        "öğretmek",
+        "önermek",
+        "tavsiye etmek"
+      ],
+      "correct": "önermek"
+    },
+    {
+      "id": 113,
+      "word": "обещать",
+      "translation": "söz vermek",
+      "example": "Я 'обещаю' прийти вовремя.",
+      "exampleTranslation": "Zamanında geleceğime söz veriyorum.",
+      "options": [
+        "söz vermek",
+        "beklemek",
+        "yardım etmek",
+        "aramak"
+      ],
+      "correct": "söz vermek"
+    },
+    {
+      "id": 114,
+      "word": "приглашение",
+      "translation": "davet",
+      "example": "Спасибо за 'приглашение' на ужин.",
+      "exampleTranslation": "Akşam yemeği daveti için teşekkürler.",
+      "options": [
+        "davet",
+        "hediye",
+        "plan",
+        "toplantı"
+      ],
+      "correct": "davet"
+    },
+    {
+      "id": 115,
+      "word": "праздновать",
+      "translation": "kutlamak",
+      "example": "Мы будем 'праздновать' Новый год вместе.",
+      "exampleTranslation": "Yeni Yılı birlikte kutlayacağız.",
+      "options": [
+        "kutlamak",
+        "beklemek",
+        "hazırlamak",
+        "gezmek"
+      ],
+      "correct": "kutlamak"
+    },
+    {
+      "id": 116,
+      "word": "событие",
+      "translation": "olay",
+      "example": "Это важное 'событие' для всей семьи.",
+      "exampleTranslation": "Bu tüm aile için önemli bir olay.",
+      "options": [
+        "haber",
+        "olay",
+        "toplantı",
+        "plan"
+      ],
+      "correct": "olay"
+    },
+    {
+      "id": 117,
+      "word": "настроение",
+      "translation": "ruh hali",
+      "example": "У меня сегодня хорошее 'настроение'.",
+      "exampleTranslation": "Bugün moralim iyi.",
+      "options": [
+        "hava",
+        "ruh hali",
+        "düşünce",
+        "enerji"
+      ],
+      "correct": "ruh hali"
+    },
+    {
+      "id": 118,
+      "word": "опыт",
+      "translation": "deneyim",
+      "example": "У него большой рабочий 'опыт'.",
+      "exampleTranslation": "Onun büyük bir iş deneyimi var.",
+      "options": [
+        "deneyim",
+        "bilgi",
+        "teori",
+        "görüş"
+      ],
+      "correct": "deneyim"
+    },
+    {
+      "id": 119,
+      "word": "будущее",
+      "translation": "gelecek",
+      "example": "Мы должны думать о 'будущем'.",
+      "exampleTranslation": "Geleceği düşünmeliyiz.",
+      "options": [
+        "geçmiş",
+        "bugün",
+        "gelecek",
+        "şimdi"
+      ],
+      "correct": "gelecek"
+    },
+    {
+      "id": 120,
+      "word": "прошлое",
+      "translation": "geçmiş",
+      "example": "Иногда нужно отпустить 'прошлое'.",
+      "exampleTranslation": "Bazen geçmişi bırakmak gerekir.",
+      "options": [
+        "gelecek",
+        "şimdi",
+        "geçmiş",
+        "umut"
+      ],
+      "correct": "geçmiş"
+    },
+    {
+      "id": 121,
+      "word": "надежда",
+      "translation": "umut",
+      "example": "У нас всегда есть 'надежда'.",
+      "exampleTranslation": "Her zaman bir umudumuz var.",
+      "options": [
+        "umut",
+        "hayal",
+        "korku",
+        "plan"
+      ],
+      "correct": "umut"
+    },
+    {
+      "id": 122,
+      "word": "страх",
+      "translation": "korku",
+      "example": "Он чувствует 'страх' перед экзаменом.",
+      "exampleTranslation": "Sınavdan önce korku hissediyor.",
+      "options": [
+        "korku",
+        "umut",
+        "sevinç",
+        "üzüntü"
+      ],
+      "correct": "korku"
+    },
+    {
+      "id": 123,
+      "word": "радость",
+      "translation": "sevinç",
+      "example": "Дети прыгают от 'радости'.",
+      "exampleTranslation": "Çocuklar sevinçten zıplıyor.",
+      "options": [
+        "üzüntü",
+        "sevinç",
+        "öfke",
+        "korku"
+      ],
+      "correct": "sevinç"
+    },
+    {
+      "id": 124,
+      "word": "печаль",
+      "translation": "üzüntü",
+      "example": "В её глазах видна 'печаль'.",
+      "exampleTranslation": "Gözlerinde bir üzüntü var.",
+      "options": [
+        "sevinç",
+        "umut",
+        "üzüntü",
+        "öfke"
+      ],
+      "correct": "üzüntü"
+    },
+    {
+      "id": 125,
+      "word": "успех",
+      "translation": "başarı",
+      "example": "Его труд принёс большой 'успех'.",
+      "exampleTranslation": "Çabası büyük bir başarı getirdi.",
+      "options": [
+        "başarı",
+        "hata",
+        "umut",
+        "deneyim"
+      ],
+      "correct": "başarı"
+    },
+    {
+      "id": 126,
+      "word": "ошибка",
+      "translation": "hata",
+      "example": "Все люди иногда делают 'ошибки'.",
+      "exampleTranslation": "Herkes bazen hata yapar.",
+      "options": [
+        "hata",
+        "başarı",
+        "plan",
+        "çözüm"
+      ],
+      "correct": "hata"
+    },
+    {
+      "id": 127,
+      "word": "память",
+      "translation": "hafıza",
+      "example": "У бабушки отличная 'память'.",
+      "exampleTranslation": "Büyükannemin hafızası mükemmel.",
+      "options": [
+        "hafıza",
+        "hayal",
+        "akıl",
+        "duygu"
+      ],
+      "correct": "hafıza"
+    },
+    {
+      "id": 128,
+      "word": "цель",
+      "translation": "hedef",
+      "example": "Моя 'цель' — стать врачом.",
+      "exampleTranslation": "Hedefim doktor olmak.",
+      "options": [
+        "amaç",
+        "hedef",
+        "hayal",
+        "umut"
+      ],
+      "correct": "hedef"
+    },
+    {
+      "id": 129,
+      "word": "природа",
+      "translation": "doğa",
+      "example": "Мы любим отдыхать на 'природе'.",
+      "exampleTranslation": "Doğada dinlenmeyi severiz.",
+      "options": [
+        "şehir",
+        "doğa",
+        "orman",
+        "deniz"
+      ],
+      "correct": "doğa"
+    },
+    {
+      "id": 130,
+      "word": "общество",
+      "translation": "toplum",
+      "example": "Каждый человек важен для 'общества'.",
+      "exampleTranslation": "Her insan toplum için önemlidir.",
+      "options": [
+        "ülke",
+        "şehir",
+        "toplum",
+        "devlet"
+      ],
+      "correct": "toplum"
+    },
+    {
+      "id": 131,
+      "word": "технология",
+      "translation": "teknoloji",
+      "example": "Современные 'технологии' быстро развиваются.",
+      "exampleTranslation": "Modern teknolojiler hızla gelişiyor.",
+      "options": [
+        "bilim",
+        "teknoloji",
+        "enerji",
+        "sanayi"
+      ],
+      "correct": "teknoloji"
+    },
+    {
+      "id": 132,
+      "word": "интернет",
+      "translation": "internet",
+      "example": "Без 'интернета' трудно представить жизнь.",
+      "exampleTranslation": "İnternetsiz bir hayatı hayal etmek zor.",
+      "options": [
+        "televizyon",
+        "internet",
+        "bilgisayar",
+        "telefon"
+      ],
+      "correct": "internet"
+    },
+    {
+      "id": 133,
+      "word": "сообщение",
+      "translation": "mesaj",
+      "example": "Я получил твоё 'сообщение' утром.",
+      "exampleTranslation": "Mesajını sabah aldım.",
+      "options": [
+        "mektup",
+        "mesaj",
+        "çağrı",
+        "bildiri"
+      ],
+      "correct": "mesaj"
+    },
+    {
+      "id": 134,
+      "word": "информация",
+      "translation": "bilgi",
+      "example": "Эта 'информация' очень полезна для студентов.",
+      "exampleTranslation": "Bu bilgi öğrenciler için çok faydalı.",
+      "options": [
+        "bilgi",
+        "haber",
+        "dosya",
+        "kitap"
+      ],
+      "correct": "bilgi"
+    },
+    {
+      "id": 135,
+      "word": "сеть",
+      "translation": "ağ",
+      "example": "Социальные 'сети' влияют на общество.",
+      "exampleTranslation": "Sosyal ağlar toplumu etkiliyor.",
+      "options": [
+        "ağ",
+        "haber",
+        "internet",
+        "bağlantı"
+      ],
+      "correct": "ağ"
+    },
+    {
+      "id": 136,
+      "word": "команда",
+      "translation": "takım",
+      "example": "Наша 'команда' выиграла матч.",
+      "exampleTranslation": "Takımımız maçı kazandı.",
+      "options": [
+        "takım",
+        "okul",
+        "grup",
+        "şirket"
+      ],
+      "correct": "takım"
+    },
+    {
+      "id": 137,
+      "word": "проект",
+      "translation": "proje",
+      "example": "Мы начали новый 'проект' по экологии.",
+      "exampleTranslation": "Ekoloji üzerine yeni bir proje başlattık.",
+      "options": [
+        "proje",
+        "çalışma",
+        "plan",
+        "deney"
+      ],
+      "correct": "proje"
+    },
+    {
+      "id": 138,
+      "word": "результат",
+      "translation": "sonuç",
+      "example": "Результаты экзамена будут завтра.",
+      "exampleTranslation": "Sınav sonuçları yarın açıklanacak.",
+      "options": [
+        "cevap",
+        "sonuç",
+        "not",
+        "puan"
+      ],
+      "correct": "sonuç"
+    },
+    {
+      "id": 139,
+      "word": "компания",
+      "translation": "şirket",
+      "example": "Наша 'компания' работает с международными партнёрами.",
+      "exampleTranslation": "Şirketimiz uluslararası ortaklarla çalışıyor.",
+      "options": [
+        "firma",
+        "okul",
+        "şirket",
+        "dernek"
+      ],
+      "correct": "şirket"
+    },
+    {
+      "id": 140,
+      "word": "возможность",
+      "translation": "fırsat",
+      "example": "Это отличная 'возможность' для роста.",
+      "exampleTranslation": "Bu gelişim için harika bir fırsat.",
+      "options": [
+        "fırsat",
+        "tehdit",
+        "amaç",
+        "hedef"
+      ],
+      "correct": "fırsat"
+    },
+    {
+      "id": 141,
+      "word": "проблема",
+      "translation": "sorun",
+      "example": "Каждая 'проблема' имеет решение.",
+      "exampleTranslation": "Her sorunun bir çözümü vardır.",
+      "options": [
+        "problem",
+        "cevap",
+        "fikir",
+        "yöntem"
+      ],
+      "correct": "sorun"
+    },
+    {
+      "id": 142,
+      "word": "решение",
+      "translation": "çözüm",
+      "example": "Мы нашли 'решение' этой задачи.",
+      "exampleTranslation": "Bu görevin çözümünü bulduk.",
+      "options": [
+        "çözüm",
+        "soru",
+        "cevap",
+        "problem"
+      ],
+      "correct": "çözüm"
+    },
+    {
+      "id": 143,
+      "word": "объявление",
+      "translation": "duyuru, ilan",
+      "example": "Я видел новое 'объявление' о работе.",
+      "exampleTranslation": "Yeni bir iş ilanı gördüm.",
+      "options": [
+        "ilan",
+        "duyuru",
+        "haber",
+        "fırsat"
+      ],
+      "correct": "duyuru, ilan"
+    },
+    {
+      "id": 144,
+      "word": "предприятие",
+      "translation": "işletme",
+      "example": "Это крупное 'предприятие' производит машины.",
+      "exampleTranslation": "Bu büyük işletme araba üretiyor.",
+      "options": [
+        "işletme",
+        "ofis",
+        "fabrika",
+        "kurum"
+      ],
+      "correct": "işletme"
+    },
+    {
+      "id": 145,
+      "word": "работодатель",
+      "translation": "işveren",
+      "example": "Мой 'работодатель' заботится о сотрудниках.",
+      "exampleTranslation": "İşverenim çalışanlarla ilgileniyor.",
+      "options": [
+        "çalışan",
+        "işveren",
+        "müdür",
+        "patron"
+      ],
+      "correct": "işveren"
+    },
+    {
+      "id": 146,
+      "word": "зарплата",
+      "translation": "maaş",
+      "example": "Я получил 'зарплату' вчера.",
+      "exampleTranslation": "Dün maaşımı aldım.",
+      "options": [
+        "ücret",
+        "maaş",
+        "prim",
+        "borç"
+      ],
+      "correct": "maaş"
+    },
+    {
+      "id": 147,
+      "word": "сотрудник",
+      "translation": "çalışan",
+      "example": "Каждый 'сотрудник' важен для успеха компании.",
+      "exampleTranslation": "Her çalışan şirketin başarısı için önemlidir.",
+      "options": [
+        "patron",
+        "çalışan",
+        "yönetici",
+        "müşteri"
+      ],
+      "correct": "çalışan"
+    },
+    {
+      "id": 148,
+      "word": "встреча",
+      "translation": "toplantı, buluşma",
+      "example": "Завтра у нас важная 'встреча' с клиентом.",
+      "exampleTranslation": "Yarın müşterimizle önemli bir toplantımız var.",
+      "options": [
+        "görüşme",
+        "toplantı",
+        "tatil",
+        "sözleşme"
+      ],
+      "correct": "toplantı, buluşma"
+    },
+    {
+      "id": 149,
+      "word": "письмо",
+      "translation": "mektup",
+      "example": "Я написал длинное 'письмо' другу.",
+      "exampleTranslation": "Arkadaşıma uzun bir mektup yazdım.",
+      "options": [
+        "e-posta",
+        "mektup",
+        "not",
+        "mesaj"
+      ],
+      "correct": "mektup"
+    },
+    {
+      "id": 150,
+      "word": "новость",
+      "translation": "haber",
+      "example": "Эта 'новость' удивила всех.",
+      "exampleTranslation": "Bu haber herkesi şaşırttı.",
+      "options": [
+        "haber",
+        "bilgi",
+        "duyuru",
+        "makale"
+      ],
+      "correct": "haber"
     }
   ]
 }

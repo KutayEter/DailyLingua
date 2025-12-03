@@ -5,6 +5,7 @@ data class Word(
     val word: String,
     val translation: String,
     val example: String,
+    val exampleTranslation: String? = null,
     val options: List<String>,
     val correct: String
 )

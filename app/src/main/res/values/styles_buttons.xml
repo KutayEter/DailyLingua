@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App-wide MaterialButton style using the requested colors -->
+    <style name="Widget.DailyLingua.MaterialButton" parent="Widget.MaterialComponents.Button">
+        <!-- background tint from ColorStateList (normal + pressed) -->
+        <item name="android:backgroundTint">@color/button_background_tint</item>
+        <!-- ensure MaterialComponents attribute is also set for compatibility -->
+        <item name="backgroundTint">@color/button_background_tint</item>
+
+        <!-- text color -->
+        <item name="android:textColor">@color/button_text_color</item>
+
+        <!-- Optional: set a consistent corner radius and elevation -->
+        <item name="cornerRadius">8dp</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+</resources>

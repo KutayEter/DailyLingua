@@ -1,0 +1,1707 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "word": "Haus",
+      "translation": "ev",
+      "example": "Das Haus ist groß.",
+      "exampleTranslation": "Ev büyük.",
+      "options": ["ev", "araba", "okul", "ağaç"],
+      "correct": "ev"
+    },
+    {
+      "id": 2,
+      "word": "Auto",
+      "translation": "araba",
+      "example": "Mein Auto ist neu.",
+      "exampleTranslation": "Arabam yeni.",
+      "options": ["araba", "bisiklet", "tren", "uçak"],
+      "correct": "araba"
+    },
+    {
+      "id": 3,
+      "word": "Buch",
+      "translation": "kitap",
+      "example": "Ich lese ein Buch.",
+      "exampleTranslation": "Bir kitap okuyorum.",
+      "options": ["kitap", "gazete", "defter", "mektup"],
+      "correct": "kitap"
+    },
+    {
+      "id": 4,
+      "word": "Wasser",
+      "translation": "su",
+      "example": "Ich trinke Wasser.",
+      "exampleTranslation": "Su içiyorum.",
+      "options": ["su", "süt", "kahve", "çay"],
+      "correct": "su"
+    },
+    {
+      "id": 5,
+      "word": "Freund",
+      "translation": "arkadaş",
+      "example": "Mein Freund heißt Lukas.",
+      "exampleTranslation": "Arkadaşımın adı Lukas.",
+      "options": ["arkadaş", "kardeş", "öğretmen", "komşu"],
+      "correct": "arkadaş"
+    },
+    {
+      "id": 6,
+      "word": "Katze",
+      "translation": "kedi",
+      "example": "Die Katze schläft auf dem Sofa.",
+      "exampleTranslation": "Kedi kanepede uyuyor.",
+      "options": ["kedi", "köpek", "kuş", "balık"],
+      "correct": "kedi"
+    },
+    {
+      "id": 7,
+      "word": "Hund",
+      "translation": "köpek",
+      "example": "Der Hund läuft im Garten.",
+      "exampleTranslation": "Köpek bahçede koşuyor.",
+      "options": ["köpek", "kedi", "tavşan", "fare"],
+      "correct": "köpek"
+    },
+    {
+      "id": 8,
+      "word": "Schule",
+      "translation": "okul",
+      "example": "Die Kinder gehen zur Schule.",
+      "exampleTranslation": "Çocuklar okula gidiyor.",
+      "options": ["okul", "ev", "kütüphane", "park"],
+      "correct": "okul"
+    },
+    {
+      "id": 9,
+      "word": "Lehrer",
+      "translation": "öğretmen",
+      "example": "Der Lehrer erklärt die Aufgabe.",
+      "exampleTranslation": "Öğretmen görevi açıklıyor.",
+      "options": ["öğretmen", "öğrenci", "doktor", "polis"],
+      "correct": "öğretmen"
+    },
+    {
+      "id": 10,
+      "word": "Arbeit",
+      "translation": "iş",
+      "example": "Ich gehe jeden Tag zur Arbeit.",
+      "exampleTranslation": "Her gün işe gidiyorum.",
+      "options": ["iş", "okul", "tatil", "yemek"],
+      "correct": "iş"
+    },
+    {
+      "id": 11,
+      "word": "Stadt",
+      "translation": "şehir",
+      "example": "Berlin ist eine große Stadt.",
+      "exampleTranslation": "Berlin büyük bir şehirdir.",
+      "options": ["şehir", "ülke", "köy", "cadde"],
+      "correct": "şehir"
+    },
+    {
+      "id": 12,
+      "word": "Baum",
+           "translation": "ağaç",
+      "example": "Der Baum ist sehr alt.",
+      "exampleTranslation": "Ağaç çok yaşlı.",
+      "options": ["ağaç", "çiçek", "yaprak", "orman"],
+      "correct": "ağaç"
+    },
+    {
+      "id": 13,
+      "word": "Blume",
+      "translation": "çiçek",
+      "example": "Die Blume riecht gut.",
+      "exampleTranslation": "Çiçek güzel kokuyor.",
+      "options": ["çiçek", "ağaç", "bitki", "meyve"],
+      "correct": "çiçek"
+    },
+    {
+      "id": 14,
+      "word": "Tisch",
+      "translation": "masa",
+      "example": "Der Tisch steht im Wohnzimmer.",
+      "exampleTranslation": "Masa oturma odasında duruyor.",
+      "options": ["masa", "sandalye", "kapı", "pencere"],
+      "correct": "masa"
+    },
+    {
+      "id": 15,
+      "word": "Stuhl",
+      "translation": "sandalye",
+      "example": "Der Stuhl ist kaputt.",
+      "exampleTranslation": "Sandalye kırık.",
+      "options": ["sandalye", "masa", "yatak", "dolap"],
+      "correct": "sandalye"
+    },
+    {
+      "id": 16,
+      "word": "Tür",
+      "translation": "kapı",
+      "example": "Die Tür ist offen.",
+      "exampleTranslation": "Kapı açık.",
+      "options": ["kapı", "pencere", "duvar", "çatı"],
+      "correct": "kapı"
+    },
+    {
+      "id": 17,
+      "word": "Fenster",
+      "translation": "pencere",
+      "example": "Das Fenster ist geschlossen.",
+      "exampleTranslation": "Pencere kapalı.",
+      "options": ["pencere", "kapı", "duvar", "zemin"],
+      "correct": "pencere"
+    },
+    {
+      "id": 18,
+      "word": "Kind",
+      "translation": "çocuk",
+      "example": "Das Kind spielt im Park.",
+      "exampleTranslation": "Çocuk parkta oynuyor.",
+      "options": ["çocuk", "öğretmen", "anne", "baba"],
+      "correct": "çocuk"
+    },
+    {
+      "id": 19,
+      "word": "Eltern",
+      "translation": "ebeveynler",
+      "example": "Meine Eltern wohnen in Ankara.",
+      "exampleTranslation": "Ebeveynlerim Ankara’da yaşıyor.",
+      "options": ["ebeveynler", "kardeşler", "öğretmenler", "arkadaşlar"],
+      "correct": "ebeveynler"
+    },
+    {
+      "id": 20,
+      "word": "Arzt",
+      "translation": "doktor",
+      "example": "Der Arzt hilft den Patienten.",
+      "exampleTranslation": "Doktor hastalara yardım ediyor.",
+      "options": ["doktor", "hemşire", "öğretmen", "polis"],
+      "correct": "doktor"
+    },
+    {
+      "id": 21,
+      "word": "Brot",
+      "translation": "ekmek",
+      "example": "Ich esse Brot zum Frühstück.",
+      "exampleTranslation": "Kahvaltıda ekmek yiyorum.",
+      "options": ["ekmek", "peynir", "yumurta", "çorba"],
+      "correct": "ekmek"
+    },
+    {
+      "id": 22,
+      "word": "Milch",
+      "translation": "süt",
+      "example": "Das Kind trinkt Milch.",
+      "exampleTranslation": "Çocuk süt içiyor.",
+      "options": ["süt", "su", "kahve", "meyve suyu"],
+      "correct": "süt"
+    },
+    {
+      "id": 23,
+      "word": "Apfel",
+      "translation": "elma",
+      "example": "Der Apfel ist rot und süß.",
+      "exampleTranslation": "Elma kırmızı ve tatlı.",
+      "options": ["elma", "muz", "portakal", "üzüm"],
+      "correct": "elma"
+    },
+    {
+      "id": 24,
+      "word": "Tag",
+      "translation": "gün",
+      "example": "Heute ist ein schöner Tag.",
+      "exampleTranslation": "Bugün güzel bir gün.",
+      "options": ["gün", "hafta", "yıl", "ay"],
+      "correct": "gün"
+    },
+    {
+      "id": 25,
+      "word": "Woche",
+      "translation": "hafta",
+      "example": "Eine Woche hat sieben Tage.",
+      "exampleTranslation": "Bir hafta yedi gündür.",
+      "options": ["hafta", "gün", "ay", "yıl"],
+      "correct": "hafta"
+    }
+  ]
+}
+{
+  "words": [
+    {
+      "id": 26,
+      "word": "Monat",
+      "translation": "ay",
+      "example": "Ein Monat hat dreißig Tage.",
+      "exampleTranslation": "Bir ay otuz gündür.",
+      "options": ["ay", "hafta", "gün", "yıl"],
+      "correct": "ay"
+    },
+    {
+      "id": 27,
+      "word": "Jahr",
+      "translation": "yıl",
+      "example": "Ein Jahr hat zwölf Monate.",
+      "exampleTranslation": "Bir yıl on iki aydır.",
+      "options": ["yıl", "hafta", "gün", "ay"],
+      "correct": "yıl"
+    },
+    {
+      "id": 28,
+      "word": "Zeit",
+      "translation": "zaman",
+      "example": "Ich habe heute keine Zeit.",
+      "exampleTranslation": "Bugün vaktim yok.",
+      "options": ["zaman", "para", "enerji", "sabır"],
+      "correct": "zaman"
+    },
+    {
+      "id": 29,
+      "word": "Tag",
+      "translation": "gün",
+      "example": "Guten Tag, wie geht es dir?",
+      "exampleTranslation": "Günaydın, nasılsın?",
+      "options": ["gün", "hafta", "sabah", "öğle"],
+      "correct": "gün"
+    },
+    {
+      "id": 30,
+      "word": "Abend",
+      "translation": "akşam",
+      "example": "Am Abend sehe ich fern.",
+      "exampleTranslation": "Akşam televizyon izlerim.",
+      "options": ["akşam", "sabah", "öğle", "gece"],
+      "correct": "akşam"
+    },
+    {
+      "id": 31,
+      "word": "Morgen",
+      "translation": "sabah",
+      "example": "Am Morgen trinke ich Kaffee.",
+      "exampleTranslation": "Sabah kahve içerim.",
+      "options": ["sabah", "akşam", "öğle", "gece"],
+      "correct": "sabah"
+    },
+    {
+      "id": 32,
+      "word": "Nacht",
+      "translation": "gece",
+      "example": "In der Nacht ist es still.",
+      "exampleTranslation": "Gece sessizdir.",
+      "options": ["gece", "gündüz", "akşam", "sabah"],
+      "correct": "gece"
+    },
+    {
+      "id": 33,
+      "word": "Wetter",
+      "translation": "hava durumu",
+      "example": "Das Wetter ist heute schön.",
+      "exampleTranslation": "Bugün hava güzel.",
+      "options": ["hava durumu", "mevsim", "rüzgar", "yağmur"],
+      "correct": "hava durumu"
+    },
+    {
+      "id": 34,
+      "word": "Sonne",
+      "translation": "güneş",
+      "example": "Die Sonne scheint.",
+      "exampleTranslation": "Güneş parlıyor.",
+      "options": ["güneş", "ay", "yıldız", "bulut"],
+      "correct": "güneş"
+    },
+    {
+      "id": 35,
+      "word": "Regen",
+      "translation": "yağmur",
+      "example": "Es regnet heute.",
+      "exampleTranslation": "Bugün yağmur yağıyor.",
+      "options": ["yağmur", "kar", "rüzgar", "fırtına"],
+      "correct": "yağmur"
+    },
+    {
+      "id": 36,
+      "word": "Schnee",
+      "translation": "kar",
+      "example": "Im Winter fällt Schnee.",
+      "exampleTranslation": "Kışın kar yağar.",
+      "options": ["kar", "yağmur", "rüzgar", "buz"],
+      "correct": "kar"
+    },
+    {
+      "id": 37,
+      "word": "Wind",
+      "translation": "rüzgar",
+      "example": "Der Wind ist stark.",
+      "exampleTranslation": "Rüzgar güçlü.",
+      "options": ["rüzgar", "yağmur", "kar", "güneş"],
+      "correct": "rüzgar"
+    },
+    {
+      "id": 38,
+      "word": "Himmel",
+      "translation": "gökyüzü",
+      "example": "Der Himmel ist blau.",
+      "exampleTranslation": "Gökyüzü mavi.",
+      "options": ["gökyüzü", "deniz", "orman", "toprak"],
+      "correct": "gökyüzü"
+    },
+    {
+      "id": 39,
+      "word": "Meer",
+      "translation": "deniz",
+      "example": "Ich schwimme im Meer.",
+      "exampleTranslation": "Denizde yüzüyorum.",
+      "options": ["deniz", "göl", "nehir", "havuz"],
+      "correct": "deniz"
+    },
+    {
+      "id": 40,
+      "word": "Berg",
+      "translation": "dağ",
+      "example": "Wir wandern auf den Berg.",
+      "exampleTranslation": "Dağa tırmanıyoruz.",
+      "options": ["dağ", "tepe", "ova", "nehir"],
+      "correct": "dağ"
+    },
+    {
+      "id": 41,
+      "word": "Straße",
+      "translation": "sokak, cadde",
+      "example": "Die Straße ist sehr lang.",
+      "exampleTranslation": "Cadde çok uzun.",
+      "options": ["sokak", "köprü", "ev", "park"],
+      "correct": "sokak"
+    },
+    {
+      "id": 42,
+      "word": "Brücke",
+      "translation": "köprü",
+      "example": "Die Brücke ist alt.",
+      "exampleTranslation": "Köprü eski.",
+      "options": ["köprü", "yol", "bina", "nehir"],
+      "correct": "köprü"
+    },
+    {
+      "id": 43,
+      "word": "Zug",
+      "translation": "tren",
+      "example": "Der Zug kommt um neun Uhr.",
+      "exampleTranslation": "Tren saat dokuzda geliyor.",
+      "options": ["tren", "otobüs", "araba", "uçak"],
+      "correct": "tren"
+    },
+    {
+      "id": 44,
+      "word": "Bus",
+      "translation": "otobüs",
+      "example": "Ich fahre mit dem Bus zur Arbeit.",
+      "exampleTranslation": "İşe otobüsle gidiyorum.",
+      "options": ["otobüs", "tren", "araba", "uçak"],
+      "correct": "otobüs"
+    },
+    {
+      "id": 45,
+      "word": "Flugzeug",
+      "translation": "uçak",
+      "example": "Das Flugzeug fliegt nach Berlin.",
+      "exampleTranslation": "Uçak Berlin’e uçuyor.",
+      "options": ["uçak", "tren", "otobüs", "gemi"],
+      "correct": "uçak"
+    },
+    {
+      "id": 46,
+      "word": "Schiff",
+      "translation": "gemi",
+      "example": "Das Schiff fährt über das Meer.",
+      "exampleTranslation": "Gemi denizin üzerinden gidiyor.",
+      "options": ["gemi", "tekne", "uçak", "araba"],
+      "correct": "gemi"
+    },
+    {
+      "id": 47,
+      "word": "Arztpraxis",
+      "translation": "muayenehane",
+      "example": "Die Arztpraxis ist in der Stadtmitte.",
+      "exampleTranslation": "Muayenehane şehir merkezinde.",
+      "options": ["muayenehane", "okul", "ev", "hastane"],
+      "correct": "muayenehane"
+    },
+    {
+      "id": 48,
+      "word": "Bäckerei",
+      "translation": "fırın",
+      "example": "Ich kaufe Brot in der Bäckerei.",
+      "exampleTranslation": "Fırından ekmek alıyorum.",
+      "options": ["fırın", "kasap", "market", "restoran"],
+      "correct": "fırın"
+    },
+    {
+      "id": 49,
+      "word": "Supermarkt",
+      "translation": "süpermarket",
+      "example": "Im Supermarkt gibt es viele Früchte.",
+      "exampleTranslation": "Süpermarkette birçok meyve var.",
+      "options": ["süpermarket", "fırın", "kafe", "eczane"],
+      "correct": "süpermarket"
+    },
+    {
+      "id": 50,
+      "word": "Restaurant",
+      "translation": "restoran",
+      "example": "Wir essen Pizza im Restaurant.",
+      "exampleTranslation": "Restoranda pizza yiyoruz.",
+      "options": ["restoran", "kafe", "bar", "ev"],
+      "correct": "restoran"
+    }
+  ]
+}
+{
+  "words": [
+    {
+      "id": 101,
+      "word": "Reise",
+      "translation": "seyahat",
+      "example": "Die Reise nach Italien war wunderbar.",
+      "exampleTranslation": "İtalya’ya yapılan seyahat harikaydı.",
+      "options": ["seyahat", "yemek", "iş", "tatil"],
+      "correct": "seyahat"
+    },
+    {
+      "id": 102,
+      "word": "Erfahrung",
+      "translation": "deneyim",
+      "example": "Ich habe viel Erfahrung in diesem Beruf.",
+      "exampleTranslation": "Bu meslekte çok deneyimim var.",
+      "options": ["deneyim", "bilgi", "fikir", "öneri"],
+      "correct": "deneyim"
+    },
+    {
+      "id": 103,
+      "word": "Zukunft",
+      "translation": "gelecek",
+      "example": "Ich denke oft über meine Zukunft nach.",
+      "exampleTranslation": "Geleceğim hakkında sık sık düşünürüm.",
+      "options": ["gelecek", "geçmiş", "şimdi", "plan"],
+      "correct": "gelecek"
+    },
+    {
+      "id": 104,
+      "word": "Vergangenheit",
+      "translation": "geçmiş",
+      "example": "Man sollte aus der Vergangenheit lernen.",
+      "exampleTranslation": "İnsan geçmişten ders almalıdır.",
+      "options": ["geçmiş", "gelecek", "şimdi", "yarın"],
+      "correct": "geçmiş"
+    },
+    {
+      "id": 105,
+      "word": "Chance",
+      "translation": "fırsat",
+      "example": "Diese Arbeit ist eine gute Chance für mich.",
+      "exampleTranslation": "Bu iş benim için iyi bir fırsat.",
+      "options": ["fırsat", "tehlike", "risk", "problem"],
+      "correct": "fırsat"
+    },
+    {
+      "id": 106,
+      "word": "Entscheidung",
+      "translation": "karar",
+      "example": "Ich habe eine schwierige Entscheidung getroffen.",
+      "exampleTranslation": "Zor bir karar verdim.",
+      "options": ["karar", "soru", "cevap", "plan"],
+      "correct": "karar"
+    },
+    {
+      "id": 107,
+      "word": "Verantwortung",
+      "translation": "sorumluluk",
+      "example": "Eltern haben viel Verantwortung für ihre Kinder.",
+      "exampleTranslation": "Ebeveynlerin çocukları için çok sorumluluğu vardır.",
+      "options": ["sorumluluk", "görev", "hak", "özgürlük"],
+      "correct": "sorumluluk"
+    },
+    {
+      "id": 108,
+      "word": "Erfolg",
+      "translation": "başarı",
+      "example": "Mit harter Arbeit kommt der Erfolg.",
+      "exampleTranslation": "Sıkı çalışmayla başarı gelir.",
+      "options": ["başarı", "başarısızlık", "plan", "şans"],
+      "correct": "başarı"
+    },
+    {
+      "id": 109,
+      "word": "Fehler",
+      "translation": "hata",
+      "example": "Jeder macht manchmal einen Fehler.",
+      "exampleTranslation": "Herkes bazen hata yapar.",
+      "options": ["hata", "başarı", "fikir", "çözüm"],
+      "correct": "hata"
+    },
+    {
+      "id": 110,
+      "word": "Geduld",
+      "translation": "sabır",
+      "example": "Man braucht Geduld, um ein neues Hobby zu lernen.",
+      "exampleTranslation": "Yeni bir hobi öğrenmek için sabır gerekir.",
+      "options": ["sabır", "öfke", "cesaret", "umut"],
+      "correct": "sabır"
+    },
+    {
+      "id": 111,
+      "word": "Mut",
+      "translation": "cesaret",
+      "example": "Manchmal braucht man Mut, um Neues zu versuchen.",
+      "exampleTranslation": "Bazen yeni şeyler denemek için cesaret gerekir.",
+      "options": ["cesaret", "korku", "umut", "sabır"],
+      "correct": "cesaret"
+    },
+    {
+      "id": 112,
+      "word": "Vertrauen",
+      "translation": "güven",
+      "example": "Vertrauen ist wichtig in einer Freundschaft.",
+      "exampleTranslation": "Güven bir arkadaşlıkta önemlidir.",
+      "options": ["güven", "saygı", "yardım", "sabır"],
+      "correct": "güven"
+    },
+    {
+      "id": 113,
+      "word": "Hoffnung",
+      "translation": "umut",
+      "example": "Ich habe Hoffnung auf eine bessere Zukunft.",
+      "exampleTranslation": "Daha iyi bir gelecek için umudum var.",
+      "options": ["umut", "korku", "öfke", "sabır"],
+      "correct": "umut"
+    },
+    {
+      "id": 114,
+      "word": "Freiheit",
+      "translation": "özgürlük",
+      "example": "Freiheit ist für alle Menschen wichtig.",
+      "exampleTranslation": "Özgürlük tüm insanlar için önemlidir.",
+      "options": ["özgürlük", "kontrol", "güç", "zenginlik"],
+      "correct": "özgürlük"
+    },
+    {
+      "id": 115,
+      "word": "Gesundheit",
+      "translation": "sağlık",
+      "example": "Gesundheit ist wichtiger als Geld.",
+      "exampleTranslation": "Sağlık, paradan daha önemlidir.",
+      "options": ["sağlık", "para", "iş", "zaman"],
+      "correct": "sağlık"
+    },
+    {
+      "id": 116,
+      "word": "Armut",
+      "translation": "yoksulluk",
+      "example": "Armut ist ein großes Problem in der Welt.",
+      "exampleTranslation": "Yoksulluk dünyada büyük bir problemdir.",
+      "options": ["yoksulluk", "zenginlik", "adalet", "umut"],
+      "correct": "yoksulluk"
+    },
+    {
+      "id": 117,
+      "word": "Bildung",
+      "translation": "eğitim",
+      "example": "Bildung ist der Schlüssel zum Erfolg.",
+      "exampleTranslation": "Eğitim başarının anahtarıdır.",
+      "options": ["eğitim", "çalışma", "para", "deneyim"],
+      "correct": "eğitim"
+    },
+    {
+      "id": 118,
+      "word": "Umwelt",
+      "translation": "çevre",
+      "example": "Wir müssen unsere Umwelt schützen.",
+      "exampleTranslation": "Çevremizi korumalıyız.",
+      "options": ["çevre", "hava", "iklim", "orman"],
+      "correct": "çevre"
+    },
+    {
+      "id": 119,
+      "word": "Kultur",
+      "translation": "kültür",
+      "example": "Jedes Land hat seine eigene Kultur.",
+      "exampleTranslation": "Her ülkenin kendi kültürü vardır.",
+      "options": ["kültür", "tarih", "müzik", "gelenek"],
+      "correct": "kültür"
+    },
+    {
+      "id": 120,
+      "word": "Tradition",
+      "translation": "gelenek",
+      "example": "Weihnachten ist eine alte Tradition.",
+      "exampleTranslation": "Noel eski bir gelenektir.",
+      "options": ["gelenek", "kural", "alışkanlık", "kutlama"],
+      "correct": "gelenek"
+    },
+    {
+      "id": 121,
+      "word": "Gesellschaft",
+      "translation": "toplum",
+      "example": "Eine gute Gesellschaft achtet auf Gerechtigkeit.",
+      "exampleTranslation": "İyi bir toplum adalete önem verir.",
+      "options": ["toplum", "aile", "hükümet", "grup"],
+      "correct": "toplum"
+    },
+    {
+      "id": 122,
+      "word": "Regierung",
+      "translation": "hükümet",
+      "example": "Die Regierung hat neue Regeln beschlossen.",
+      "exampleTranslation": "Hükümet yeni kurallar kararlaştırdı.",
+      "options": ["hükümet", "meclis", "bakan", "başkan"],
+      "correct": "hükümet"
+    },
+    {
+      "id": 123,
+      "word": "Politik",
+      "translation": "siyaset",
+      "example": "Ich interessiere mich nicht für Politik.",
+      "exampleTranslation": "Siyasetle ilgilenmiyorum.",
+      "options": ["siyaset", "tarih", "ekonomi", "hukuk"],
+      "correct": "siyaset"
+    },
+    {
+      "id": 124,
+      "word": "Technologie",
+      "translation": "teknoloji",
+      "example": "Technologie verändert unser Leben schnell.",
+      "exampleTranslation": "Teknoloji hayatımızı hızla değiştiriyor.",
+      "options": ["teknoloji", "bilim", "sanat", "ekonomi"],
+      "correct": "teknoloji"
+    },
+    {
+      "id": 125,
+      "word": "Internet",
+      "translation": "internet",
+      "example": "Das Internet ist ein wichtiger Teil des Lebens.",
+      "exampleTranslation": "İnternet hayatın önemli bir parçasıdır.",
+      "options": ["internet", "televizyon", "telefon", "bilgisayar"],
+      "correct": "internet"
+    }
+  ]
+}
+{
+  "words": [
+    {
+      "id": 151,
+      "word": "Forschung",
+      "translation": "araştırma",
+      "example": "Die Forschung zeigt neue Ergebnisse über das Klima.",
+      "exampleTranslation": "Araştırma iklim hakkında yeni sonuçlar gösteriyor.",
+      "options": ["araştırma", "deney", "kitap", "proje"],
+      "correct": "araştırma"
+    },
+    {
+      "id": 152,
+      "word": "Wissenschaft",
+      "translation": "bilim",
+      "example": "Die Wissenschaft entwickelt sich ständig weiter.",
+      "exampleTranslation": "Bilim sürekli olarak gelişmektedir.",
+      "options": ["bilim", "sanat", "teknoloji", "matematik"],
+      "correct": "bilim"
+    },
+    {
+      "id": 153,
+      "word": "Entwicklung",
+      "translation": "gelişim",
+      "example": "Die Entwicklung neuer Technologien ist wichtig.",
+      "exampleTranslation": "Yeni teknolojilerin gelişimi önemlidir.",
+      "options": ["gelişim", "gerileme", "başlangıç", "deney"],
+      "correct": "gelişim"
+    },
+    {
+      "id": 154,
+      "word": "Innovation",
+      "translation": "yenilik",
+      "example": "Innovation bringt neue Ideen und Lösungen.",
+      "exampleTranslation": "Yenilik, yeni fikirler ve çözümler getirir.",
+      "options": ["yenilik", "alışkanlık", "değişim", "yaratıcılık"],
+      "correct": "yenilik"
+    },
+    {
+      "id": 155,
+      "word": "Unternehmen",
+      "translation": "şirket",
+      "example": "Mein Vater arbeitet in einem großen Unternehmen.",
+      "exampleTranslation": "Babam büyük bir şirkette çalışıyor.",
+      "options": ["şirket", "ofis", "fabrika", "mağaza"],
+      "correct": "şirket"
+    },
+    {
+      "id": 156,
+      "word": "Projekt",
+      "translation": "proje",
+      "example": "Wir arbeiten an einem neuen Schulprojekt.",
+      "exampleTranslation": "Yeni bir okul projesi üzerinde çalışıyoruz.",
+      "options": ["proje", "ders", "sınav", "konu"],
+      "correct": "proje"
+    },
+    {
+      "id": 157,
+      "word": "Ziel",
+      "translation": "hedef",
+      "example": "Mein Ziel ist es, besser Deutsch zu sprechen.",
+      "exampleTranslation": "Hedefim daha iyi Almanca konuşmak.",
+      "options": ["hedef", "amaç", "karar", "hayal"],
+      "correct": "hedef"
+    },
+    {
+      "id": 158,
+      "word": "Ergebnis",
+      "translation": "sonuç",
+      "example": "Das Ergebnis der Prüfung war gut.",
+      "exampleTranslation": "Sınavın sonucu iyiydi.",
+      "options": ["sonuç", "sebep", "plan", "fikir"],
+      "correct": "sonuç"
+    },
+    {
+      "id": 159,
+      "word": "Analyse",
+      "translation": "analiz",
+      "example": "Die Analyse der Daten dauert lange.",
+      "exampleTranslation": "Verilerin analizi uzun sürüyor.",
+      "options": ["analiz", "çalışma", "ölçüm", "proje"],
+      "correct": "analiz"
+    },
+    {
+      "id": 160,
+      "word": "Bericht",
+      "translation": "rapor",
+      "example": "Der Bericht muss bis morgen fertig sein.",
+      "exampleTranslation": "Rapor yarına kadar hazır olmalı.",
+      "options": ["rapor", "makale", "gazete", "kitap"],
+      "correct": "rapor"
+    },
+    {
+      "id": 161,
+      "word": "Team",
+      "translation": "ekip",
+      "example": "Ein gutes Team arbeitet zusammen.",
+      "exampleTranslation": "İyi bir ekip birlikte çalışır.",
+      "options": ["ekip", "grup", "aile", "arkadaş"],
+      "correct": "ekip"
+    },
+    {
+      "id": 162,
+      "word": "Chef",
+      "translation": "şef, patron",
+      "example": "Mein Chef ist sehr freundlich.",
+      "exampleTranslation": "Patronum çok arkadaş canlısıdır.",
+      "options": ["patron", "işçi", "müdür", "memur"],
+      "correct": "patron"
+    },
+    {
+      "id": 163,
+      "word": "Kollege",
+      "translation": "iş arkadaşı",
+      "example": "Meine Kollegen sind hilfsbereit.",
+      "exampleTranslation": "İş arkadaşlarım yardımseverdir.",
+      "options": ["iş arkadaşı", "patron", "öğrenci", "komşu"],
+      "correct": "iş arkadaşı"
+    },
+    {
+      "id": 164,
+      "word": "Beruf",
+      "translation": "meslek",
+      "example": "Welcher Beruf interessiert dich?",
+      "exampleTranslation": "Hangi meslek seni ilgilendiriyor?",
+      "options": ["meslek", "iş", "ders", "okul"],
+      "correct": "meslek"
+    },
+    {
+      "id": 165,
+      "word": "Lohn",
+      "translation": "maaş",
+      "example": "Der Lohn wird am Monatsende gezahlt.",
+      "exampleTranslation": "Maaş ay sonunda ödenir.",
+      "options": ["maaş", "borç", "prim", "ödül"],
+      "correct": "maaş"
+    },
+    {
+      "id": 166,
+      "word": "Vertrag",
+      "translation": "sözleşme",
+      "example": "Ich habe den Vertrag unterschrieben.",
+      "exampleTranslation": "Sözleşmeyi imzaladım.",
+      "options": ["sözleşme", "anlaşma", "evrak", "belge"],
+      "correct": "sözleşme"
+    },
+    {
+      "id": 167,
+      "word": "Bewerbung",
+      "translation": "başvuru",
+      "example": "Meine Bewerbung wurde akzeptiert.",
+      "exampleTranslation": "Başvurum kabul edildi.",
+      "options": ["başvuru", "mülakat", "sınav", "dosya"],
+      "correct": "başvuru"
+    },
+    {
+      "id": 168,
+      "word": "Interview",
+      "translation": "mülakat",
+      "example": "Das Interview war sehr erfolgreich.",
+      "exampleTranslation": "Mülakat çok başarılı geçti.",
+      "options": ["mülakat", "görüşme", "sohbet", "sunum"],
+      "correct": "mülakat"
+    },
+    {
+      "id": 169,
+      "word": "Karriere",
+      "translation": "kariyer",
+      "example": "Sie möchte eine internationale Karriere machen.",
+      "exampleTranslation": "Uluslararası bir kariyer yapmak istiyor.",
+      "options": ["kariyer", "meslek", "yol", "başarı"],
+      "correct": "kariyer"
+    },
+    {
+      "id": 170,
+      "word": "Leistung",
+      "translation": "performans, başarı",
+      "example": "Seine Leistung in der Arbeit war ausgezeichnet.",
+      "exampleTranslation": "İşindeki performansı mükemmeldi.",
+      "options": ["performans", "zaman", "çaba", "görev"],
+      "correct": "performans"
+    },
+    {
+      "id": 171,
+      "word": "Motivation",
+      "translation": "motivasyon",
+      "example": "Motivation ist wichtig für den Erfolg.",
+      "exampleTranslation": "Motivasyon başarı için önemlidir.",
+      "options": ["motivasyon", "ilgi", "enerji", "sabır"],
+      "correct": "motivasyon"
+    },
+    {
+      "id": 172,
+      "word": "Kreativität",
+      "translation": "yaratıcılık",
+      "example": "Kreativität hilft, Probleme besser zu lösen.",
+      "exampleTranslation": "Yaratıcılık, sorunları daha iyi çözmeye yardımcı olur.",
+      "options": ["yaratıcılık", "zeka", "çalışma", "bilgi"],
+      "correct": "yaratıcılık"
+    },
+    {
+      "id": 173,
+      "word": "Teamarbeit",
+      "translation": "ekip çalışması",
+      "example": "Teamarbeit macht das Projekt effizienter.",
+      "exampleTranslation": "Ekip çalışması projeyi daha verimli hale getirir.",
+      "options": ["ekip çalışması", "bireysel çalışma", "planlama", "organizasyon"],
+      "correct": "ekip çalışması"
+    },
+    {
+      "id": 174,
+      "word": "Zukunftsplan",
+      "translation": "gelecek planı",
+      "example": "Ich habe viele Zukunftspläne.",
+      "exampleTranslation": "Birçok gelecek planım var.",
+      "options": ["gelecek planı", "karar", "düşünce", "hayal"],
+      "correct": "gelecek planı"
+    },
+    {
+      "id": 175,
+      "word": "Gedanke",
+      "translation": "düşünce",
+      "example": "Dieser Gedanke gefällt mir.",
+      "exampleTranslation": "Bu düşünce hoşuma gidiyor.",
+      "options": ["düşünce", "fikir", "öneri", "plan"],
+      "correct": "düşünce"
+    },
+    {
+      "id": 176,
+      "word": "Gefühl",
+      "translation": "duygu",
+      "example": "Ich habe ein gutes Gefühl über dieses Projekt.",
+      "exampleTranslation": "Bu proje hakkında iyi bir hissim var.",
+      "options": ["duygu", "fikir", "karar", "düşünce"],
+      "correct": "duygu"
+    },
+    {
+      "id": 177,
+      "word": "Beziehung",
+      "translation": "ilişki",
+      "example": "Ihre Beziehung ist sehr stark.",
+      "exampleTranslation": "İlişkileri çok güçlü.",
+      "options": ["ilişki", "dostluk", "aile", "arkadaşlık"],
+      "correct": "ilişki"
+    },
+    {
+      "id": 178,
+      "word": "Verhalten",
+      "translation": "davranış",
+      "example": "Sein Verhalten war sehr respektvoll.",
+      "exampleTranslation": "Davranışı çok saygılıydı.",
+      "options": ["davranış", "hareket", "tutum", "alışkanlık"],
+      "correct": "davranış"
+    },
+    {
+      "id": 179,
+      "word": "Diskussion",
+      "translation": "tartışma",
+      "example": "Wir hatten eine interessante Diskussion.",
+      "exampleTranslation": "İlginç bir tartışma yaptık.",
+      "options": ["tartışma", "sohbet", "konuşma", "toplantı"],
+      "correct": "tartışma"
+    },
+    {
+      "id": 180,
+      "word": "Meinung",
+      "translation": "görüş, fikir",
+      "example": "Jeder hat seine eigene Meinung.",
+      "exampleTranslation": "Herkesin kendi fikri vardır.",
+      "options": ["fikir", "öneri", "karar", "görüş"],
+      "correct": "fikir"
+    },
+    {
+      "id": 181,
+      "word": "Veränderung",
+      "translation": "değişiklik",
+      "example": "Veränderung ist manchmal schwer, aber notwendig.",
+      "exampleTranslation": "Değişim bazen zordur ama gereklidir.",
+      "options": ["değişiklik", "gelişim", "sonuç", "dönüşüm"],
+      "correct": "değişiklik"
+    },
+    {
+      "id": 182,
+      "word": "Problem",
+      "translation": "sorun",
+      "example": "Wir müssen dieses Problem gemeinsam lösen.",
+      "exampleTranslation": "Bu sorunu birlikte çözmeliyiz.",
+      "options": ["sorun", "çözüm", "konu", "amaç"],
+      "correct": "sorun"
+    },
+    {
+      "id": 183,
+      "word": "Lösung",
+      "translation": "çözüm",
+      "example": "Die Lösung war einfacher als gedacht.",
+      "exampleTranslation": "Çözüm düşündüğümden daha kolaydı.",
+      "options": ["çözüm", "sorun", "amaç", "fikir"],
+      "correct": "çözüm"
+    },
+    {
+      "id": 184,
+      "word": "Erklärung",
+      "translation": "açıklama",
+      "example": "Die Lehrerin gab eine klare Erklärung.",
+      "exampleTranslation": "Öğretmen net bir açıklama yaptı.",
+      "options": ["açıklama", "soru", "cevap", "örnek"],
+      "correct": "açıklama"
+    },
+    {
+      "id": 185,
+      "word": "Beispiel",
+      "translation": "örnek",
+      "example": "Kannst du mir ein Beispiel geben?",
+      "exampleTranslation": "Bana bir örnek verebilir misin?",
+      "options": ["örnek", "soru", "cevap", "açıklama"],
+      "correct": "örnek"
+    },
+    {
+      "id": 186,
+      "word": "Information",
+      "translation": "bilgi",
+      "example": "Ich brauche mehr Informationen über das Thema.",
+      "exampleTranslation": "Konu hakkında daha fazla bilgiye ihtiyacım var.",
+      "options": ["bilgi", "veri", "haber", "öneri"],
+      "correct": "bilgi"
+    },
+    {
+      "id": 187,
+      "word": "Nachricht",
+      "translation": "haber, mesaj",
+      "example": "Ich habe eine Nachricht von meinem Freund bekommen.",
+      "exampleTranslation": "Arkadaşımdan bir mesaj aldım.",
+      "options": ["haber", "mektup", "mesaj", "arama"],
+      "correct": "haber"
+    },
+    {
+      "id": 188,
+      "word": "Erinnerung",
+      "translation": "anı, hatırlatma",
+      "example": "Diese Musik weckt schöne Erinnerungen.",
+      "exampleTranslation": "Bu müzik güzel anıları uyandırıyor.",
+      "options": ["anı", "hayal", "rüya", "hikaye"],
+      "correct": "anı"
+    },
+    {
+      "id": 189,
+      "word": "Verlust",
+      "translation": "kayıp",
+      "example": "Der Verlust seines Handys war ärgerlich.",
+      "exampleTranslation": "Telefonunu kaybetmesi can sıkıcıydı.",
+      "options": ["kayıp", "buluntu", "ödül", "kazanım"],
+      "correct": "kayıp"
+    },
+    {
+      "id": 190,
+      "word": "Gewinn",
+      "translation": "kazanç",
+      "example": "Unser Gewinn war dieses Jahr höher als letztes Jahr.",
+      "exampleTranslation": "Kazancımız bu yıl geçen yıldan daha yüksekti.",
+      "options": ["kazanç", "zarar", "yatırım", "kayıp"],
+      "correct": "kazanç"
+    }
+  ]
+}
+{
+  "words": [
+    {
+      "id": 201,
+      "word": "gesellschaftliche_verantwortung",
+      "translation": "toplumsal sorumluluk",
+      "example": "Unternehmen tragen eine große Verantwortung für die Gesellschaft.",
+      "exampleTranslation": "Şirketler toplum için büyük bir sorumluluk taşır.",
+      "options": [
+        "Şirketler toplum için büyük bir sorumluluk taşır.",
+        "Toplum şirketlerden bağımsız yaşar.",
+        "Sorumluluk sadece bireylerindir.",
+        "Hiç kimsenin topluma karşı bir görevi yoktur."
+      ],
+      "correct": "Şirketler toplum için büyük bir sorumluluk taşır."
+    },
+    {
+      "id": 202,
+      "word": "nachhaltige_entwicklung",
+      "translation": "sürdürülebilir kalkınma",
+      "example": "Nachhaltige Entwicklung bedeutet, die Bedürfnisse der Gegenwart zu erfüllen, ohne die Zukunft zu gefährden.",
+      "exampleTranslation": "Sürdürülebilir kalkınma, geleceği tehlikeye atmadan bugünün ihtiyaçlarını karşılamak anlamına gelir.",
+      "options": [
+        "Sürdürülebilir kalkınma, geleceği tehlikeye atmadan bugünün ihtiyaçlarını karşılamak anlamına gelir.",
+        "Kalkınma sadece ekonomik büyüme demektir.",
+        "Sürdürülebilirlik geçmişe odaklanmak demektir.",
+        "Bu kavram yalnızca çevreyle ilgilidir."
+      ],
+      "correct": "Sürdürülebilir kalkınma, geleceği tehlikeye atmadan bugünün ihtiyaçlarını karşılamak anlamına gelir."
+    },
+    {
+      "id": 203,
+      "word": "digitale_transformation",
+      "translation": "dijital dönüşüm",
+      "example": "Die digitale Transformation verändert alle Bereiche des Lebens.",
+      "exampleTranslation": "Dijital dönüşüm yaşamın tüm alanlarını değiştiriyor.",
+      "options": [
+        "Dijital dönüşüm yaşamın tüm alanlarını değiştiriyor.",
+        "Dijitalleşme yalnızca eğlence sektörüyle ilgilidir.",
+        "Teknoloji toplumu etkilemez.",
+        "Dijital dönüşüm üretkenliği azaltır."
+      ],
+      "correct": "Dijital dönüşüm yaşamın tüm alanlarını değiştiriyor."
+    },
+    {
+      "id": 204,
+      "word": "kulturelle_vielfalt",
+      "translation": "kültürel çeşitlilik",
+      "example": "Kulturelle Vielfalt bereichert die Gesellschaft und fördert Toleranz.",
+      "exampleTranslation": "Kültürel çeşitlilik toplumu zenginleştirir ve hoşgörüyü teşvik eder.",
+      "options": [
+        "Kültürel çeşitlilik toplumu zenginleştirir ve hoşgörüyü teşvik eder.",
+        "Kültürel farklılıklar çatışmaya yol açar.",
+        "Kültürler arasında fark kalmamıştır.",
+        "Çeşitlilik toplumları böler."
+      ],
+      "correct": "Kültürel çeşitlilik toplumu zenginleştirir ve hoşgörüyü teşvik eder."
+    },
+    {
+      "id": 205,
+      "word": "globalisierung",
+      "translation": "küreselleşme",
+      "example": "Globalisierung bringt Chancen, aber auch Herausforderungen mit sich.",
+      "exampleTranslation": "Küreselleşme fırsatlar getirir, ancak zorlukları da beraberinde taşır.",
+      "options": [
+        "Küreselleşme fırsatlar getirir, ancak zorlukları da beraberinde taşır.",
+        "Küreselleşme sadece gelişmiş ülkeleri etkiler.",
+        "Küreselleşme tamamen olumsuzdur.",
+        "Küreselleşme yalnızca ticareti ilgilendirir."
+      ],
+      "correct": "Küreselleşme fırsatlar getirir, ancak zorlukları da beraberinde taşır."
+    },
+    {
+      "id": 206,
+      "word": "künstliche_intelligenz",
+      "translation": "yapay zeka",
+      "example": "Künstliche Intelligenz verändert die Art, wie wir arbeiten und denken.",
+      "exampleTranslation": "Yapay zeka, çalışma ve düşünme biçimimizi değiştiriyor.",
+      "options": [
+        "Yapay zeka, çalışma ve düşünme biçimimizi değiştiriyor.",
+        "Yapay zeka yalnızca bilim kurgu filmlerinde vardır.",
+        "Yapay zeka insanların yerini tamamen almıştır.",
+        "Yapay zekanın toplum üzerinde hiçbir etkisi yoktur."
+      ],
+      "correct": "Yapay zeka, çalışma ve düşünme biçimimizi değiştiriyor."
+    },
+    {
+      "id": 207,
+      "word": "soziale_medien",
+      "translation": "sosyal medya",
+      "example": "Soziale Medien beeinflussen, wie Menschen Informationen teilen.",
+      "exampleTranslation": "Sosyal medya, insanların bilgi paylaşma şeklini etkiler.",
+      "options": [
+        "Sosyal medya, insanların bilgi paylaşma şeklini etkiler.",
+        "Sosyal medya yalnızca haber okumak içindir.",
+        "Sosyal medya iletişimi azaltır.",
+        "Sosyal medya hiçbir bilgi içermez."
+      ],
+      "correct": "Sosyal medya, insanların bilgi paylaşma şeklini etkiler."
+    },
+    {
+      "id": 208,
+      "word": "psychische_gesundheit",
+      "translation": "psikolojik sağlık",
+      "example": "Psychische Gesundheit ist genauso wichtig wie körperliche Gesundheit.",
+      "exampleTranslation": "Psikolojik sağlık, fiziksel sağlık kadar önemlidir.",
+      "options": [
+        "Psikolojik sağlık, fiziksel sağlık kadar önemlidir.",
+        "Sadece bedensel sağlık önemlidir.",
+        "Psikolojik sağlık önemsizdir.",
+        "Zihinsel sağlık sadece doktorlar içindir."
+      ],
+      "correct": "Psikolojik sağlık, fiziksel sağlık kadar önemlidir."
+    },
+    {
+      "id": 209,
+      "word": "arbeitslosigkeit",
+      "translation": "işsizlik",
+      "example": "Arbeitslosigkeit ist ein ernstes soziales Problem in vielen Ländern.",
+      "exampleTranslation": "İşsizlik birçok ülkede ciddi bir sosyal sorundur.",
+      "options": [
+        "İşsizlik birçok ülkede ciddi bir sosyal sorundur.",
+        "İşsizlik artık tamamen ortadan kalkmıştır.",
+        "İşsizlik sadece küçük bölgelerde görülür.",
+        "İşsizlik toplum üzerinde etkisizdir."
+      ],
+      "correct": "İşsizlik birçok ülkede ciddi bir sosyal sorundur."
+    },
+    {
+      "id": 210,
+      "word": "bildungsgleichheit",
+      "translation": "eğitimde eşitlik",
+      "example": "Bildungsgleichheit ist entscheidend für eine gerechte Gesellschaft.",
+      "exampleTranslation": "Eğitimde eşitlik adil bir toplum için belirleyicidir.",
+      "options": [
+        "Eğitimde eşitlik adil bir toplum için belirleyicidir.",
+        "Eğitim eşitliği sadece üniversitelerde önemlidir.",
+        "Toplum adaletine eğitim katkı sağlamaz.",
+        "Eğitimde fırsat eşitliği gereksizdir."
+      ],
+      "correct": "Eğitimde eşitlik adil bir toplum için belirleyicidir."
+    },
+    {
+      "id": 211,
+      "word": "umweltschutz",
+      "translation": "çevre koruma",
+      "example": "Umweltschutz ist eine gemeinsame Aufgabe für alle Menschen.",
+      "exampleTranslation": "Çevre koruma tüm insanlar için ortak bir görevdir.",
+      "options": [
+        "Çevre koruma tüm insanlar için ortak bir görevdir.",
+        "Çevre koruma sadece hükümetlerin işidir.",
+        "Bireylerin çevreyle ilgisi yoktur.",
+        "Doğayı korumak gereksizdir."
+      ],
+      "correct": "Çevre koruma tüm insanlar için ortak bir görevdir."
+    },
+    {
+      "id": 212,
+      "word": "klimawandel",
+      "translation": "iklim değişikliği",
+      "example": "Der Klimawandel stellt eine große Herausforderung für die Menschheit dar.",
+      "exampleTranslation": "İklim değişikliği insanlık için büyük bir zorluktur.",
+      "options": [
+        "İklim değişikliği insanlık için büyük bir zorluktur.",
+        "İklim değişikliği artık durmuştur.",
+        "İklim değişikliği sadece kutupları etkiler.",
+        "İklim değişikliği doğal bir süreç değildir."
+      ],
+      "correct": "İklim değişikliği insanlık için büyük bir zorluktur."
+    },
+    {
+      "id": 213,
+      "word": "gerechtigkeit",
+      "translation": "adalet",
+      "example": "Ohne Gerechtigkeit kann kein dauerhafter Frieden existieren.",
+      "exampleTranslation": "Adalet olmadan kalıcı bir barış olamaz.",
+      "options": [
+        "Adalet olmadan kalıcı bir barış olamaz.",
+        "Barış adalet olmadan da mümkündür.",
+        "Adalet yalnızca mahkemelerde bulunur.",
+        "Barış için adalet gereksizdir."
+      ],
+      "correct": "Adalet olmadan kalıcı bir barış olamaz."
+    },
+    {
+      "id": 214,
+      "word": "freiheit_der_meinung",
+      "translation": "ifade özgürlüğü",
+      "example": "Meinungsfreiheit ist ein Grundrecht in demokratischen Staaten.",
+      "exampleTranslation": "İfade özgürlüğü demokratik devletlerde temel bir haktır.",
+      "options": [
+        "İfade özgürlüğü demokratik devletlerde temel bir haktır.",
+        "İfade özgürlüğü artık yasaktır.",
+        "Sadece bazı ülkelerde konuşma özgürlüğü vardır.",
+        "İfade özgürlüğü toplum için tehlikelidir."
+      ],
+      "correct": "İfade özgürlüğü demokratik devletlerde temel bir haktır."
+    },
+    {
+      "id": 215,
+      "word": "gleichberechtigung",
+      "translation": "eşit haklar",
+      "example": "Gleichberechtigung zwischen Männern und Frauen ist noch nicht überall erreicht.",
+      "exampleTranslation": "Kadınlar ve erkekler arasındaki eşit haklar henüz her yerde sağlanmamıştır.",
+      "options": [
+        "Kadınlar ve erkekler arasındaki eşit haklar henüz her yerde sağlanmamıştır.",
+        "Eşitlik yalnızca teoride vardır.",
+        "Kadınlar artık tüm haklara sahiptir.",
+        "Eşitlik modern toplumlar için gereksizdir."
+      ],
+      "correct": "Kadınlar ve erkekler arasındaki eşit haklar henüz her yerde sağlanmamıştır."
+    },
+    {
+      "id": 216,
+      "word": "arbeitsleben",
+      "translation": "iş hayatı",
+      "example": "Das Arbeitsleben erfordert Flexibilität und Engagement.",
+      "exampleTranslation": "İş hayatı esneklik ve bağlılık gerektirir.",
+      "options": [
+        "İş hayatı esneklik ve bağlılık gerektirir.",
+        "İş hayatında sabır gerekmez.",
+        "Esneklik çalışanlar için gereksizdir.",
+        "Bağlılık iş başarısını azaltır."
+      ],
+      "correct": "İş hayatı esneklik ve bağlılık gerektirir."
+    }
+  ]
+}
+{
+  "words": [
+    {
+      "id": 217,
+      "word": "selbstbewusstsein",
+      "translation": "özgüven",
+      "example": "Ein gesundes Selbstbewusstsein hilft, schwierige Situationen zu meistern.",
+      "exampleTranslation": "Sağlıklı bir özgüven, zorlu durumların üstesinden gelmeye yardımcı olur.",
+      "options": [
+        "Sağlıklı bir özgüven, zorlu durumların üstesinden gelmeye yardımcı olur.",
+        "Özgüven insanı kibirli yapar.",
+        "Zorluklarla başa çıkmak imkansızdır.",
+        "Özgüven sadece başarıyı engeller."
+      ],
+      "correct": "Sağlıklı bir özgüven, zorlu durumların üstesinden gelmeye yardımcı olur."
+    },
+    {
+      "id": 218,
+      "word": "verantwortungsbewusstsein",
+      "translation": "sorumluluk bilinci",
+      "example": "Jugendliche sollten ein starkes Verantwortungsbewusstsein entwickeln.",
+      "exampleTranslation": "Gençler güçlü bir sorumluluk bilinci geliştirmelidir.",
+      "options": [
+        "Gençler güçlü bir sorumluluk bilinci geliştirmelidir.",
+        "Sorumluluk bilinci yalnızca yetişkinler içindir.",
+        "Gençler sorumluluktan kaçınmalıdır.",
+        "Sorumluluk gereksiz bir değerdir."
+      ],
+      "correct": "Gençler güçlü bir sorumluluk bilinci geliştirmelidir."
+    },
+    {
+      "id": 219,
+      "word": "selbstreflexion",
+      "translation": "öz değerlendirme",
+      "example": "Selbstreflexion ist wichtig, um aus eigenen Fehlern zu lernen.",
+      "exampleTranslation": "Kişinin hatalarından öğrenmesi için öz değerlendirme önemlidir.",
+      "options": [
+        "Kişinin hatalarından öğrenmesi için öz değerlendirme önemlidir.",
+        "Hatalar üzerinde düşünmek zaman kaybıdır.",
+        "Kendini sorgulamak gereksizdir.",
+        "Hatalardan ders almak mümkün değildir."
+      ],
+      "correct": "Kişinin hatalarından öğrenmesi için öz değerlendirme önemlidir."
+    },
+    {
+      "id": 220,
+      "word": "neugierde",
+      "translation": "merak",
+      "example": "Neugierde ist die Grundlage allen Lernens.",
+      "exampleTranslation": "Merak, tüm öğrenmenin temelidir.",
+      "options": [
+        "Merak, tüm öğrenmenin temelidir.",
+        "Merak öğrenmeyi engeller.",
+        "Merak sadece çocuklara özgüdür.",
+        "Öğrenme merak gerektirmez."
+      ],
+      "correct": "Merak, tüm öğrenmenin temelidir."
+    },
+    {
+      "id": 221,
+      "word": "teamgeist",
+      "translation": "takım ruhu",
+      "example": "Teamgeist stärkt die Zusammenarbeit und Motivation.",
+      "exampleTranslation": "Takım ruhu, iş birliğini ve motivasyonu güçlendirir.",
+      "options": [
+        "Takım ruhu, iş birliğini ve motivasyonu güçlendirir.",
+        "Takım çalışması verimliliği azaltır.",
+        "Motivasyon takım çalışmasıyla ilgisizdir.",
+        "Takım ruhu gereksizdir."
+      ],
+      "correct": "Takım ruhu, iş birliğini ve motivasyonu güçlendirir."
+    },
+    {
+      "id": 222,
+      "word": "zeitmanagement",
+      "translation": "zaman yönetimi",
+      "example": "Gutes Zeitmanagement ist entscheidend für den beruflichen Erfolg.",
+      "exampleTranslation": "İyi zaman yönetimi mesleki başarı için belirleyicidir.",
+      "options": [
+        "İyi zaman yönetimi mesleki başarı için belirleyicidir.",
+        "Zaman yönetimi önemsizdir.",
+        "Zamanı planlamak başarıyı engeller.",
+        "Zaman yönetimi sadece öğrenciler içindir."
+      ],
+      "correct": "İyi zaman yönetimi mesleki başarı için belirleyicidir."
+    },
+    {
+      "id": 223,
+      "word": "kommunikationsfähigkeit",
+      "translation": "iletişim becerisi",
+      "example": "Kommunikationsfähigkeit ist eine der wichtigsten Soft Skills im Arbeitsleben.",
+      "exampleTranslation": "İletişim becerisi iş hayatındaki en önemli yetkinliklerden biridir.",
+      "options": [
+        "İletişim becerisi iş hayatındaki en önemli yetkinliklerden biridir.",
+        "İletişim sadece özel hayatta önemlidir.",
+        "İş hayatında iletişim gerekmez.",
+        "Soft skills gereksizdir."
+      ],
+      "correct": "İletişim becerisi iş hayatındaki en önemli yetkinliklerden biridir."
+    },
+    {
+      "id": 224,
+      "word": "konfliktlösung",
+      "translation": "çatışma çözümü",
+      "example": "Eine gute Konfliktlösung erfordert Geduld und Verständnis.",
+      "exampleTranslation": "İyi bir çatışma çözümü sabır ve anlayış gerektirir.",
+      "options": [
+        "İyi bir çatışma çözümü sabır ve anlayış gerektirir.",
+        "Çatışmalar çözülmez.",
+        "Sabır çatışmalarda işe yaramaz.",
+        "Anlayış sorunları büyütür."
+      ],
+      "correct": "İyi bir çatışma çözümü sabır ve anlayış gerektirir."
+    },
+    {
+      "id": 225,
+      "word": "entscheidungskraft",
+      "translation": "karar verme gücü",
+      "example": "Führungskräfte brauchen eine starke Entscheidungskraft.",
+      "exampleTranslation": "Liderler güçlü bir karar verme yetisine ihtiyaç duyar.",
+      "options": [
+        "Liderler güçlü bir karar verme yetisine ihtiyaç duyar.",
+        "Karar vermek liderlikte önemsizdir.",
+        "Karar verme tamamen şanstır.",
+        "Karar gücü sadece tecrübeyle ilgilidir."
+      ],
+      "correct": "Liderler güçlü bir karar verme yetisine ihtiyaç duyar."
+    },
+    {
+      "id": 226,
+      "word": "kritisches_denken",
+      "translation": "eleştirel düşünme",
+      "example": "Kritisches Denken hilft, Informationen objektiv zu bewerten.",
+      "exampleTranslation": "Eleştirel düşünme, bilgileri tarafsız biçimde değerlendirmeye yardımcı olur.",
+      "options": [
+        "Eleştirel düşünme, bilgileri tarafsız biçimde değerlendirmeye yardımcı olur.",
+        "Eleştirel düşünme zaman kaybıdır.",
+        "Düşünmeden karar vermek en iyisidir.",
+        "Tarafsızlık öğrenmeyi engeller."
+      ],
+      "correct": "Eleştirel düşünme, bilgileri tarafsız biçimde değerlendirmeye yardımcı olur."
+    },
+    {
+      "id": 227,
+      "word": "empathie",
+      "translation": "empati",
+      "example": "Empathie fördert das Verständnis zwischen Menschen.",
+      "exampleTranslation": "Empati, insanlar arasında anlayışı artırır.",
+      "options": [
+        "Empati, insanlar arasında anlayışı artırır.",
+        "Empati insanı zayıf yapar.",
+        "Empati sadece çocuklarda görülür.",
+        "Anlayış ilişkilerde gereksizdir."
+      ],
+      "correct": "Empati, insanlar arasında anlayışı artırır."
+    },
+    {
+      "id": 228,
+      "word": "vertrauen",
+      "translation": "güven",
+      "example": "Vertrauen ist die Basis jeder gesunden Beziehung.",
+      "exampleTranslation": "Güven, her sağlıklı ilişkinin temelidir.",
+      "options": [
+        "Güven, her sağlıklı ilişkinin temelidir.",
+        "Güven ilişkilerde önemsizdir.",
+        "Güven sadece iş ortamında gerekir.",
+        "İlişkiler güven olmadan da yürür."
+      ],
+      "correct": "Güven, her sağlıklı ilişkinin temelidir."
+    },
+    {
+      "id": 229,
+      "word": "geduld",
+      "translation": "sabır",
+      "example": "Geduld ist eine Tugend, die in unserer schnellen Welt oft fehlt.",
+      "exampleTranslation": "Sabır, hızlı dünyamızda sıkça eksik olan bir erdemdir.",
+      "options": [
+        "Sabır, hızlı dünyamızda sıkça eksik olan bir erdemdir.",
+        "Sabır başarıyı geciktirir.",
+        "Sabır gereksiz bir duygudur.",
+        "Sabır sadece yaşlılar içindir."
+      ],
+      "correct": "Sabır, hızlı dünyamızda sıkça eksik olan bir erdemdir."
+    },
+    {
+      "id": 230,
+      "word": "hoffnung",
+      "translation": "umut",
+      "example": "Hoffnung gibt uns Kraft, auch in schwierigen Zeiten weiterzumachen.",
+      "exampleTranslation": "Umut, zor zamanlarda devam etmemiz için bize güç verir.",
+      "options": [
+        "Umut, zor zamanlarda devam etmemiz için bize güç verir.",
+        "Umut yalnızca hayalperestler içindir.",
+        "Umut hiçbir şeyi değiştirmez.",
+        "Umut zayıflıktır."
+      ],
+      "correct": "Umut, zor zamanlarda devam etmemiz için bize güç verir."
+    }
+  ]
+}
+{
+  "words": [
+    {
+      "id": 251,
+      "word": "lebensweisheit",
+      "translation": "hayat bilgeliği",
+      "example": "Manchmal lernt man mehr aus Fehlern als aus Erfolgen.",
+      "exampleTranslation": "Bazen başarıdan çok hatalardan öğrenilir.",
+      "options": [
+        "Bazen başarıdan çok hatalardan öğrenilir.",
+        "Hatalar hiçbir şey öğretmez.",
+        "Başarı daima tesadüftür.",
+        "Deneyim bilgiyle ilgisizdir."
+      ],
+      "correct": "Bazen başarıdan çok hatalardan öğrenilir."
+    },
+    {
+      "id": 252,
+      "word": "lebenserfahrung",
+      "translation": "yaşam deneyimi",
+      "example": "Lebenserfahrung kann kein Buch vollständig vermitteln.",
+      "exampleTranslation": "Yaşam deneyimi hiçbir kitap tarafından tam olarak aktarılamaz.",
+      "options": [
+        "Yaşam deneyimi hiçbir kitap tarafından tam olarak aktarılamaz.",
+        "Kitaplar hayatın tek öğretmenidir.",
+        "Deneyim önemsizdir.",
+        "Yaşam tecrübesi gereksizdir."
+      ],
+      "correct": "Yaşam deneyimi hiçbir kitap tarafından tam olarak aktarılamaz."
+    },
+    {
+      "id": 253,
+      "word": "selbstentwicklung",
+      "translation": "kişisel gelişim",
+      "example": "Selbstentwicklung erfordert Mut und Geduld.",
+      "exampleTranslation": "Kişisel gelişim cesaret ve sabır gerektirir.",
+      "options": [
+        "Kişisel gelişim cesaret ve sabır gerektirir.",
+        "Gelişim sadece eğitimle mümkündür.",
+        "Kişisel gelişim anlamsızdır.",
+        "Sabır kişisel gelişimi yavaşlatır."
+      ],
+      "correct": "Kişisel gelişim cesaret ve sabır gerektirir."
+    },
+    {
+      "id": 254,
+      "word": "glückseligkeit",
+      "translation": "mutluluk",
+      "example": "Wahre Glückseligkeit liegt nicht im Besitz, sondern im inneren Frieden.",
+      "exampleTranslation": "Gerçek mutluluk sahip olduklarında değil, iç huzurda yatar.",
+      "options": [
+        "Gerçek mutluluk sahip olduklarında değil, iç huzurda yatar.",
+        "Mutluluk yalnızca parayla mümkündür.",
+        "İç huzur önemsizdir.",
+        "Mutluluk dışarıdan gelir."
+      ],
+      "correct": "Gerçek mutluluk sahip olduklarında değil, iç huzurda yatar."
+    },
+    {
+      "id": 255,
+      "word": "freiheit",
+      "translation": "özgürlük",
+      "example": "Freiheit bedeutet, Verantwortung für seine Entscheidungen zu übernehmen.",
+      "exampleTranslation": "Özgürlük, kendi kararlarının sorumluluğunu almak demektir.",
+      "options": [
+        "Özgürlük, kendi kararlarının sorumluluğunu almak demektir.",
+        "Özgürlük sınırsız davranmaktır.",
+        "Özgürlük başkalarını görmezden gelmektir.",
+        "Özgürlük hiçbir sorumluluk taşımaz."
+      ],
+      "correct": "Özgürlük, kendi kararlarının sorumluluğunu almak demektir."
+    },
+    {
+      "id": 256,
+      "word": "gerechtigkeitssinn",
+      "translation": "adalet duygusu",
+      "example": "Ein starker Gerechtigkeitssinn fördert das Vertrauen in die Gesellschaft.",
+      "exampleTranslation": "Güçlü bir adalet duygusu topluma olan güveni artırır.",
+      "options": [
+        "Güçlü bir adalet duygusu topluma olan güveni artırır.",
+        "Adalet duygusu gereksizdir.",
+        "Adalet yalnızca yargı içindir.",
+        "Toplum güvene ihtiyaç duymaz."
+      ],
+      "correct": "Güçlü bir adalet duygusu topluma olan güveni artırır."
+    },
+    {
+      "id": 257,
+      "word": "verständnis",
+      "translation": "anlayış",
+      "example": "Verständnis ist die Grundlage jeder harmonischen Beziehung.",
+      "exampleTranslation": "Anlayış, her uyumlu ilişkinin temelidir.",
+      "options": [
+        "Anlayış, her uyumlu ilişkinin temelidir.",
+        "İlişkilerde anlayış önemsizdir.",
+        "Uyum için anlayış gerekmez.",
+        "Anlayış zayıflıktır."
+      ],
+      "correct": "Anlayış, her uyumlu ilişkinin temelidir."
+    },
+    {
+      "id": 258,
+      "word": "verträglichkeit",
+      "translation": "uyumluluk",
+      "example": "Verträglichkeit erleichtert die Zusammenarbeit in Gruppen.",
+      "exampleTranslation": "Uyumluluk, gruplarda iş birliğini kolaylaştırır.",
+      "options": [
+        "Uyumluluk, gruplarda iş birliğini kolaylaştırır.",
+        "Uyumluluk bireyselliği yok eder.",
+        "Gruplarda uyum gereksizdir.",
+        "Uyumluluk iş birliğini zorlaştırır."
+      ],
+      "correct": "Uyumluluk, gruplarda iş birliğini kolaylaştırır."
+    },
+    {
+      "id": 259,
+      "word": "toleranz",
+      "translation": "hoşgörü",
+      "example": "Toleranz ist notwendig, um in einer vielfältigen Gesellschaft friedlich zu leben.",
+      "exampleTranslation": "Hoşgörü, çeşitli bir toplumda barış içinde yaşamak için gereklidir.",
+      "options": [
+        "Hoşgörü, çeşitli bir toplumda barış içinde yaşamak için gereklidir.",
+        "Hoşgörü yalnızca zayıfların davranışıdır.",
+        "Toplumda hoşgörüye gerek yoktur.",
+        "Çeşitlilik hoşgörüyü azaltır."
+      ],
+      "correct": "Hoşgörü, çeşitli bir toplumda barış içinde yaşamak için gereklidir."
+    },
+    {
+      "id": 260,
+      "word": "selbstdisziplin",
+      "translation": "öz disiplin",
+      "example": "Selbstdisziplin ist der Schlüssel zum langfristigen Erfolg.",
+      "exampleTranslation": "Öz disiplin, uzun vadeli başarının anahtarıdır.",
+      "options": [
+        "Öz disiplin, uzun vadeli başarının anahtarıdır.",
+        "Disiplin başarıyı engeller.",
+        "Disiplin sadece çocuklara gereklidir.",
+        "Başarı şansla ilgilidir."
+      ],
+      "correct": "Öz disiplin, uzun vadeli başarının anahtarıdır."
+    },
+    {
+      "id": 261,
+      "word": "freundlichkeit",
+      "translation": "nezaket",
+      "example": "Freundlichkeit kostet nichts, kann aber viel bewirken.",
+      "exampleTranslation": "Nezaket hiçbir şeye mal olmaz ama çok şey değiştirebilir.",
+      "options": [
+        "Nezaket hiçbir şeye mal olmaz ama çok şey değiştirebilir.",
+        "Nezaket faydasızdır.",
+        "Nezaket sadece zenginler içindir.",
+        "Kibar olmak zaman kaybıdır."
+      ],
+      "correct": "Nezaket hiçbir şeye mal olmaz ama çok şey değiştirebilir."
+    },
+    {
+      "id": 262,
+      "word": "ehrlichkeit",
+      "translation": "dürüstlük",
+      "example": "Ehrlichkeit schafft Vertrauen und Respekt.",
+      "exampleTranslation": "Dürüstlük güven ve saygı yaratır.",
+      "options": [
+        "Dürüstlük güven ve saygı yaratır.",
+        "Dürüstlük ilişkileri zayıflatır.",
+        "Yalan bazen gereklidir.",
+        "Güven dürüstlük olmadan da olur."
+      ],
+      "correct": "Dürüstlük güven ve saygı yaratır."
+    },
+    {
+      "id": 263,
+      "word": "dankbarkeit",
+      "translation": "şükran",
+      "example": "Dankbarkeit hilft, das Leben positiver zu sehen.",
+      "exampleTranslation": "Şükran duygusu hayatı daha olumlu görmeye yardımcı olur.",
+      "options": [
+        "Şükran duygusu hayatı daha olumlu görmeye yardımcı olur.",
+        "Minnettarlık önemsizdir.",
+        "Şükran yalnızca dini bir kavramdır.",
+        "Pozitif düşünmek gereksizdir."
+      ],
+      "correct": "Şükran duygusu hayatı daha olumlu görmeye yardımcı olur."
+    },
+    {
+      "id": 264,
+      "word": "mitgefühl",
+      "translation": "şefkat",
+      "example": "Mitgefühl verbindet Menschen über kulturelle Grenzen hinweg.",
+      "exampleTranslation": "Şefkat, insanları kültürel sınırların ötesinde birleştirir.",
+      "options": [
+        "Şefkat, insanları kültürel sınırların ötesinde birleştirir.",
+        "Şefkat yalnızca aile içinde geçerlidir.",
+        "Şefkat toplumda zayıflık olarak görülür.",
+        "Kültürler arası anlayış gereksizdir."
+      ],
+      "correct": "Şefkat, insanları kültürel sınırların ötesinde birleştirir."
+    },
+    {
+      "id": 265,
+      "word": "respekt",
+      "translation": "saygı",
+      "example": "Respekt bedeutet, die Meinung anderer zu akzeptieren, auch wenn man anderer Meinung ist.",
+      "exampleTranslation": "Saygı, farklı düşüncelere katılmasan bile onları kabul etmektir.",
+      "options": [
+        "Saygı, farklı düşüncelere katılmasan bile onları kabul etmektir.",
+        "Saygı sadece büyükler içindir.",
+        "Farklı fikirleri reddetmek doğaldır.",
+        "Saygı gereksizdir."
+      ],
+      "correct": "Saygı, farklı düşüncelere katılmasan bile onları kabul etmektir."
+    },
+    {
+      "id": 266,
+      "word": "selbstachtung",
+      "translation": "öz saygı",
+      "example": "Selbstachtung beginnt damit, sich selbst zu akzeptieren.",
+      "exampleTranslation": "Öz saygı, kendini kabullenmekle başlar.",
+      "options": [
+        "Öz saygı, kendini kabullenmekle başlar.",
+        "Kendini sevmek bencilliktir.",
+        "Öz saygı önemsizdir.",
+        "Kendini eleştirmek en doğrusudur."
+      ],
+      "correct": "Öz saygı, kendini kabullenmekle başlar."
+    }
+  ]
+}

@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Temel renkler -->
+    <color name="primary">#00A8FF</color>
+    <color name="primary_dark">#0096E6</color>
+    <color name="accent">#00A8FF</color>
+
+    <!-- Arkaplan renkleri -->
+    <color name="background">#03102A</color>
+    <color name="surface">#7E0000</color>
+    <color name="card_background">#1E4976</color>
+
+    <!-- Metin renkleri -->
+    <color name="text_primary">#FFFFFF</color>
+    <!-- translation/text secondary is made brighter for better contrast on dark background -->
+    <color name="text_secondary">#ECEFF1</color>
+
+    <!-- Durum renkleri -->
+    <color name="success">#4CAF50</color>
+    <color name="error">#F44336</color>
+
+    <!-- Eski renkler - uyumluluk için -->
+    <color name="purple_200">#00A8FF</color>
+    <color name="purple_500">#00A8FF</color>
+    <color name="purple_700">#0096E6</color>
+    <color name="teal_200">#4CAF50</color>
+    <color name="teal_700">#388E3C</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <!-- Gradient renkleri -->
+    <color name="gradient_start">#0F2A57</color>
+    <color name="gradient_center">#05203F</color>
+    <color name="gradient_end">#03102A</color>
+    
+    <!-- Button colors requested by user -->
+    <color name="button_bg">#FFF3E0</color> <!-- açık bej (veya krem alternatifi #FBE9E7) -->
+    <color name="button_bg_alt">#FBE9E7</color>
+    <color name="button_text">#4E342E</color> <!-- koyu kahverengi -->
+    <color name="button_pressed">#FFB74D</color> <!-- açık turuncu -->
 </resources>

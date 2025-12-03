@@ -4,4 +4,8 @@
     <string name="quiz_finished">Quiz Finished</string>
     <string name="your_score">Your score: %1$d / %2$d</string>
     <string name="progress_percent">%1$d%% başarı</string>
+    <string name="correct_count">%1$d doğru</string>
+    <string name="wrong_count">%1$d yanlış</string>
+    <string name="dictionary_title">Sözlük</string>
+    <!-- logo string removed per user request -->
 </resources>

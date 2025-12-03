@@ -26,6 +26,8 @@
         <activity android:name=".ui.daily.DailyWordActivity" />
         <activity android:name=".ui.quiz.QuizActivity" />
         <activity android:name=".ui.progress.ProgressActivity" />
+        <activity android:name=".ui.mistakes.MistakesActivity" />
+    <activity android:name=".ui.dictionary.DictionaryActivity" />
         <activity android:name=".MainActivity" android:exported="false" />
     </application>
 

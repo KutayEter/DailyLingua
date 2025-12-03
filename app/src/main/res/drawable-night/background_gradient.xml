@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <!-- Night-mode variant of the requested horizontal gradient (darker tones) -->
+    <gradient
+        android:startColor="#4C7E68"
+        android:centerColor="#6A6E2D"
+        android:endColor="#7A450D"
+        android:angle="0" />
+</shape>

@@ -4,13 +4,38 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="24dp"
-    android:gravity="center">
+    android:gravity="center"
+    android:background="@drawable/background_gradient">
+
+    <!-- Logo area for language select screen -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:layout_marginTop="8dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:foregroundGravity="center">
+
+        <ImageView
+            android:id="@+id/lang_logo"
+            android:layout_width="260dp"
+            android:layout_height="260dp"
+            android:layout_gravity="center"
+            android:src="@drawable/logo"
+            android:contentDescription="App logo"
+            android:scaleType="centerInside"
+            android:adjustViewBounds="true" />
+
+    </FrameLayout>
 
     <Button
         android:id="@+id/btn_en"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="EN" />
+        android:text="🇬🇧  EN"
+        android:backgroundTint="@color/button_background_tint"
+        android:textColor="@color/button_text_color" />
 
     <View android:layout_height="12dp" android:layout_width="match_parent" />
 
@@ -18,7 +43,9 @@
         android:id="@+id/btn_de"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="DE" />
+        android:text="🇩🇪  DE"
+        android:backgroundTint="@color/button_background_tint"
+        android:textColor="@color/button_text_color" />
 
     <View android:layout_height="12dp" android:layout_width="match_parent" />
 
@@ -26,6 +53,8 @@
         android:id="@+id/btn_ru"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="RU" />
+        android:text="🇷🇺  RU"
+        android:backgroundTint="@color/button_background_tint"
+        android:textColor="@color/button_text_color" />
 
 </LinearLayout>

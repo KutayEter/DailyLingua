@@ -17,22 +17,22 @@ class LanguageSelectActivity : AppCompatActivity() {
 
         val prefs = getSharedPreferences("daily_prefs", MODE_PRIVATE)
 
-        btnEn.setOnClickListener {
-            prefs.edit().putString("selectedLanguage", "en").apply()
-            startActivity(Intent(this, com.example.dailylingua.ui.daily.DailyWordActivity::class.java))
-            finish()
+        val setupLanguageButton = { button: Button, langCode: String ->
+            button.setOnClickListener {
+                prefs.edit().putString("selectedLanguage", langCode).apply()
+                
+                // Eğer aktivite yığınında DailyWordActivity varsa, onu yenile
+                val intent = Intent(this, com.example.dailylingua.ui.daily.DailyWordActivity::class.java)
+                // işaret ekle: dil seçiminden geldiğimizi belirt
+                intent.putExtra("fromLanguageSelect", true)
+                intent.flags = Intent.FLAG_ACTIVITY_CLEAR_TOP or Intent.FLAG_ACTIVITY_SINGLE_TOP
+                startActivity(intent)
+                finish()
+            }
         }
 
-        btnDe.setOnClickListener {
-            prefs.edit().putString("selectedLanguage", "de").apply()
-            startActivity(Intent(this, com.example.dailylingua.ui.daily.DailyWordActivity::class.java))
-            finish()
-        }
-
-        btnRu.setOnClickListener {
-            prefs.edit().putString("selectedLanguage", "ru").apply()
-            startActivity(Intent(this, com.example.dailylingua.ui.daily.DailyWordActivity::class.java))
-            finish()
-        }
+        setupLanguageButton(btnEn, "en")
+        setupLanguageButton(btnDe, "de")
+        setupLanguageButton(btnRu, "ru")
     }
 }

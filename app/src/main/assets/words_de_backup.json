@@ -1,0 +1,1178 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "word": "Apfel",
+      "translation": "elma",
+      "example": "Ich benutze das Wort 'Apfel' in einem einfachen Satz.",
+      "options": [
+        "öğretmen",
+        "okul",
+        "güle güle",
+        "elma"
+      ],
+      "correct": "elma"
+    },
+    {
+      "id": 2,
+      "word": "Buch",
+      "translation": "kitap",
+      "example": "Ich benutze das Wort 'Buch' in einem einfachen Satz.",
+      "exampleTranslation": "'Kitap' kelimesini basit bir cümlede kullanıyorum.",
+      "options": [
+        "soğuk",
+        "yarın",
+        "yazmak",
+        "kitap"
+      ],
+      "correct": "kitap"
+    },
+    {
+      "id": 3,
+      "word": "Haus",
+      "translation": "ev",
+      "example": "Ich benutze das Wort 'Haus' in einem einfachen Satz.",
+      "exampleTranslation": "'Ev' kelimesini basit bir cümlede kullanıyorum.",
+      "options": [
+        "ev",
+        "merhaba",
+        "teşekkürler",
+        "telefon"
+      ],
+      "correct": "ev"
+    },
+    {
+      "id": 4,
+      "word": "Auto",
+      "translation": "araba",
+      "example": "Ich benutze das Wort 'Auto' in einem einfachen Satz.",
+      "options": [
+        "essen",
+        "klein",
+        "Auto",
+        "ja"
+      ],
+      "correct": "Auto"
+    },
+    {
+      "id": 5,
+      "word": "Wasser",
+      "translation": "su",
+      "example": "Ich benutze das Wort 'Wasser' in einem einfachen Satz.",
+      "options": [
+        "Zucker",
+        "Wasser",
+        "Milch",
+        "Stern"
+      ],
+      "correct": "Wasser"
+    },
+    {
+      "id": 6,
+      "word": "Katze",
+      "translation": "kedi",
+      "example": "Ich benutze das Wort 'Katze' in einem einfachen Satz.",
+      "options": [
+        "Himmel",
+        "Katze",
+        "alt",
+        "Lehrer"
+      ],
+      "correct": "Katze"
+    },
+    {
+      "id": 7,
+      "word": "Hund",
+      "translation": "köpek",
+      "example": "Ich benutze das Wort 'Hund' in einem einfachen Satz.",
+      "exampleTranslation": "'Köpek' kelimesini basit bir cümlede kullanıyorum.",
+      "options": [
+        "köpek",
+        "otobüs",
+        "öğrenmek",
+        "kağıt"
+      ],
+      "correct": "köpek"
+    },
+    {
+      "id": 8,
+      "word": "Sonne",
+      "translation": "güneş",
+      "example": "Ich benutze das Wort 'Sonne' in einem einfachen Satz.",
+      "options": [
+        "bitte",
+        "Familie",
+        "alt",
+        "Sonne"
+      ],
+      "correct": "Sonne"
+    },
+    {
+      "id": 9,
+      "word": "Mond",
+      "translation": "ay",
+      "example": "Ich benutze das Wort 'Mond' in einem einfachen Satz.",
+      "options": [
+        "Mond",
+        "traurig",
+        "Abend",
+        "Zeit"
+      ],
+      "correct": "Mond"
+    },
+    {
+      "id": 10,
+      "word": "Stern",
+      "translation": "yıldız",
+      "example": "Ich benutze das Wort 'Stern' in einem einfachen Satz.",
+      "options": [
+        "Apfel",
+        "Stern",
+        "sorry",
+        "Vater"
+      ],
+      "correct": "Stern"
+    },
+    {
+      "id": 11,
+      "word": "Himmel",
+      "translation": "gökyüzü",
+      "example": "Ich benutze das Wort 'Himmel' in einem einfachen Satz.",
+      "options": [
+        "neu",
+        "alt",
+        "Himmel",
+        "lesen"
+      ],
+      "correct": "Himmel"
+    },
+    {
+      "id": 12,
+      "word": "Baum",
+      "translation": "ağaç",
+      "example": "Ich benutze das Wort 'Baum' in einem einfachen Satz.",
+      "options": [
+        "Baum",
+        "heute",
+        "Ei",
+        "ja"
+      ],
+      "correct": "Baum"
+    },
+    {
+      "id": 13,
+      "word": "Blume",
+      "translation": "çiçek",
+      "example": "Ich benutze das Wort 'Blume' in einem einfachen Satz.",
+      "options": [
+        "wissen",
+        "denken",
+        "Blume",
+        "Nacht"
+      ],
+      "correct": "Blume"
+    },
+    {
+      "id": 14,
+      "word": "Stadt",
+      "translation": "şehir",
+      "example": "Ich benutze das Wort 'Stadt' in einem einfachen Satz.",
+      "options": [
+        "sprechen",
+        "Auto",
+        "neu",
+        "Stadt"
+      ],
+      "correct": "Stadt"
+    },
+    {
+      "id": 15,
+      "word": "Dorf",
+      "translation": "köy",
+      "example": "Ich benutze das Wort 'Dorf' in einem einfachen Satz.",
+      "options": [
+        "Himmel",
+        "gehen",
+        "Dorf",
+        "gestern"
+      ],
+      "correct": "Dorf"
+    },
+    {
+      "id": 16,
+      "word": "Schule",
+      "translation": "okul",
+      "example": "Ich benutze das Wort 'Schule' in einem einfachen Satz.",
+      "exampleTranslation": "'Okul' kelimesini basit bir cümlede kullanıyorum.",
+      "options": [
+        "okul",
+        "ekmek",
+        "köpek",
+        "yemek"
+      ],
+      "correct": "okul"
+    },
+    {
+      "id": 17,
+      "word": "Schüler",
+      "translation": "öğrenci",
+      "example": "Ich benutze das Wort 'Schüler' in einem einfachen Satz.",
+      "options": [
+        "Freund",
+        "Schüler",
+        "Kind",
+        "Essen"
+      ],
+      "correct": "Schüler"
+    },
+    {
+      "id": 18,
+      "word": "Lehrer",
+      "translation": "öğretmen",
+      "example": "Ich benutze das Wort 'Lehrer' in einem einfachen Satz.",
+      "options": [
+        "Himmel",
+        "Lehrer",
+        "Haus",
+        "danke"
+      ],
+      "correct": "Lehrer"
+    },
+    {
+      "id": 19,
+      "word": "Stift",
+      "translation": "kalem",
+      "example": "Ich benutze das Wort 'Stift' in einem einfachen Satz.",
+      "options": [
+        "Mond",
+        "Katze",
+        "Stift",
+        "kommen"
+      ],
+      "correct": "Stift"
+    },
+    {
+      "id": 20,
+      "word": "Papier",
+      "translation": "kağıt",
+      "example": "Ich benutze das Wort 'Papier' in einem einfachen Satz.",
+      "options": [
+        "Haus",
+        "Milch",
+        "Papier",
+        "sprechen"
+      ],
+      "correct": "Papier"
+    },
+    {
+      "id": 21,
+      "word": "Telefon",
+      "translation": "telefon",
+      "example": "Ich benutze das Wort 'Telefon' in einem einfachen Satz.",
+      "options": [
+        "Telefon",
+        "bitte",
+        "Bus",
+        "gut"
+      ],
+      "correct": "Telefon"
+    },
+    {
+      "id": 22,
+      "word": "Computer",
+      "translation": "bilgisayar",
+      "example": "Ich benutze das Wort 'Computer' in einem einfachen Satz.",
+      "options": [
+        "Telefon",
+        "Computer",
+        "Dorf",
+        "lesen"
+      ],
+      "correct": "Computer"
+    },
+    {
+      "id": 23,
+      "word": "Tisch",
+      "translation": "masa",
+      "example": "Ich benutze das Wort 'Tisch' in einem einfachen Satz.",
+      "options": [
+        "glücklich",
+        "Fisch",
+        "denken",
+        "Tisch"
+      ],
+      "correct": "Tisch"
+    },
+    {
+      "id": 24,
+      "word": "Stuhl",
+      "translation": "sandalye",
+      "example": "Ich benutze das Wort 'Stuhl' in einem einfachen Satz.",
+      "options": [
+        "Stern",
+        "Stuhl",
+        "öffnen",
+        "lernen"
+      ],
+      "correct": "Stuhl"
+    },
+    {
+      "id": 25,
+      "word": "Fenster",
+      "translation": "pencere",
+      "example": "Ich benutze das Wort 'Fenster' in einem einfachen Satz.",
+      "options": [
+        "Fenster",
+        "Schule",
+        "arbeiten",
+        "schließen"
+      ],
+      "correct": "Fenster"
+    },
+    {
+      "id": 26,
+      "word": "Tür",
+      "translation": "kapı",
+      "example": "Ich benutze das Wort 'Tür' in einem einfachen Satz.",
+      "options": [
+        "Tür",
+        "sehen",
+        "Bruder",
+        "Mond"
+      ],
+      "correct": "Tür"
+    },
+    {
+      "id": 27,
+      "word": "Straße",
+      "translation": "yol",
+      "example": "Ich benutze das Wort 'Straße' in einem einfachen Satz.",
+      "options": [
+        "Stadt",
+        "ja",
+        "Straße",
+        "heute"
+      ],
+      "correct": "Straße"
+    },
+    {
+      "id": 28,
+      "word": "Bus",
+      "translation": "otobüs",
+      "example": "Ich benutze das Wort 'Bus' in einem einfachen Satz.",
+      "options": [
+        "Papier",
+        "Tisch",
+        "Bus",
+        "heute"
+      ],
+      "correct": "Bus"
+    },
+    {
+      "id": 29,
+      "word": "Zug",
+      "translation": "tren",
+      "example": "Ich benutze das Wort 'Zug' in einem einfachen Satz.",
+      "options": [
+        "Zug",
+        "öffnen",
+        "bitte",
+        "heute"
+      ],
+      "correct": "Zug"
+    },
+    {
+      "id": 30,
+      "word": "Fahrrad",
+      "translation": "bisiklet",
+      "example": "Ich benutze das Wort 'Fahrrad' in einem einfachen Satz.",
+      "options": [
+        "Salz",
+        "Baum",
+        "Fahrrad",
+        "hallo"
+      ],
+      "correct": "Fahrrad"
+    },
+    {
+      "id": 31,
+      "word": "Milch",
+      "translation": "süt",
+      "example": "Ich benutze das Wort 'Milch' in einem einfachen Satz.",
+      "options": [
+        "Milch",
+        "Freund",
+        "Auto",
+        "nein"
+      ],
+      "correct": "Milch"
+    },
+    {
+      "id": 32,
+      "word": "Kaffee",
+      "translation": "kahve",
+      "example": "Ich benutze das Wort 'Kaffee' in einem einfachen Satz.",
+      "options": [
+        "Brot",
+        "Kaffee",
+        "Bus",
+        "Vater"
+      ],
+      "correct": "Kaffee"
+    },
+    {
+      "id": 33,
+      "word": "Tee",
+      "translation": "çay",
+      "example": "Ich benutze das Wort 'Tee' in einem einfachen Satz.",
+      "options": [
+        "Tee",
+        "klein",
+        "schlecht",
+        "Buch"
+      ],
+      "correct": "Tee"
+    },
+    {
+      "id": 34,
+      "word": "Brot",
+      "translation": "ekmek",
+      "example": "Ich benutze das Wort 'Brot' in einem einfachen Satz.",
+      "options": [
+        "Morgen",
+        "Brot",
+        "schlecht",
+        "ja"
+      ],
+      "correct": "Brot"
+    },
+    {
+      "id": 35,
+      "word": "Ei",
+      "translation": "yumurta",
+      "example": "Ich benutze das Wort 'Ei' in einem einfachen Satz.",
+      "options": [
+        "ja",
+        "hallo",
+        "Ei",
+        "gehen"
+      ],
+      "correct": "Ei"
+    },
+    {
+      "id": 36,
+      "word": "Salz",
+      "translation": "tuz",
+      "example": "Ich benutze das Wort 'Salz' in einem einfachen Satz.",
+      "options": [
+        "Zug",
+        "lernen",
+        "Salz",
+        "Nacht"
+      ],
+      "correct": "Salz"
+    },
+    {
+      "id": 37,
+      "word": "Zucker",
+      "translation": "şeker",
+      "example": "Ich benutze das Wort 'Zucker' in einem einfachen Satz.",
+      "options": [
+        "danke",
+        "Zucker",
+        "groß",
+        "schön"
+      ],
+      "correct": "Zucker"
+    },
+    {
+      "id": 38,
+      "word": "Reis",
+      "translation": "pirinç",
+      "example": "Ich benutze das Wort 'Reis' in einem einfachen Satz.",
+      "options": [
+        "tschüss",
+        "Reis",
+        "spielen",
+        "Vater"
+      ],
+      "correct": "Reis"
+    },
+    {
+      "id": 39,
+      "word": "Fleisch",
+      "translation": "et",
+      "example": "Ich benutze das Wort 'Fleisch' in einem einfachen Satz.",
+      "options": [
+        "Schule",
+        "Fleisch",
+        "Fahrrad",
+        "Fenster"
+      ],
+      "correct": "Fleisch"
+    },
+    {
+      "id": 40,
+      "word": "Fisch",
+      "translation": "balık",
+      "example": "Ich benutze das Wort 'Fisch' in einem einfachen Satz.",
+      "options": [
+        "Fenster",
+        "sorry",
+        "Fisch",
+        "Bus"
+      ],
+      "correct": "Fisch"
+    },
+    {
+      "id": 41,
+      "word": "Vogel",
+      "translation": "kuş",
+      "example": "Ich benutze das Wort 'Vogel' in einem einfachen Satz.",
+      "options": [
+        "Reis",
+        "Fenster",
+        "Vogel",
+        "Blume"
+      ],
+      "correct": "Vogel"
+    },
+    {
+      "id": 42,
+      "word": "Kind",
+      "translation": "çocuk",
+      "example": "Ich benutze das Wort 'Kind' in einem einfachen Satz.",
+      "options": [
+        "Fleisch",
+        "neu",
+        "Kind",
+        "Buch"
+      ],
+      "correct": "Kind"
+    },
+    {
+      "id": 43,
+      "word": "Familie",
+      "translation": "aile",
+      "example": "Ich benutze das Wort 'Familie' in einem einfachen Satz.",
+      "options": [
+        "Hund",
+        "Familie",
+        "schön",
+        "Reis"
+      ],
+      "correct": "Familie"
+    },
+    {
+      "id": 44,
+      "word": "Freund",
+      "translation": "arkadaş",
+      "example": "Ich benutze das Wort 'Freund' in einem einfachen Satz.",
+      "options": [
+        "Stadt",
+        "Freund",
+        "Buch",
+        "glücklich"
+      ],
+      "correct": "Freund"
+    },
+    {
+      "id": 45,
+      "word": "Mutter",
+      "translation": "anne",
+      "example": "Ich benutze das Wort 'Mutter' in einem einfachen Satz.",
+      "options": [
+        "Mutter",
+        "morgen",
+        "Stuhl",
+        "Freund"
+      ],
+      "correct": "Mutter"
+    },
+    {
+      "id": 46,
+      "word": "Vater",
+      "translation": "baba",
+      "example": "Ich benutze das Wort 'Vater' in einem einfachen Satz.",
+      "options": [
+        "Nacht",
+        "Mond",
+        "Dorf",
+        "Vater"
+      ],
+      "correct": "Vater"
+    },
+    {
+      "id": 47,
+      "word": "Schwester",
+      "translation": "kız kardeş",
+      "example": "Ich benutze das Wort 'Schwester' in einem einfachen Satz.",
+      "options": [
+        "gut",
+        "Fleisch",
+        "Schwester",
+        "Papier"
+      ],
+      "correct": "Schwester"
+    },
+    {
+      "id": 48,
+      "word": "Bruder",
+      "translation": "erkek kardeş",
+      "example": "Ich benutze das Wort 'Bruder' in einem einfachen Satz.",
+      "options": [
+        "lesen",
+        "Bruder",
+        "Abend",
+        "schlecht"
+      ],
+      "correct": "Bruder"
+    },
+    {
+      "id": 49,
+      "word": "Essen",
+      "translation": "yemek",
+      "example": "Ich benutze das Wort 'Essen' in einem einfachen Satz.",
+      "options": [
+        "Fleisch",
+        "hallo",
+        "morgen",
+        "Essen"
+      ],
+      "correct": "Essen"
+    },
+    {
+      "id": 50,
+      "word": "Zeit",
+      "translation": "zaman",
+      "example": "Ich benutze das Wort 'Zeit' in einem einfachen Satz.",
+      "options": [
+        "schreiben",
+        "Straße",
+        "Zeit",
+        "Blume"
+      ],
+      "correct": "Zeit"
+    },
+    {
+      "id": 51,
+      "word": "Tag",
+      "translation": "gün",
+      "example": "Ich benutze das Wort 'Tag' in einem einfachen Satz.",
+      "options": [
+        "Tisch",
+        "Telefon",
+        "Tag",
+        "Milch"
+      ],
+      "correct": "Tag"
+    },
+    {
+      "id": 52,
+      "word": "Nacht",
+      "translation": "gece",
+      "example": "Ich benutze das Wort 'Nacht' in einem einfachen Satz.",
+      "options": [
+        "lernen",
+        "Morgen",
+        "hallo",
+        "Nacht"
+      ],
+      "correct": "Nacht"
+    },
+    {
+      "id": 53,
+      "word": "Morgen",
+      "translation": "sabah",
+      "example": "Ich benutze das Wort 'Morgen' in einem einfachen Satz.",
+      "options": [
+        "spielen",
+        "Zucker",
+        "Fahrrad",
+        "Morgen"
+      ],
+      "correct": "Morgen"
+    },
+    {
+      "id": 54,
+      "word": "Abend",
+      "translation": "akşam",
+      "example": "Ich benutze das Wort 'Abend' in einem einfachen Satz.",
+      "options": [
+        "öffnen",
+        "essen",
+        "Abend",
+        "Brot"
+      ],
+      "correct": "Abend"
+    },
+    {
+      "id": 55,
+      "word": "gestern",
+      "translation": "dün",
+      "example": "Ich benutze das Wort 'gestern' in einem einfachen Satz.",
+      "options": [
+        "gehen",
+        "Zug",
+        "gestern",
+        "alt"
+      ],
+      "correct": "gestern"
+    },
+    {
+      "id": 56,
+      "word": "heute",
+      "translation": "bugün",
+      "example": "Ich benutze das Wort 'heute' in einem einfachen Satz.",
+      "options": [
+        "Sonne",
+        "Computer",
+        "heute",
+        "Stern"
+      ],
+      "correct": "heute"
+    },
+    {
+      "id": 57,
+      "word": "morgen",
+      "translation": "yarın",
+      "example": "Ich benutze das Wort 'morgen' in einem einfachen Satz.",
+      "options": [
+        "Schule",
+        "lernen",
+        "morgen",
+        "bitte"
+      ],
+      "correct": "morgen"
+    },
+    {
+      "id": 58,
+      "word": "hallo",
+      "translation": "merhaba",
+      "example": "Ich benutze das Wort 'hallo' in einem einfachen Satz.",
+      "options": [
+        "Ei",
+        "kalt",
+        "alt",
+        "hallo"
+      ],
+      "correct": "hallo"
+    },
+    {
+      "id": 59,
+      "word": "tschüss",
+      "translation": "güle güle",
+      "example": "Ich benutze das Wort 'tschüss' in einem einfachen Satz.",
+      "options": [
+        "schließen",
+        "Katze",
+        "tschüss",
+        "heute"
+      ],
+      "correct": "tschüss"
+    },
+    {
+      "id": 60,
+      "word": "bitte",
+      "translation": "lütfen",
+      "example": "Ich benutze das Wort 'bitte' in einem einfachen Satz.",
+      "options": [
+        "bitte",
+        "Fahrrad",
+        "Baum",
+        "Auto"
+      ],
+      "correct": "bitte"
+    },
+    {
+      "id": 61,
+      "word": "danke",
+      "translation": "teşekkürler",
+      "example": "Ich benutze das Wort 'danke' in einem einfachen Satz.",
+      "options": [
+        "Katze",
+        "Tisch",
+        "glücklich",
+        "danke"
+      ],
+      "correct": "danke"
+    },
+    {
+      "id": 62,
+      "word": "sorry",
+      "translation": "özür dilerim",
+      "example": "Ich benutze das Wort 'sorry' in einem einfachen Satz.",
+      "options": [
+        "Salz",
+        "Stuhl",
+        "traurig",
+        "sorry"
+      ],
+      "correct": "sorry"
+    },
+    {
+      "id": 63,
+      "word": "ja",
+      "translation": "evet",
+      "example": "Ich benutze das Wort 'ja' in einem einfachen Satz.",
+      "options": [
+        "danke",
+        "Baum",
+        "Mutter",
+        "ja"
+      ],
+      "correct": "ja"
+    },
+    {
+      "id": 64,
+      "word": "nein",
+      "translation": "hayır",
+      "example": "Ich benutze das Wort 'nein' in einem einfachen Satz.",
+      "options": [
+        "Stadt",
+        "nein",
+        "wissen",
+        "Telefon"
+      ],
+      "correct": "nein"
+    },
+    {
+      "id": 65,
+      "word": "kalt",
+      "translation": "soğuk",
+      "example": "Ich benutze das Wort 'kalt' in einem einfachen Satz.",
+      "options": [
+        "sehen",
+        "kalt",
+        "Nacht",
+        "Zucker"
+      ],
+      "correct": "kalt"
+    },
+    {
+      "id": 66,
+      "word": "heiß",
+      "translation": "sıcak",
+      "example": "Ich benutze das Wort 'heiß' in einem einfachen Satz.",
+      "options": [
+        "Kind",
+        "heiß",
+        "Tee",
+        "Vogel"
+      ],
+      "correct": "heiß"
+    },
+    {
+      "id": 67,
+      "word": "klein",
+      "translation": "küçük",
+      "example": "Ich benutze das Wort 'klein' in einem einfachen Satz.",
+      "options": [
+        "sehen",
+        "bitte",
+        "alt",
+        "klein"
+      ],
+      "correct": "klein"
+    },
+    {
+      "id": 68,
+      "word": "groß",
+      "translation": "büyük",
+      "example": "Ich benutze das Wort 'groß' in einem einfachen Satz.",
+      "options": [
+        "Schwester",
+        "sprechen",
+        "klein",
+        "groß"
+      ],
+      "correct": "groß"
+    },
+    {
+      "id": 69,
+      "word": "neu",
+      "translation": "yeni",
+      "example": "Ich benutze das Wort 'neu' in einem einfachen Satz.",
+      "options": [
+        "Hund",
+        "Ei",
+        "neu",
+        "Straße"
+      ],
+      "correct": "neu"
+    },
+    {
+      "id": 70,
+      "word": "alt",
+      "translation": "eski",
+      "example": "Ich benutze das Wort 'alt' in einem einfachen Satz.",
+      "options": [
+        "Schule",
+        "alt",
+        "spielen",
+        "ja"
+      ],
+      "correct": "alt"
+    },
+    {
+      "id": 71,
+      "word": "schön",
+      "translation": "güzel",
+      "example": "Ich benutze das Wort 'schön' in einem einfachen Satz.",
+      "options": [
+        "Buch",
+        "Telefon",
+        "Fisch",
+        "schön"
+      ],
+      "correct": "schön"
+    },
+    {
+      "id": 72,
+      "word": "schlecht",
+      "translation": "kötü",
+      "example": "Ich benutze das Wort 'schlecht' in einem einfachen Satz.",
+      "options": [
+        "Dorf",
+        "bitte",
+        "schlecht",
+        "Schule"
+      ],
+      "correct": "schlecht"
+    },
+    {
+      "id": 73,
+      "word": "gut",
+      "translation": "iyi",
+      "example": "Ich benutze das Wort 'gut' in einem einfachen Satz.",
+      "options": [
+        "Abend",
+        "heiß",
+        "Ei",
+        "gut"
+      ],
+      "correct": "gut"
+    },
+    {
+      "id": 74,
+      "word": "glücklich",
+      "translation": "mutlu",
+      "example": "Ich benutze das Wort 'glücklich' in einem einfachen Satz.",
+      "options": [
+        "schön",
+        "Stift",
+        "tschüss",
+        "glücklich"
+      ],
+      "correct": "glücklich"
+    },
+    {
+      "id": 75,
+      "word": "traurig",
+      "translation": "üzgün",
+      "example": "Ich benutze das Wort 'traurig' in einem einfachen Satz.",
+      "options": [
+        "Salz",
+        "Mond",
+        "traurig",
+        "Abend"
+      ],
+      "correct": "traurig"
+    },
+    {
+      "id": 76,
+      "word": "öffnen",
+      "translation": "açmak",
+      "example": "Ich benutze das Wort 'öffnen' in einem einfachen Satz.",
+      "options": [
+        "Fleisch",
+        "Apfel",
+        "Zucker",
+        "öffnen"
+      ],
+      "correct": "öffnen"
+    },
+    {
+      "id": 77,
+      "word": "schließen",
+      "translation": "kapatmak",
+      "example": "Ich benutze das Wort 'schließen' in einem einfachen Satz.",
+      "options": [
+        "Mutter",
+        "sorry",
+        "schließen",
+        "neu"
+      ],
+      "correct": "schließen"
+    },
+    {
+      "id": 78,
+      "word": "lesen",
+      "translation": "okumak",
+      "example": "Ich benutze das Wort 'lesen' in einem einfachen Satz.",
+      "options": [
+        "tschüss",
+        "lesen",
+        "Fenster",
+        "Kind"
+      ],
+      "correct": "lesen"
+    },
+    {
+      "id": 79,
+      "word": "schreiben",
+      "translation": "yazmak",
+      "example": "Ich benutze das Wort 'schreiben' in einem einfachen Satz.",
+      "options": [
+        "Fahrrad",
+        "Morgen",
+        "schreiben",
+        "Katze"
+      ],
+      "correct": "schreiben"
+    },
+    {
+      "id": 80,
+      "word": "sprechen",
+      "translation": "konuşmak",
+      "example": "Ich benutze das Wort 'sprechen' in einem einfachen Satz.",
+      "options": [
+        "sehen",
+        "Zeit",
+        "sprechen",
+        "Essen"
+      ],
+      "correct": "sprechen"
+    },
+    {
+      "id": 81,
+      "word": "essen",
+      "translation": "yemek",
+      "example": "Ich benutze das Wort 'essen' in einem einfachen Satz.",
+      "options": [
+        "essen",
+        "öffnen",
+        "kalt",
+        "Schüler"
+      ],
+      "correct": "essen"
+    },
+    {
+      "id": 82,
+      "word": "trinken",
+      "translation": "içmek",
+      "example": "Ich benutze das Wort 'trinken' in einem einfachen Satz.",
+      "options": [
+        "tschüss",
+        "trinken",
+        "Blume",
+        "groß"
+      ],
+      "correct": "trinken"
+    },
+    {
+      "id": 83,
+      "word": "gehen",
+      "translation": "gitmek",
+      "example": "Ich benutze das Wort 'gehen' in einem einfachen Satz.",
+      "options": [
+        "gehen",
+        "kommen",
+        "Morgen",
+        "Papier"
+      ],
+      "correct": "gehen"
+    },
+    {
+      "id": 84,
+      "word": "kommen",
+      "translation": "gelmek",
+      "example": "Ich benutze das Wort 'kommen' in einem einfachen Satz.",
+      "options": [
+        "lernen",
+        "Freund",
+        "sprechen",
+        "kommen"
+      ],
+      "correct": "kommen"
+    },
+    {
+      "id": 85,
+      "word": "sehen",
+      "translation": "görmek",
+      "example": "Ich benutze das Wort 'sehen' in einem einfachen Satz.",
+      "options": [
+        "neu",
+        "Familie",
+        "denken",
+        "sehen"
+      ],
+      "correct": "sehen"
+    },
+    {
+      "id": 86,
+      "word": "wissen",
+      "translation": "bilmek",
+      "example": "Ich benutze das Wort 'wissen' in einem einfachen Satz.",
+      "options": [
+        "Wasser",
+        "sprechen",
+        "wissen",
+        "alt"
+      ],
+      "correct": "wissen"
+    },
+    {
+      "id": 87,
+      "word": "denken",
+      "translation": "düşünmek",
+      "example": "Ich benutze das Wort 'denken' in einem einfachen Satz.",
+      "options": [
+        "heute",
+        "denken",
+        "Baum",
+        "Fahrrad"
+      ],
+      "correct": "denken"
+    },
+    {
+      "id": 88,
+      "word": "arbeiten",
+      "translation": "çalışmak",
+      "example": "Ich benutze das Wort 'arbeiten' in einem einfachen Satz.",
+      "options": [
+        "Computer",
+        "arbeiten",
+        "lernen",
+        "morgen"
+      ],
+      "correct": "arbeiten"
+    },
+    {
+      "id": 89,
+      "word": "lernen",
+      "translation": "öğrenmek",
+      "example": "Ich benutze das Wort 'lernen' in einem einfachen Satz.",
+      "options": [
+        "Sonne",
+        "lernen",
+        "Kind",
+        "Reis"
+      ],
+      "correct": "lernen"
+    },
+    {
+      "id": 90,
+      "word": "spielen",
+      "translation": "oynamak",
+      "example": "Ich benutze das Wort 'spielen' in einem einfachen Satz.",
+      "options": [
+        "Kaffee",
+        "groß",
+        "Stift",
+        "spielen"
+      ],
+      "correct": "spielen"
+    }
+  ]
+}

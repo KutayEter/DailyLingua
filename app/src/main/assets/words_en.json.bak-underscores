@@ -1,0 +1,3448 @@
+{
+  "words": [
+    {
+      "id": 41,
+      "word": "garden",
+      "translation": "bahçe",
+      "example": "The flowers are in the garden.",
+      "exampleTranslation": "Çiçekler bahçede.",
+      "options": [
+        "bahçe",
+        "ev",
+        "oda",
+        "park"
+      ],
+      "correct": "bahçe"
+    },
+    {
+      "id": 42,
+      "word": "grass",
+      "translation": "çimen",
+      "example": "The grass is green and soft.",
+      "exampleTranslation": "Çimen yeşil ve yumuşaktır.",
+      "options": [
+        "ağaç",
+        "yaprak",
+        "çimen",
+        "çiçek"
+      ],
+      "correct": "çimen"
+    },
+    {
+      "id": 43,
+      "word": "mountain",
+      "translation": "dağ",
+      "example": "We can see a mountain from here.",
+      "exampleTranslation": "Buradan bir dağ görebiliriz.",
+      "options": [
+        "nehir",
+        "deniz",
+        "dağ",
+        "göl"
+      ],
+      "correct": "dağ"
+    },
+    {
+      "id": 44,
+      "word": "river",
+      "translation": "nehir",
+      "example": "A river runs through the city.",
+      "exampleTranslation": "Şehirden bir nehir geçer.",
+      "options": [
+        "deniz",
+        "nehir",
+        "göl",
+        "dağ"
+      ],
+      "correct": "nehir"
+    },
+    {
+      "id": 45,
+      "word": "lake",
+      "translation": "göl",
+      "example": "The lake water is very cold.",
+      "exampleTranslation": "Gölün suyu çok soğuktur.",
+      "options": [
+        "deniz",
+        "nehir",
+        "göl",
+        "rüzgar"
+      ],
+      "correct": "göl"
+    },
+    {
+      "id": 46,
+      "word": "sea",
+      "translation": "deniz",
+      "example": "The sea looks calm today.",
+      "exampleTranslation": "Deniz bugün sakin görünüyor.",
+      "options": [
+        "deniz",
+        "nehir",
+        "göl",
+        "rüzgar"
+      ],
+      "correct": "deniz"
+    },
+    {
+      "id": 47,
+      "word": "island",
+      "translation": "ada",
+      "example": "There are many small islands here.",
+      "exampleTranslation": "Burada birçok küçük ada var.",
+      "options": [
+        "dağ",
+        "ada",
+        "nehir",
+        "göl"
+      ],
+      "correct": "ada"
+    },
+    {
+      "id": 48,
+      "word": "boat",
+      "translation": "tekne",
+      "example": "The boat is on the water.",
+      "exampleTranslation": "Tekne suda.",
+      "options": [
+        "uçak",
+        "tren",
+        "tekne",
+        "araba"
+      ],
+      "correct": "tekne"
+    },
+    {
+      "id": 49,
+      "word": "train",
+      "translation": "tren",
+      "example": "The train arrives at 8 o’clock.",
+      "exampleTranslation": "Tren saat sekizde gelir.",
+      "options": [
+        "uçak",
+        "araba",
+        "tekne",
+        "tren"
+      ],
+      "correct": "tren"
+    },
+    {
+      "id": 50,
+      "word": "bus",
+      "translation": "otobüs",
+      "example": "I take the bus to work.",
+      "exampleTranslation": "İşe otobüsle giderim.",
+      "options": [
+        "tren",
+        "araba",
+        "otobüs",
+        "uçak"
+      ],
+      "correct": "otobüs"
+    },
+    {
+      "id": 51,
+      "word": "driver",
+      "translation": "sürücü",
+      "example": "The driver is very careful.",
+      "exampleTranslation": "Sürücü çok dikkatli.",
+      "options": [
+        "polis",
+        "öğretmen",
+        "sürücü",
+        "doktor"
+      ],
+      "correct": "sürücü"
+    },
+    {
+      "id": 52,
+      "word": "road",
+      "translation": "yol",
+      "example": "The road goes to the village.",
+      "exampleTranslation": "Yol köye gider.",
+      "options": [
+        "yol",
+        "araba",
+        "tren",
+        "otobüs"
+      ],
+      "correct": "yol"
+    },
+    {
+      "id": 53,
+      "word": "office",
+      "translation": "ofis",
+      "example": "My office is near the bank.",
+      "exampleTranslation": "Ofisim bankanın yakınında.",
+      "options": [
+        "okul",
+        "ofis",
+        "hastane",
+        "ev"
+      ],
+      "correct": "ofis"
+    },
+    {
+      "id": 54,
+      "word": "job",
+      "translation": "iş",
+      "example": "He has a new job.",
+      "exampleTranslation": "Onun yeni bir işi var.",
+      "options": [
+        "iş",
+        "okul",
+        "ev",
+        "bahçe"
+      ],
+      "correct": "iş"
+    },
+    {
+      "id": 55,
+      "word": "hospital",
+      "translation": "hastane",
+      "example": "She works at the hospital.",
+      "exampleTranslation": "O, hastanede çalışıyor.",
+      "options": [
+        "okul",
+        "hastane",
+        "ofis",
+        "ev"
+      ],
+      "correct": "hastane"
+    },
+    {
+      "id": 56,
+      "word": "doctor",
+      "translation": "doktor",
+      "example": "The doctor helps sick people.",
+      "exampleTranslation": "Doktor hasta insanlara yardım eder.",
+      "options": [
+        "doktor",
+        "polis",
+        "öğretmen",
+        "hemşire"
+      ],
+      "correct": "doktor"
+    },
+    {
+      "id": 57,
+      "word": "nurse",
+      "translation": "hemşire",
+      "example": "The nurse is very kind.",
+      "exampleTranslation": "Hemşire çok naziktir.",
+      "options": [
+        "doktor",
+        "hemşire",
+        "polis",
+        "mühendis"
+      ],
+      "correct": "hemşire"
+    },
+    {
+      "id": 58,
+      "word": "child",
+      "translation": "çocuk",
+      "example": "The child is playing with a toy.",
+      "exampleTranslation": "Çocuk oyuncakla oynuyor.",
+      "options": [
+        "bebek",
+        "çocuk",
+        "kadın",
+        "adam"
+      ],
+      "correct": "çocuk"
+    },
+    {
+      "id": 59,
+      "word": "baby",
+      "translation": "bebek",
+      "example": "The baby is sleeping in the bed.",
+      "exampleTranslation": "Bebek yatakta uyuyor.",
+      "options": [
+        "çocuk",
+        "baba",
+        "bebek",
+        "anne"
+      ],
+      "correct": "bebek"
+    },
+    {
+      "id": 60,
+      "word": "toy",
+      "translation": "oyuncak",
+      "example": "This toy is for my little brother.",
+      "exampleTranslation": "Bu oyuncak küçük kardeşim için.",
+      "options": [
+        "oyuncak",
+        "kitap",
+        "masa",
+        "kalem"
+      ],
+      "correct": "oyuncak"
+    },
+    {
+      "id": 61,
+      "word": "game",
+      "translation": "oyun",
+      "example": "We play a fun game after school.",
+      "exampleTranslation": "Okuldan sonra eğlenceli bir oyun oynarız.",
+      "options": [
+        "oyun",
+        "müzik",
+        "film",
+        "kitap"
+      ],
+      "correct": "oyun"
+    },
+    {
+      "id": 62,
+      "word": "music",
+      "translation": "müzik",
+      "example": "I like listening to music in my room.",
+      "exampleTranslation": "Odamda müzik dinlemeyi severim.",
+      "options": [
+        "şarkı",
+        "film",
+        "müzik",
+        "kitap"
+      ],
+      "correct": "müzik"
+    },
+    {
+      "id": 63,
+      "word": "song",
+      "translation": "şarkı",
+      "example": "This is my favorite song.",
+      "exampleTranslation": "Bu benim en sevdiğim şarkı.",
+      "options": [
+        "kitap",
+        "film",
+        "müzik",
+        "şarkı"
+      ],
+      "correct": "şarkı"
+    },
+    {
+      "id": 64,
+      "word": "movie",
+      "translation": "film",
+      "example": "We watched a funny movie last night.",
+      "exampleTranslation": "Dün gece komik bir film izledik.",
+      "options": [
+        "film",
+        "kitap",
+        "şarkı",
+        "oyun"
+      ],
+      "correct": "film"
+    },
+    {
+      "id": 65,
+      "word": "picture",
+      "translation": "resim",
+      "example": "I drew a picture of my family.",
+      "exampleTranslation": "Ailemin bir resmini çizdim.",
+      "options": [
+        "resim",
+        "film",
+        "müzik",
+        "kitap"
+      ],
+      "correct": "resim"
+    },
+    {
+      "id": 66,
+      "word": "color",
+      "translation": "renk",
+      "example": "Blue is my favorite color.",
+      "exampleTranslation": "Mavi benim en sevdiğim renktir.",
+      "options": [
+        "renk",
+        "sayı",
+        "şekil",
+        "yemek"
+      ],
+      "correct": "renk"
+    },
+    {
+      "id": 67,
+      "word": "red",
+      "translation": "kırmızı",
+      "example": "The apple is red.",
+      "exampleTranslation": "Elma kırmızı.",
+      "options": [
+        "yeşil",
+        "mavi",
+        "kırmızı",
+        "siyah"
+      ],
+      "correct": "kırmızı"
+    },
+    {
+      "id": 68,
+      "word": "blue",
+      "translation": "mavi",
+      "example": "The sky is blue today.",
+      "exampleTranslation": "Gökyüzü bugün mavi.",
+      "options": [
+        "mavi",
+        "yeşil",
+        "sarı",
+        "beyaz"
+      ],
+      "correct": "mavi"
+    },
+    {
+      "id": 69,
+      "word": "green",
+      "translation": "yeşil",
+      "example": "The grass is green.",
+      "exampleTranslation": "Çimen yeşil.",
+      "options": [
+        "sarı",
+        "yeşil",
+        "mavi",
+        "kırmızı"
+      ],
+      "correct": "yeşil"
+    },
+    {
+      "id": 70,
+      "word": "black",
+      "translation": "siyah",
+      "example": "My bag is black.",
+      "exampleTranslation": "Çantam siyah.",
+      "options": [
+        "beyaz",
+        "siyah",
+        "kırmızı",
+        "mavi"
+      ],
+      "correct": "siyah"
+    },
+    {
+      "id": 71,
+      "word": "white",
+      "translation": "beyaz",
+      "example": "The snow is white.",
+      "exampleTranslation": "Kar beyazdır.",
+      "options": [
+        "beyaz",
+        "siyah",
+        "yeşil",
+        "mavi"
+      ],
+      "correct": "beyaz"
+    },
+    {
+      "id": 72,
+      "word": "happy",
+      "translation": "mutlu",
+      "example": "I am happy today.",
+      "exampleTranslation": "Bugün mutluyum.",
+      "options": [
+        "üzgün",
+        "kızgın",
+        "mutlu",
+        "yorgun"
+      ],
+      "correct": "mutlu"
+    },
+    {
+      "id": 73,
+      "word": "sad",
+      "translation": "üzgün",
+      "example": "She looks sad this morning.",
+      "exampleTranslation": "Bu sabah üzgün görünüyor.",
+      "options": [
+        "kızgın",
+        "mutlu",
+        "üzgün",
+        "heyecanlı"
+      ],
+      "correct": "üzgün"
+    },
+    {
+      "id": 74,
+      "word": "cold",
+      "translation": "soğuk",
+      "example": "It is very cold outside.",
+      "exampleTranslation": "Dışarısı çok soğuk.",
+      "options": [
+        "sıcak",
+        "soğuk",
+        "rüzgarlı",
+        "güneşli"
+      ],
+      "correct": "soğuk"
+    },
+    {
+      "id": 75,
+      "word": "hot",
+      "translation": "sıcak",
+      "example": "The tea is hot.",
+      "exampleTranslation": "Çay sıcak.",
+      "options": [
+        "soğuk",
+        "sıcak",
+        "tatlı",
+        "acı"
+      ],
+      "correct": "sıcak"
+    },
+    {
+      "id": 76,
+      "word": "big",
+      "translation": "büyük",
+      "example": "This house is very big.",
+      "exampleTranslation": "Bu ev çok büyük.",
+      "options": [
+        "küçük",
+        "geniş",
+        "büyük",
+        "kısa"
+      ],
+      "correct": "büyük"
+    },
+    {
+      "id": 77,
+      "word": "small",
+      "translation": "küçük",
+      "example": "The dog is small.",
+      "exampleTranslation": "Köpek küçük.",
+      "options": [
+        "büyük",
+        "küçük",
+        "uzun",
+        "kısa"
+      ],
+      "correct": "küçük"
+    },
+    {
+      "id": 78,
+      "word": "long",
+      "translation": "uzun",
+      "example": "The river is long.",
+      "exampleTranslation": "Nehir uzundur.",
+      "options": [
+        "uzun",
+        "kısa",
+        "geniş",
+        "dar"
+      ],
+      "correct": "uzun"
+    },
+    {
+      "id": 79,
+      "word": "short",
+      "translation": "kısa",
+      "example": "His hair is short.",
+      "exampleTranslation": "Saçı kısadır.",
+      "options": [
+        "uzun",
+        "kısa",
+        "kalın",
+        "ince"
+      ],
+      "correct": "kısa"
+    },
+    {
+      "id": 80,
+      "word": "fast",
+      "translation": "hızlı",
+      "example": "The car is very fast.",
+      "exampleTranslation": "Araba çok hızlı.",
+      "options": [
+        "yavaş",
+        "hızlı",
+        "uzun",
+        "kısa"
+      ],
+      "correct": "hızlı"
+    },
+    {
+      "id": 81,
+      "word": "slow",
+      "translation": "yavaş",
+      "example": "The turtle walks very slow.",
+      "exampleTranslation": "Kaplumbağa çok yavaş yürür.",
+      "options": [
+        "yavaş",
+        "hızlı",
+        "uzun",
+        "kısa"
+      ],
+      "correct": "yavaş"
+    },
+    {
+      "id": 82,
+      "word": "old",
+      "translation": "yaşlı",
+      "example": "My grandfather is old.",
+      "exampleTranslation": "Büyükbabam yaşlıdır.",
+      "options": [
+        "genç",
+        "yaşlı",
+        "küçük",
+        "büyük"
+      ],
+      "correct": "yaşlı"
+    },
+    {
+      "id": 83,
+      "word": "young",
+      "translation": "genç",
+      "example": "The young boy is playing football.",
+      "exampleTranslation": "Genç çocuk futbol oynuyor.",
+      "options": [
+        "yaşlı",
+        "genç",
+        "küçük",
+        "büyük"
+      ],
+      "correct": "genç"
+    },
+    {
+      "id": 84,
+      "word": "beautiful",
+      "translation": "güzel",
+      "example": "The garden is beautiful in spring.",
+      "exampleTranslation": "Bahçe ilkbaharda güzeldir.",
+      "options": [
+        "güzel",
+        "kötü",
+        "uzun",
+        "kısa"
+      ],
+      "correct": "güzel"
+    },
+    {
+      "id": 85,
+      "word": "bad",
+      "translation": "kötü",
+      "example": "This coffee tastes bad.",
+      "exampleTranslation": "Bu kahvenin tadı kötü.",
+      "options": [
+        "güzel",
+        "kötü",
+        "sıcak",
+        "soğuk"
+      ],
+      "correct": "kötü"
+    },
+    {
+      "id": 86,
+      "word": "new",
+      "translation": "yeni",
+      "example": "He bought a new phone yesterday.",
+      "exampleTranslation": "Dün yeni bir telefon aldı.",
+      "options": [
+        "eski",
+        "yeni",
+        "büyük",
+        "küçük"
+      ],
+      "correct": "yeni"
+    },
+    {
+      "id": 87,
+      "word": "old (object)",
+      "translation": "eski",
+      "example": "This car is very old.",
+      "exampleTranslation": "Bu araba çok eski.",
+      "options": [
+        "yeni",
+        "eski",
+        "uzun",
+        "kısa"
+      ],
+      "correct": "eski"
+    },
+    {
+      "id": 88,
+      "word": "strong",
+      "translation": "güçlü",
+      "example": "My father is very strong.",
+      "exampleTranslation": "Babam çok güçlüdür.",
+      "options": [
+        "zayıf",
+        "güçlü",
+        "kısa",
+        "uzun"
+      ],
+      "correct": "güçlü"
+    },
+    {
+      "id": 89,
+      "word": "weak",
+      "translation": "zayıf",
+      "example": "He is too weak to lift the box.",
+      "exampleTranslation": "Kutuyu kaldırmak için çok zayıf.",
+      "options": [
+        "güçlü",
+        "zayıf",
+        "genç",
+        "yaşlı"
+      ],
+      "correct": "zayıf"
+    },
+    {
+      "id": 90,
+      "word": "clean",
+      "translation": "temiz",
+      "example": "The room is clean and bright.",
+      "exampleTranslation": "Oda temiz ve aydınlık.",
+      "options": [
+        "kirli",
+        "temiz",
+        "koyu",
+        "büyük"
+      ],
+      "correct": "temiz"
+    },
+    {
+      "id": 91,
+      "word": "dirty",
+      "translation": "kirli",
+      "example": "Your hands are dirty. Wash them.",
+      "exampleTranslation": "Ellerin kirli. Onları yıka.",
+      "options": [
+        "kirli",
+        "temiz",
+        "ıslak",
+        "kuru"
+      ],
+      "correct": "kirli"
+    },
+    {
+      "id": 92,
+      "word": "open",
+      "translation": "açık",
+      "example": "The window is open.",
+      "exampleTranslation": "Pencere açık.",
+      "options": [
+        "kapalı",
+        "açık",
+        "soğuk",
+        "sıcak"
+      ],
+      "correct": "açık"
+    },
+    {
+      "id": 93,
+      "word": "closed",
+      "translation": "kapalı",
+      "example": "The shop is closed on Sundays.",
+      "exampleTranslation": "Dükkan pazar günleri kapalıdır.",
+      "options": [
+        "açık",
+        "kapalı",
+        "büyük",
+        "küçük"
+      ],
+      "correct": "kapalı"
+    },
+    {
+      "id": 94,
+      "word": "hungry",
+      "translation": "aç",
+      "example": "I am hungry. Let’s eat something.",
+      "exampleTranslation": "Açım. Bir şeyler yiyelim.",
+      "options": [
+        "tok",
+        "aç",
+        "yorgun",
+        "mutlu"
+      ],
+      "correct": "aç"
+    },
+    {
+      "id": 95,
+      "word": "thirsty",
+      "translation": "susamış",
+      "example": "She is thirsty after the run.",
+      "exampleTranslation": "Koştuktan sonra susadı.",
+      "options": [
+        "aç",
+        "tok",
+        "susamış",
+        "yorgun"
+      ],
+      "correct": "susamış"
+    },
+    {
+      "id": 96,
+      "word": "tired",
+      "translation": "yorgun",
+      "example": "He is tired after work.",
+      "exampleTranslation": "İşten sonra yorgun.",
+      "options": [
+        "mutlu",
+        "yorgun",
+        "aç",
+        "tok"
+      ],
+      "correct": "yorgun"
+    },
+    {
+      "id": 97,
+      "word": "angry",
+      "translation": "kızgın",
+      "example": "My mom is angry because I’m late.",
+      "exampleTranslation": "Annem kızgın çünkü geç kaldım.",
+      "options": [
+        "mutlu",
+        "kızgın",
+        "üzgün",
+        "yorgun"
+      ],
+      "correct": "kızgın"
+    },
+    {
+      "id": 98,
+      "word": "tall",
+      "translation": "uzun (boylu)",
+      "example": "He is very tall and slim.",
+      "exampleTranslation": "O çok uzun boylu ve zayıf.",
+      "options": [
+        "uzun",
+        "kısa",
+        "büyük",
+        "genç"
+      ],
+      "correct": "uzun"
+    },
+    {
+      "id": 99,
+      "word": "short (height)",
+      "translation": "kısa boylu",
+      "example": "My sister is short but strong.",
+      "exampleTranslation": "Kız kardeşim kısa boylu ama güçlü.",
+      "options": [
+        "uzun",
+        "kısa",
+        "zayıf",
+        "yaşlı"
+      ],
+      "correct": "kısa"
+    },
+    {
+      "id": 100,
+      "word": "good",
+      "translation": "iyi",
+      "example": "Today is a good day.",
+      "exampleTranslation": "Bugün iyi bir gün.",
+      "options": [
+        "kötü",
+        "iyi",
+        "sıcak",
+        "soğuk"
+      ],
+      "correct": "iyi"
+    },
+    {
+      "id": 101,
+      "word": "analyze",
+      "translation": "analiz etmek",
+      "example": "Scientists \"analyze\" the results carefully before drawing conclusions.",
+      "exampleTranslation": "Bilim insanları sonuçlara varmadan önce verileri dikkatlice analiz eder.",
+      "options": [
+        "analiz etmek",
+        "görmek",
+        "öğretmek",
+        "tartışmak"
+      ],
+      "correct": "analiz etmek"
+    },
+    {
+      "id": 102,
+      "word": "consider",
+      "translation": "dikkate almak",
+      "example": "Before making a final choice, you should \"consider\" all the options.",
+      "exampleTranslation": "Son kararı vermeden önce tüm seçenekleri dikkate almalısın.",
+      "options": [
+        "dikkate almak",
+        "seçmek",
+        "unutmak",
+        "denemek"
+      ],
+      "correct": "dikkate almak"
+    },
+    {
+      "id": 103,
+      "word": "assume",
+      "translation": "varsaymak",
+      "example": "Don’t \"assume\" that everyone agrees with you.",
+      "exampleTranslation": "Herkesin seninle aynı fikirde olduğunu varsayma.",
+      "options": [
+        "varsaymak",
+        "bilmek",
+        "görmek",
+        "söylemek"
+      ],
+      "correct": "varsaymak"
+    },
+    {
+      "id": 104,
+      "word": "determine",
+      "translation": "belirlemek",
+      "example": "We need to \"determine\" the cause of the problem before fixing it.",
+      "exampleTranslation": "Onu düzeltmeden önce sorunun nedenini belirlememiz gerekiyor.",
+      "options": [
+        "belirlemek",
+        "göstermek",
+        "anlatmak",
+        "gözlemlemek"
+      ],
+      "correct": "belirlemek"
+    },
+    {
+      "id": 105,
+      "word": "efficient",
+      "translation": "verimli",
+      "example": "The new software is much more \"efficient\" than the old version.",
+      "exampleTranslation": "Yeni yazılım eski sürümden çok daha verimlidir.",
+      "options": [
+        "verimli",
+        "yavaş",
+        "hızlı",
+        "karmaşık"
+      ],
+      "correct": "verimli"
+    },
+    {
+      "id": 106,
+      "word": "estimate",
+      "translation": "tahmin etmek",
+      "example": "Experts \"estimate\" that the population will double in the next 20 years.",
+      "exampleTranslation": "Uzmanlar nüfusun önümüzdeki 20 yıl içinde iki katına çıkacağını tahmin ediyor.",
+      "options": [
+        "tahmin etmek",
+        "hesaplamak",
+        "bilmek",
+        "anlamak"
+      ],
+      "correct": "tahmin etmek"
+    },
+    {
+      "id": 107,
+      "word": "maintain",
+      "translation": "sürdürmek",
+      "example": "It’s difficult to \"maintain\" a balance between work and personal life.",
+      "exampleTranslation": "İş ve özel hayat arasında dengeyi sürdürmek zordur.",
+      "options": [
+        "sürdürmek",
+        "başlamak",
+        "değiştirmek",
+        "bırakmak"
+      ],
+      "correct": "sürdürmek"
+    },
+    {
+      "id": 108,
+      "word": "persuade",
+      "translation": "ikna etmek",
+      "example": "She managed to \"persuade\" her parents to let her study abroad.",
+      "exampleTranslation": "Yurt dışında okumasına izin vermeleri için ailesini ikna etmeyi başardı.",
+      "options": [
+        "ikna etmek",
+        "sormak",
+        "istemek",
+        "teklif etmek"
+      ],
+      "correct": "ikna etmek"
+    },
+    {
+      "id": 109,
+      "word": "relevant",
+      "translation": "ilgili, alakalı",
+      "example": "Please include only \"relevant\" information in your report.",
+      "exampleTranslation": "Lütfen raporuna yalnızca ilgili bilgileri dahil et.",
+      "options": [
+        "ilgili",
+        "önemli",
+        "farklı",
+        "kısa"
+      ],
+      "correct": "ilgili"
+    },
+    {
+      "id": 110,
+      "word": "occur",
+      "translation": "meydana gelmek",
+      "example": "Several accidents have \"occurred\" on this road recently.",
+      "exampleTranslation": "Son zamanlarda bu yolda birkaç kaza meydana geldi.",
+      "options": [
+        "meydana gelmek",
+        "bitmek",
+        "başlamak",
+        "devam etmek"
+      ],
+      "correct": "meydana gelmek"
+    },
+    {
+      "id": 111,
+      "word": "maintain",
+      "translation": "korumak, sürdürmek",
+      "example": "You need to \"maintain\" a healthy diet to stay fit.",
+      "exampleTranslation": "Formda kalmak için sağlıklı bir beslenme düzeni sürdürmelisin.",
+      "options": [
+        "korumak",
+        "değiştirmek",
+        "unutmak",
+        "hazırlamak"
+      ],
+      "correct": "korumak"
+    },
+    {
+      "id": 112,
+      "word": "evaluate",
+      "translation": "değerlendirmek",
+      "example": "The company will \"evaluate\" your performance after six months.",
+      "exampleTranslation": "Şirket altı ay sonra performansını değerlendirecek.",
+      "options": [
+        "değerlendirmek",
+        "ölçmek",
+        "kaydetmek",
+        "öğretmek"
+      ],
+      "correct": "değerlendirmek"
+    },
+    {
+      "id": 113,
+      "word": "expand",
+      "translation": "genişletmek",
+      "example": "The company plans to \"expand\" into new international markets.",
+      "exampleTranslation": "Şirket yeni uluslararası pazarlara açılmayı planlıyor.",
+      "options": [
+        "genişletmek",
+        "daraltmak",
+        "yenilemek",
+        "kapatmak"
+      ],
+      "correct": "genişletmek"
+    },
+    {
+      "id": 114,
+      "word": "conduct",
+      "translation": "yürütmek (araştırma vb.)",
+      "example": "The team \"conducted\" an experiment to test the theory.",
+      "exampleTranslation": "Ekip teoriyi test etmek için bir deney yürüttü.",
+      "options": [
+        "yürütmek",
+        "başlamak",
+        "durmak",
+        "öğretmek"
+      ],
+      "correct": "yürütmek"
+    },
+    {
+      "id": 115,
+      "word": "influence",
+      "translation": "etkilemek",
+      "example": "Social media has a strong \"influence\" on young people.",
+      "exampleTranslation": "Sosyal medyanın gençler üzerinde güçlü bir etkisi var.",
+      "options": [
+        "etkilemek",
+        "önermek",
+        "karar vermek",
+        "denemek"
+      ],
+      "correct": "etkilemek"
+    },
+    {
+      "id": 116,
+      "word": "compare",
+      "translation": "karşılaştırmak",
+      "example": "It’s not fair to \"compare\" yourself to others.",
+      "exampleTranslation": "Kendini başkalarıyla karşılaştırmak adil değildir.",
+      "options": [
+        "karşılaştırmak",
+        "ölçmek",
+        "tanımlamak",
+        "göstermek"
+      ],
+      "correct": "karşılaştırmak"
+    },
+    {
+      "id": 117,
+      "word": "predict",
+      "translation": "tahmin etmek",
+      "example": "It’s hard to \"predict\" how the economy will change next year.",
+      "exampleTranslation": "Ekonominin gelecek yıl nasıl değişeceğini tahmin etmek zordur.",
+      "options": [
+        "tahmin etmek",
+        "hesaplamak",
+        "sormak",
+        "tanımlamak"
+      ],
+      "correct": "tahmin etmek"
+    },
+    {
+      "id": 118,
+      "word": "affect",
+      "translation": "etkilemek",
+      "example": "The weather can greatly \"affect\" our mood.",
+      "exampleTranslation": "Hava durumu ruh halimizi büyük ölçüde etkileyebilir.",
+      "options": [
+        "etkilemek",
+        "karıştırmak",
+        "kapatmak",
+        "düşünmek"
+      ],
+      "correct": "etkilemek"
+    },
+    {
+      "id": 119,
+      "word": "efficiently",
+      "translation": "verimli bir şekilde",
+      "example": "She works very \"efficiently\" even under pressure.",
+      "exampleTranslation": "Baskı altında bile çok verimli çalışır.",
+      "options": [
+        "verimli bir şekilde",
+        "yavaşça",
+        "sessizce",
+        "zorla"
+      ],
+      "correct": "verimli bir şekilde"
+    },
+    {
+      "id": 120,
+      "word": "aware",
+      "translation": "farkında",
+      "example": "I wasn’t \"aware\" that the deadline had been changed.",
+      "exampleTranslation": "Teslim tarihinin değiştiğinin farkında değildim.",
+      "options": [
+        "farkında",
+        "hazır",
+        "emin",
+        "ilgisiz"
+      ],
+      "correct": "farkında"
+    },
+    {
+      "id": 121,
+      "word": "adapt",
+      "translation": "uyum sağlamak",
+      "example": "People must \"adapt\" quickly to technological changes.",
+      "exampleTranslation": "İnsanlar teknolojik değişimlere hızlıca uyum sağlamalıdır.",
+      "options": [
+        "uyum sağlamak",
+        "öğrenmek",
+        "çalışmak",
+        "başlamak"
+      ],
+      "correct": "uyum sağlamak"
+    },
+    {
+      "id": 122,
+      "word": "determine",
+      "translation": "belirlemek",
+      "example": "The committee will \"determine\" the final schedule tomorrow.",
+      "exampleTranslation": "Komite yarın nihai programı belirleyecek.",
+      "options": [
+        "belirlemek",
+        "göstermek",
+        "yazmak",
+        "planlamak"
+      ],
+      "correct": "belirlemek"
+    },
+    {
+      "id": 123,
+      "word": "evaluate",
+      "translation": "değerlendirmek",
+      "example": "Teachers \"evaluate\" students based on their performance.",
+      "exampleTranslation": "Öğretmenler öğrencileri performanslarına göre değerlendirir.",
+      "options": [
+        "değerlendirmek",
+        "öğretmek",
+        "yazmak",
+        "düşünmek"
+      ],
+      "correct": "değerlendirmek"
+    },
+    {
+      "id": 124,
+      "word": "justify",
+      "translation": "haklı çıkarmak",
+      "example": "It’s hard to \"justify\" spending so much money on clothes.",
+      "exampleTranslation": "Bu kadar çok para harcamayı haklı çıkarmak zor.",
+      "options": [
+        "haklı çıkarmak",
+        "açıklamak",
+        "göstermek",
+        "anlamak"
+      ],
+      "correct": "haklı çıkarmak"
+    },
+    {
+      "id": 125,
+      "word": "ignore",
+      "translation": "görmezden gelmek",
+      "example": "You shouldn’t \"ignore\" the warning signs.",
+      "exampleTranslation": "Uyarı işaretlerini görmezden gelmemelisin.",
+      "options": [
+        "görmezden gelmek",
+        "fark etmek",
+        "dinlemek",
+        "öğretmek"
+      ],
+      "correct": "görmezden gelmek"
+    },
+    {
+      "id": 126,
+      "word": "generate",
+      "translation": "üretmek, oluşturmak",
+      "example": "Solar panels \"generate\" electricity from sunlight.",
+      "exampleTranslation": "Güneş panelleri güneş ışığından elektrik üretir.",
+      "options": [
+        "üretmek",
+        "taşımak",
+        "yakmak",
+        "kaydetmek"
+      ],
+      "correct": "üretmek"
+    },
+    {
+      "id": 127,
+      "word": "maintain",
+      "translation": "sürdürmek",
+      "example": "It’s important to \"maintain\" good relationships with colleagues.",
+      "exampleTranslation": "İş arkadaşlarıyla iyi ilişkiler sürdürmek önemlidir.",
+      "options": [
+        "sürdürmek",
+        "değiştirmek",
+        "unutmak",
+        "bitirmek"
+      ],
+      "correct": "sürdürmek"
+    },
+    {
+      "id": 128,
+      "word": "decline",
+      "translation": "reddetmek, azalmak",
+      "example": "He politely \"declined\" the invitation to the event.",
+      "exampleTranslation": "Etkinlik davetini kibarca reddetti.",
+      "options": [
+        "reddetmek",
+        "kabul etmek",
+        "beklemek",
+        "sormak"
+      ],
+      "correct": "reddetmek"
+    },
+    {
+      "id": 129,
+      "word": "assume",
+      "translation": "üstlenmek, varsaymak",
+      "example": "He will \"assume\" responsibility for the entire project.",
+      "exampleTranslation": "Tüm projenin sorumluluğunu üstlenecek.",
+      "options": [
+        "üstlenmek",
+        "öğrenmek",
+        "izlemek",
+        "yönetmek"
+      ],
+      "correct": "üstlenmek"
+    },
+    {
+      "id": 130,
+      "word": "achieve",
+      "translation": "başarmak",
+      "example": "You can’t \"achieve\" success without hard work and patience.",
+      "exampleTranslation": "Çaba ve sabır olmadan başarı elde edemezsin.",
+      "options": [
+        "başarmak",
+        "unutmak",
+        "hazırlamak",
+        "başlamak"
+      ],
+      "correct": "başarmak"
+    },
+    {
+      "id": 131,
+      "word": "require",
+      "translation": "gerektirmek",
+      "example": "This task \"requires\" both focus and creativity.",
+      "exampleTranslation": "Bu görev hem odak hem de yaratıcılık gerektirir.",
+      "options": [
+        "gerektirmek",
+        "vermek",
+        "düşünmek",
+        "yapmak"
+      ],
+      "correct": "gerektirmek"
+    },
+    {
+      "id": 132,
+      "word": "rely",
+      "translation": "güvenmek",
+      "example": "You can always \"rely\" on your best friend.",
+      "exampleTranslation": "Her zaman en iyi arkadaşına güvenebilirsin.",
+      "options": [
+        "güvenmek",
+        "aramak",
+        "sormak",
+        "inanmak"
+      ],
+      "correct": "güvenmek"
+    },
+    {
+      "id": 133,
+      "word": "convince",
+      "translation": "ikna etmek",
+      "example": "He tried to \"convince\" his parents to let him travel alone.",
+      "exampleTranslation": "Tek başına seyahat etmesine izin vermeleri için ailesini ikna etmeye çalıştı.",
+      "options": [
+        "ikna etmek",
+        "sormak",
+        "teklif etmek",
+        "denemek"
+      ],
+      "correct": "ikna etmek"
+    },
+    {
+      "id": 134,
+      "word": "establish",
+      "translation": "kurmak, oluşturmak",
+      "example": "The company was \"established\" in 1995 and grew rapidly.",
+      "exampleTranslation": "Şirket 1995 yılında kuruldu ve hızla büyüdü.",
+      "options": [
+        "kurmak",
+        "taşımak",
+        "değiştirmek",
+        "satmak"
+      ],
+      "correct": "kurmak"
+    },
+    {
+      "id": 135,
+      "word": "explore",
+      "translation": "keşfetmek",
+      "example": "We decided to \"explore\" the city on foot instead of by car.",
+      "exampleTranslation": "Şehri arabayla değil yürüyerek keşfetmeye karar verdik.",
+      "options": [
+        "keşfetmek",
+        "ziyaret etmek",
+        "gezmek",
+        "düşünmek"
+      ],
+      "correct": "keşfetmek"
+    },
+    {
+      "id": 136,
+      "word": "expand",
+      "translation": "genişletmek",
+      "example": "The school plans to \"expand\" its library next year.",
+      "exampleTranslation": "Okul gelecek yıl kütüphanesini genişletmeyi planlıyor.",
+      "options": [
+        "genişletmek",
+        "daraltmak",
+        "taşımak",
+        "yenilemek"
+      ],
+      "correct": "genişletmek"
+    },
+    {
+      "id": 137,
+      "word": "focus",
+      "translation": "odaklanmak",
+      "example": "It’s hard to \"focus\" when there’s too much noise.",
+      "exampleTranslation": "Çok fazla gürültü olduğunda odaklanmak zordur.",
+      "options": [
+        "odaklanmak",
+        "öğrenmek",
+        "dinlemek",
+        "izlemek"
+      ],
+      "correct": "odaklanmak"
+    },
+    {
+      "id": 138,
+      "word": "assess",
+      "translation": "değerlendirmek",
+      "example": "The teacher will \"assess\" your essay next week.",
+      "exampleTranslation": "Öğretmen makaleni gelecek hafta değerlendirecek.",
+      "options": [
+        "değerlendirmek",
+        "öğretmek",
+        "yazmak",
+        "okumak"
+      ],
+      "correct": "değerlendirmek"
+    },
+    {
+      "id": 139,
+      "word": "avoid",
+      "translation": "kaçınmak",
+      "example": "You should \"avoid\" eating junk food if you want to stay healthy.",
+      "exampleTranslation": "Sağlıklı kalmak istiyorsan abur cubur yemekten kaçınmalısın.",
+      "options": [
+        "kaçınmak",
+        "yemek",
+        "beklemek",
+        "unutmak"
+      ],
+      "correct": "kaçınmak"
+    },
+    {
+      "id": 140,
+      "word": "benefit",
+      "translation": "faydalanmak, yararlanmak",
+      "example": "Students \"benefit\" greatly from study abroad programs.",
+      "exampleTranslation": "Öğrenciler yurt dışı programlarından büyük ölçüde faydalanır.",
+      "options": [
+        "faydalanmak",
+        "çalışmak",
+        "öğrenmek",
+        "katılmak"
+      ],
+      "correct": "faydalanmak"
+    },
+    {
+      "id": 141,
+      "word": "criticize",
+      "translation": "eleştirmek",
+      "example": "It’s easy to \"criticize\" others, but harder to improve yourself.",
+      "exampleTranslation": "Başkalarını eleştirmek kolay, ama kendini geliştirmek zordur.",
+      "options": [
+        "eleştirmek",
+        "övmek",
+        "anlamak",
+        "sevmek"
+      ],
+      "correct": "eleştirmek"
+    },
+    {
+      "id": 142,
+      "word": "depend",
+      "translation": "bağlı olmak",
+      "example": "Our success will \"depend\" on how well we work together.",
+      "exampleTranslation": "Başarımız birlikte ne kadar iyi çalıştığımıza bağlı olacak.",
+      "options": [
+        "bağlı olmak",
+        "güvenmek",
+        "beklemek",
+        "denemek"
+      ],
+      "correct": "bağlı olmak"
+    },
+    {
+      "id": 143,
+      "word": "emphasize",
+      "translation": "vurgulamak",
+      "example": "The teacher \"emphasized\" the importance of practice.",
+      "exampleTranslation": "Öğretmen pratik yapmanın önemini vurguladı.",
+      "options": [
+        "vurgulamak",
+        "anlatmak",
+        "okumak",
+        "tekrar etmek"
+      ],
+      "correct": "vurgulamak"
+    },
+    {
+      "id": 144,
+      "word": "illustrate",
+      "translation": "örnekle açıklamak",
+      "example": "This example \"illustrates\" how technology can improve education.",
+      "exampleTranslation": "Bu örnek, teknolojinin eğitimi nasıl geliştirebileceğini gösteriyor.",
+      "options": [
+        "örnekle açıklamak",
+        "öğretmek",
+        "belirtmek",
+        "paylaşmak"
+      ],
+      "correct": "örnekle açıklamak"
+    },
+    {
+      "id": 145,
+      "word": "manage",
+      "translation": "yönetmek, başarmak",
+      "example": "She somehow \"managed\" to finish the project on time.",
+      "exampleTranslation": "Bir şekilde projeyi zamanında bitirmeyi başardı.",
+      "options": [
+        "yönetmek",
+        "öğretmek",
+        "başarmak",
+        "bitirmek"
+      ],
+      "correct": "başarmak"
+    },
+    {
+      "id": 146,
+      "word": "observe",
+      "translation": "gözlemlemek",
+      "example": "Scientists \"observe\" animal behavior to understand ecosystems.",
+      "exampleTranslation": "Bilim insanları ekosistemleri anlamak için hayvan davranışlarını gözlemler.",
+      "options": [
+        "gözlemlemek",
+        "izlemek",
+        "yazmak",
+        "denemek"
+      ],
+      "correct": "gözlemlemek"
+    },
+    {
+      "id": 147,
+      "word": "publish",
+      "translation": "yayınlamak",
+      "example": "The results will be \"published\" in a scientific journal next month.",
+      "exampleTranslation": "Sonuçlar önümüzdeki ay bilimsel bir dergide yayınlanacak.",
+      "options": [
+        "yayınlamak",
+        "göstermek",
+        "yazmak",
+        "öğretmek"
+      ],
+      "correct": "yayınlamak"
+    },
+    {
+      "id": 148,
+      "word": "recognize",
+      "translation": "tanımak, fark etmek",
+      "example": "I didn’t \"recognize\" him at first because he had grown a beard.",
+      "exampleTranslation": "Sakal bıraktığı için onu başta tanıyamadım.",
+      "options": [
+        "tanımak",
+        "unutmak",
+        "görmek",
+        "duymak"
+      ],
+      "correct": "tanımak"
+    },
+    {
+      "id": 149,
+      "word": "resolve",
+      "translation": "çözmek",
+      "example": "They are trying to \"resolve\" the conflict peacefully.",
+      "exampleTranslation": "Çatışmayı barışçıl bir şekilde çözmeye çalışıyorlar.",
+      "options": [
+        "çözmek",
+        "yazmak",
+        "anlatmak",
+        "kaçmak"
+      ],
+      "correct": "çözmek"
+    },
+    {
+      "id": 150,
+      "word": "significant",
+      "translation": "önemli, anlamlı",
+      "example": "Climate change has a \"significant\" impact on global health.",
+      "exampleTranslation": "İklim değişikliğinin küresel sağlık üzerinde önemli bir etkisi var.",
+      "options": [
+        "önemli",
+        "küçük",
+        "geçici",
+        "zayıf"
+      ],
+      "correct": "önemli"
+    },
+    {
+      "id": 151,
+      "word": "acquire",
+      "translation": "edinmek, kazanmak",
+      "example": "Children quickly \"acquire\" language skills through interaction.",
+      "exampleTranslation": "Çocuklar etkileşim yoluyla dil becerilerini hızlıca edinir.",
+      "options": [
+        "edinmek",
+        "öğretmek",
+        "unutmak",
+        "paylaşmak"
+      ],
+      "correct": "edinmek"
+    },
+    {
+      "id": 152,
+      "word": "acknowledge",
+      "translation": "kabul etmek, farkına varmak",
+      "example": "He refused to \"acknowledge\" that he had made a mistake.",
+      "exampleTranslation": "Bir hata yaptığını kabul etmeyi reddetti.",
+      "options": [
+        "kabul etmek",
+        "reddetmek",
+        "yazmak",
+        "sormak"
+      ],
+      "correct": "kabul etmek"
+    },
+    {
+      "id": 153,
+      "word": "anticipate",
+      "translation": "beklemek, tahmin etmek",
+      "example": "We didn’t \"anticipate\" such a strong reaction from the audience.",
+      "exampleTranslation": "Seyirciden bu kadar güçlü bir tepki beklememiştik.",
+      "options": [
+        "beklemek",
+        "önermek",
+        "anlamak",
+        "hazırlamak"
+      ],
+      "correct": "beklemek"
+    },
+    {
+      "id": 154,
+      "word": "comprehensive",
+      "translation": "kapsamlı",
+      "example": "The report provides a \"comprehensive\" analysis of the situation.",
+      "exampleTranslation": "Rapor durumun kapsamlı bir analizini sunar.",
+      "options": [
+        "kapsamlı",
+        "dar",
+        "kısa",
+        "yetersiz"
+      ],
+      "correct": "kapsamlı"
+    },
+    {
+      "id": 155,
+      "word": "contribute",
+      "translation": "katkıda bulunmak",
+      "example": "Many people \"contributed\" to the success of the project.",
+      "exampleTranslation": "Pek çok kişi projenin başarısına katkıda bulundu.",
+      "options": [
+        "katkıda bulunmak",
+        "yönetmek",
+        "öğretmek",
+        "planlamak"
+      ],
+      "correct": "katkıda bulunmak"
+    },
+    {
+      "id": 156,
+      "word": "crucial",
+      "translation": "çok önemli",
+      "example": "It’s \"crucial\" to stay calm during an emergency.",
+      "exampleTranslation": "Acil bir durumda sakin kalmak çok önemlidir.",
+      "options": [
+        "önemli",
+        "önemsiz",
+        "basit",
+        "geçici"
+      ],
+      "correct": "önemli"
+    },
+    {
+      "id": 157,
+      "word": "derive",
+      "translation": "elde etmek, türetmek",
+      "example": "The word ‘biology’ is \"derived\" from Greek.",
+      "exampleTranslation": "‘Biyoloji’ kelimesi Yunancadan türetilmiştir.",
+      "options": [
+        "elde etmek",
+        "öğretmek",
+        "unutmak",
+        "açıklamak"
+      ],
+      "correct": "elde etmek"
+    },
+    {
+      "id": 158,
+      "word": "distinguish",
+      "translation": "ayırt etmek",
+      "example": "It’s hard to \"distinguish\" truth from lies on social media.",
+      "exampleTranslation": "Sosyal medyada gerçeği yalandan ayırt etmek zordur.",
+      "options": [
+        "ayırt etmek",
+        "karıştırmak",
+        "öğrenmek",
+        "sormak"
+      ],
+      "correct": "ayırt etmek"
+    },
+    {
+      "id": 159,
+      "word": "elaborate",
+      "translation": "detaylandırmak, açıklamak",
+      "example": "Could you \"elaborate\" on your main idea a bit more?",
+      "exampleTranslation": "Ana fikrini biraz daha detaylandırabilir misin?",
+      "options": [
+        "detaylandırmak",
+        "özetlemek",
+        "değiştirmek",
+        "sormak"
+      ],
+      "correct": "detaylandırmak"
+    },
+    {
+      "id": 160,
+      "word": "emerge",
+      "translation": "ortaya çıkmak",
+      "example": "A new generation of leaders has \"emerged\" in recent years.",
+      "exampleTranslation": "Son yıllarda yeni bir lider kuşağı ortaya çıktı.",
+      "options": [
+        "ortaya çıkmak",
+        "kaybolmak",
+        "başlamak",
+        "büyümek"
+      ],
+      "correct": "ortaya çıkmak"
+    },
+    {
+      "id": 161,
+      "word": "enhance",
+      "translation": "artırmak, geliştirmek",
+      "example": "Adding visuals can \"enhance\" the quality of your presentation.",
+      "exampleTranslation": "Görseller eklemek sunumunun kalitesini artırabilir.",
+      "options": [
+        "artırmak",
+        "azaltmak",
+        "bozmak",
+        "silmek"
+      ],
+      "correct": "artırmak"
+    },
+    {
+      "id": 162,
+      "word": "establish",
+      "translation": "kurmak, oluşturmak",
+      "example": "The organization was \"established\" to promote education for all.",
+      "exampleTranslation": "Kuruluş, herkes için eğitimi teşvik etmek amacıyla kuruldu.",
+      "options": [
+        "kurmak",
+        "yıkmak",
+        "devralmak",
+        "taşımak"
+      ],
+      "correct": "kurmak"
+    },
+    {
+      "id": 163,
+      "word": "fluctuate",
+      "translation": "dalgalanmak",
+      "example": "Prices tend to \"fluctuate\" depending on the season.",
+      "exampleTranslation": "Fiyatlar mevsime bağlı olarak dalgalanma eğilimindedir.",
+      "options": [
+        "dalgalanmak",
+        "düşmek",
+        "artmak",
+        "sabitlemek"
+      ],
+      "correct": "dalgalanmak"
+    },
+    {
+      "id": 164,
+      "word": "implement",
+      "translation": "uygulamak, yürürlüğe koymak",
+      "example": "The government plans to \"implement\" new environmental laws.",
+      "exampleTranslation": "Hükümet yeni çevre yasalarını yürürlüğe koymayı planlıyor.",
+      "options": [
+        "uygulamak",
+        "iptal etmek",
+        "hazırlamak",
+        "öğretmek"
+      ],
+      "correct": "uygulamak"
+    },
+    {
+      "id": 165,
+      "word": "indicate",
+      "translation": "belirtmek, göstermek",
+      "example": "The data clearly \"indicates\" a rise in unemployment.",
+      "exampleTranslation": "Veriler işsizlikte açık bir artış olduğunu göstermektedir.",
+      "options": [
+        "belirtmek",
+        "yazmak",
+        "sormak",
+        "izlemek"
+      ],
+      "correct": "belirtmek"
+    },
+    {
+      "id": 166,
+      "word": "inevitable",
+      "translation": "kaçınılmaz",
+      "example": "Change is \"inevitable\" in every growing company.",
+      "exampleTranslation": "Değişim her büyüyen şirkette kaçınılmazdır.",
+      "options": [
+        "kaçınılmaz",
+        "olasılıksız",
+        "geçici",
+        "isteğe bağlı"
+      ],
+      "correct": "kaçınılmaz"
+    },
+    {
+      "id": 167,
+      "word": "interpret",
+      "translation": "yorumlamak, tercüme etmek",
+      "example": "Different cultures often \"interpret\" the same symbol differently.",
+      "exampleTranslation": "Farklı kültürler aynı sembolü genellikle farklı yorumlar.",
+      "options": [
+        "yorumlamak",
+        "görmek",
+        "yazmak",
+        "öğrenmek"
+      ],
+      "correct": "yorumlamak"
+    },
+    {
+      "id": 168,
+      "word": "maintain",
+      "translation": "sürdürmek, korumak",
+      "example": "It’s difficult to \"maintain\" motivation over a long period.",
+      "exampleTranslation": "Uzun bir süre boyunca motivasyonu sürdürmek zordur.",
+      "options": [
+        "sürdürmek",
+        "unutmak",
+        "değiştirmek",
+        "yavaşlatmak"
+      ],
+      "correct": "sürdürmek"
+    },
+    {
+      "id": 169,
+      "word": "negotiate",
+      "translation": "müzakere etmek, pazarlık yapmak",
+      "example": "The two countries are trying to \"negotiate\" a peace agreement.",
+      "exampleTranslation": "İki ülke bir barış anlaşması müzakere etmeye çalışıyor.",
+      "options": [
+        "müzakere etmek",
+        "yazmak",
+        "ödemek",
+        "araştırmak"
+      ],
+      "correct": "müzakere etmek"
+    },
+    {
+      "id": 170,
+      "word": "perceive",
+      "translation": "algılamak",
+      "example": "People often \"perceive\" success differently depending on their values.",
+      "exampleTranslation": "İnsanlar başarıyı genellikle değerlerine göre farklı algılar.",
+      "options": [
+        "algılamak",
+        "düşünmek",
+        "yargılamak",
+        "belirtmek"
+      ],
+      "correct": "algılamak"
+    },
+    {
+      "id": 171,
+      "word": "predictable",
+      "translation": "tahmin edilebilir",
+      "example": "His reaction was completely \"predictable\" given the situation.",
+      "exampleTranslation": "Durum göz önüne alındığında tepkisi tamamen tahmin edilebilirdi.",
+      "options": [
+        "tahmin edilebilir",
+        "şaşırtıcı",
+        "belirsiz",
+        "karmaşık"
+      ],
+      "correct": "tahmin edilebilir"
+    },
+    {
+      "id": 172,
+      "word": "prioritize",
+      "translation": "öncelik vermek",
+      "example": "You should \"prioritize\" your health over everything else.",
+      "exampleTranslation": "Sağlığına her şeyden daha fazla öncelik vermelisin.",
+      "options": [
+        "öncelik vermek",
+        "unutmak",
+        "planlamak",
+        "hazırlamak"
+      ],
+      "correct": "öncelik vermek"
+    },
+    {
+      "id": 173,
+      "word": "reinforce",
+      "translation": "pekiştirmek, güçlendirmek",
+      "example": "The lecture \"reinforced\" what we had learned in class.",
+      "exampleTranslation": "Ders, sınıfta öğrendiklerimizi pekiştirdi.",
+      "options": [
+        "pekiştirmek",
+        "zayıflatmak",
+        "tekrarlamak",
+        "öğretmek"
+      ],
+      "correct": "pekiştirmek"
+    },
+    {
+      "id": 174,
+      "word": "requirement",
+      "translation": "gereklilik, şart",
+      "example": "Fluency in English is a basic \"requirement\" for this position.",
+      "exampleTranslation": "İngilizce akıcılığı bu pozisyon için temel bir gerekliliktir.",
+      "options": [
+        "gereklilik",
+        "avantaj",
+        "ödül",
+        "amaç"
+      ],
+      "correct": "gereklilik"
+    },
+    {
+      "id": 175,
+      "word": "restrict",
+      "translation": "kısıtlamak",
+      "example": "Some countries \"restrict\" access to certain websites.",
+      "exampleTranslation": "Bazı ülkeler belirli web sitelerine erişimi kısıtlar.",
+      "options": [
+        "kısıtlamak",
+        "açmak",
+        "geliştirmek",
+        "durdurmak"
+      ],
+      "correct": "kısıtlamak"
+    },
+    {
+      "id": 176,
+      "word": "sustain",
+      "translation": "devam ettirmek, sürdürmek",
+      "example": "It’s not easy to \"sustain\" a long-term relationship without trust.",
+      "exampleTranslation": "Güven olmadan uzun süreli bir ilişkiyi sürdürmek kolay değildir.",
+      "options": [
+        "sürdürmek",
+        "unutmak",
+        "bitirmek",
+        "karıştırmak"
+      ],
+      "correct": "sürdürmek"
+    },
+    {
+      "id": 177,
+      "word": "tolerate",
+      "translation": "katlanmak, hoşgörmek",
+      "example": "I can’t \"tolerate\" people who are always negative.",
+      "exampleTranslation": "Sürekli olumsuz olan insanlara katlanamıyorum.",
+      "options": [
+        "katlanmak",
+        "sevmek",
+        "dinlemek",
+        "anlamak"
+      ],
+      "correct": "katlanmak"
+    },
+    {
+      "id": 178,
+      "word": "undergo",
+      "translation": "geçirmek, maruz kalmak",
+      "example": "She has \"undergone\" major changes since she moved abroad.",
+      "exampleTranslation": "Yurt dışına taşındığından beri büyük değişimler geçirdi.",
+      "options": [
+        "geçirmek",
+        "kaçmak",
+        "yapmak",
+        "öğrenmek"
+      ],
+      "correct": "geçirmek"
+    },
+    {
+      "id": 179,
+      "word": "violate",
+      "translation": "ihlâl etmek",
+      "example": "The company was fined for \"violating\" safety regulations.",
+      "exampleTranslation": "Şirket, güvenlik kurallarını ihlâl ettiği için para cezası aldı.",
+      "options": [
+        "ihlâl etmek",
+        "uygulamak",
+        "öğretmek",
+        "kapatmak"
+      ],
+      "correct": "ihlâl etmek"
+    },
+    {
+      "id": 180,
+      "word": "widespread",
+      "translation": "yaygın",
+      "example": "There is \"widespread\" concern about climate change.",
+      "exampleTranslation": "İklim değişikliği hakkında yaygın bir endişe var.",
+      "options": [
+        "yaygın",
+        "sınırlı",
+        "önemsiz",
+        "geçici"
+      ],
+      "correct": "yaygın"
+    },
+    {
+      "id": 181,
+      "word": "allocate",
+      "translation": "tahsis etmek, ayırmak",
+      "example": "The government decided to \"allocate\" more funds to education.",
+      "exampleTranslation": "Hükümet eğitime daha fazla fon ayırmaya karar verdi.",
+      "options": [
+        "ayırmak",
+        "harcamak",
+        "toplamak",
+        "satın almak"
+      ],
+      "correct": "ayırmak"
+    },
+    {
+      "id": 182,
+      "word": "compensate",
+      "translation": "telafi etmek",
+      "example": "He tried to \"compensate\" for his mistake by working extra hours.",
+      "exampleTranslation": "Ekstra çalışarak hatasını telafi etmeye çalıştı.",
+      "options": [
+        "telafi etmek",
+        "kaçınmak",
+        "denemek",
+        "ödemek"
+      ],
+      "correct": "telafi etmek"
+    },
+    {
+      "id": 183,
+      "word": "devote",
+      "translation": "adamak",
+      "example": "She \"devoted\" her entire life to helping the poor.",
+      "exampleTranslation": "Hayatını yoksullara yardım etmeye adadı.",
+      "options": [
+        "adamak",
+        "seçmek",
+        "yönetmek",
+        "öğretmek"
+      ],
+      "correct": "adamak"
+    },
+    {
+      "id": 184,
+      "word": "emphasize",
+      "translation": "vurgulamak",
+      "example": "The report \"emphasizes\" the need for sustainable energy.",
+      "exampleTranslation": "Rapor, sürdürülebilir enerji ihtiyacını vurguluyor.",
+      "options": [
+        "vurgulamak",
+        "unutmak",
+        "göstermek",
+        "açıklamak"
+      ],
+      "correct": "vurgulamak"
+    },
+    {
+      "id": 185,
+      "word": "generate",
+      "translation": "üretmek, ortaya çıkarmak",
+      "example": "The new policy could \"generate\" thousands of new jobs.",
+      "exampleTranslation": "Yeni politika binlerce yeni iş yaratabilir.",
+      "options": [
+        "üretmek",
+        "yıkmak",
+        "yavaşlatmak",
+        "hazırlamak"
+      ],
+      "correct": "üretmek"
+    },
+    {
+      "id": 186,
+      "word": "highlight",
+      "translation": "ön plana çıkarmak, vurgulamak",
+      "example": "The documentary \"highlights\" the effects of plastic pollution.",
+      "exampleTranslation": "Belgesel, plastik kirliliğinin etkilerini ön plana çıkarıyor.",
+      "options": [
+        "vurgulamak",
+        "gizlemek",
+        "kapatmak",
+        "sormak"
+      ],
+      "correct": "vurgulamak"
+    },
+    {
+      "id": 187,
+      "word": "implement",
+      "translation": "uygulamak",
+      "example": "The new plan will be fully \"implemented\" by next month.",
+      "exampleTranslation": "Yeni plan gelecek aya kadar tamamen uygulanacak.",
+      "options": [
+        "uygulamak",
+        "başlamak",
+        "hazırlamak",
+        "planlamak"
+      ],
+      "correct": "uygulamak"
+    },
+    {
+      "id": 188,
+      "word": "indicate",
+      "translation": "göstermek, belirtmek",
+      "example": "Studies \"indicate\" that regular exercise improves mental health.",
+      "exampleTranslation": "Araştırmalar düzenli egzersizin zihinsel sağlığı geliştirdiğini gösteriyor.",
+      "options": [
+        "göstermek",
+        "yazmak",
+        "görmek",
+        "duymak"
+      ],
+      "correct": "göstermek"
+    },
+    {
+      "id": 189,
+      "word": "interpretation",
+      "translation": "yorum, açıklama",
+      "example": "The painting allows different \"interpretations\" depending on the viewer.",
+      "exampleTranslation": "Resim, izleyiciye bağlı olarak farklı yorumlara açıktır.",
+      "options": [
+        "yorum",
+        "açıklama",
+        "çizim",
+        "konu"
+      ],
+      "correct": "yorum"
+    },
+    {
+      "id": 190,
+      "word": "justify",
+      "translation": "haklı göstermek",
+      "example": "Nothing can \"justify\" such violent behavior.",
+      "exampleTranslation": "Hiçbir şey bu kadar şiddetli bir davranışı haklı gösteremez.",
+      "options": [
+        "haklı göstermek",
+        "kabul etmek",
+        "reddetmek",
+        "anlamak"
+      ],
+      "correct": "haklı göstermek"
+    },
+    {
+      "id": 191,
+      "word": "modify",
+      "translation": "değiştirmek, uyarlamak",
+      "example": "The software can be \"modified\" to suit different needs.",
+      "exampleTranslation": "Yazılım, farklı ihtiyaçlara uygun olacak şekilde değiştirilebilir.",
+      "options": [
+        "değiştirmek",
+        "yazmak",
+        "hazırlamak",
+        "öğretmek"
+      ],
+      "correct": "değiştirmek"
+    },
+    {
+      "id": 192,
+      "word": "occur",
+      "translation": "gerçekleşmek, meydana gelmek",
+      "example": "Accidents often \"occur\" when people are careless.",
+      "exampleTranslation": "Kazalar genellikle insanlar dikkatsiz olduğunda gerçekleşir.",
+      "options": [
+        "meydana gelmek",
+        "kaybolmak",
+        "düşmek",
+        "başlamak"
+      ],
+      "correct": "meydana gelmek"
+    },
+    {
+      "id": 193,
+      "word": "perceive",
+      "translation": "algılamak",
+      "example": "He is \"perceived\" as a confident and reliable person.",
+      "exampleTranslation": "O, kendinden emin ve güvenilir biri olarak algılanıyor.",
+      "options": [
+        "algılamak",
+        "anlamak",
+        "tanımlamak",
+        "yorumlamak"
+      ],
+      "correct": "algılamak"
+    },
+    {
+      "id": 194,
+      "word": "reinforce",
+      "translation": "pekiştirmek, güçlendirmek",
+      "example": "Her words \"reinforced\" my belief that she was right.",
+      "exampleTranslation": "Sözleri, onun haklı olduğuna dair inancımı pekiştirdi.",
+      "options": [
+        "pekiştirmek",
+        "zayıflatmak",
+        "unutturmak",
+        "gizlemek"
+      ],
+      "correct": "pekiştirmek"
+    },
+    {
+      "id": 195,
+      "word": "specify",
+      "translation": "belirtmek, tanımlamak",
+      "example": "The contract clearly \"specifies\" the terms and conditions.",
+      "exampleTranslation": "Sözleşme şartları açıkça belirtmektedir.",
+      "options": [
+        "belirtmek",
+        "öğretmek",
+        "değiştirmek",
+        "yazmak"
+      ],
+      "correct": "belirtmek"
+    },
+    {
+      "id": 196,
+      "word": "subsequent",
+      "translation": "sonraki, izleyen",
+      "example": "The team met several challenges in \"subsequent\" projects.",
+      "exampleTranslation": "Ekip, sonraki projelerde birkaç zorlukla karşılaştı.",
+      "options": [
+        "sonraki",
+        "önceki",
+        "ilk",
+        "kısa"
+      ],
+      "correct": "sonraki"
+    },
+    {
+      "id": 197,
+      "word": "sufficient",
+      "translation": "yeterli",
+      "example": "The evidence was not \"sufficient\" to prove his guilt.",
+      "exampleTranslation": "Deliller onun suçunu kanıtlamak için yeterli değildi.",
+      "options": [
+        "yeterli",
+        "az",
+        "önemsiz",
+        "fazla"
+      ],
+      "correct": "yeterli"
+    },
+    {
+      "id": 198,
+      "word": "underlie",
+      "translation": "temelini oluşturmak",
+      "example": "Trust \"underlies\" every successful partnership.",
+      "exampleTranslation": "Güven, her başarılı ortaklığın temelini oluşturur.",
+      "options": [
+        "temelini oluşturmak",
+        "bitirmek",
+        "başlamak",
+        "yönetmek"
+      ],
+      "correct": "temelini oluşturmak"
+    },
+    {
+      "id": 199,
+      "word": "utilize",
+      "translation": "kullanmak, faydalanmak",
+      "example": "We should \"utilize\" renewable resources more efficiently.",
+      "exampleTranslation": "Yenilenebilir kaynakları daha verimli kullanmalıyız.",
+      "options": [
+        "kullanmak",
+        "öğretmek",
+        "paylaşmak",
+        "çalışmak"
+      ],
+      "correct": "kullanmak"
+    },
+    {
+      "id": 200,
+      "word": "verify",
+      "translation": "doğrulamak, teyit etmek",
+      "example": "Please \"verify\" your email address before continuing.",
+      "exampleTranslation": "Devam etmeden önce e-posta adresinizi doğrulayın.",
+      "options": [
+        "doğrulamak",
+        "yazmak",
+        "unutmak",
+        "anlamak"
+      ],
+      "correct": "doğrulamak"
+    },
+    {
+      "id": 201,
+      "word": "adhere",
+      "translation": "bağlı kalmak, sadık olmak",
+      "example": "Employees are expected to \"adhere\" to the company’s ethical standards.",
+      "exampleTranslation": "Çalışanların şirketin etik standartlarına bağlı kalması beklenir.",
+      "options": [
+        "bağlı kalmak",
+        "değiştirmek",
+        "reddetmek",
+        "unutmak"
+      ],
+      "correct": "bağlı kalmak"
+    },
+    {
+      "id": 202,
+      "word": "alleviate",
+      "translation": "hafifletmek, azaltmak",
+      "example": "The new policy aims to \"alleviate\" the burden on small businesses.",
+      "exampleTranslation": "Yeni politika, küçük işletmeler üzerindeki yükü hafifletmeyi amaçlıyor.",
+      "options": [
+        "hafifletmek",
+        "artırmak",
+        "yavaşlatmak",
+        "bozmak"
+      ],
+      "correct": "hafifletmek"
+    },
+    {
+      "id": 203,
+      "word": "appreciate",
+      "translation": "takdir etmek, değerini bilmek",
+      "example": "I truly \"appreciate\" your effort and dedication.",
+      "exampleTranslation": "Çabanı ve bağlılığını gerçekten takdir ediyorum.",
+      "options": [
+        "takdir etmek",
+        "unutmak",
+        "reddetmek",
+        "denemek"
+      ],
+      "correct": "takdir etmek"
+    },
+    {
+      "id": 204,
+      "word": "articulate",
+      "translation": "açıkça ifade etmek",
+      "example": "She can \"articulate\" her ideas clearly and confidently.",
+      "exampleTranslation": "Fikirlerini açık ve güvenli bir şekilde ifade edebilir.",
+      "options": [
+        "ifade etmek",
+        "unutmak",
+        "dinlemek",
+        "yazmak"
+      ],
+      "correct": "ifade etmek"
+    },
+    {
+      "id": 205,
+      "word": "attain",
+      "translation": "ulaşmak, elde etmek",
+      "example": "He finally \"attained\" the position he had been working for.",
+      "exampleTranslation": "Sonunda uzun süredir uğraştığı pozisyona ulaştı.",
+      "options": [
+        "ulaşmak",
+        "kaybetmek",
+        "unutturmak",
+        "düşmek"
+      ],
+      "correct": "ulaşmak"
+    },
+    {
+      "id": 206,
+      "word": "cease",
+      "translation": "durmak, sona ermek",
+      "example": "The fighting finally \"ceased\" after several peace talks.",
+      "exampleTranslation": "Birçok barış görüşmesinden sonra çatışmalar nihayet sona erdi.",
+      "options": [
+        "sona ermek",
+        "başlamak",
+        "artmak",
+        "yenilenmek"
+      ],
+      "correct": "sona ermek"
+    },
+    {
+      "id": 207,
+      "word": "coherent",
+      "translation": "tutarlı, mantıklı",
+      "example": "Her essay is well-structured and highly \"coherent\".",
+      "exampleTranslation": "Onun makalesi iyi yapılandırılmış ve oldukça tutarlı.",
+      "options": [
+        "tutarlı",
+        "belirsiz",
+        "karmaşık",
+        "kısa"
+      ],
+      "correct": "tutarlı"
+    },
+    {
+      "id": 208,
+      "word": "comply",
+      "translation": "uymak, riayet etmek",
+      "example": "All citizens must \"comply\" with the new regulations.",
+      "exampleTranslation": "Tüm vatandaşlar yeni düzenlemelere uymak zorundadır.",
+      "options": [
+        "uymak",
+        "itiraz etmek",
+        "reddetmek",
+        "yavaşlamak"
+      ],
+      "correct": "uymak"
+    },
+    {
+      "id": 209,
+      "word": "conceive",
+      "translation": "tasarlamak, düşünmek",
+      "example": "The project was originally \"conceived\" as a small local initiative.",
+      "exampleTranslation": "Proje başlangıçta küçük bir yerel girişim olarak tasarlandı.",
+      "options": [
+        "tasarlamak",
+        "unutmak",
+        "reddetmek",
+        "öğretmek"
+      ],
+      "correct": "tasarlamak"
+    },
+    {
+      "id": 210,
+      "word": "condemn",
+      "translation": "kınamak, suçlamak",
+      "example": "The international community \"condemned\" the attack immediately.",
+      "exampleTranslation": "Uluslararası toplum saldırıyı derhal kınadı.",
+      "options": [
+        "kınamak",
+        "övmek",
+        "unutmak",
+        "görmezden gelmek"
+      ],
+      "correct": "kınamak"
+    },
+    {
+      "id": 211,
+      "word": "constitute",
+      "translation": "oluşturmak, teşkil etmek",
+      "example": "These documents \"constitute\" an important part of the evidence.",
+      "exampleTranslation": "Bu belgeler, delillerin önemli bir kısmını oluşturuyor.",
+      "options": [
+        "oluşturmak",
+        "kaybetmek",
+        "öğretmek",
+        "yazmak"
+      ],
+      "correct": "oluşturmak"
+    },
+    {
+      "id": 212,
+      "word": "contemplate",
+      "translation": "üzerinde düşünmek",
+      "example": "She sat by the window to \"contemplate\" her future plans.",
+      "exampleTranslation": "Gelecek planlarını düşünmek için pencerenin kenarına oturdu.",
+      "options": [
+        "düşünmek",
+        "uyumak",
+        "gülmek",
+        "beklemek"
+      ],
+      "correct": "düşünmek"
+    },
+    {
+      "id": 213,
+      "word": "contradict",
+      "translation": "çelişmek",
+      "example": "His actions \"contradict\" his promises.",
+      "exampleTranslation": "Onun davranışları, verdiği sözlerle çelişiyor.",
+      "options": [
+        "çelişmek",
+        "onaylamak",
+        "açıklamak",
+        "göstermek"
+      ],
+      "correct": "çelişmek"
+    },
+    {
+      "id": 214,
+      "word": "convey",
+      "translation": "iletmek, aktarmak",
+      "example": "Words cannot fully \"convey\" how grateful I am.",
+      "exampleTranslation": "Ne kadar minnettar olduğumu kelimeler tam olarak ifade edemez.",
+      "options": [
+        "iletmek",
+        "yazmak",
+        "duymak",
+        "düşünmek"
+      ],
+      "correct": "iletmek"
+    },
+    {
+      "id": 215,
+      "word": "correlate",
+      "translation": "ilişkilendirmek",
+      "example": "High stress levels often \"correlate\" with poor sleep quality.",
+      "exampleTranslation": "Yüksek stres seviyeleri genellikle kötü uyku kalitesiyle ilişkilidir.",
+      "options": [
+        "ilişkilendirmek",
+        "ayırmak",
+        "unutmak",
+        "yavaşlatmak"
+      ],
+      "correct": "ilişkilendirmek"
+    },
+    {
+      "id": 216,
+      "word": "deteriorate",
+      "translation": "kötüleşmek, bozulmak",
+      "example": "Her health has \"deteriorated\" significantly over the past year.",
+      "exampleTranslation": "Sağlığı son bir yılda önemli ölçüde kötüleşti.",
+      "options": [
+        "kötüleşmek",
+        "gelişmek",
+        "dengelenmek",
+        "kaybolmak"
+      ],
+      "correct": "kötüleşmek"
+    },
+    {
+      "id": 217,
+      "word": "disclose",
+      "translation": "açığa çıkarmak, ifşa etmek",
+      "example": "He refused to \"disclose\" the source of his information.",
+      "exampleTranslation": "Bilgisinin kaynağını açıklamayı reddetti.",
+      "options": [
+        "açığa çıkarmak",
+        "saklamak",
+        "unutmak",
+        "düşünmek"
+      ],
+      "correct": "açığa çıkarmak"
+    },
+    {
+      "id": 218,
+      "word": "disrupt",
+      "translation": "bozmak, kesintiye uğratmak",
+      "example": "The storm \"disrupted\" all transportation in the area.",
+      "exampleTranslation": "Fırtına bölgedeki tüm ulaşımı aksattı.",
+      "options": [
+        "bozmak",
+        "onarmak",
+        "yavaşlatmak",
+        "geliştirmek"
+      ],
+      "correct": "bozmak"
+    },
+    {
+      "id": 219,
+      "word": "diversify",
+      "translation": "çeşitlendirmek",
+      "example": "The company plans to \"diversify\" its product line.",
+      "exampleTranslation": "Şirket ürün yelpazesini çeşitlendirmeyi planlıyor.",
+      "options": [
+        "çeşitlendirmek",
+        "azaltmak",
+        "birleştirmek",
+        "yenilemek"
+      ],
+      "correct": "çeşitlendirmek"
+    },
+    {
+      "id": 220,
+      "word": "eliminate",
+      "translation": "ortadan kaldırmak",
+      "example": "The new vaccine may \"eliminate\" the disease completely.",
+      "exampleTranslation": "Yeni aşı hastalığı tamamen ortadan kaldırabilir.",
+      "options": [
+        "ortadan kaldırmak",
+        "yaymak",
+        "geciktirmek",
+        "bozmak"
+      ],
+      "correct": "ortadan kaldırmak"
+    },
+    {
+      "id": 221,
+      "word": "encompass",
+      "translation": "kapsamak",
+      "example": "The course \"encompasses\" both theory and practical experience.",
+      "exampleTranslation": "Kurs hem teoriyi hem de pratik deneyimi kapsar.",
+      "options": [
+        "kapsamak",
+        "daraltmak",
+        "ayırmak",
+        "bölmek"
+      ],
+      "correct": "kapsamak"
+    },
+    {
+      "id": 222,
+      "word": "facilitate",
+      "translation": "kolaylaştırmak",
+      "example": "This tool \"facilitates\" collaboration between remote teams.",
+      "exampleTranslation": "Bu araç, uzaktaki ekipler arasındaki işbirliğini kolaylaştırır.",
+      "options": [
+        "kolaylaştırmak",
+        "zorlaştırmak",
+        "geciktirmek",
+        "yavaşlatmak"
+      ],
+      "correct": "kolaylaştırmak"
+    },
+    {
+      "id": 223,
+      "word": "foster",
+      "translation": "teşvik etmek, geliştirmek",
+      "example": "The teacher’s role is to \"foster\" creativity in students.",
+      "exampleTranslation": "Öğretmenin rolü, öğrencilerde yaratıcılığı teşvik etmektir.",
+      "options": [
+        "teşvik etmek",
+        "engellemek",
+        "yavaşlatmak",
+        "unutmak"
+      ],
+      "correct": "teşvik etmek"
+    },
+    {
+      "id": 224,
+      "word": "impede",
+      "translation": "engel olmak",
+      "example": "Poor internet connection can \"impede\" communication.",
+      "exampleTranslation": "Kötü internet bağlantısı iletişimi engelleyebilir.",
+      "options": [
+        "engel olmak",
+        "geliştirmek",
+        "hızlandırmak",
+        "iyileştirmek"
+      ],
+      "correct": "engel olmak"
+    },
+    {
+      "id": 225,
+      "word": "inhibit",
+      "translation": "engellemek, bastırmak",
+      "example": "Fear can \"inhibit\" creativity and free thinking.",
+      "exampleTranslation": "Korku, yaratıcılığı ve özgür düşünceyi engelleyebilir.",
+      "options": [
+        "engellemek",
+        "teşvik etmek",
+        "açmak",
+        "yenilemek"
+      ],
+      "correct": "engellemek"
+    },
+    {
+      "id": 226,
+      "word": "mitigate",
+      "translation": "azaltmak, hafifletmek",
+      "example": "Proper planning can \"mitigate\" potential risks.",
+      "exampleTranslation": "Doğru planlama, potansiyel riskleri azaltabilir.",
+      "options": [
+        "azaltmak",
+        "arttırmak",
+        "yaymak",
+        "büyütmek"
+      ],
+      "correct": "azaltmak"
+    },
+    {
+      "id": 227,
+      "word": "perceivable",
+      "translation": "algılanabilir",
+      "example": "There was no \"perceivable\" difference between the two versions.",
+      "exampleTranslation": "İki versiyon arasında algılanabilir bir fark yoktu.",
+      "options": [
+        "algılanabilir",
+        "gizli",
+        "önemsiz",
+        "rastgele"
+      ],
+      "correct": "algılanabilir"
+    },
+    {
+      "id": 228,
+      "word": "persist",
+      "translation": "ısrar etmek, sürmek",
+      "example": "If symptoms \"persist\", please consult your doctor.",
+      "exampleTranslation": "Belirtiler devam ederse, lütfen doktorunuza danışın.",
+      "options": [
+        "sürmek",
+        "durmak",
+        "yavaşlamak",
+        "hafiflemek"
+      ],
+      "correct": "sürmek"
+    },
+    {
+      "id": 229,
+      "word": "plausible",
+      "translation": "mantıklı, makul",
+      "example": "Her explanation sounded perfectly \"plausible\".",
+      "exampleTranslation": "Açıklaması tamamen mantıklı geliyordu.",
+      "options": [
+        "mantıklı",
+        "tuhaf",
+        "belirsiz",
+        "zayıf"
+      ],
+      "correct": "mantıklı"
+    },
+    {
+      "id": 230,
+      "word": "prohibit",
+      "translation": "yasaklamak",
+      "example": "Smoking is strictly \"prohibited\" in this area.",
+      "exampleTranslation": "Bu bölgede sigara içmek kesinlikle yasaktır.",
+      "options": [
+        "yasaklamak",
+        "izin vermek",
+        "uyarmak",
+        "kontrol etmek"
+      ],
+      "correct": "yasaklamak"
+    },
+    {
+      "id": 231,
+      "word": "rectify",
+      "translation": "düzeltmek, onarmak",
+      "example": "The company quickly \"rectified\" the technical issue.",
+      "exampleTranslation": "Şirket teknik sorunu hızla düzeltti.",
+      "options": [
+        "düzeltmek",
+        "unutmak",
+        "görmek",
+        "değiştirmek"
+      ],
+      "correct": "düzeltmek"
+    },
+    {
+      "id": 232,
+      "word": "reiterate",
+      "translation": "tekrarlamak, vurgulamak",
+      "example": "She \"reiterated\" her commitment to the project.",
+      "exampleTranslation": "Projeye olan bağlılığını tekrar vurguladı.",
+      "options": [
+        "tekrarlamak",
+        "unutmak",
+        "gizlemek",
+        "açıklamak"
+      ],
+      "correct": "tekrarlamak"
+    },
+    {
+      "id": 233,
+      "word": "scrutinize",
+      "translation": "dikkatle incelemek",
+      "example": "Experts \"scrutinized\" the data for any possible errors.",
+      "exampleTranslation": "Uzmanlar olası hataları bulmak için verileri dikkatle inceledi.",
+      "options": [
+        "incelemek",
+        "yazmak",
+        "öğretmek",
+        "kaydetmek"
+      ],
+      "correct": "incelemek"
+    },
+    {
+      "id": 234,
+      "word": "substantiate",
+      "translation": "kanıtlamak, doğrulamak",
+      "example": "You need evidence to \"substantiate\" your claims.",
+      "exampleTranslation": "İddialarını kanıtlamak için delillere ihtiyacın var.",
+      "options": [
+        "kanıtlamak",
+        "reddetmek",
+        "öğretmek",
+        "düşünmek"
+      ],
+      "correct": "kanıtlamak"
+    },
+    {
+      "id": 235,
+      "word": "surpass",
+      "translation": "aşmak, geçmek",
+      "example": "Her achievements \"surpassed\" everyone’s expectations.",
+      "exampleTranslation": "Başarıları herkesin beklentilerini aştı.",
+      "options": [
+        "aşmak",
+        "kaybetmek",
+        "düşürmek",
+        "bozmak"
+      ],
+      "correct": "aşmak"
+    },
+    {
+      "id": 236,
+      "word": "synthesize",
+      "translation": "birleştirmek, sentezlemek",
+      "example": "The study \"synthesizes\" data from various sources.",
+      "exampleTranslation": "Araştırma, çeşitli kaynaklardan elde edilen verileri birleştiriyor.",
+      "options": [
+        "birleştirmek",
+        "ayırmak",
+        "bozmak",
+        "durdurmak"
+      ],
+      "correct": "birleştirmek"
+    },
+    {
+      "id": 237,
+      "word": "terminate",
+      "translation": "sonlandırmak",
+      "example": "The contract was \"terminated\" due to a breach of terms.",
+      "exampleTranslation": "Sözleşme, şartların ihlali nedeniyle sonlandırıldı.",
+      "options": [
+        "sonlandırmak",
+        "başlamak",
+        "devam etmek",
+        "beklemek"
+      ],
+      "correct": "sonlandırmak"
+    },
+    {
+      "id": 238,
+      "word": "trigger",
+      "translation": "tetiklemek",
+      "example": "Loud noises can \"trigger\" anxiety in some people.",
+      "exampleTranslation": "Yüksek sesler bazı insanlarda kaygıyı tetikleyebilir.",
+      "options": [
+        "tetiklemek",
+        "durdurmak",
+        "hafifletmek",
+        "önlemek"
+      ],
+      "correct": "tetiklemek"
+    },
+    {
+      "id": 239,
+      "word": "underestimate",
+      "translation": "küçümsemek, hafife almak",
+      "example": "Don’t \"underestimate\" the importance of good communication.",
+      "exampleTranslation": "İyi iletişimin önemini hafife alma.",
+      "options": [
+        "küçümsemek",
+        "yüceltmek",
+        "unutmak",
+        "görmezden gelmek"
+      ],
+      "correct": "küçümsemek"
+    },
+    {
+      "id": 240,
+      "word": "undermine",
+      "translation": "zayıflatmak, baltalamak",
+      "example": "Such comments can \"undermine\" a person’s confidence.",
+      "exampleTranslation": "Böyle yorumlar birinin özgüvenini zayıflatabilir.",
+      "options": [
+        "zayıflatmak",
+        "güçlendirmek",
+        "teşvik etmek",
+        "yenilemek"
+      ],
+      "correct": "zayıflatmak"
+    },
+    {
+      "id": 241,
+      "word": "utilization",
+      "translation": "kullanım, faydalanma",
+      "example": "Efficient \"utilization\" of resources is vital for sustainability.",
+      "exampleTranslation": "Kaynakların verimli kullanımı sürdürülebilirlik için çok önemlidir.",
+      "options": [
+        "kullanım",
+        "üretim",
+        "tüketim",
+        "paylaşım"
+      ],
+      "correct": "kullanım"
+    },
+    {
+      "id": 242,
+      "word": "validate",
+      "translation": "geçerli kılmak, onaylamak",
+      "example": "The findings were later \"validated\" by further research.",
+      "exampleTranslation": "Bulgular daha sonra ek araştırmalarla doğrulandı.",
+      "options": [
+        "onaylamak",
+        "reddetmek",
+        "unutmak",
+        "belirtmek"
+      ],
+      "correct": "onaylamak"
+    },
+    {
+      "id": 243,
+      "word": "viable",
+      "translation": "uygulanabilir, geçerli",
+      "example": "We need a \"viable\" solution to reduce production costs.",
+      "exampleTranslation": "Üretim maliyetlerini azaltmak için uygulanabilir bir çözüme ihtiyacımız var.",
+      "options": [
+        "uygulanabilir",
+        "zor",
+        "tehlikeli",
+        "yetersiz"
+      ],
+      "correct": "uygulanabilir"
+    },
+    {
+      "id": 244,
+      "word": "withstand",
+      "translation": "dayanmak, direnmek",
+      "example": "The bridge is built to \"withstand\" strong winds and storms.",
+      "exampleTranslation": "Köprü, güçlü rüzgâr ve fırtınalara dayanacak şekilde inşa edilmiştir.",
+      "options": [
+        "dayanmak",
+        "yıkılmak",
+        "kırılmak",
+        "düşmek"
+      ],
+      "correct": "dayanmak"
+    },
+    {
+      "id": 245,
+      "word": "accomplish",
+      "translation": "başarmak, tamamlamak",
+      "example": "You can \"accomplish\" anything with enough determination.",
+      "exampleTranslation": "Yeterli kararlılıkla her şeyi başarabilirsin.",
+      "options": [
+        "başarmak",
+        "unutmak",
+        "denemek",
+        "beklemek"
+      ],
+      "correct": "başarmak"
+    },
+    {
+      "id": 246,
+      "word": "advocate",
+      "translation": "savunmak, desteklemek",
+      "example": "She strongly \"advocates\" for equal rights.",
+      "exampleTranslation": "Eşit hakları güçlü bir şekilde savunur.",
+      "options": [
+        "savunmak",
+        "reddetmek",
+        "unutmak",
+        "karşı çıkmak"
+      ],
+      "correct": "savunmak"
+    },
+    {
+      "id": 247,
+      "word": "aggregate",
+      "translation": "bir araya getirmek, toplamak",
+      "example": "The data were \"aggregated\" to form a national report.",
+      "exampleTranslation": "Veriler ulusal bir rapor oluşturmak için bir araya getirildi.",
+      "options": [
+        "bir araya getirmek",
+        "ayırmak",
+        "silmek",
+        "bozmak"
+      ],
+      "correct": "bir araya getirmek"
+    },
+    {
+      "id": 248,
+      "word": "allocate",
+      "translation": "tahsis etmek, paylaştırmak",
+      "example": "Funds will be \"allocated\" based on project importance.",
+      "exampleTranslation": "Fonlar proje önemine göre tahsis edilecektir.",
+      "options": [
+        "tahsis etmek",
+        "harcamak",
+        "kazandırmak",
+        "durdurmak"
+      ],
+      "correct": "tahsis etmek"
+    },
+    {
+      "id": 249,
+      "word": "artificial",
+      "translation": "yapay",
+      "example": "Many products now contain \"artificial\" ingredients.",
+      "exampleTranslation": "Birçok ürün artık yapay içerikler içeriyor.",
+      "options": [
+        "yapay",
+        "doğal",
+        "karışık",
+        "geçici"
+      ],
+      "correct": "yapay"
+    },
+    {
+      "id": 250,
+      "word": "attainable",
+      "translation": "ulaşılabilir",
+      "example": "With proper planning, your goals are fully \"attainable\".",
+      "exampleTranslation": "Doğru planlamayla hedeflerin tamamen ulaşılabilir.",
+      "options": [
+        "ulaşılabilir",
+        "zor",
+        "imkansız",
+        "rastgele"
+      ],
+      "correct": "ulaşılabilir"
+    },
+    {
+      "id": 251,
+      "word": "daily_routine",
+      "translation": "günlük rutin",
+      "example": "I usually start my day with a cup of coffee and a short walk.",
+      "exampleTranslation": "Genellikle günüme bir fincan kahve ve kısa bir yürüyüşle başlarım.",
+      "options": [
+        "Genellikle günüme bir fincan kahve ve kısa bir yürüyüşle başlarım.",
+        "Her zaman akşam yemeğinden sonra çalışırım.",
+        "Sabahları hiçbir şey yapmam.",
+        "Sadece hafta sonları erken kalkarım."
+      ],
+      "correct": "Genellikle günüme bir fincan kahve ve kısa bir yürüyüşle başlarım."
+    },
+    {
+      "id": 252,
+      "word": "technology_dependence",
+      "translation": "teknolojiye bağımlılık",
+      "example": "Modern society heavily relies on technology for communication and work.",
+      "exampleTranslation": "Modern toplum iletişim ve iş için büyük ölçüde teknolojiye dayanır.",
+      "options": [
+        "Modern toplum iletişim ve iş için büyük ölçüde teknolojiye dayanır.",
+        "Teknoloji artık neredeyse hiç kullanılmıyor.",
+        "İnsanlar iletişimde geleneksel yöntemleri tercih ediyor.",
+        "Teknoloji yalnızca eğlence için kullanılıyor."
+      ],
+      "correct": "Modern toplum iletişim ve iş için büyük ölçüde teknolojiye dayanır."
+    },
+    {
+      "id": 253,
+      "word": "environment_protection",
+      "translation": "çevre koruma",
+      "example": "Planting trees is one of the simplest ways to protect the environment.",
+      "exampleTranslation": "Ağaç dikmek çevreyi korumanın en basit yollarından biridir.",
+      "options": [
+        "Ağaç dikmek çevreyi korumanın en basit yollarından biridir.",
+        "Ağaç dikmek çevreye zarar verir.",
+        "Çevreyi korumanın tek yolu araba kullanmaktır.",
+        "Ağaç dikmek gereksizdir."
+      ],
+      "correct": "Ağaç dikmek çevreyi korumanın en basit yollarından biridir."
+    },
+    {
+      "id": 254,
+      "word": "mental_health",
+      "translation": "zihinsel sağlık",
+      "example": "Taking short breaks during work can improve your mental health.",
+      "exampleTranslation": "Çalışma sırasında kısa molalar vermek zihinsel sağlığınızı iyileştirebilir.",
+      "options": [
+        "Çalışma sırasında kısa molalar vermek zihinsel sağlığınızı iyileştirebilir.",
+        "Uzun saatler boyunca çalışmak en sağlıklısıdır.",
+        "Zihinsel sağlık yalnızca ilaçla korunur.",
+        "Molalar üretkenliği tamamen düşürür."
+      ],
+      "correct": "Çalışma sırasında kısa molalar vermek zihinsel sağlığınızı iyileştirebilir."
+    },
+    {
+      "id": 255,
+      "word": "globalization",
+      "translation": "küreselleşme",
+      "example": "Globalization has made it easier for people to connect across the world.",
+      "exampleTranslation": "Küreselleşme, insanların dünya çapında bağlantı kurmasını kolaylaştırmıştır.",
+      "options": [
+        "Küreselleşme, insanların dünya çapında bağlantı kurmasını kolaylaştırmıştır.",
+        "Küreselleşme insanları tamamen izole etti.",
+        "İnsanlar artık seyahat etmiyor.",
+        "Küreselleşme ticareti yavaşlattı."
+      ],
+      "correct": "Küreselleşme, insanların dünya çapında bağlantı kurmasını kolaylaştırmıştır."
+    },
+    {
+      "id": 256,
+      "word": "time_management",
+      "translation": "zaman yönetimi",
+      "example": "Good time management allows you to achieve more with less stress.",
+      "exampleTranslation": "İyi zaman yönetimi daha az stresle daha fazlasını başarmanı sağlar.",
+      "options": [
+        "İyi zaman yönetimi daha az stresle daha fazlasını başarmanı sağlar.",
+        "Zaman yönetimi tamamen gereksizdir.",
+        "Stres başarıyı artırır.",
+        "Daha fazla çalışmak her zaman en iyi çözümdür."
+      ],
+      "correct": "İyi zaman yönetimi daha az stresle daha fazlasını başarmanı sağlar."
+    },
+    {
+      "id": 257,
+      "word": "education_importance",
+      "translation": "eğitimin önemi",
+      "example": "Education is the foundation of a strong and progressive society.",
+      "exampleTranslation": "Eğitim, güçlü ve ilerici bir toplumun temelidir.",
+      "options": [
+        "Eğitim, güçlü ve ilerici bir toplumun temelidir.",
+        "Eğitim toplumları zayıflatır.",
+        "Eğitim yalnızca çocuklar için gereklidir.",
+        "Toplumlar eğitim olmadan da gelişir."
+      ],
+      "correct": "Eğitim, güçlü ve ilerici bir toplumun temelidir."
+    },
+    {
+      "id": 258,
+      "word": "career_growth",
+      "translation": "kariyer gelişimi",
+      "example": "Continuous learning is essential for long-term career growth.",
+      "exampleTranslation": "Sürekli öğrenme uzun vadeli kariyer gelişimi için gereklidir.",
+      "options": [
+        "Sürekli öğrenme uzun vadeli kariyer gelişimi için gereklidir.",
+        "Kariyer gelişimi yalnızca şansla olur.",
+        "Yeni beceriler öğrenmek zaman kaybıdır.",
+        "Kariyer büyümesi tamamen şansa bağlıdır."
+      ],
+      "correct": "Sürekli öğrenme uzun vadeli kariyer gelişimi için gereklidir."
+    },
+    {
+      "id": 259,
+      "word": "cultural_diversity",
+      "translation": "kültürel çeşitlilik",
+      "example": "Cultural diversity enriches our understanding of the world.",
+      "exampleTranslation": "Kültürel çeşitlilik dünyayı anlama biçimimizi zenginleştirir.",
+      "options": [
+        "Kültürel çeşitlilik dünyayı anlama biçimimizi zenginleştirir.",
+        "Kültürel farklılıklar toplumlar arasında her zaman sorun yaratır.",
+        "Dünyada kültürler artık birbirine benziyor.",
+        "Kültürler arasında etkileşim gereksizdir."
+      ],
+      "correct": "Kültürel çeşitlilik dünyayı anlama biçimimizi zenginleştirir."
+    },
+    {
+      "id": 260,
+      "word": "climate_change",
+      "translation": "iklim değişikliği",
+      "example": "Climate change is one of the most pressing issues of our time.",
+      "exampleTranslation": "İklim değişikliği zamanımızın en acil sorunlarından biridir.",
+      "options": [
+        "İklim değişikliği zamanımızın en acil sorunlarından biridir.",
+        "İklim değişikliği artık tamamen çözülmüştür.",
+        "İklim değişikliği sadece bir efsanedir.",
+        "İklim değişikliğinin etkisi önemsizdir."
+      ],
+      "correct": "İklim değişikliği zamanımızın en acil sorunlarından biridir."
+    },
+    {
+      "id": 261,
+      "word": "communication_skills",
+      "translation": "iletişim becerileri",
+      "example": "Strong communication skills are vital for successful teamwork.",
+      "exampleTranslation": "Güçlü iletişim becerileri başarılı bir ekip çalışması için hayati öneme sahiptir.",
+      "options": [
+        "Güçlü iletişim becerileri başarılı bir ekip çalışması için hayati öneme sahiptir.",
+        "İletişim becerileri sadece liderler için gereklidir.",
+        "Ekip çalışması iletişimi gerektirmez.",
+        "Başarılı olmak için konuşmamak en iyisidir."
+      ],
+      "correct": "Güçlü iletişim becerileri başarılı bir ekip çalışması için hayati öneme sahiptir."
+    },
+    {
+      "id": 262,
+      "word": "motivation",
+      "translation": "motivasyon",
+      "example": "Motivation often comes from achieving small goals consistently.",
+      "exampleTranslation": "Motivasyon genellikle küçük hedefleri tutarlı şekilde başarmaktan gelir.",
+      "options": [
+        "Motivasyon genellikle küçük hedefleri tutarlı şekilde başarmaktan gelir.",
+        "Motivasyon yalnızca dış faktörlerle oluşur.",
+        "Motivasyon genellikle şansla ilgilidir.",
+        "Motivasyonun başarıyla ilgisi yoktur."
+      ],
+      "correct": "Motivasyon genellikle küçük hedefleri tutarlı şekilde başarmaktan gelir."
+    },
+    {
+      "id": 263,
+      "word": "self_confidence",
+      "translation": "öz güven",
+      "example": "Building self-confidence takes time and consistent effort.",
+      "exampleTranslation": "Öz güven inşa etmek zaman ve sürekli çaba gerektirir.",
+      "options": [
+        "Öz güven inşa etmek zaman ve sürekli çaba gerektirir.",
+        "Öz güven doğuştan gelir, sonradan kazanılamaz.",
+        "Kendine güvenmek tehlikelidir.",
+        "Öz güven başarıyı engeller."
+      ],
+      "correct": "Öz güven inşa etmek zaman ve sürekli çaba gerektirir."
+    },
+    {
+      "id": 264,
+      "word": "artificial_intelligence",
+      "translation": "yapay zeka",
+      "example": "Artificial intelligence is transforming the way we work and live.",
+      "exampleTranslation": "Yapay zeka çalışma ve yaşama biçimimizi dönüştürüyor.",
+      "options": [
+        "Yapay zeka çalışma ve yaşama biçimimizi dönüştürüyor.",
+        "Yapay zeka hiçbir sektörü etkilemez.",
+        "Yapay zeka sadece oyunlarda kullanılır.",
+        "Yapay zeka artık tamamen yasaklandı."
+      ],
+      "correct": "Yapay zeka çalışma ve yaşama biçimimizi dönüştürüyor."
+    },
+    {
+      "id": 265,
+      "word": "social_media",
+      "translation": "sosyal medya",
+      "example": "Social media has changed the way people share information.",
+      "exampleTranslation": "Sosyal medya, insanların bilgi paylaşma şeklini değiştirdi.",
+      "options": [
+        "Sosyal medya, insanların bilgi paylaşma şeklini değiştirdi.",
+        "Sosyal medya insanların iletişimini hiç etkilemedi.",
+        "Bilgi paylaşımı sosyal medya ile zorlaştı.",
+        "Sosyal medya yalnızca haber okumak için kullanılır."
+      ],
+      "correct": "Sosyal medya, insanların bilgi paylaşma şeklini değiştirdi."
+    },
+    {
+      "id": 266,
+      "word": "healthcare",
+      "translation": "sağlık hizmetleri",
+      "example": "Access to affordable healthcare is essential for a fair society.",
+      "exampleTranslation": "Uygun fiyatlı sağlık hizmetlerine erişim adil bir toplum için gereklidir.",
+      "options": [
+        "Uygun fiyatlı sağlık hizmetlerine erişim adil bir toplum için gereklidir.",
+        "Sağlık hizmetlerine erişim yalnızca zenginlere açıktır.",
+        "Sağlık hizmetleri toplum için gereksizdir.",
+        "Sağlık sadece özel kliniklerle sağlanabilir."
+      ],
+      "correct": "Uygun fiyatlı sağlık hizmetlerine erişim adil bir toplum için gereklidir."
+    },
+    {
+      "id": 267,
+      "word": "leadership",
+      "translation": "liderlik",
+      "example": "True leadership involves inspiring others to reach their potential.",
+      "exampleTranslation": "Gerçek liderlik, başkalarını potansiyellerine ulaşmaları için ilham vermeyi içerir.",
+      "options": [
+        "Gerçek liderlik, başkalarını potansiyellerine ulaşmaları için ilham vermeyi içerir.",
+        "Liderlik sadece emir vermekten ibarettir.",
+        "Liderler ekipleriyle ilgilenmez.",
+        "Liderlik tamamen doğuştan gelen bir özelliktir."
+      ],
+      "correct": "Gerçek liderlik, başkalarını potansiyellerine ulaşmaları için ilham vermeyi içerir."
+    },
+    {
+      "id": 268,
+      "word": "teamwork",
+      "translation": "ekip çalışması",
+      "example": "Effective teamwork requires trust and open communication.",
+      "exampleTranslation": "Etkili ekip çalışması güven ve açık iletişim gerektirir.",
+      "options": [
+        "Etkili ekip çalışması güven ve açık iletişim gerektirir.",
+        "Ekip çalışması bireysel başarıyı engeller.",
+        "Takım çalışması karmaşayı artırır.",
+        "İletişim ekip çalışmasında önemsizdir."
+      ],
+      "correct": "Etkili ekip çalışması güven ve açık iletişim gerektirir."
+    },
+    {
+      "id": 301,
+      "word": "critical_thinking",
+      "translation": "eleştirel düşünme",
+      "example": "Critical thinking allows us to question information rather than accept it blindly.",
+      "exampleTranslation": "Eleştirel düşünme, bilgiyi körü körüne kabul etmek yerine sorgulamamızı sağlar.",
+      "options": [
+        "Eleştirel düşünme, bilgiyi körü körüne kabul etmek yerine sorgulamamızı sağlar.",
+        "Eleştirel düşünme insanları daha az bilinçli yapar.",
+        "Bilgiyi sorgulamak zaman kaybıdır.",
+        "Düşünmeden hareket etmek en iyisidir."
+      ],
+      "correct": "Eleştirel düşünme, bilgiyi körü körüne kabul etmek yerine sorgulamamızı sağlar."
+    },
+    {
+      "id": 302,
+      "word": "emotional_intelligence",
+      "translation": "duygusal zeka",
+      "example": "Emotional intelligence helps people manage relationships more effectively.",
+      "exampleTranslation": "Duygusal zeka, insanların ilişkilerini daha etkili yönetmelerine yardımcı olur.",
+      "options": [
+        "Duygusal zeka, insanların ilişkilerini daha etkili yönetmelerine yardımcı olur.",
+        "Duygusal zeka sadece çocuklar için önemlidir.",
+        "İlişkiler tamamen mantığa dayanır.",
+        "Duygusal farkındalık gereksizdir."
+      ],
+      "correct": "Duygusal zeka, insanların ilişkilerini daha etkili yönetmelerine yardımcı olur."
+    },
+    {
+      "id": 303,
+      "word": "innovation",
+      "translation": "yenilikçilik",
+      "example": "Innovation drives progress in every industry.",
+      "exampleTranslation": "Yenilikçilik her sektörde ilerlemeyi sağlar.",
+      "options": [
+        "Yenilikçilik her sektörde ilerlemeyi sağlar.",
+        "Yenilikçilik yalnızca teknolojide işe yarar.",
+        "Yenilik eski yöntemleri yok eder.",
+        "Yenilikçilik gereksiz bir çabadır."
+      ],
+      "correct": "Yenilikçilik her sektörde ilerlemeyi sağlar."
+    },
+    {
+      "id": 304,
+      "word": "resilience",
+      "translation": "dayanıklılık",
+      "example": "Resilience is the ability to recover quickly from difficulties.",
+      "exampleTranslation": "Dayanıklılık, zorluklardan hızlıca toparlanabilme yeteneğidir.",
+      "options": [
+        "Dayanıklılık, zorluklardan hızlıca toparlanabilme yeteneğidir.",
+        "Dayanıklılık sadece fiziksel gücü ifade eder.",
+        "Zorluklar insanı her zaman yıkar.",
+        "Toparlanmak mümkün değildir."
+      ],
+      "correct": "Dayanıklılık, zorluklardan hızlıca toparlanabilme yeteneğidir."
+    },
+    {
+      "id": 305,
+      "word": "sustainability",
+      "translation": "sürdürülebilirlik",
+      "example": "Sustainability ensures that resources are available for future generations.",
+      "exampleTranslation": "Sürdürülebilirlik, kaynakların gelecek nesiller için erişilebilir olmasını sağlar.",
+      "options": [
+        "Sürdürülebilirlik, kaynakların gelecek nesiller için erişilebilir olmasını sağlar.",
+        "Sürdürülebilirlik sadece enerji ile ilgilidir.",
+        "Kaynakları hızlıca tüketmek daha verimlidir.",
+        "Gelecek nesillerin kaynaklara ihtiyacı yoktur."
+      ],
+      "correct": "Sürdürülebilirlik, kaynakların gelecek nesiller için erişilebilir olmasını sağlar."
+    },
+    {
+      "id": 306,
+      "word": "decision_making",
+      "translation": "karar verme",
+      "example": "Effective decision-making requires both logic and intuition.",
+      "exampleTranslation": "Etkili karar verme hem mantık hem de sezgi gerektirir.",
+      "options": [
+        "Etkili karar verme hem mantık hem de sezgi gerektirir.",
+        "Kararlar sadece duygulara dayanmalıdır.",
+        "Mantık karar verme sürecini bozar.",
+        "Karar vermek gereksizdir."
+      ],
+      "correct": "Etkili karar verme hem mantık hem de sezgi gerektirir."
+    },
+    {
+      "id": 307,
+      "word": "adaptability",
+      "translation": "uyum yeteneği",
+      "example": "Adaptability helps individuals thrive in rapidly changing environments.",
+      "exampleTranslation": "Uyum yeteneği, bireylerin hızla değişen ortamlarda başarılı olmasını sağlar.",
+      "options": [
+        "Uyum yeteneği, bireylerin hızla değişen ortamlarda başarılı olmasını sağlar.",
+        "Uyum yeteneği insanları kararsız yapar.",
+        "Değişim her zaman zararlıdır.",
+        "Yeni durumlara alışmak gereksizdir."
+      ],
+      "correct": "Uyum yeteneği, bireylerin hızla değişen ortamlarda başarılı olmasını sağlar."
+    },
+    {
+      "id": 308,
+      "word": "digital_transformation",
+      "translation": "dijital dönüşüm",
+      "example": "Digital transformation has revolutionized how businesses operate.",
+      "exampleTranslation": "Dijital dönüşüm, işletmelerin çalışma biçimini kökten değiştirdi.",
+      "options": [
+        "Dijital dönüşüm, işletmelerin çalışma biçimini kökten değiştirdi.",
+        "Dijital dönüşüm iş süreçlerini yavaşlattı.",
+        "Teknoloji iş dünyasında etkisizdir.",
+        "Dijital dönüşüm sadece eğlence sektöründe görülür."
+      ],
+      "correct": "Dijital dönüşüm, işletmelerin çalışma biçimini kökten değiştirdi."
+    },
+    {
+      "id": 309,
+      "word": "personal_growth",
+      "translation": "kişisel gelişim",
+      "example": "Personal growth comes from stepping outside your comfort zone.",
+      "exampleTranslation": "Kişisel gelişim, konfor alanının dışına çıkmaktan gelir.",
+      "options": [
+        "Kişisel gelişim, konfor alanının dışına çıkmaktan gelir.",
+        "Kişisel gelişim şansa bağlıdır.",
+        "Konfor alanında kalmak en iyisidir.",
+        "Kişisel gelişim yalnızca kitap okumakla olur."
+      ],
+      "correct": "Kişisel gelişim, konfor alanının dışına çıkmaktan gelir."
+    },
+    {
+      "id": 310,
+      "word": "work_life_balance",
+      "translation": "iş-yaşam dengesi",
+      "example": "Maintaining a healthy work-life balance is essential for well-being.",
+      "exampleTranslation": "Sağlıklı bir iş-yaşam dengesi sürdürmek refah için çok önemlidir.",
+      "options": [
+        "Sağlıklı bir iş-yaşam dengesi sürdürmek refah için çok önemlidir.",
+        "Sadece işe odaklanmak en doğrusudur.",
+        "Dinlenmek başarıyı azaltır.",
+        "Yaşam dengesine gerek yoktur."
+      ],
+      "correct": "Sağlıklı bir iş-yaşam dengesi sürdürmek refah için çok önemlidir."
+    },
+    {
+      "id": 311,
+      "word": "financial_literacy",
+      "translation": "finansal okuryazarlık",
+      "example": "Financial literacy helps people make smarter economic decisions.",
+      "exampleTranslation": "Finansal okuryazarlık, insanların daha akıllıca ekonomik kararlar almasına yardımcı olur.",
+      "options": [
+        "Finansal okuryazarlık, insanların daha akıllıca ekonomik kararlar almasına yardımcı olur.",
+        "Para yönetimi tamamen şansa bağlıdır.",
+        "Ekonomi bilmek gereksizdir.",
+        "Finansal farkındalık yalnızca yatırımcılar içindir."
+      ],
+      "correct": "Finansal okuryazarlık, insanların daha akıllıca ekonomik kararlar almasına yardımcı olur."
+    },
+    {
+      "id": 312,
+      "word": "public_speaking",
+      "translation": "topluluk önünde konuşma",
+      "example": "Public speaking skills can boost your confidence and career opportunities.",
+      "exampleTranslation": "Topluluk önünde konuşma becerileri, özgüvenini ve kariyer fırsatlarını artırabilir.",
+      "options": [
+        "Topluluk önünde konuşma becerileri, özgüvenini ve kariyer fırsatlarını artırabilir.",
+        "Topluluk önünde konuşmak gereksiz bir beceridir.",
+        "Kalabalık önünde konuşmak sadece sanatçılara özgüdür.",
+        "Konuşmak yerine susmak her zaman daha iyidir."
+      ],
+      "correct": "Topluluk önünde konuşma becerileri, özgüvenini ve kariyer fırsatlarını artırabilir."
+    },
+    {
+      "id": 313,
+      "word": "remote_work",
+      "translation": "uzaktan çalışma",
+      "example": "Remote work offers flexibility but requires strong self-discipline.",
+      "exampleTranslation": "Uzaktan çalışma esneklik sağlar ama güçlü özdisiplin gerektirir.",
+      "options": [
+        "Uzaktan çalışma esneklik sağlar ama güçlü özdisiplin gerektirir.",
+        "Uzaktan çalışmak her zaman kolaydır.",
+        "Uzaktan çalışma verimliliği azaltır.",
+        "Evden çalışmak tamamen streslidir."
+      ],
+      "correct": "Uzaktan çalışma esneklik sağlar ama güçlü özdisiplin gerektirir."
+    },
+    {
+      "id": 314,
+      "word": "cultural_exchange",
+      "translation": "kültürel değişim",
+      "example": "Cultural exchange programs help people appreciate diversity.",
+      "exampleTranslation": "Kültürel değişim programları, insanların çeşitliliği takdir etmesine yardımcı olur.",
+      "options": [
+        "Kültürel değişim programları, insanların çeşitliliği takdir etmesine yardımcı olur.",
+        "Kültürel değişim yalnızca turistler içindir.",
+        "Farklı kültürleri tanımak gereksizdir.",
+        "Kültürel etkileşim toplumu zayıflatır."
+      ],
+      "correct": "Kültürel değişim programları, insanların çeşitliliği takdir etmesine yardımcı olur."
+    },
+    {
+      "id": 315,
+      "word": "art_expression",
+      "translation": "sanatsal ifade",
+      "example": "Artistic expression allows people to communicate emotions creatively.",
+      "exampleTranslation": "Sanatsal ifade, insanların duygularını yaratıcı bir şekilde aktarmasına olanak tanır.",
+      "options": [
+        "Sanatsal ifade, insanların duygularını yaratıcı bir şekilde aktarmasına olanak tanır.",
+        "Sanat sadece estetik için vardır.",
+        "Duygular sanatta yer almamalıdır.",
+        "Sanat yalnızca profesyoneller içindir."
+      ],
+      "correct": "Sanatsal ifade, insanların duygularını yaratıcı bir şekilde aktarmasına olanak tanır."
+    },
+    {
+      "id": 316,
+      "word": "media_literacy",
+      "translation": "medya okuryazarlığı",
+      "example": "Media literacy teaches people to evaluate information critically.",
+      "exampleTranslation": "Medya okuryazarlığı, insanların bilgiyi eleştirel şekilde değerlendirmesini öğretir.",
+      "options": [
+        "Medya okuryazarlığı, insanların bilgiyi eleştirel şekilde değerlendirmesini öğretir.",
+        "Medya sorgulanmamalıdır.",
+        "Haberler her zaman doğrudur.",
+        "Medya okuryazarlığı gereksizdir."
+      ],
+      "correct": "Medya okuryazarlığı, insanların bilgiyi eleştirel şekilde değerlendirmesini öğretir."
+    },
+    {
+      "id": 317,
+      "word": "mental_resilience",
+      "translation": "zihinsel dayanıklılık",
+      "example": "Mental resilience helps you stay calm under pressure.",
+      "exampleTranslation": "Zihinsel dayanıklılık, baskı altında sakin kalmanı sağlar.",
+      "options": [
+        "Zihinsel dayanıklılık, baskı altında sakin kalmanı sağlar.",
+        "Baskı altında olmak her zaman olumsuzdur.",
+        "Dayanıklılık sadece fiziksel güçle ilgilidir.",
+        "Sakin kalmak zayıflıktır."
+      ],
+      "correct": "Zihinsel dayanıklılık, baskı altında sakin kalmanı sağlar."
+    },
+    {
+      "id": 318,
+      "word": "global_issues",
+      "translation": "küresel sorunlar",
+      "example": "Understanding global issues helps people make informed decisions.",
+      "exampleTranslation": "Küresel sorunları anlamak, insanların bilinçli kararlar almasına yardımcı olur.",
+      "options": [
+        "Küresel sorunları anlamak, insanların bilinçli kararlar almasına yardımcı olur.",
+        "Küresel sorunlar bireyleri ilgilendirmez.",
+        "Sorunlar yalnızca yerel düzeyde çözülmelidir.",
+        "Küresel farkındalık gereksizdir."
+      ],
+      "correct": "Küresel sorunları anlamak, insanların bilinçli kararlar almasına yardımcı olur."
+    }
+  ]
+}

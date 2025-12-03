@@ -1,0 +1,1190 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "word": "apple",
+      "translation": "elma",
+      "example": "I use the word 'apple' in a simple sentence.",
+      "options": [
+        "içmek",
+        "elma",
+        "araba",
+        "köy"
+      ],
+      "correct": "elma"
+    },
+    {
+      "id": 2,
+      "word": "book",
+      "translation": "kitap",
+      "example": "I use the word 'book' in a simple sentence.",
+      "options": [
+        "kitap",
+        "şehir",
+        "düşünmek",
+        "öğretmen"
+      ],
+      "correct": "kitap"
+    },
+    {
+      "id": 3,
+      "word": "house",
+      "translation": "ev",
+      "example": "I use the word 'house' in a simple sentence.",
+      "options": [
+        "ev",
+        "ağaç",
+        "araba",
+        "su"
+      ],
+      "correct": "ev"
+    },
+    {
+      "id": 4,
+      "word": "car",
+      "translation": "araba",
+      "example": "I use the word 'car' in a simple sentence.",
+      "options": [
+        "kapı",
+        "kötü",
+        "gelmek",
+        "araba"
+      ],
+      "correct": "araba"
+    },
+    {
+      "id": 5,
+      "word": "water",
+      "translation": "su",
+      "example": "I use the word 'water' in a simple sentence.",
+      "options": [
+        "açmak",
+        "su",
+        "elma",
+        "tuz"
+      ],
+      "correct": "su"
+    },
+    {
+      "id": 6,
+      "word": "cat",
+      "translation": "kedi",
+      "example": "I use the word 'cat' in a simple sentence.",
+      "options": [
+        "kağıt",
+        "tuz",
+        "kedi",
+        "arkadaş"
+      ],
+      "correct": "kedi"
+    },
+    {
+      "id": 7,
+      "word": "dog",
+      "translation": "köpek",
+      "example": "I use the word 'dog' in a simple sentence.",
+      "exampleTranslation": "'Köpek' kelimesini basit bir cümlede kullanıyorum.",
+      "options": [
+        "çiçek",
+        "köpek",
+        "yemek",
+        "ağaç"
+      ],
+      "correct": "köpek"
+    },
+    {
+      "id": 8,
+      "word": "sun",
+      "translation": "güneş",
+      "example": "I use the word 'sun' in a simple sentence.",
+      "exampleTranslation": "'Güneş' kelimesini basit bir cümlede kullanıyorum.",
+      "options": [
+        "yeni",
+        "güneş",
+        "güle güle",
+        "kedi"
+      ],
+      "correct": "güneş"
+    },
+    {
+      "id": 9,
+      "word": "moon",
+      "translation": "ay",
+      "example": "I use the word 'moon' in a simple sentence.",
+      "exampleTranslation": "'Ay' kelimesini basit bir cümlede kullanıyorum.",
+      "options": [
+        "güzel",
+        "pirinç",
+        "ay",
+        "yemek"
+      ],
+      "correct": "ay"
+    },
+    {
+      "id": 10,
+      "word": "star",
+      "translation": "yıldız",
+      "example": "I use the word 'star' in a simple sentence.",
+      "exampleTranslation": "'Yıldız' kelimesini basit bir cümlede kullanıyorum.",
+      "options": [
+        "görmek",
+        "ay",
+        "yıldız",
+        "kedi"
+      ],
+      "correct": "yıldız"
+    },
+    {
+      "id": 11,
+      "word": "sky",
+      "translation": "gökyüzü",
+      "example": "I use the word 'sky' in a simple sentence.",
+      "exampleTranslation": "'Gökyüzü' kelimesini basit bir cümlede kullanıyorum.",
+      "options": [
+        "çiçek",
+        "gökyüzü",
+        "yemek",
+        "bisiklet"
+      ],
+      "correct": "gökyüzü"
+    },
+    {
+      "id": 12,
+      "word": "tree",
+      "translation": "ağaç",
+      "example": "I use the word 'tree' in a simple sentence.",
+      "exampleTranslation": "'Ağaç' kelimesini basit bir cümlede kullanıyorum.",
+      "options": [
+        "erkek kardeş",
+        "ağaç",
+        "telefon",
+        "baba"
+      ],
+      "correct": "ağaç"
+    },
+    {
+      "id": 13,
+      "word": "flower",
+      "translation": "çiçek",
+      "example": "I use the word 'flower' in a simple sentence.",
+      "exampleTranslation": "'Çiçek' kelimesini basit bir cümlede kullanıyorum.",
+      "options": [
+        "oynamak",
+        "çiçek",
+        "çalışmak",
+        "gitmek"
+      ],
+      "correct": "çiçek"
+    },
+    {
+      "id": 14,
+      "word": "city",
+      "translation": "şehir",
+      "example": "I use the word 'city' in a simple sentence.",
+      "exampleTranslation": "'Şehir' kelimesini basit bir cümlede kullanıyorum.",
+      "options": [
+        "telefon",
+        "yeni",
+        "kahve",
+        "şehir"
+      ],
+      "correct": "şehir"
+    },
+    {
+      "id": 15,
+      "word": "village",
+      "translation": "köy",
+      "example": "I use the word 'village' in a simple sentence.",
+      "exampleTranslation": "'Köy' kelimesini basit bir cümlede kullanıyorum.",
+      "options": [
+        "kötü",
+        "köy",
+        "içmek",
+        "öğrenmek"
+      ],
+      "correct": "köy"
+    },
+    {
+      "id": 16,
+      "word": "school",
+      "translation": "okul",
+      "example": "I use the word 'school' in a simple sentence.",
+      "exampleTranslation": "'Okul' kelimesini basit bir cümlede kullanıyorum.",
+      "options": [
+        "su",
+        "okul",
+        "güneş",
+        "bisiklet"
+      ],
+      "correct": "okul"
+    },
+    {
+      "id": 17,
+      "word": "student",
+      "translation": "öğrenci",
+      "example": "I use the word 'student' in a simple sentence.",
+      "exampleTranslation": "'Öğrenci' kelimesini basit bir cümlede kullanıyorum.",
+      "options": [
+        "öğrenci",
+        "otobüs",
+        "ay",
+        "iyi"
+      ],
+      "correct": "öğrenci"
+    },
+    {
+      "id": 18,
+      "word": "teacher",
+      "translation": "öğretmen",
+      "example": "I use the word 'teacher' in a simple sentence.",
+      "exampleTranslation": "'Öğretmen' kelimesini basit bir cümlede kullanıyorum.",
+      "options": [
+        "gitmek",
+        "gün",
+        "öğretmen",
+        "güle güle"
+      ],
+      "correct": "öğretmen"
+    },
+    {
+      "id": 19,
+      "word": "pen",
+      "translation": "kalem",
+      "example": "I use the word 'pen' in a simple sentence.",
+      "exampleTranslation": "'Kalem' kelimesini basit bir cümlede kullanıyorum.",
+      "options": [
+        "kahve",
+        "kötü",
+        "kalem",
+        "yeni"
+      ],
+      "correct": "kalem"
+    },
+    {
+      "id": 20,
+      "word": "paper",
+      "translation": "kağıt",
+      "example": "I use the word 'paper' in a simple sentence.",
+      "exampleTranslation": "'Kağıt' kelimesini basit bir cümlede kullanıyorum.",
+      "options": [
+        "üzgün",
+        "kağıt",
+        "kız kardeş",
+        "gece"
+      ],
+      "correct": "kağıt"
+    },
+    {
+      "id": 21,
+      "word": "phone",
+      "translation": "telefon",
+      "example": "I use the word 'phone' in a simple sentence.",
+      "exampleTranslation": "'Telefon' kelimesini basit bir cümlede kullanıyorum.",
+      "options": [
+        "telefon",
+        "köy",
+        "köpek",
+        "ağaç"
+      ],
+      "correct": "telefon"
+    },
+    {
+      "id": 22,
+      "word": "computer",
+      "translation": "bilgisayar",
+      "example": "I use the word 'computer' in a simple sentence.",
+      "exampleTranslation": "'Bilgisayar' kelimesini basit bir cümlede kullanıyorum.",
+      "options": [
+        "bilgisayar",
+        "çalışmak",
+        "dün",
+        "kapatmak"
+      ],
+      "correct": "bilgisayar"
+    },
+    {
+      "id": 23,
+      "word": "table",
+      "translation": "masa",
+      "example": "I use the word 'table' in a simple sentence.",
+      "options": [
+        "please",
+        "big",
+        "table",
+        "close"
+      ],
+      "correct": "table"
+    },
+    {
+      "id": 24,
+      "word": "chair",
+      "translation": "sandalye",
+      "example": "I use the word 'chair' in a simple sentence.",
+      "options": [
+        "new",
+        "village",
+        "chair",
+        "work"
+      ],
+      "correct": "chair"
+    },
+    {
+      "id": 25,
+      "word": "window",
+      "translation": "pencere",
+      "example": "I use the word 'window' in a simple sentence.",
+      "options": [
+        "village",
+        "rice",
+        "window",
+        "today"
+      ],
+      "correct": "window"
+    },
+    {
+      "id": 26,
+      "word": "door",
+      "translation": "kapı",
+      "example": "I use the word 'door' in a simple sentence.",
+      "options": [
+        "door",
+        "cold",
+        "bread",
+        "table"
+      ],
+      "correct": "door"
+    },
+    {
+      "id": 27,
+      "word": "road",
+      "translation": "yol",
+      "example": "I use the word 'road' in a simple sentence.",
+      "options": [
+        "read",
+        "road",
+        "cold",
+        "drink"
+      ],
+      "correct": "road"
+    },
+    {
+      "id": 28,
+      "word": "bus",
+      "translation": "otobüs",
+      "example": "I use the word 'bus' in a simple sentence.",
+      "options": [
+        "bus",
+        "old",
+        "phone",
+        "big"
+      ],
+      "correct": "bus"
+    },
+    {
+      "id": 29,
+      "word": "train",
+      "translation": "tren",
+      "example": "I use the word 'train' in a simple sentence.",
+      "options": [
+        "train",
+        "yes",
+        "house",
+        "village"
+      ],
+      "correct": "train"
+    },
+    {
+      "id": 30,
+      "word": "bicycle",
+      "translation": "bisiklet",
+      "example": "I use the word 'bicycle' in a simple sentence.",
+      "options": [
+        "good",
+        "milk",
+        "bicycle",
+        "sun"
+      ],
+      "correct": "bicycle"
+    },
+    {
+      "id": 31,
+      "word": "milk",
+      "translation": "süt",
+      "example": "I use the word 'milk' in a simple sentence.",
+      "options": [
+        "moon",
+        "milk",
+        "new",
+        "student"
+      ],
+      "correct": "milk"
+    },
+    {
+      "id": 32,
+      "word": "coffee",
+      "translation": "kahve",
+      "example": "I use the word 'coffee' in a simple sentence.",
+      "options": [
+        "computer",
+        "bread",
+        "beautiful",
+        "coffee"
+      ],
+      "correct": "coffee"
+    },
+    {
+      "id": 33,
+      "word": "tea",
+      "translation": "çay",
+      "example": "I use the word 'tea' in a simple sentence.",
+      "options": [
+        "know",
+        "tea",
+        "night",
+        "fish"
+      ],
+      "correct": "tea"
+    },
+    {
+      "id": 34,
+      "word": "bread",
+      "translation": "ekmek",
+      "example": "I use the word 'bread' in a simple sentence.",
+      "options": [
+        "train",
+        "bread",
+        "school",
+        "coffee"
+      ],
+      "correct": "bread"
+    },
+    {
+      "id": 35,
+      "word": "egg",
+      "translation": "yumurta",
+      "example": "I use the word 'egg' in a simple sentence.",
+      "options": [
+        "egg",
+        "bicycle",
+        "open",
+        "beautiful"
+      ],
+      "correct": "egg"
+    },
+    {
+      "id": 36,
+      "word": "salt",
+      "translation": "tuz",
+      "example": "I use the word 'salt' in a simple sentence.",
+      "options": [
+        "eat",
+        "sun",
+        "salt",
+        "bicycle"
+      ],
+      "correct": "salt"
+    },
+    {
+      "id": 37,
+      "word": "sugar",
+      "translation": "şeker",
+      "example": "I use the word 'sugar' in a simple sentence.",
+      "options": [
+        "star",
+        "milk",
+        "sugar",
+        "hot"
+      ],
+      "correct": "sugar"
+    },
+    {
+      "id": 38,
+      "word": "rice",
+      "translation": "pirinç",
+      "example": "I use the word 'rice' in a simple sentence.",
+      "options": [
+        "student",
+        "bus",
+        "old",
+        "rice"
+      ],
+      "correct": "rice"
+    },
+    {
+      "id": 39,
+      "word": "meat",
+      "translation": "et",
+      "example": "I use the word 'meat' in a simple sentence.",
+      "options": [
+        "meat",
+        "flower",
+        "window",
+        "morning"
+      ],
+      "correct": "meat"
+    },
+    {
+      "id": 40,
+      "word": "fish",
+      "translation": "balık",
+      "example": "I use the word 'fish' in a simple sentence.",
+      "options": [
+        "father",
+        "morning",
+        "yesterday",
+        "fish"
+      ],
+      "correct": "fish"
+    },
+    {
+      "id": 41,
+      "word": "bird",
+      "translation": "kuş",
+      "example": "I use the word 'bird' in a simple sentence.",
+      "options": [
+        "go",
+        "think",
+        "bird",
+        "come"
+      ],
+      "correct": "bird"
+    },
+    {
+      "id": 42,
+      "word": "child",
+      "translation": "çocuk",
+      "example": "I use the word 'child' in a simple sentence.",
+      "options": [
+        "city",
+        "child",
+        "friend",
+        "coffee"
+      ],
+      "correct": "child"
+    },
+    {
+      "id": 43,
+      "word": "family",
+      "translation": "aile",
+      "example": "I use the word 'family' in a simple sentence.",
+      "options": [
+        "family",
+        "chair",
+        "teacher",
+        "yesterday"
+      ],
+      "correct": "family"
+    },
+    {
+      "id": 44,
+      "word": "friend",
+      "translation": "arkadaş",
+      "example": "I use the word 'friend' in a simple sentence.",
+      "options": [
+        "beautiful",
+        "tomorrow",
+        "friend",
+        "star"
+      ],
+      "correct": "friend"
+    },
+    {
+      "id": 45,
+      "word": "mother",
+      "translation": "anne",
+      "example": "I use the word 'mother' in a simple sentence.",
+      "options": [
+        "milk",
+        "tree",
+        "computer",
+        "mother"
+      ],
+      "correct": "mother"
+    },
+    {
+      "id": 46,
+      "word": "father",
+      "translation": "baba",
+      "example": "I use the word 'father' in a simple sentence.",
+      "options": [
+        "night",
+        "sun",
+        "father",
+        "bus"
+      ],
+      "correct": "father"
+    },
+    {
+      "id": 47,
+      "word": "sister",
+      "translation": "kız kardeş",
+      "example": "I use the word 'sister' in a simple sentence.",
+      "options": [
+        "goodbye",
+        "sister",
+        "bread",
+        "time"
+      ],
+      "correct": "sister"
+    },
+    {
+      "id": 48,
+      "word": "brother",
+      "translation": "erkek kardeş",
+      "example": "I use the word 'brother' in a simple sentence.",
+      "options": [
+        "brother",
+        "window",
+        "rice",
+        "paper"
+      ],
+      "correct": "brother"
+    },
+    {
+      "id": 49,
+      "word": "food",
+      "translation": "yemek",
+      "example": "I use the word 'food' in a simple sentence.",
+      "options": [
+        "sun",
+        "bird",
+        "dog",
+        "food"
+      ],
+      "correct": "food"
+    },
+    {
+      "id": 50,
+      "word": "time",
+      "translation": "zaman",
+      "example": "I use the word 'time' in a simple sentence.",
+      "options": [
+        "time",
+        "hot",
+        "sky",
+        "sun"
+      ],
+      "correct": "time"
+    },
+    {
+      "id": 51,
+      "word": "day",
+      "translation": "gün",
+      "example": "I use the word 'day' in a simple sentence.",
+      "options": [
+        "night",
+        "day",
+        "think",
+        "milk"
+      ],
+      "correct": "day"
+    },
+    {
+      "id": 52,
+      "word": "night",
+      "translation": "gece",
+      "example": "I use the word 'night' in a simple sentence.",
+      "options": [
+        "night",
+        "close",
+        "sad",
+        "cat"
+      ],
+      "correct": "night"
+    },
+    {
+      "id": 53,
+      "word": "morning",
+      "translation": "sabah",
+      "example": "I use the word 'morning' in a simple sentence.",
+      "options": [
+        "morning",
+        "bread",
+        "road",
+        "know"
+      ],
+      "correct": "morning"
+    },
+    {
+      "id": 54,
+      "word": "evening",
+      "translation": "akşam",
+      "example": "I use the word 'evening' in a simple sentence.",
+      "options": [
+        "day",
+        "evening",
+        "know",
+        "student"
+      ],
+      "correct": "evening"
+    },
+    {
+      "id": 55,
+      "word": "yesterday",
+      "translation": "dün",
+      "example": "I use the word 'yesterday' in a simple sentence.",
+      "options": [
+        "goodbye",
+        "book",
+        "yesterday",
+        "star"
+      ],
+      "correct": "yesterday"
+    },
+    {
+      "id": 56,
+      "word": "today",
+      "translation": "bugün",
+      "example": "I use the word 'today' in a simple sentence.",
+      "options": [
+        "bread",
+        "today",
+        "cold",
+        "student"
+      ],
+      "correct": "today"
+    },
+    {
+      "id": 57,
+      "word": "tomorrow",
+      "translation": "yarın",
+      "example": "I use the word 'tomorrow' in a simple sentence.",
+      "options": [
+        "brother",
+        "sugar",
+        "phone",
+        "tomorrow"
+      ],
+      "correct": "tomorrow"
+    },
+    {
+      "id": 58,
+      "word": "hello",
+      "translation": "merhaba",
+      "example": "I use the word 'hello' in a simple sentence.",
+      "options": [
+        "hello",
+        "come",
+        "write",
+        "big"
+      ],
+      "correct": "hello"
+    },
+    {
+      "id": 59,
+      "word": "goodbye",
+      "translation": "güle güle",
+      "example": "I use the word 'goodbye' in a simple sentence.",
+      "options": [
+        "see",
+        "goodbye",
+        "teacher",
+        "city"
+      ],
+      "correct": "goodbye"
+    },
+    {
+      "id": 60,
+      "word": "please",
+      "translation": "lütfen",
+      "example": "I use the word 'please' in a simple sentence.",
+      "options": [
+        "paper",
+        "beautiful",
+        "please",
+        "egg"
+      ],
+      "correct": "please"
+    },
+    {
+      "id": 61,
+      "word": "thanks",
+      "translation": "teşekkürler",
+      "example": "I use the word 'thanks' in a simple sentence.",
+      "options": [
+        "friend",
+        "road",
+        "thanks",
+        "work"
+      ],
+      "correct": "thanks"
+    },
+    {
+      "id": 62,
+      "word": "sorry",
+      "translation": "özür dilerim",
+      "example": "I use the word 'sorry' in a simple sentence.",
+      "options": [
+        "dog",
+        "tea",
+        "tree",
+        "sorry"
+      ],
+      "correct": "sorry"
+    },
+    {
+      "id": 63,
+      "word": "yes",
+      "translation": "evet",
+      "example": "I use the word 'yes' in a simple sentence.",
+      "options": [
+        "yes",
+        "apple",
+        "family",
+        "student"
+      ],
+      "correct": "yes"
+    },
+    {
+      "id": 64,
+      "word": "no",
+      "translation": "hayır",
+      "example": "I use the word 'no' in a simple sentence.",
+      "options": [
+        "bad",
+        "yesterday",
+        "no",
+        "beautiful"
+      ],
+      "correct": "no"
+    },
+    {
+      "id": 65,
+      "word": "cold",
+      "translation": "soğuk",
+      "example": "I use the word 'cold' in a simple sentence.",
+      "options": [
+        "learn",
+        "cold",
+        "paper",
+        "old"
+      ],
+      "correct": "cold"
+    },
+    {
+      "id": 66,
+      "word": "hot",
+      "translation": "sıcak",
+      "example": "I use the word 'hot' in a simple sentence.",
+      "options": [
+        "hot",
+        "cat",
+        "today",
+        "student"
+      ],
+      "correct": "hot"
+    },
+    {
+      "id": 67,
+      "word": "small",
+      "translation": "küçük",
+      "example": "I use the word 'small' in a simple sentence.",
+      "options": [
+        "small",
+        "road",
+        "work",
+        "father"
+      ],
+      "correct": "small"
+    },
+    {
+      "id": 68,
+      "word": "big",
+      "translation": "büyük",
+      "example": "I use the word 'big' in a simple sentence.",
+      "options": [
+        "big",
+        "morning",
+        "bad",
+        "father"
+      ],
+      "correct": "big"
+    },
+    {
+      "id": 69,
+      "word": "new",
+      "translation": "yeni",
+      "example": "I use the word 'new' in a simple sentence.",
+      "options": [
+        "table",
+        "new",
+        "car",
+        "morning"
+      ],
+      "correct": "new"
+    },
+    {
+      "id": 70,
+      "word": "old",
+      "translation": "eski",
+      "example": "I use the word 'old' in a simple sentence.",
+      "options": [
+        "coffee",
+        "old",
+        "morning",
+        "know"
+      ],
+      "correct": "old"
+    },
+    {
+      "id": 71,
+      "word": "beautiful",
+      "translation": "güzel",
+      "example": "I use the word 'beautiful' in a simple sentence.",
+      "options": [
+        "food",
+        "beautiful",
+        "thanks",
+        "water"
+      ],
+      "correct": "beautiful"
+    },
+    {
+      "id": 72,
+      "word": "bad",
+      "translation": "kötü",
+      "example": "I use the word 'bad' in a simple sentence.",
+      "options": [
+        "bad",
+        "fish",
+        "bicycle",
+        "mother"
+      ],
+      "correct": "bad"
+    },
+    {
+      "id": 73,
+      "word": "good",
+      "translation": "iyi",
+      "example": "I use the word 'good' in a simple sentence.",
+      "options": [
+        "good",
+        "night",
+        "family",
+        "salt"
+      ],
+      "correct": "good"
+    },
+    {
+      "id": 74,
+      "word": "happy",
+      "translation": "mutlu",
+      "example": "I use the word 'happy' in a simple sentence.",
+      "options": [
+        "hot",
+        "happy",
+        "night",
+        "go"
+      ],
+      "correct": "happy"
+    },
+    {
+      "id": 75,
+      "word": "sad",
+      "translation": "üzgün",
+      "example": "I use the word 'sad' in a simple sentence.",
+      "options": [
+        "sad",
+        "water",
+        "bread",
+        "table"
+      ],
+      "correct": "sad"
+    },
+    {
+      "id": 76,
+      "word": "open",
+      "translation": "açmak",
+      "example": "I use the word 'open' in a simple sentence.",
+      "options": [
+        "bird",
+        "open",
+        "today",
+        "mother"
+      ],
+      "correct": "open"
+    },
+    {
+      "id": 77,
+      "word": "close",
+      "translation": "kapatmak",
+      "example": "I use the word 'close' in a simple sentence.",
+      "options": [
+        "tea",
+        "close",
+        "today",
+        "cat"
+      ],
+      "correct": "close"
+    },
+    {
+      "id": 78,
+      "word": "read",
+      "translation": "okumak",
+      "example": "I use the word 'read' in a simple sentence.",
+      "options": [
+        "moon",
+        "sister",
+        "read",
+        "today"
+      ],
+      "correct": "read"
+    },
+    {
+      "id": 79,
+      "word": "write",
+      "translation": "yazmak",
+      "example": "I use the word 'write' in a simple sentence.",
+      "options": [
+        "meat",
+        "school",
+        "write",
+        "see"
+      ],
+      "correct": "write"
+    },
+    {
+      "id": 80,
+      "word": "speak",
+      "translation": "konuşmak",
+      "example": "I use the word 'speak' in a simple sentence.",
+      "options": [
+        "night",
+        "play",
+        "speak",
+        "child"
+      ],
+      "correct": "speak"
+    },
+    {
+      "id": 81,
+      "word": "eat",
+      "translation": "yemek",
+      "example": "I use the word 'eat' in a simple sentence.",
+      "options": [
+        "window",
+        "evening",
+        "know",
+        "eat"
+      ],
+      "correct": "eat"
+    },
+    {
+      "id": 82,
+      "word": "drink",
+      "translation": "içmek",
+      "example": "I use the word 'drink' in a simple sentence.",
+      "options": [
+        "write",
+        "meat",
+        "good",
+        "drink"
+      ],
+      "correct": "drink"
+    },
+    {
+      "id": 83,
+      "word": "go",
+      "translation": "gitmek",
+      "example": "I use the word 'go' in a simple sentence.",
+      "options": [
+        "meat",
+        "road",
+        "sugar",
+        "go"
+      ],
+      "correct": "go"
+    },
+    {
+      "id": 84,
+      "word": "come",
+      "translation": "gelmek",
+      "example": "I use the word 'come' in a simple sentence.",
+      "options": [
+        "please",
+        "come",
+        "think",
+        "tomorrow"
+      ],
+      "correct": "come"
+    },
+    {
+      "id": 85,
+      "word": "see",
+      "translation": "görmek",
+      "example": "I use the word 'see' in a simple sentence.",
+      "options": [
+        "computer",
+        "see",
+        "sky",
+        "sugar"
+      ],
+      "correct": "see"
+    },
+    {
+      "id": 86,
+      "word": "know",
+      "translation": "bilmek",
+      "example": "I use the word 'know' in a simple sentence.",
+      "options": [
+        "know",
+        "fish",
+        "train",
+        "think"
+      ],
+      "correct": "know"
+    },
+    {
+      "id": 87,
+      "word": "think",
+      "translation": "düşünmek",
+      "example": "I use the word 'think' in a simple sentence.",
+      "options": [
+        "think",
+        "coffee",
+        "cat",
+        "thanks"
+      ],
+      "correct": "think"
+    },
+    {
+      "id": 88,
+      "word": "work",
+      "translation": "çalışmak",
+      "example": "I use the word 'work' in a simple sentence.",
+      "options": [
+        "happy",
+        "eat",
+        "window",
+        "work"
+      ],
+      "correct": "work"
+    },
+    {
+      "id": 89,
+      "word": "learn",
+      "translation": "öğrenmek",
+      "example": "I use the word 'learn' in a simple sentence.",
+      "options": [
+        "come",
+        "coffee",
+        "learn",
+        "pen"
+      ],
+      "correct": "learn"
+    },
+    {
+      "id": 90,
+      "word": "play",
+      "translation": "oynamak",
+      "example": "I use the word 'play' in a simple sentence.",
+      "options": [
+        "train",
+        "small",
+        "table",
+        "play"
+      ],
+      "correct": "play"
+    }
+  ]
+}

@@ -2,1173 +2,2257 @@
   "words": [
     {
       "id": 1,
-      "word": "Apfel",
-      "translation": "elma",
-      "example": "Ich benutze das Wort 'Apfel' in einem einfachen Satz.",
+      "word": "Haus",
+      "translation": "ev",
+      "example": "Das Haus ist groß.",
+      "exampleTranslation": "Ev büyük.",
       "options": [
-        "Lehrer",
-        "Schule",
-        "tschüss",
-        "Apfel"
+        "ev",
+        "araba",
+        "okul",
+        "ağaç"
       ],
-      "correct": "Apfel"
+      "correct": "ev"
     },
     {
       "id": 2,
-      "word": "Buch",
-      "translation": "kitap",
-      "example": "Ich benutze das Wort 'Buch' in einem einfachen Satz.",
+      "word": "Auto",
+      "translation": "araba",
+      "example": "Mein Auto ist neu.",
+      "exampleTranslation": "Arabam yeni.",
       "options": [
-        "kalt",
-        "morgen",
-        "schreiben",
-        "Buch"
+        "araba",
+        "bisiklet",
+        "tren",
+        "uçak"
       ],
-      "correct": "Buch"
+      "correct": "araba"
     },
     {
       "id": 3,
-      "word": "Haus",
-      "translation": "ev",
-      "example": "Ich benutze das Wort 'Haus' in einem einfachen Satz.",
+      "word": "Buch",
+      "translation": "kitap",
+      "example": "Ich lese ein Buch.",
+      "exampleTranslation": "Bir kitap okuyorum.",
       "options": [
-        "Haus",
-        "hallo",
-        "danke",
-        "Telefon"
+        "kitap",
+        "gazete",
+        "defter",
+        "mektup"
       ],
-      "correct": "Haus"
+      "correct": "kitap"
     },
     {
       "id": 4,
-      "word": "Auto",
-      "translation": "araba",
-      "example": "Ich benutze das Wort 'Auto' in einem einfachen Satz.",
+      "word": "Wasser",
+      "translation": "su",
+      "example": "Ich trinke Wasser.",
+      "exampleTranslation": "Su içiyorum.",
       "options": [
-        "essen",
-        "klein",
-        "Auto",
-        "ja"
+        "su",
+        "süt",
+        "kahve",
+        "çay"
       ],
-      "correct": "Auto"
+      "correct": "su"
     },
     {
       "id": 5,
-      "word": "Wasser",
-      "translation": "su",
-      "example": "Ich benutze das Wort 'Wasser' in einem einfachen Satz.",
+      "word": "Freund",
+      "translation": "arkadaş",
+      "example": "Mein Freund heißt Lukas.",
+      "exampleTranslation": "Arkadaşımın adı Lukas.",
       "options": [
-        "Zucker",
-        "Wasser",
-        "Milch",
-        "Stern"
+        "arkadaş",
+        "kardeş",
+        "öğretmen",
+        "komşu"
       ],
-      "correct": "Wasser"
+      "correct": "arkadaş"
     },
     {
       "id": 6,
       "word": "Katze",
       "translation": "kedi",
-      "example": "Ich benutze das Wort 'Katze' in einem einfachen Satz.",
+      "example": "Die Katze schläft auf dem Sofa.",
+      "exampleTranslation": "Kedi kanepede uyuyor.",
       "options": [
-        "Himmel",
-        "Katze",
-        "alt",
-        "Lehrer"
+        "kedi",
+        "köpek",
+        "kuş",
+        "balık"
       ],
-      "correct": "Katze"
+      "correct": "kedi"
     },
     {
       "id": 7,
       "word": "Hund",
       "translation": "köpek",
-      "example": "Ich benutze das Wort 'Hund' in einem einfachen Satz.",
+      "example": "Der Hund läuft im Garten.",
+      "exampleTranslation": "Köpek bahçede koşuyor.",
       "options": [
-        "Hund",
-        "Bus",
-        "lernen",
-        "Papier"
+        "köpek",
+        "kedi",
+        "tavşan",
+        "fare"
       ],
-      "correct": "Hund"
+      "correct": "köpek"
     },
     {
       "id": 8,
-      "word": "Sonne",
-      "translation": "güneş",
-      "example": "Ich benutze das Wort 'Sonne' in einem einfachen Satz.",
+      "word": "Schule",
+      "translation": "okul",
+      "example": "Die Kinder gehen zur Schule.",
+      "exampleTranslation": "Çocuklar okula gidiyor.",
       "options": [
-        "bitte",
-        "Familie",
-        "alt",
-        "Sonne"
+        "okul",
+        "ev",
+        "kütüphane",
+        "park"
       ],
-      "correct": "Sonne"
+      "correct": "okul"
     },
     {
       "id": 9,
-      "word": "Mond",
-      "translation": "ay",
-      "example": "Ich benutze das Wort 'Mond' in einem einfachen Satz.",
+      "word": "Lehrer",
+      "translation": "öğretmen",
+      "example": "Der Lehrer erklärt die Aufgabe.",
+      "exampleTranslation": "Öğretmen görevi açıklıyor.",
       "options": [
-        "Mond",
-        "traurig",
-        "Abend",
-        "Zeit"
+        "öğretmen",
+        "öğrenci",
+        "doktor",
+        "polis"
       ],
-      "correct": "Mond"
+      "correct": "öğretmen"
     },
     {
       "id": 10,
-      "word": "Stern",
-      "translation": "yıldız",
-      "example": "Ich benutze das Wort 'Stern' in einem einfachen Satz.",
+      "word": "Arbeit",
+      "translation": "iş",
+      "example": "Ich gehe jeden Tag zur Arbeit.",
+      "exampleTranslation": "Her gün işe gidiyorum.",
       "options": [
-        "Apfel",
-        "Stern",
-        "sorry",
-        "Vater"
+        "iş",
+        "okul",
+        "tatil",
+        "yemek"
       ],
-      "correct": "Stern"
+      "correct": "iş"
     },
     {
       "id": 11,
-      "word": "Himmel",
-      "translation": "gökyüzü",
-      "example": "Ich benutze das Wort 'Himmel' in einem einfachen Satz.",
+      "word": "Stadt",
+      "translation": "şehir",
+      "example": "Berlin ist eine große Stadt.",
+      "exampleTranslation": "Berlin büyük bir şehirdir.",
       "options": [
-        "neu",
-        "alt",
-        "Himmel",
-        "lesen"
+        "şehir",
+        "ülke",
+        "köy",
+        "cadde"
       ],
-      "correct": "Himmel"
+      "correct": "şehir"
     },
     {
       "id": 12,
       "word": "Baum",
       "translation": "ağaç",
-      "example": "Ich benutze das Wort 'Baum' in einem einfachen Satz.",
+      "example": "Der Baum ist sehr alt.",
+      "exampleTranslation": "Ağaç çok yaşlı.",
       "options": [
-        "Baum",
-        "heute",
-        "Ei",
-        "ja"
+        "ağaç",
+        "çiçek",
+        "yaprak",
+        "orman"
       ],
-      "correct": "Baum"
+      "correct": "ağaç"
     },
     {
       "id": 13,
       "word": "Blume",
       "translation": "çiçek",
-      "example": "Ich benutze das Wort 'Blume' in einem einfachen Satz.",
+      "example": "Die Blume riecht gut.",
+      "exampleTranslation": "Çiçek güzel kokuyor.",
       "options": [
-        "wissen",
-        "denken",
-        "Blume",
-        "Nacht"
+        "çiçek",
+        "ağaç",
+        "bitki",
+        "meyve"
       ],
-      "correct": "Blume"
+      "correct": "çiçek"
     },
     {
       "id": 14,
-      "word": "Stadt",
-      "translation": "şehir",
-      "example": "Ich benutze das Wort 'Stadt' in einem einfachen Satz.",
+      "word": "Tisch",
+      "translation": "masa",
+      "example": "Der Tisch steht im Wohnzimmer.",
+      "exampleTranslation": "Masa oturma odasında duruyor.",
       "options": [
-        "sprechen",
-        "Auto",
-        "neu",
-        "Stadt"
+        "masa",
+        "sandalye",
+        "kapı",
+        "pencere"
       ],
-      "correct": "Stadt"
+      "correct": "masa"
     },
     {
       "id": 15,
-      "word": "Dorf",
-      "translation": "köy",
-      "example": "Ich benutze das Wort 'Dorf' in einem einfachen Satz.",
+      "word": "Stuhl",
+      "translation": "sandalye",
+      "example": "Der Stuhl ist kaputt.",
+      "exampleTranslation": "Sandalye kırık.",
       "options": [
-        "Himmel",
-        "gehen",
-        "Dorf",
-        "gestern"
+        "sandalye",
+        "masa",
+        "yatak",
+        "dolap"
       ],
-      "correct": "Dorf"
+      "correct": "sandalye"
     },
     {
       "id": 16,
-      "word": "Schule",
-      "translation": "okul",
-      "example": "Ich benutze das Wort 'Schule' in einem einfachen Satz.",
+      "word": "Tür",
+      "translation": "kapı",
+      "example": "Die Tür ist offen.",
+      "exampleTranslation": "Kapı açık.",
       "options": [
-        "Schule",
-        "Brot",
-        "Hund",
-        "Essen"
+        "kapı",
+        "pencere",
+        "duvar",
+        "çatı"
       ],
-      "correct": "Schule"
+      "correct": "kapı"
     },
     {
       "id": 17,
-      "word": "Schüler",
-      "translation": "öğrenci",
-      "example": "Ich benutze das Wort 'Schüler' in einem einfachen Satz.",
+      "word": "Fenster",
+      "translation": "pencere",
+      "example": "Das Fenster ist geschlossen.",
+      "exampleTranslation": "Pencere kapalı.",
       "options": [
-        "Freund",
-        "Schüler",
-        "Kind",
-        "Essen"
+        "pencere",
+        "kapı",
+        "duvar",
+        "zemin"
       ],
-      "correct": "Schüler"
+      "correct": "pencere"
     },
     {
       "id": 18,
-      "word": "Lehrer",
-      "translation": "öğretmen",
-      "example": "Ich benutze das Wort 'Lehrer' in einem einfachen Satz.",
+      "word": "Kind",
+      "translation": "çocuk",
+      "example": "Das Kind spielt im Park.",
+      "exampleTranslation": "Çocuk parkta oynuyor.",
       "options": [
-        "Himmel",
-        "Lehrer",
-        "Haus",
-        "danke"
+        "çocuk",
+        "öğretmen",
+        "anne",
+        "baba"
       ],
-      "correct": "Lehrer"
+      "correct": "çocuk"
     },
     {
       "id": 19,
-      "word": "Stift",
-      "translation": "kalem",
-      "example": "Ich benutze das Wort 'Stift' in einem einfachen Satz.",
+      "word": "Eltern",
+      "translation": "ebeveynler",
+      "example": "Meine Eltern wohnen in Ankara.",
+      "exampleTranslation": "Ebeveynlerim Ankara’da yaşıyor.",
       "options": [
-        "Mond",
-        "Katze",
-        "Stift",
-        "kommen"
+        "ebeveynler",
+        "kardeşler",
+        "öğretmenler",
+        "arkadaşlar"
       ],
-      "correct": "Stift"
+      "correct": "ebeveynler"
     },
     {
       "id": 20,
-      "word": "Papier",
-      "translation": "kağıt",
-      "example": "Ich benutze das Wort 'Papier' in einem einfachen Satz.",
+      "word": "Arzt",
+      "translation": "doktor",
+      "example": "Der Arzt hilft den Patienten.",
+      "exampleTranslation": "Doktor hastalara yardım ediyor.",
       "options": [
-        "Haus",
-        "Milch",
-        "Papier",
-        "sprechen"
+        "doktor",
+        "hemşire",
+        "öğretmen",
+        "polis"
       ],
-      "correct": "Papier"
+      "correct": "doktor"
     },
     {
       "id": 21,
-      "word": "Telefon",
-      "translation": "telefon",
-      "example": "Ich benutze das Wort 'Telefon' in einem einfachen Satz.",
+      "word": "Brot",
+      "translation": "ekmek",
+      "example": "Ich esse Brot zum Frühstück.",
+      "exampleTranslation": "Kahvaltıda ekmek yiyorum.",
       "options": [
-        "Telefon",
-        "bitte",
-        "Bus",
-        "gut"
+        "ekmek",
+        "peynir",
+        "yumurta",
+        "çorba"
       ],
-      "correct": "Telefon"
+      "correct": "ekmek"
     },
     {
       "id": 22,
-      "word": "Computer",
-      "translation": "bilgisayar",
-      "example": "Ich benutze das Wort 'Computer' in einem einfachen Satz.",
+      "word": "Milch",
+      "translation": "süt",
+      "example": "Das Kind trinkt Milch.",
+      "exampleTranslation": "Çocuk süt içiyor.",
       "options": [
-        "Telefon",
-        "Computer",
-        "Dorf",
-        "lesen"
+        "süt",
+        "su",
+        "kahve",
+        "meyve suyu"
       ],
-      "correct": "Computer"
+      "correct": "süt"
     },
     {
       "id": 23,
-      "word": "Tisch",
-      "translation": "masa",
-      "example": "Ich benutze das Wort 'Tisch' in einem einfachen Satz.",
+      "word": "Apfel",
+      "translation": "elma",
+      "example": "Der Apfel ist rot und süß.",
+      "exampleTranslation": "Elma kırmızı ve tatlı.",
       "options": [
-        "glücklich",
-        "Fisch",
-        "denken",
-        "Tisch"
+        "elma",
+        "muz",
+        "portakal",
+        "üzüm"
       ],
-      "correct": "Tisch"
+      "correct": "elma"
     },
     {
       "id": 24,
-      "word": "Stuhl",
-      "translation": "sandalye",
-      "example": "Ich benutze das Wort 'Stuhl' in einem einfachen Satz.",
+      "word": "Tag",
+      "translation": "gün",
+      "example": "Heute ist ein schöner Tag.",
+      "exampleTranslation": "Bugün güzel bir gün.",
       "options": [
-        "Stern",
-        "Stuhl",
-        "öffnen",
-        "lernen"
+        "gün",
+        "hafta",
+        "yıl",
+        "ay"
       ],
-      "correct": "Stuhl"
+      "correct": "gün"
     },
     {
       "id": 25,
-      "word": "Fenster",
-      "translation": "pencere",
-      "example": "Ich benutze das Wort 'Fenster' in einem einfachen Satz.",
+      "word": "Woche",
+      "translation": "hafta",
+      "example": "Eine Woche hat sieben Tage.",
+      "exampleTranslation": "Bir hafta yedi gündür.",
       "options": [
-        "Fenster",
-        "Schule",
-        "arbeiten",
-        "schließen"
+        "hafta",
+        "gün",
+        "ay",
+        "yıl"
       ],
-      "correct": "Fenster"
+      "correct": "hafta"
     },
     {
       "id": 26,
-      "word": "Tür",
-      "translation": "kapı",
-      "example": "Ich benutze das Wort 'Tür' in einem einfachen Satz.",
+      "word": "Monat",
+      "translation": "ay",
+      "example": "Ein Monat hat dreißig Tage.",
+      "exampleTranslation": "Bir ay otuz gündür.",
       "options": [
-        "Tür",
-        "sehen",
-        "Bruder",
-        "Mond"
+        "ay",
+        "hafta",
+        "gün",
+        "yıl"
       ],
-      "correct": "Tür"
+      "correct": "ay"
     },
     {
       "id": 27,
-      "word": "Straße",
-      "translation": "yol",
-      "example": "Ich benutze das Wort 'Straße' in einem einfachen Satz.",
+      "word": "Jahr",
+      "translation": "yıl",
+      "example": "Ein Jahr hat zwölf Monate.",
+      "exampleTranslation": "Bir yıl on iki aydır.",
       "options": [
-        "Stadt",
-        "ja",
-        "Straße",
-        "heute"
+        "yıl",
+        "hafta",
+        "gün",
+        "ay"
       ],
-      "correct": "Straße"
+      "correct": "yıl"
     },
     {
       "id": 28,
-      "word": "Bus",
-      "translation": "otobüs",
-      "example": "Ich benutze das Wort 'Bus' in einem einfachen Satz.",
+      "word": "Zeit",
+      "translation": "zaman",
+      "example": "Ich habe heute keine Zeit.",
+      "exampleTranslation": "Bugün vaktim yok.",
       "options": [
-        "Papier",
-        "Tisch",
-        "Bus",
-        "heute"
+        "zaman",
+        "para",
+        "enerji",
+        "sabır"
       ],
-      "correct": "Bus"
+      "correct": "zaman"
     },
     {
       "id": 29,
-      "word": "Zug",
-      "translation": "tren",
-      "example": "Ich benutze das Wort 'Zug' in einem einfachen Satz.",
+      "word": "Tag",
+      "translation": "gün",
+      "example": "Guten Tag, wie geht es dir?",
+      "exampleTranslation": "Günaydın, nasılsın?",
       "options": [
-        "Zug",
-        "öffnen",
-        "bitte",
-        "heute"
+        "gün",
+        "hafta",
+        "sabah",
+        "öğle"
       ],
-      "correct": "Zug"
+      "correct": "gün"
     },
     {
       "id": 30,
-      "word": "Fahrrad",
-      "translation": "bisiklet",
-      "example": "Ich benutze das Wort 'Fahrrad' in einem einfachen Satz.",
+      "word": "Abend",
+      "translation": "akşam",
+      "example": "Am Abend sehe ich fern.",
+      "exampleTranslation": "Akşam televizyon izlerim.",
       "options": [
-        "Salz",
-        "Baum",
-        "Fahrrad",
-        "hallo"
+        "akşam",
+        "sabah",
+        "öğle",
+        "gece"
       ],
-      "correct": "Fahrrad"
+      "correct": "akşam"
     },
     {
       "id": 31,
-      "word": "Milch",
-      "translation": "süt",
-      "example": "Ich benutze das Wort 'Milch' in einem einfachen Satz.",
+      "word": "Morgen",
+      "translation": "sabah",
+      "example": "Am Morgen trinke ich Kaffee.",
+      "exampleTranslation": "Sabah kahve içerim.",
       "options": [
-        "Milch",
-        "Freund",
-        "Auto",
-        "nein"
+        "sabah",
+        "akşam",
+        "öğle",
+        "gece"
       ],
-      "correct": "Milch"
+      "correct": "sabah"
     },
     {
       "id": 32,
-      "word": "Kaffee",
-      "translation": "kahve",
-      "example": "Ich benutze das Wort 'Kaffee' in einem einfachen Satz.",
+      "word": "Nacht",
+      "translation": "gece",
+      "example": "In der Nacht ist es still.",
+      "exampleTranslation": "Gece sessizdir.",
       "options": [
-        "Brot",
-        "Kaffee",
-        "Bus",
-        "Vater"
+        "gece",
+        "gündüz",
+        "akşam",
+        "sabah"
       ],
-      "correct": "Kaffee"
+      "correct": "gece"
     },
     {
       "id": 33,
-      "word": "Tee",
-      "translation": "çay",
-      "example": "Ich benutze das Wort 'Tee' in einem einfachen Satz.",
+      "word": "Wetter",
+      "translation": "hava durumu",
+      "example": "Das Wetter ist heute schön.",
+      "exampleTranslation": "Bugün hava güzel.",
       "options": [
-        "Tee",
-        "klein",
-        "schlecht",
-        "Buch"
+        "hava durumu",
+        "mevsim",
+        "rüzgar",
+        "yağmur"
       ],
-      "correct": "Tee"
+      "correct": "hava durumu"
     },
     {
       "id": 34,
-      "word": "Brot",
-      "translation": "ekmek",
-      "example": "Ich benutze das Wort 'Brot' in einem einfachen Satz.",
+      "word": "Sonne",
+      "translation": "güneş",
+      "example": "Die Sonne scheint.",
+      "exampleTranslation": "Güneş parlıyor.",
       "options": [
-        "Morgen",
-        "Brot",
-        "schlecht",
-        "ja"
+        "güneş",
+        "ay",
+        "yıldız",
+        "bulut"
       ],
-      "correct": "Brot"
+      "correct": "güneş"
     },
     {
       "id": 35,
-      "word": "Ei",
-      "translation": "yumurta",
-      "example": "Ich benutze das Wort 'Ei' in einem einfachen Satz.",
+      "word": "Regen",
+      "translation": "yağmur",
+      "example": "Es regnet heute.",
+      "exampleTranslation": "Bugün yağmur yağıyor.",
       "options": [
-        "ja",
-        "hallo",
-        "Ei",
-        "gehen"
+        "yağmur",
+        "kar",
+        "rüzgar",
+        "fırtına"
       ],
-      "correct": "Ei"
+      "correct": "yağmur"
     },
     {
       "id": 36,
-      "word": "Salz",
-      "translation": "tuz",
-      "example": "Ich benutze das Wort 'Salz' in einem einfachen Satz.",
+      "word": "Schnee",
+      "translation": "kar",
+      "example": "Im Winter fällt Schnee.",
+      "exampleTranslation": "Kışın kar yağar.",
       "options": [
-        "Zug",
-        "lernen",
-        "Salz",
-        "Nacht"
+        "kar",
+        "yağmur",
+        "rüzgar",
+        "buz"
       ],
-      "correct": "Salz"
+      "correct": "kar"
     },
     {
       "id": 37,
-      "word": "Zucker",
-      "translation": "şeker",
-      "example": "Ich benutze das Wort 'Zucker' in einem einfachen Satz.",
+      "word": "Wind",
+      "translation": "rüzgar",
+      "example": "Der Wind ist stark.",
+      "exampleTranslation": "Rüzgar güçlü.",
       "options": [
-        "danke",
-        "Zucker",
-        "groß",
-        "schön"
+        "rüzgar",
+        "yağmur",
+        "kar",
+        "güneş"
       ],
-      "correct": "Zucker"
+      "correct": "rüzgar"
     },
     {
       "id": 38,
-      "word": "Reis",
-      "translation": "pirinç",
-      "example": "Ich benutze das Wort 'Reis' in einem einfachen Satz.",
+      "word": "Himmel",
+      "translation": "gökyüzü",
+      "example": "Der Himmel ist blau.",
+      "exampleTranslation": "Gökyüzü mavi.",
       "options": [
-        "tschüss",
-        "Reis",
-        "spielen",
-        "Vater"
+        "gökyüzü",
+        "deniz",
+        "orman",
+        "toprak"
       ],
-      "correct": "Reis"
+      "correct": "gökyüzü"
     },
     {
       "id": 39,
-      "word": "Fleisch",
-      "translation": "et",
-      "example": "Ich benutze das Wort 'Fleisch' in einem einfachen Satz.",
+      "word": "Meer",
+      "translation": "deniz",
+      "example": "Ich schwimme im Meer.",
+      "exampleTranslation": "Denizde yüzüyorum.",
       "options": [
-        "Schule",
-        "Fleisch",
-        "Fahrrad",
-        "Fenster"
+        "deniz",
+        "göl",
+        "nehir",
+        "havuz"
       ],
-      "correct": "Fleisch"
+      "correct": "deniz"
     },
     {
       "id": 40,
-      "word": "Fisch",
-      "translation": "balık",
-      "example": "Ich benutze das Wort 'Fisch' in einem einfachen Satz.",
+      "word": "Berg",
+      "translation": "dağ",
+      "example": "Wir wandern auf den Berg.",
+      "exampleTranslation": "Dağa tırmanıyoruz.",
       "options": [
-        "Fenster",
-        "sorry",
-        "Fisch",
-        "Bus"
+        "dağ",
+        "tepe",
+        "ova",
+        "nehir"
       ],
-      "correct": "Fisch"
+      "correct": "dağ"
     },
     {
       "id": 41,
-      "word": "Vogel",
-      "translation": "kuş",
-      "example": "Ich benutze das Wort 'Vogel' in einem einfachen Satz.",
+      "word": "Straße",
+      "translation": "sokak, cadde",
+      "example": "Die Straße ist sehr lang.",
+      "exampleTranslation": "Cadde çok uzun.",
       "options": [
-        "Reis",
-        "Fenster",
-        "Vogel",
-        "Blume"
+        "sokak",
+        "köprü",
+        "ev",
+        "park"
       ],
-      "correct": "Vogel"
+      "correct": "sokak"
     },
     {
       "id": 42,
-      "word": "Kind",
-      "translation": "çocuk",
-      "example": "Ich benutze das Wort 'Kind' in einem einfachen Satz.",
+      "word": "Brücke",
+      "translation": "köprü",
+      "example": "Die Brücke ist alt.",
+      "exampleTranslation": "Köprü eski.",
       "options": [
-        "Fleisch",
-        "neu",
-        "Kind",
-        "Buch"
+        "köprü",
+        "yol",
+        "bina",
+        "nehir"
       ],
-      "correct": "Kind"
+      "correct": "köprü"
     },
     {
       "id": 43,
-      "word": "Familie",
-      "translation": "aile",
-      "example": "Ich benutze das Wort 'Familie' in einem einfachen Satz.",
+      "word": "Zug",
+      "translation": "tren",
+      "example": "Der Zug kommt um neun Uhr.",
+      "exampleTranslation": "Tren saat dokuzda geliyor.",
       "options": [
-        "Hund",
-        "Familie",
-        "schön",
-        "Reis"
+        "tren",
+        "otobüs",
+        "araba",
+        "uçak"
       ],
-      "correct": "Familie"
+      "correct": "tren"
     },
     {
       "id": 44,
-      "word": "Freund",
-      "translation": "arkadaş",
-      "example": "Ich benutze das Wort 'Freund' in einem einfachen Satz.",
+      "word": "Bus",
+      "translation": "otobüs",
+      "example": "Ich fahre mit dem Bus zur Arbeit.",
+      "exampleTranslation": "İşe otobüsle gidiyorum.",
       "options": [
-        "Stadt",
-        "Freund",
-        "Buch",
-        "glücklich"
+        "otobüs",
+        "tren",
+        "araba",
+        "uçak"
       ],
-      "correct": "Freund"
+      "correct": "otobüs"
     },
     {
       "id": 45,
-      "word": "Mutter",
-      "translation": "anne",
-      "example": "Ich benutze das Wort 'Mutter' in einem einfachen Satz.",
+      "word": "Flugzeug",
+      "translation": "uçak",
+      "example": "Das Flugzeug fliegt nach Berlin.",
+      "exampleTranslation": "Uçak Berlin’e uçuyor.",
       "options": [
-        "Mutter",
-        "morgen",
-        "Stuhl",
-        "Freund"
+        "uçak",
+        "tren",
+        "otobüs",
+        "gemi"
       ],
-      "correct": "Mutter"
+      "correct": "uçak"
     },
     {
       "id": 46,
-      "word": "Vater",
-      "translation": "baba",
-      "example": "Ich benutze das Wort 'Vater' in einem einfachen Satz.",
+      "word": "Schiff",
+      "translation": "gemi",
+      "example": "Das Schiff fährt über das Meer.",
+      "exampleTranslation": "Gemi denizin üzerinden gidiyor.",
       "options": [
-        "Nacht",
-        "Mond",
-        "Dorf",
-        "Vater"
+        "gemi",
+        "tekne",
+        "uçak",
+        "araba"
       ],
-      "correct": "Vater"
+      "correct": "gemi"
     },
     {
       "id": 47,
-      "word": "Schwester",
-      "translation": "kız kardeş",
-      "example": "Ich benutze das Wort 'Schwester' in einem einfachen Satz.",
+      "word": "Arztpraxis",
+      "translation": "muayenehane",
+      "example": "Die Arztpraxis ist in der Stadtmitte.",
+      "exampleTranslation": "Muayenehane şehir merkezinde.",
       "options": [
-        "gut",
-        "Fleisch",
-        "Schwester",
-        "Papier"
+        "muayenehane",
+        "okul",
+        "ev",
+        "hastane"
       ],
-      "correct": "Schwester"
+      "correct": "muayenehane"
     },
     {
       "id": 48,
-      "word": "Bruder",
-      "translation": "erkek kardeş",
-      "example": "Ich benutze das Wort 'Bruder' in einem einfachen Satz.",
+      "word": "Bäckerei",
+      "translation": "fırın",
+      "example": "Ich kaufe Brot in der Bäckerei.",
+      "exampleTranslation": "Fırından ekmek alıyorum.",
       "options": [
-        "lesen",
-        "Bruder",
-        "Abend",
-        "schlecht"
+        "fırın",
+        "kasap",
+        "market",
+        "restoran"
       ],
-      "correct": "Bruder"
+      "correct": "fırın"
     },
     {
       "id": 49,
-      "word": "Essen",
-      "translation": "yemek",
-      "example": "Ich benutze das Wort 'Essen' in einem einfachen Satz.",
+      "word": "Supermarkt",
+      "translation": "süpermarket",
+      "example": "Im Supermarkt gibt es viele Früchte.",
+      "exampleTranslation": "Süpermarkette birçok meyve var.",
       "options": [
-        "Fleisch",
-        "hallo",
-        "morgen",
-        "Essen"
+        "süpermarket",
+        "fırın",
+        "kafe",
+        "eczane"
       ],
-      "correct": "Essen"
+      "correct": "süpermarket"
     },
     {
       "id": 50,
-      "word": "Zeit",
-      "translation": "zaman",
-      "example": "Ich benutze das Wort 'Zeit' in einem einfachen Satz.",
+      "word": "Restaurant",
+      "translation": "restoran",
+      "example": "Wir essen Pizza im Restaurant.",
+      "exampleTranslation": "Restoranda pizza yiyoruz.",
       "options": [
-        "schreiben",
-        "Straße",
-        "Zeit",
-        "Blume"
+        "restoran",
+        "kafe",
+        "bar",
+        "ev"
       ],
-      "correct": "Zeit"
+      "correct": "restoran"
     },
     {
-      "id": 51,
-      "word": "Tag",
-      "translation": "gün",
-      "example": "Ich benutze das Wort 'Tag' in einem einfachen Satz.",
+      "id": 101,
+      "word": "Reise",
+      "translation": "seyahat",
+      "example": "Die Reise nach Italien war wunderbar.",
+      "exampleTranslation": "İtalya’ya yapılan seyahat harikaydı.",
       "options": [
-        "Tisch",
-        "Telefon",
-        "Tag",
-        "Milch"
+        "seyahat",
+        "yemek",
+        "iş",
+        "tatil"
       ],
-      "correct": "Tag"
+      "correct": "seyahat"
     },
     {
-      "id": 52,
-      "word": "Nacht",
-      "translation": "gece",
-      "example": "Ich benutze das Wort 'Nacht' in einem einfachen Satz.",
+      "id": 102,
+      "word": "Erfahrung",
+      "translation": "deneyim",
+      "example": "Ich habe viel Erfahrung in diesem Beruf.",
+      "exampleTranslation": "Bu meslekte çok deneyimim var.",
       "options": [
-        "lernen",
-        "Morgen",
-        "hallo",
-        "Nacht"
+        "deneyim",
+        "bilgi",
+        "fikir",
+        "öneri"
       ],
-      "correct": "Nacht"
+      "correct": "deneyim"
     },
     {
-      "id": 53,
-      "word": "Morgen",
-      "translation": "sabah",
-      "example": "Ich benutze das Wort 'Morgen' in einem einfachen Satz.",
+      "id": 103,
+      "word": "Zukunft",
+      "translation": "gelecek",
+      "example": "Ich denke oft über meine Zukunft nach.",
+      "exampleTranslation": "Geleceğim hakkında sık sık düşünürüm.",
       "options": [
-        "spielen",
-        "Zucker",
-        "Fahrrad",
-        "Morgen"
+        "gelecek",
+        "geçmiş",
+        "şimdi",
+        "plan"
       ],
-      "correct": "Morgen"
+      "correct": "gelecek"
     },
     {
-      "id": 54,
-      "word": "Abend",
-      "translation": "akşam",
-      "example": "Ich benutze das Wort 'Abend' in einem einfachen Satz.",
+      "id": 104,
+      "word": "Vergangenheit",
+      "translation": "geçmiş",
+      "example": "Man sollte aus der Vergangenheit lernen.",
+      "exampleTranslation": "İnsan geçmişten ders almalıdır.",
       "options": [
-        "öffnen",
-        "essen",
-        "Abend",
-        "Brot"
+        "geçmiş",
+        "gelecek",
+        "şimdi",
+        "yarın"
       ],
-      "correct": "Abend"
+      "correct": "geçmiş"
     },
     {
-      "id": 55,
-      "word": "gestern",
-      "translation": "dün",
-      "example": "Ich benutze das Wort 'gestern' in einem einfachen Satz.",
+      "id": 105,
+      "word": "Chance",
+      "translation": "fırsat",
+      "example": "Diese Arbeit ist eine gute Chance für mich.",
+      "exampleTranslation": "Bu iş benim için iyi bir fırsat.",
       "options": [
-        "gehen",
-        "Zug",
-        "gestern",
-        "alt"
+        "fırsat",
+        "tehlike",
+        "risk",
+        "problem"
       ],
-      "correct": "gestern"
+      "correct": "fırsat"
     },
     {
-      "id": 56,
-      "word": "heute",
-      "translation": "bugün",
-      "example": "Ich benutze das Wort 'heute' in einem einfachen Satz.",
+      "id": 106,
+      "word": "Entscheidung",
+      "translation": "karar",
+      "example": "Ich habe eine schwierige Entscheidung getroffen.",
+      "exampleTranslation": "Zor bir karar verdim.",
       "options": [
-        "Sonne",
-        "Computer",
-        "heute",
-        "Stern"
+        "karar",
+        "soru",
+        "cevap",
+        "plan"
       ],
-      "correct": "heute"
+      "correct": "karar"
     },
     {
-      "id": 57,
-      "word": "morgen",
-      "translation": "yarın",
-      "example": "Ich benutze das Wort 'morgen' in einem einfachen Satz.",
+      "id": 107,
+      "word": "Verantwortung",
+      "translation": "sorumluluk",
+      "example": "Eltern haben viel Verantwortung für ihre Kinder.",
+      "exampleTranslation": "Ebeveynlerin çocukları için çok sorumluluğu vardır.",
       "options": [
-        "Schule",
-        "lernen",
-        "morgen",
-        "bitte"
+        "sorumluluk",
+        "görev",
+        "hak",
+        "özgürlük"
       ],
-      "correct": "morgen"
+      "correct": "sorumluluk"
     },
     {
-      "id": 58,
-      "word": "hallo",
-      "translation": "merhaba",
-      "example": "Ich benutze das Wort 'hallo' in einem einfachen Satz.",
+      "id": 108,
+      "word": "Erfolg",
+      "translation": "başarı",
+      "example": "Mit harter Arbeit kommt der Erfolg.",
+      "exampleTranslation": "Sıkı çalışmayla başarı gelir.",
       "options": [
-        "Ei",
-        "kalt",
-        "alt",
-        "hallo"
+        "başarı",
+        "başarısızlık",
+        "plan",
+        "şans"
       ],
-      "correct": "hallo"
+      "correct": "başarı"
     },
     {
-      "id": 59,
-      "word": "tschüss",
-      "translation": "güle güle",
-      "example": "Ich benutze das Wort 'tschüss' in einem einfachen Satz.",
+      "id": 109,
+      "word": "Fehler",
+      "translation": "hata",
+      "example": "Jeder macht manchmal einen Fehler.",
+      "exampleTranslation": "Herkes bazen hata yapar.",
       "options": [
-        "schließen",
-        "Katze",
-        "tschüss",
-        "heute"
+        "hata",
+        "başarı",
+        "fikir",
+        "çözüm"
       ],
-      "correct": "tschüss"
+      "correct": "hata"
     },
     {
-      "id": 60,
-      "word": "bitte",
-      "translation": "lütfen",
-      "example": "Ich benutze das Wort 'bitte' in einem einfachen Satz.",
+      "id": 110,
+      "word": "Geduld",
+      "translation": "sabır",
+      "example": "Man braucht Geduld, um ein neues Hobby zu lernen.",
+      "exampleTranslation": "Yeni bir hobi öğrenmek için sabır gerekir.",
       "options": [
-        "bitte",
-        "Fahrrad",
-        "Baum",
-        "Auto"
+        "sabır",
+        "öfke",
+        "cesaret",
+        "umut"
       ],
-      "correct": "bitte"
+      "correct": "sabır"
     },
     {
-      "id": 61,
-      "word": "danke",
-      "translation": "teşekkürler",
-      "example": "Ich benutze das Wort 'danke' in einem einfachen Satz.",
+      "id": 111,
+      "word": "Mut",
+      "translation": "cesaret",
+      "example": "Manchmal braucht man Mut, um Neues zu versuchen.",
+      "exampleTranslation": "Bazen yeni şeyler denemek için cesaret gerekir.",
       "options": [
-        "Katze",
-        "Tisch",
-        "glücklich",
-        "danke"
+        "cesaret",
+        "korku",
+        "umut",
+        "sabır"
       ],
-      "correct": "danke"
+      "correct": "cesaret"
     },
     {
-      "id": 62,
-      "word": "sorry",
-      "translation": "özür dilerim",
-      "example": "Ich benutze das Wort 'sorry' in einem einfachen Satz.",
+      "id": 112,
+      "word": "Vertrauen",
+      "translation": "güven",
+      "example": "Vertrauen ist wichtig in einer Freundschaft.",
+      "exampleTranslation": "Güven bir arkadaşlıkta önemlidir.",
       "options": [
-        "Salz",
-        "Stuhl",
-        "traurig",
-        "sorry"
+        "güven",
+        "saygı",
+        "yardım",
+        "sabır"
       ],
-      "correct": "sorry"
+      "correct": "güven"
     },
     {
-      "id": 63,
-      "word": "ja",
-      "translation": "evet",
-      "example": "Ich benutze das Wort 'ja' in einem einfachen Satz.",
+      "id": 113,
+      "word": "Hoffnung",
+      "translation": "umut",
+      "example": "Ich habe Hoffnung auf eine bessere Zukunft.",
+      "exampleTranslation": "Daha iyi bir gelecek için umudum var.",
       "options": [
-        "danke",
-        "Baum",
-        "Mutter",
-        "ja"
+        "umut",
+        "korku",
+        "öfke",
+        "sabır"
       ],
-      "correct": "ja"
+      "correct": "umut"
     },
     {
-      "id": 64,
-      "word": "nein",
-      "translation": "hayır",
-      "example": "Ich benutze das Wort 'nein' in einem einfachen Satz.",
+      "id": 114,
+      "word": "Freiheit",
+      "translation": "özgürlük",
+      "example": "Freiheit ist für alle Menschen wichtig.",
+      "exampleTranslation": "Özgürlük tüm insanlar için önemlidir.",
       "options": [
-        "Stadt",
-        "nein",
-        "wissen",
-        "Telefon"
+        "özgürlük",
+        "kontrol",
+        "güç",
+        "zenginlik"
       ],
-      "correct": "nein"
+      "correct": "özgürlük"
     },
     {
-      "id": 65,
-      "word": "kalt",
-      "translation": "soğuk",
-      "example": "Ich benutze das Wort 'kalt' in einem einfachen Satz.",
+      "id": 115,
+      "word": "Gesundheit",
+      "translation": "sağlık",
+      "example": "Gesundheit ist wichtiger als Geld.",
+      "exampleTranslation": "Sağlık, paradan daha önemlidir.",
       "options": [
-        "sehen",
-        "kalt",
-        "Nacht",
-        "Zucker"
+        "sağlık",
+        "para",
+        "iş",
+        "zaman"
       ],
-      "correct": "kalt"
+      "correct": "sağlık"
     },
     {
-      "id": 66,
-      "word": "heiß",
-      "translation": "sıcak",
-      "example": "Ich benutze das Wort 'heiß' in einem einfachen Satz.",
+      "id": 116,
+      "word": "Armut",
+      "translation": "yoksulluk",
+      "example": "Armut ist ein großes Problem in der Welt.",
+      "exampleTranslation": "Yoksulluk dünyada büyük bir problemdir.",
       "options": [
-        "Kind",
-        "heiß",
-        "Tee",
-        "Vogel"
+        "yoksulluk",
+        "zenginlik",
+        "adalet",
+        "umut"
       ],
-      "correct": "heiß"
+      "correct": "yoksulluk"
     },
     {
-      "id": 67,
-      "word": "klein",
-      "translation": "küçük",
-      "example": "Ich benutze das Wort 'klein' in einem einfachen Satz.",
+      "id": 117,
+      "word": "Bildung",
+      "translation": "eğitim",
+      "example": "Bildung ist der Schlüssel zum Erfolg.",
+      "exampleTranslation": "Eğitim başarının anahtarıdır.",
       "options": [
-        "sehen",
-        "bitte",
-        "alt",
-        "klein"
+        "eğitim",
+        "çalışma",
+        "para",
+        "deneyim"
       ],
-      "correct": "klein"
+      "correct": "eğitim"
     },
     {
-      "id": 68,
-      "word": "groß",
-      "translation": "büyük",
-      "example": "Ich benutze das Wort 'groß' in einem einfachen Satz.",
+      "id": 118,
+      "word": "Umwelt",
+      "translation": "çevre",
+      "example": "Wir müssen unsere Umwelt schützen.",
+      "exampleTranslation": "Çevremizi korumalıyız.",
       "options": [
-        "Schwester",
-        "sprechen",
-        "klein",
-        "groß"
+        "çevre",
+        "hava",
+        "iklim",
+        "orman"
       ],
-      "correct": "groß"
+      "correct": "çevre"
     },
     {
-      "id": 69,
-      "word": "neu",
-      "translation": "yeni",
-      "example": "Ich benutze das Wort 'neu' in einem einfachen Satz.",
+      "id": 119,
+      "word": "Kultur",
+      "translation": "kültür",
+      "example": "Jedes Land hat seine eigene Kultur.",
+      "exampleTranslation": "Her ülkenin kendi kültürü vardır.",
       "options": [
-        "Hund",
-        "Ei",
-        "neu",
-        "Straße"
+        "kültür",
+        "tarih",
+        "müzik",
+        "gelenek"
       ],
-      "correct": "neu"
+      "correct": "kültür"
     },
     {
-      "id": 70,
-      "word": "alt",
-      "translation": "eski",
-      "example": "Ich benutze das Wort 'alt' in einem einfachen Satz.",
+      "id": 120,
+      "word": "Tradition",
+      "translation": "gelenek",
+      "example": "Weihnachten ist eine alte Tradition.",
+      "exampleTranslation": "Noel eski bir gelenektir.",
       "options": [
-        "Schule",
-        "alt",
-        "spielen",
-        "ja"
+        "gelenek",
+        "kural",
+        "alışkanlık",
+        "kutlama"
       ],
-      "correct": "alt"
+      "correct": "gelenek"
     },
     {
-      "id": 71,
-      "word": "schön",
-      "translation": "güzel",
-      "example": "Ich benutze das Wort 'schön' in einem einfachen Satz.",
+      "id": 121,
+      "word": "Gesellschaft",
+      "translation": "toplum",
+      "example": "Eine gute Gesellschaft achtet auf Gerechtigkeit.",
+      "exampleTranslation": "İyi bir toplum adalete önem verir.",
       "options": [
-        "Buch",
-        "Telefon",
-        "Fisch",
-        "schön"
+        "toplum",
+        "aile",
+        "hükümet",
+        "grup"
       ],
-      "correct": "schön"
+      "correct": "toplum"
     },
     {
-      "id": 72,
-      "word": "schlecht",
-      "translation": "kötü",
-      "example": "Ich benutze das Wort 'schlecht' in einem einfachen Satz.",
+      "id": 122,
+      "word": "Regierung",
+      "translation": "hükümet",
+      "example": "Die Regierung hat neue Regeln beschlossen.",
+      "exampleTranslation": "Hükümet yeni kurallar kararlaştırdı.",
       "options": [
-        "Dorf",
-        "bitte",
-        "schlecht",
-        "Schule"
+        "hükümet",
+        "meclis",
+        "bakan",
+        "başkan"
       ],
-      "correct": "schlecht"
+      "correct": "hükümet"
     },
     {
-      "id": 73,
-      "word": "gut",
-      "translation": "iyi",
-      "example": "Ich benutze das Wort 'gut' in einem einfachen Satz.",
+      "id": 123,
+      "word": "Politik",
+      "translation": "siyaset",
+      "example": "Ich interessiere mich nicht für Politik.",
+      "exampleTranslation": "Siyasetle ilgilenmiyorum.",
       "options": [
-        "Abend",
-        "heiß",
-        "Ei",
-        "gut"
+        "siyaset",
+        "tarih",
+        "ekonomi",
+        "hukuk"
       ],
-      "correct": "gut"
+      "correct": "siyaset"
     },
     {
-      "id": 74,
-      "word": "glücklich",
-      "translation": "mutlu",
-      "example": "Ich benutze das Wort 'glücklich' in einem einfachen Satz.",
+      "id": 124,
+      "word": "Technologie",
+      "translation": "teknoloji",
+      "example": "Technologie verändert unser Leben schnell.",
+      "exampleTranslation": "Teknoloji hayatımızı hızla değiştiriyor.",
       "options": [
-        "schön",
-        "Stift",
-        "tschüss",
-        "glücklich"
+        "teknoloji",
+        "bilim",
+        "sanat",
+        "ekonomi"
       ],
-      "correct": "glücklich"
+      "correct": "teknoloji"
     },
     {
-      "id": 75,
-      "word": "traurig",
-      "translation": "üzgün",
-      "example": "Ich benutze das Wort 'traurig' in einem einfachen Satz.",
+      "id": 125,
+      "word": "Internet",
+      "translation": "internet",
+      "example": "Das Internet ist ein wichtiger Teil des Lebens.",
+      "exampleTranslation": "İnternet hayatın önemli bir parçasıdır.",
       "options": [
-        "Salz",
-        "Mond",
-        "traurig",
-        "Abend"
+        "internet",
+        "televizyon",
+        "telefon",
+        "bilgisayar"
       ],
-      "correct": "traurig"
+      "correct": "internet"
     },
     {
-      "id": 76,
-      "word": "öffnen",
-      "translation": "açmak",
-      "example": "Ich benutze das Wort 'öffnen' in einem einfachen Satz.",
+      "id": 151,
+      "word": "Forschung",
+      "translation": "araştırma",
+      "example": "Die Forschung zeigt neue Ergebnisse über das Klima.",
+      "exampleTranslation": "Araştırma iklim hakkında yeni sonuçlar gösteriyor.",
       "options": [
-        "Fleisch",
-        "Apfel",
-        "Zucker",
-        "öffnen"
+        "araştırma",
+        "deney",
+        "kitap",
+        "proje"
       ],
-      "correct": "öffnen"
+      "correct": "araştırma"
     },
     {
-      "id": 77,
-      "word": "schließen",
-      "translation": "kapatmak",
-      "example": "Ich benutze das Wort 'schließen' in einem einfachen Satz.",
+      "id": 152,
+      "word": "Wissenschaft",
+      "translation": "bilim",
+      "example": "Die Wissenschaft entwickelt sich ständig weiter.",
+      "exampleTranslation": "Bilim sürekli olarak gelişmektedir.",
       "options": [
-        "Mutter",
-        "sorry",
-        "schließen",
-        "neu"
+        "bilim",
+        "sanat",
+        "teknoloji",
+        "matematik"
       ],
-      "correct": "schließen"
+      "correct": "bilim"
     },
     {
-      "id": 78,
-      "word": "lesen",
-      "translation": "okumak",
-      "example": "Ich benutze das Wort 'lesen' in einem einfachen Satz.",
+      "id": 153,
+      "word": "Entwicklung",
+      "translation": "gelişim",
+      "example": "Die Entwicklung neuer Technologien ist wichtig.",
+      "exampleTranslation": "Yeni teknolojilerin gelişimi önemlidir.",
       "options": [
-        "tschüss",
-        "lesen",
-        "Fenster",
-        "Kind"
+        "gelişim",
+        "gerileme",
+        "başlangıç",
+        "deney"
       ],
-      "correct": "lesen"
+      "correct": "gelişim"
     },
     {
-      "id": 79,
-      "word": "schreiben",
-      "translation": "yazmak",
-      "example": "Ich benutze das Wort 'schreiben' in einem einfachen Satz.",
+      "id": 154,
+      "word": "Innovation",
+      "translation": "yenilik",
+      "example": "Innovation bringt neue Ideen und Lösungen.",
+      "exampleTranslation": "Yenilik, yeni fikirler ve çözümler getirir.",
       "options": [
-        "Fahrrad",
-        "Morgen",
-        "schreiben",
-        "Katze"
+        "yenilik",
+        "alışkanlık",
+        "değişim",
+        "yaratıcılık"
       ],
-      "correct": "schreiben"
+      "correct": "yenilik"
     },
     {
-      "id": 80,
-      "word": "sprechen",
-      "translation": "konuşmak",
-      "example": "Ich benutze das Wort 'sprechen' in einem einfachen Satz.",
+      "id": 155,
+      "word": "Unternehmen",
+      "translation": "şirket",
+      "example": "Mein Vater arbeitet in einem großen Unternehmen.",
+      "exampleTranslation": "Babam büyük bir şirkette çalışıyor.",
       "options": [
-        "sehen",
-        "Zeit",
-        "sprechen",
-        "Essen"
+        "şirket",
+        "ofis",
+        "fabrika",
+        "mağaza"
       ],
-      "correct": "sprechen"
+      "correct": "şirket"
     },
     {
-      "id": 81,
-      "word": "essen",
-      "translation": "yemek",
-      "example": "Ich benutze das Wort 'essen' in einem einfachen Satz.",
+      "id": 156,
+      "word": "Projekt",
+      "translation": "proje",
+      "example": "Wir arbeiten an einem neuen Schulprojekt.",
+      "exampleTranslation": "Yeni bir okul projesi üzerinde çalışıyoruz.",
       "options": [
-        "essen",
-        "öffnen",
-        "kalt",
-        "Schüler"
+        "proje",
+        "ders",
+        "sınav",
+        "konu"
       ],
-      "correct": "essen"
+      "correct": "proje"
     },
     {
-      "id": 82,
-      "word": "trinken",
-      "translation": "içmek",
-      "example": "Ich benutze das Wort 'trinken' in einem einfachen Satz.",
+      "id": 157,
+      "word": "Ziel",
+      "translation": "hedef",
+      "example": "Mein Ziel ist es, besser Deutsch zu sprechen.",
+      "exampleTranslation": "Hedefim daha iyi Almanca konuşmak.",
       "options": [
-        "tschüss",
-        "trinken",
-        "Blume",
-        "groß"
+        "hedef",
+        "amaç",
+        "karar",
+        "hayal"
       ],
-      "correct": "trinken"
+      "correct": "hedef"
     },
     {
-      "id": 83,
-      "word": "gehen",
-      "translation": "gitmek",
-      "example": "Ich benutze das Wort 'gehen' in einem einfachen Satz.",
+      "id": 158,
+      "word": "Ergebnis",
+      "translation": "sonuç",
+      "example": "Das Ergebnis der Prüfung war gut.",
+      "exampleTranslation": "Sınavın sonucu iyiydi.",
       "options": [
-        "gehen",
-        "kommen",
-        "Morgen",
-        "Papier"
+        "sonuç",
+        "sebep",
+        "plan",
+        "fikir"
       ],
-      "correct": "gehen"
+      "correct": "sonuç"
     },
     {
-      "id": 84,
-      "word": "kommen",
-      "translation": "gelmek",
-      "example": "Ich benutze das Wort 'kommen' in einem einfachen Satz.",
+      "id": 159,
+      "word": "Analyse",
+      "translation": "analiz",
+      "example": "Die Analyse der Daten dauert lange.",
+      "exampleTranslation": "Verilerin analizi uzun sürüyor.",
       "options": [
-        "lernen",
-        "Freund",
-        "sprechen",
-        "kommen"
+        "analiz",
+        "çalışma",
+        "ölçüm",
+        "proje"
       ],
-      "correct": "kommen"
+      "correct": "analiz"
     },
     {
-      "id": 85,
-      "word": "sehen",
-      "translation": "görmek",
-      "example": "Ich benutze das Wort 'sehen' in einem einfachen Satz.",
+      "id": 160,
+      "word": "Bericht",
+      "translation": "rapor",
+      "example": "Der Bericht muss bis morgen fertig sein.",
+      "exampleTranslation": "Rapor yarına kadar hazır olmalı.",
       "options": [
-        "neu",
-        "Familie",
-        "denken",
-        "sehen"
+        "rapor",
+        "makale",
+        "gazete",
+        "kitap"
       ],
-      "correct": "sehen"
+      "correct": "rapor"
     },
     {
-      "id": 86,
-      "word": "wissen",
-      "translation": "bilmek",
-      "example": "Ich benutze das Wort 'wissen' in einem einfachen Satz.",
+      "id": 161,
+      "word": "Team",
+      "translation": "ekip",
+      "example": "Ein gutes Team arbeitet zusammen.",
+      "exampleTranslation": "İyi bir ekip birlikte çalışır.",
       "options": [
-        "Wasser",
-        "sprechen",
-        "wissen",
-        "alt"
+        "ekip",
+        "grup",
+        "aile",
+        "arkadaş"
       ],
-      "correct": "wissen"
+      "correct": "ekip"
     },
     {
-      "id": 87,
-      "word": "denken",
-      "translation": "düşünmek",
-      "example": "Ich benutze das Wort 'denken' in einem einfachen Satz.",
+      "id": 162,
+      "word": "Chef",
+      "translation": "şef, patron",
+      "example": "Mein Chef ist sehr freundlich.",
+      "exampleTranslation": "Patronum çok arkadaş canlısıdır.",
       "options": [
-        "heute",
-        "denken",
-        "Baum",
-        "Fahrrad"
+        "patron",
+        "işçi",
+        "müdür",
+        "memur"
       ],
-      "correct": "denken"
+      "correct": "patron"
     },
     {
-      "id": 88,
-      "word": "arbeiten",
-      "translation": "çalışmak",
-      "example": "Ich benutze das Wort 'arbeiten' in einem einfachen Satz.",
+      "id": 163,
+      "word": "Kollege",
+      "translation": "iş arkadaşı",
+      "example": "Meine Kollegen sind hilfsbereit.",
+      "exampleTranslation": "İş arkadaşlarım yardımseverdir.",
       "options": [
-        "Computer",
-        "arbeiten",
-        "lernen",
-        "morgen"
+        "iş arkadaşı",
+        "patron",
+        "öğrenci",
+        "komşu"
       ],
-      "correct": "arbeiten"
+      "correct": "iş arkadaşı"
     },
     {
-      "id": 89,
-      "word": "lernen",
-      "translation": "öğrenmek",
-      "example": "Ich benutze das Wort 'lernen' in einem einfachen Satz.",
+      "id": 164,
+      "word": "Beruf",
+      "translation": "meslek",
+      "example": "Welcher Beruf interessiert dich?",
+      "exampleTranslation": "Hangi meslek seni ilgilendiriyor?",
       "options": [
-        "Sonne",
-        "lernen",
-        "Kind",
-        "Reis"
+        "meslek",
+        "iş",
+        "ders",
+        "okul"
       ],
-      "correct": "lernen"
+      "correct": "meslek"
     },
     {
-      "id": 90,
-      "word": "spielen",
-      "translation": "oynamak",
-      "example": "Ich benutze das Wort 'spielen' in einem einfachen Satz.",
+      "id": 165,
+      "word": "Lohn",
+      "translation": "maaş",
+      "example": "Der Lohn wird am Monatsende gezahlt.",
+      "exampleTranslation": "Maaş ay sonunda ödenir.",
       "options": [
-        "Kaffee",
-        "groß",
-        "Stift",
-        "spielen"
+        "maaş",
+        "borç",
+        "prim",
+        "ödül"
       ],
-      "correct": "spielen"
+      "correct": "maaş"
+    },
+    {
+      "id": 166,
+      "word": "Vertrag",
+      "translation": "sözleşme",
+      "example": "Ich habe den Vertrag unterschrieben.",
+      "exampleTranslation": "Sözleşmeyi imzaladım.",
+      "options": [
+        "sözleşme",
+        "anlaşma",
+        "evrak",
+        "belge"
+      ],
+      "correct": "sözleşme"
+    },
+    {
+      "id": 167,
+      "word": "Bewerbung",
+      "translation": "başvuru",
+      "example": "Meine Bewerbung wurde akzeptiert.",
+      "exampleTranslation": "Başvurum kabul edildi.",
+      "options": [
+        "başvuru",
+        "mülakat",
+        "sınav",
+        "dosya"
+      ],
+      "correct": "başvuru"
+    },
+    {
+      "id": 168,
+      "word": "Interview",
+      "translation": "mülakat",
+      "example": "Das Interview war sehr erfolgreich.",
+      "exampleTranslation": "Mülakat çok başarılı geçti.",
+      "options": [
+        "mülakat",
+        "görüşme",
+        "sohbet",
+        "sunum"
+      ],
+      "correct": "mülakat"
+    },
+    {
+      "id": 169,
+      "word": "Karriere",
+      "translation": "kariyer",
+      "example": "Sie möchte eine internationale Karriere machen.",
+      "exampleTranslation": "Uluslararası bir kariyer yapmak istiyor.",
+      "options": [
+        "kariyer",
+        "meslek",
+        "yol",
+        "başarı"
+      ],
+      "correct": "kariyer"
+    },
+    {
+      "id": 170,
+      "word": "Leistung",
+      "translation": "performans, başarı",
+      "example": "Seine Leistung in der Arbeit war ausgezeichnet.",
+      "exampleTranslation": "İşindeki performansı mükemmeldi.",
+      "options": [
+        "performans",
+        "zaman",
+        "çaba",
+        "görev"
+      ],
+      "correct": "performans"
+    },
+    {
+      "id": 171,
+      "word": "Motivation",
+      "translation": "motivasyon",
+      "example": "Motivation ist wichtig für den Erfolg.",
+      "exampleTranslation": "Motivasyon başarı için önemlidir.",
+      "options": [
+        "motivasyon",
+        "ilgi",
+        "enerji",
+        "sabır"
+      ],
+      "correct": "motivasyon"
+    },
+    {
+      "id": 172,
+      "word": "Kreativität",
+      "translation": "yaratıcılık",
+      "example": "Kreativität hilft, Probleme besser zu lösen.",
+      "exampleTranslation": "Yaratıcılık, sorunları daha iyi çözmeye yardımcı olur.",
+      "options": [
+        "yaratıcılık",
+        "zeka",
+        "çalışma",
+        "bilgi"
+      ],
+      "correct": "yaratıcılık"
+    },
+    {
+      "id": 173,
+      "word": "Teamarbeit",
+      "translation": "ekip çalışması",
+      "example": "Teamarbeit macht das Projekt effizienter.",
+      "exampleTranslation": "Ekip çalışması projeyi daha verimli hale getirir.",
+      "options": [
+        "ekip çalışması",
+        "bireysel çalışma",
+        "planlama",
+        "organizasyon"
+      ],
+      "correct": "ekip çalışması"
+    },
+    {
+      "id": 174,
+      "word": "Zukunftsplan",
+      "translation": "gelecek planı",
+      "example": "Ich habe viele Zukunftspläne.",
+      "exampleTranslation": "Birçok gelecek planım var.",
+      "options": [
+        "gelecek planı",
+        "karar",
+        "düşünce",
+        "hayal"
+      ],
+      "correct": "gelecek planı"
+    },
+    {
+      "id": 175,
+      "word": "Gedanke",
+      "translation": "düşünce",
+      "example": "Dieser Gedanke gefällt mir.",
+      "exampleTranslation": "Bu düşünce hoşuma gidiyor.",
+      "options": [
+        "düşünce",
+        "fikir",
+        "öneri",
+        "plan"
+      ],
+      "correct": "düşünce"
+    },
+    {
+      "id": 176,
+      "word": "Gefühl",
+      "translation": "duygu",
+      "example": "Ich habe ein gutes Gefühl über dieses Projekt.",
+      "exampleTranslation": "Bu proje hakkında iyi bir hissim var.",
+      "options": [
+        "duygu",
+        "fikir",
+        "karar",
+        "düşünce"
+      ],
+      "correct": "duygu"
+    },
+    {
+      "id": 177,
+      "word": "Beziehung",
+      "translation": "ilişki",
+      "example": "Ihre Beziehung ist sehr stark.",
+      "exampleTranslation": "İlişkileri çok güçlü.",
+      "options": [
+        "ilişki",
+        "dostluk",
+        "aile",
+        "arkadaşlık"
+      ],
+      "correct": "ilişki"
+    },
+    {
+      "id": 178,
+      "word": "Verhalten",
+      "translation": "davranış",
+      "example": "Sein Verhalten war sehr respektvoll.",
+      "exampleTranslation": "Davranışı çok saygılıydı.",
+      "options": [
+        "davranış",
+        "hareket",
+        "tutum",
+        "alışkanlık"
+      ],
+      "correct": "davranış"
+    },
+    {
+      "id": 179,
+      "word": "Diskussion",
+      "translation": "tartışma",
+      "example": "Wir hatten eine interessante Diskussion.",
+      "exampleTranslation": "İlginç bir tartışma yaptık.",
+      "options": [
+        "tartışma",
+        "sohbet",
+        "konuşma",
+        "toplantı"
+      ],
+      "correct": "tartışma"
+    },
+    {
+      "id": 180,
+      "word": "Meinung",
+      "translation": "görüş, fikir",
+      "example": "Jeder hat seine eigene Meinung.",
+      "exampleTranslation": "Herkesin kendi fikri vardır.",
+      "options": [
+        "fikir",
+        "öneri",
+        "karar",
+        "görüş"
+      ],
+      "correct": "fikir"
+    },
+    {
+      "id": 181,
+      "word": "Veränderung",
+      "translation": "değişiklik",
+      "example": "Veränderung ist manchmal schwer, aber notwendig.",
+      "exampleTranslation": "Değişim bazen zordur ama gereklidir.",
+      "options": [
+        "değişiklik",
+        "gelişim",
+        "sonuç",
+        "dönüşüm"
+      ],
+      "correct": "değişiklik"
+    },
+    {
+      "id": 182,
+      "word": "Problem",
+      "translation": "sorun",
+      "example": "Wir müssen dieses Problem gemeinsam lösen.",
+      "exampleTranslation": "Bu sorunu birlikte çözmeliyiz.",
+      "options": [
+        "sorun",
+        "çözüm",
+        "konu",
+        "amaç"
+      ],
+      "correct": "sorun"
+    },
+    {
+      "id": 183,
+      "word": "Lösung",
+      "translation": "çözüm",
+      "example": "Die Lösung war einfacher als gedacht.",
+      "exampleTranslation": "Çözüm düşündüğümden daha kolaydı.",
+      "options": [
+        "çözüm",
+        "sorun",
+        "amaç",
+        "fikir"
+      ],
+      "correct": "çözüm"
+    },
+    {
+      "id": 184,
+      "word": "Erklärung",
+      "translation": "açıklama",
+      "example": "Die Lehrerin gab eine klare Erklärung.",
+      "exampleTranslation": "Öğretmen net bir açıklama yaptı.",
+      "options": [
+        "açıklama",
+        "soru",
+        "cevap",
+        "örnek"
+      ],
+      "correct": "açıklama"
+    },
+    {
+      "id": 185,
+      "word": "Beispiel",
+      "translation": "örnek",
+      "example": "Kannst du mir ein Beispiel geben?",
+      "exampleTranslation": "Bana bir örnek verebilir misin?",
+      "options": [
+        "örnek",
+        "soru",
+        "cevap",
+        "açıklama"
+      ],
+      "correct": "örnek"
+    },
+    {
+      "id": 186,
+      "word": "Information",
+      "translation": "bilgi",
+      "example": "Ich brauche mehr Informationen über das Thema.",
+      "exampleTranslation": "Konu hakkında daha fazla bilgiye ihtiyacım var.",
+      "options": [
+        "bilgi",
+        "veri",
+        "haber",
+        "öneri"
+      ],
+      "correct": "bilgi"
+    },
+    {
+      "id": 187,
+      "word": "Nachricht",
+      "translation": "haber, mesaj",
+      "example": "Ich habe eine Nachricht von meinem Freund bekommen.",
+      "exampleTranslation": "Arkadaşımdan bir mesaj aldım.",
+      "options": [
+        "haber",
+        "mektup",
+        "mesaj",
+        "arama"
+      ],
+      "correct": "haber"
+    },
+    {
+      "id": 188,
+      "word": "Erinnerung",
+      "translation": "anı, hatırlatma",
+      "example": "Diese Musik weckt schöne Erinnerungen.",
+      "exampleTranslation": "Bu müzik güzel anıları uyandırıyor.",
+      "options": [
+        "anı",
+        "hayal",
+        "rüya",
+        "hikaye"
+      ],
+      "correct": "anı"
+    },
+    {
+      "id": 189,
+      "word": "Verlust",
+      "translation": "kayıp",
+      "example": "Der Verlust seines Handys war ärgerlich.",
+      "exampleTranslation": "Telefonunu kaybetmesi can sıkıcıydı.",
+      "options": [
+        "kayıp",
+        "buluntu",
+        "ödül",
+        "kazanım"
+      ],
+      "correct": "kayıp"
+    },
+    {
+      "id": 190,
+      "word": "Gewinn",
+      "translation": "kazanç",
+      "example": "Unser Gewinn war dieses Jahr höher als letztes Jahr.",
+      "exampleTranslation": "Kazancımız bu yıl geçen yıldan daha yüksekti.",
+      "options": [
+        "kazanç",
+        "zarar",
+        "yatırım",
+        "kayıp"
+      ],
+      "correct": "kazanç"
+    },
+    {
+      "id": 201,
+      "word": "gesellschaftliche verantwortung",
+      "translation": "toplumsal sorumluluk",
+      "example": "Unternehmen tragen eine große Verantwortung für die Gesellschaft.",
+      "exampleTranslation": "Şirketler toplum için büyük bir sorumluluk taşır.",
+      "options": [
+        "Şirketler toplum için büyük bir sorumluluk taşır.",
+        "Toplum şirketlerden bağımsız yaşar.",
+        "Sorumluluk sadece bireylerindir.",
+        "Hiç kimsenin topluma karşı bir görevi yoktur."
+      ],
+      "correct": "Şirketler toplum için büyük bir sorumluluk taşır."
+    },
+    {
+      "id": 202,
+      "word": "nachhaltige entwicklung",
+      "translation": "sürdürülebilir kalkınma",
+      "example": "Nachhaltige Entwicklung bedeutet, die Bedürfnisse der Gegenwart zu erfüllen, ohne die Zukunft zu gefährden.",
+      "exampleTranslation": "Sürdürülebilir kalkınma, geleceği tehlikeye atmadan bugünün ihtiyaçlarını karşılamak anlamına gelir.",
+      "options": [
+        "Sürdürülebilir kalkınma, geleceği tehlikeye atmadan bugünün ihtiyaçlarını karşılamak anlamına gelir.",
+        "Kalkınma sadece ekonomik büyüme demektir.",
+        "Sürdürülebilirlik geçmişe odaklanmak demektir.",
+        "Bu kavram yalnızca çevreyle ilgilidir."
+      ],
+      "correct": "Sürdürülebilir kalkınma, geleceği tehlikeye atmadan bugünün ihtiyaçlarını karşılamak anlamına gelir."
+    },
+    {
+      "id": 203,
+      "word": "digitale transformation",
+      "translation": "dijital dönüşüm",
+      "example": "Die digitale Transformation verändert alle Bereiche des Lebens.",
+      "exampleTranslation": "Dijital dönüşüm yaşamın tüm alanlarını değiştiriyor.",
+      "options": [
+        "Dijital dönüşüm yaşamın tüm alanlarını değiştiriyor.",
+        "Dijitalleşme yalnızca eğlence sektörüyle ilgilidir.",
+        "Teknoloji toplumu etkilemez.",
+        "Dijital dönüşüm üretkenliği azaltır."
+      ],
+      "correct": "Dijital dönüşüm yaşamın tüm alanlarını değiştiriyor."
+    },
+    {
+      "id": 204,
+      "word": "kulturelle vielfalt",
+      "translation": "kültürel çeşitlilik",
+      "example": "Kulturelle Vielfalt bereichert die Gesellschaft und fördert Toleranz.",
+      "exampleTranslation": "Kültürel çeşitlilik toplumu zenginleştirir ve hoşgörüyü teşvik eder.",
+      "options": [
+        "Kültürel çeşitlilik toplumu zenginleştirir ve hoşgörüyü teşvik eder.",
+        "Kültürel farklılıklar çatışmaya yol açar.",
+        "Kültürler arasında fark kalmamıştır.",
+        "Çeşitlilik toplumları böler."
+      ],
+      "correct": "Kültürel çeşitlilik toplumu zenginleştirir ve hoşgörüyü teşvik eder."
+    },
+    {
+      "id": 205,
+      "word": "globalisierung",
+      "translation": "küreselleşme",
+      "example": "Globalisierung bringt Chancen, aber auch Herausforderungen mit sich.",
+      "exampleTranslation": "Küreselleşme fırsatlar getirir, ancak zorlukları da beraberinde taşır.",
+      "options": [
+        "Küreselleşme fırsatlar getirir, ancak zorlukları da beraberinde taşır.",
+        "Küreselleşme sadece gelişmiş ülkeleri etkiler.",
+        "Küreselleşme tamamen olumsuzdur.",
+        "Küreselleşme yalnızca ticareti ilgilendirir."
+      ],
+      "correct": "Küreselleşme fırsatlar getirir, ancak zorlukları da beraberinde taşır."
+    },
+    {
+      "id": 206,
+      "word": "künstliche intelligenz",
+      "translation": "yapay zeka",
+      "example": "Künstliche Intelligenz verändert die Art, wie wir arbeiten und denken.",
+      "exampleTranslation": "Yapay zeka, çalışma ve düşünme biçimimizi değiştiriyor.",
+      "options": [
+        "Yapay zeka, çalışma ve düşünme biçimimizi değiştiriyor.",
+        "Yapay zeka yalnızca bilim kurgu filmlerinde vardır.",
+        "Yapay zeka insanların yerini tamamen almıştır.",
+        "Yapay zekanın toplum üzerinde hiçbir etkisi yoktur."
+      ],
+      "correct": "Yapay zeka, çalışma ve düşünme biçimimizi değiştiriyor."
+    },
+    {
+      "id": 207,
+      "word": "soziale medien",
+      "translation": "sosyal medya",
+      "example": "Soziale Medien beeinflussen, wie Menschen Informationen teilen.",
+      "exampleTranslation": "Sosyal medya, insanların bilgi paylaşma şeklini etkiler.",
+      "options": [
+        "Sosyal medya, insanların bilgi paylaşma şeklini etkiler.",
+        "Sosyal medya yalnızca haber okumak içindir.",
+        "Sosyal medya iletişimi azaltır.",
+        "Sosyal medya hiçbir bilgi içermez."
+      ],
+      "correct": "Sosyal medya, insanların bilgi paylaşma şeklini etkiler."
+    },
+    {
+      "id": 208,
+      "word": "psychische gesundheit",
+      "translation": "psikolojik sağlık",
+      "example": "Psychische Gesundheit ist genauso wichtig wie körperliche Gesundheit.",
+      "exampleTranslation": "Psikolojik sağlık, fiziksel sağlık kadar önemlidir.",
+      "options": [
+        "Psikolojik sağlık, fiziksel sağlık kadar önemlidir.",
+        "Sadece bedensel sağlık önemlidir.",
+        "Psikolojik sağlık önemsizdir.",
+        "Zihinsel sağlık sadece doktorlar içindir."
+      ],
+      "correct": "Psikolojik sağlık, fiziksel sağlık kadar önemlidir."
+    },
+    {
+      "id": 209,
+      "word": "arbeitslosigkeit",
+      "translation": "işsizlik",
+      "example": "Arbeitslosigkeit ist ein ernstes soziales Problem in vielen Ländern.",
+      "exampleTranslation": "İşsizlik birçok ülkede ciddi bir sosyal sorundur.",
+      "options": [
+        "İşsizlik birçok ülkede ciddi bir sosyal sorundur.",
+        "İşsizlik artık tamamen ortadan kalkmıştır.",
+        "İşsizlik sadece küçük bölgelerde görülür.",
+        "İşsizlik toplum üzerinde etkisizdir."
+      ],
+      "correct": "İşsizlik birçok ülkede ciddi bir sosyal sorundur."
+    },
+    {
+      "id": 210,
+      "word": "bildungsgleichheit",
+      "translation": "eğitimde eşitlik",
+      "example": "Bildungsgleichheit ist entscheidend für eine gerechte Gesellschaft.",
+      "exampleTranslation": "Eğitimde eşitlik adil bir toplum için belirleyicidir.",
+      "options": [
+        "Eğitimde eşitlik adil bir toplum için belirleyicidir.",
+        "Eğitim eşitliği sadece üniversitelerde önemlidir.",
+        "Toplum adaletine eğitim katkı sağlamaz.",
+        "Eğitimde fırsat eşitliği gereksizdir."
+      ],
+      "correct": "Eğitimde eşitlik adil bir toplum için belirleyicidir."
+    },
+    {
+      "id": 211,
+      "word": "umweltschutz",
+      "translation": "çevre koruma",
+      "example": "Umweltschutz ist eine gemeinsame Aufgabe für alle Menschen.",
+      "exampleTranslation": "Çevre koruma tüm insanlar için ortak bir görevdir.",
+      "options": [
+        "Çevre koruma tüm insanlar için ortak bir görevdir.",
+        "Çevre koruma sadece hükümetlerin işidir.",
+        "Bireylerin çevreyle ilgisi yoktur.",
+        "Doğayı korumak gereksizdir."
+      ],
+      "correct": "Çevre koruma tüm insanlar için ortak bir görevdir."
+    },
+    {
+      "id": 212,
+      "word": "klimawandel",
+      "translation": "iklim değişikliği",
+      "example": "Der Klimawandel stellt eine große Herausforderung für die Menschheit dar.",
+      "exampleTranslation": "İklim değişikliği insanlık için büyük bir zorluktur.",
+      "options": [
+        "İklim değişikliği insanlık için büyük bir zorluktur.",
+        "İklim değişikliği artık durmuştur.",
+        "İklim değişikliği sadece kutupları etkiler.",
+        "İklim değişikliği doğal bir süreç değildir."
+      ],
+      "correct": "İklim değişikliği insanlık için büyük bir zorluktur."
+    },
+    {
+      "id": 213,
+      "word": "gerechtigkeit",
+      "translation": "adalet",
+      "example": "Ohne Gerechtigkeit kann kein dauerhafter Frieden existieren.",
+      "exampleTranslation": "Adalet olmadan kalıcı bir barış olamaz.",
+      "options": [
+        "Adalet olmadan kalıcı bir barış olamaz.",
+        "Barış adalet olmadan da mümkündür.",
+        "Adalet yalnızca mahkemelerde bulunur.",
+        "Barış için adalet gereksizdir."
+      ],
+      "correct": "Adalet olmadan kalıcı bir barış olamaz."
+    },
+    {
+      "id": 214,
+      "word": "freiheit der meinung",
+      "translation": "ifade özgürlüğü",
+      "example": "Meinungsfreiheit ist ein Grundrecht in demokratischen Staaten.",
+      "exampleTranslation": "İfade özgürlüğü demokratik devletlerde temel bir haktır.",
+      "options": [
+        "İfade özgürlüğü demokratik devletlerde temel bir haktır.",
+        "İfade özgürlüğü artık yasaktır.",
+        "Sadece bazı ülkelerde konuşma özgürlüğü vardır.",
+        "İfade özgürlüğü toplum için tehlikelidir."
+      ],
+      "correct": "İfade özgürlüğü demokratik devletlerde temel bir haktır."
+    },
+    {
+      "id": 215,
+      "word": "gleichberechtigung",
+      "translation": "eşit haklar",
+      "example": "Gleichberechtigung zwischen Männern und Frauen ist noch nicht überall erreicht.",
+      "exampleTranslation": "Kadınlar ve erkekler arasındaki eşit haklar henüz her yerde sağlanmamıştır.",
+      "options": [
+        "Kadınlar ve erkekler arasındaki eşit haklar henüz her yerde sağlanmamıştır.",
+        "Eşitlik yalnızca teoride vardır.",
+        "Kadınlar artık tüm haklara sahiptir.",
+        "Eşitlik modern toplumlar için gereksizdir."
+      ],
+      "correct": "Kadınlar ve erkekler arasındaki eşit haklar henüz her yerde sağlanmamıştır."
+    },
+    {
+      "id": 216,
+      "word": "arbeitsleben",
+      "translation": "iş hayatı",
+      "example": "Das Arbeitsleben erfordert Flexibilität und Engagement.",
+      "exampleTranslation": "İş hayatı esneklik ve bağlılık gerektirir.",
+      "options": [
+        "İş hayatı esneklik ve bağlılık gerektirir.",
+        "İş hayatında sabır gerekmez.",
+        "Esneklik çalışanlar için gereksizdir.",
+        "Bağlılık iş başarısını azaltır."
+      ],
+      "correct": "İş hayatı esneklik ve bağlılık gerektirir."
+    },
+    {
+      "id": 217,
+      "word": "selbstbewusstsein",
+      "translation": "özgüven",
+      "example": "Ein gesundes Selbstbewusstsein hilft, schwierige Situationen zu meistern.",
+      "exampleTranslation": "Sağlıklı bir özgüven, zorlu durumların üstesinden gelmeye yardımcı olur.",
+      "options": [
+        "Sağlıklı bir özgüven, zorlu durumların üstesinden gelmeye yardımcı olur.",
+        "Özgüven insanı kibirli yapar.",
+        "Zorluklarla başa çıkmak imkansızdır.",
+        "Özgüven sadece başarıyı engeller."
+      ],
+      "correct": "Sağlıklı bir özgüven, zorlu durumların üstesinden gelmeye yardımcı olur."
+    },
+    {
+      "id": 218,
+      "word": "verantwortungsbewusstsein",
+      "translation": "sorumluluk bilinci",
+      "example": "Jugendliche sollten ein starkes Verantwortungsbewusstsein entwickeln.",
+      "exampleTranslation": "Gençler güçlü bir sorumluluk bilinci geliştirmelidir.",
+      "options": [
+        "Gençler güçlü bir sorumluluk bilinci geliştirmelidir.",
+        "Sorumluluk bilinci yalnızca yetişkinler içindir.",
+        "Gençler sorumluluktan kaçınmalıdır.",
+        "Sorumluluk gereksiz bir değerdir."
+      ],
+      "correct": "Gençler güçlü bir sorumluluk bilinci geliştirmelidir."
+    },
+    {
+      "id": 219,
+      "word": "selbstreflexion",
+      "translation": "öz değerlendirme",
+      "example": "Selbstreflexion ist wichtig, um aus eigenen Fehlern zu lernen.",
+      "exampleTranslation": "Kişinin hatalarından öğrenmesi için öz değerlendirme önemlidir.",
+      "options": [
+        "Kişinin hatalarından öğrenmesi için öz değerlendirme önemlidir.",
+        "Hatalar üzerinde düşünmek zaman kaybıdır.",
+        "Kendini sorgulamak gereksizdir.",
+        "Hatalardan ders almak mümkün değildir."
+      ],
+      "correct": "Kişinin hatalarından öğrenmesi için öz değerlendirme önemlidir."
+    },
+    {
+      "id": 220,
+      "word": "neugierde",
+      "translation": "merak",
+      "example": "Neugierde ist die Grundlage allen Lernens.",
+      "exampleTranslation": "Merak, tüm öğrenmenin temelidir.",
+      "options": [
+        "Merak, tüm öğrenmenin temelidir.",
+        "Merak öğrenmeyi engeller.",
+        "Merak sadece çocuklara özgüdür.",
+        "Öğrenme merak gerektirmez."
+      ],
+      "correct": "Merak, tüm öğrenmenin temelidir."
+    },
+    {
+      "id": 221,
+      "word": "teamgeist",
+      "translation": "takım ruhu",
+      "example": "Teamgeist stärkt die Zusammenarbeit und Motivation.",
+      "exampleTranslation": "Takım ruhu, iş birliğini ve motivasyonu güçlendirir.",
+      "options": [
+        "Takım ruhu, iş birliğini ve motivasyonu güçlendirir.",
+        "Takım çalışması verimliliği azaltır.",
+        "Motivasyon takım çalışmasıyla ilgisizdir.",
+        "Takım ruhu gereksizdir."
+      ],
+      "correct": "Takım ruhu, iş birliğini ve motivasyonu güçlendirir."
+    },
+    {
+      "id": 222,
+      "word": "zeitmanagement",
+      "translation": "zaman yönetimi",
+      "example": "Gutes Zeitmanagement ist entscheidend für den beruflichen Erfolg.",
+      "exampleTranslation": "İyi zaman yönetimi mesleki başarı için belirleyicidir.",
+      "options": [
+        "İyi zaman yönetimi mesleki başarı için belirleyicidir.",
+        "Zaman yönetimi önemsizdir.",
+        "Zamanı planlamak başarıyı engeller.",
+        "Zaman yönetimi sadece öğrenciler içindir."
+      ],
+      "correct": "İyi zaman yönetimi mesleki başarı için belirleyicidir."
+    },
+    {
+      "id": 223,
+      "word": "kommunikationsfähigkeit",
+      "translation": "iletişim becerisi",
+      "example": "Kommunikationsfähigkeit ist eine der wichtigsten Soft Skills im Arbeitsleben.",
+      "exampleTranslation": "İletişim becerisi iş hayatındaki en önemli yetkinliklerden biridir.",
+      "options": [
+        "İletişim becerisi iş hayatındaki en önemli yetkinliklerden biridir.",
+        "İletişim sadece özel hayatta önemlidir.",
+        "İş hayatında iletişim gerekmez.",
+        "Soft skills gereksizdir."
+      ],
+      "correct": "İletişim becerisi iş hayatındaki en önemli yetkinliklerden biridir."
+    },
+    {
+      "id": 224,
+      "word": "konfliktlösung",
+      "translation": "çatışma çözümü",
+      "example": "Eine gute Konfliktlösung erfordert Geduld und Verständnis.",
+      "exampleTranslation": "İyi bir çatışma çözümü sabır ve anlayış gerektirir.",
+      "options": [
+        "İyi bir çatışma çözümü sabır ve anlayış gerektirir.",
+        "Çatışmalar çözülmez.",
+        "Sabır çatışmalarda işe yaramaz.",
+        "Anlayış sorunları büyütür."
+      ],
+      "correct": "İyi bir çatışma çözümü sabır ve anlayış gerektirir."
+    },
+    {
+      "id": 225,
+      "word": "entscheidungskraft",
+      "translation": "karar verme gücü",
+      "example": "Führungskräfte brauchen eine starke Entscheidungskraft.",
+      "exampleTranslation": "Liderler güçlü bir karar verme yetisine ihtiyaç duyar.",
+      "options": [
+        "Liderler güçlü bir karar verme yetisine ihtiyaç duyar.",
+        "Karar vermek liderlikte önemsizdir.",
+        "Karar verme tamamen şanstır.",
+        "Karar gücü sadece tecrübeyle ilgilidir."
+      ],
+      "correct": "Liderler güçlü bir karar verme yetisine ihtiyaç duyar."
+    },
+    {
+      "id": 226,
+      "word": "kritisches denken",
+      "translation": "eleştirel düşünme",
+      "example": "Kritisches Denken hilft, Informationen objektiv zu bewerten.",
+      "exampleTranslation": "Eleştirel düşünme, bilgileri tarafsız biçimde değerlendirmeye yardımcı olur.",
+      "options": [
+        "Eleştirel düşünme, bilgileri tarafsız biçimde değerlendirmeye yardımcı olur.",
+        "Eleştirel düşünme zaman kaybıdır.",
+        "Düşünmeden karar vermek en iyisidir.",
+        "Tarafsızlık öğrenmeyi engeller."
+      ],
+      "correct": "Eleştirel düşünme, bilgileri tarafsız biçimde değerlendirmeye yardımcı olur."
+    },
+    {
+      "id": 227,
+      "word": "empathie",
+      "translation": "empati",
+      "example": "Empathie fördert das Verständnis zwischen Menschen.",
+      "exampleTranslation": "Empati, insanlar arasında anlayışı artırır.",
+      "options": [
+        "Empati, insanlar arasında anlayışı artırır.",
+        "Empati insanı zayıf yapar.",
+        "Empati sadece çocuklarda görülür.",
+        "Anlayış ilişkilerde gereksizdir."
+      ],
+      "correct": "Empati, insanlar arasında anlayışı artırır."
+    },
+    {
+      "id": 228,
+      "word": "vertrauen",
+      "translation": "güven",
+      "example": "Vertrauen ist die Basis jeder gesunden Beziehung.",
+      "exampleTranslation": "Güven, her sağlıklı ilişkinin temelidir.",
+      "options": [
+        "Güven, her sağlıklı ilişkinin temelidir.",
+        "Güven ilişkilerde önemsizdir.",
+        "Güven sadece iş ortamında gerekir.",
+        "İlişkiler güven olmadan da yürür."
+      ],
+      "correct": "Güven, her sağlıklı ilişkinin temelidir."
+    },
+    {
+      "id": 229,
+      "word": "geduld",
+      "translation": "sabır",
+      "example": "Geduld ist eine Tugend, die in unserer schnellen Welt oft fehlt.",
+      "exampleTranslation": "Sabır, hızlı dünyamızda sıkça eksik olan bir erdemdir.",
+      "options": [
+        "Sabır, hızlı dünyamızda sıkça eksik olan bir erdemdir.",
+        "Sabır başarıyı geciktirir.",
+        "Sabır gereksiz bir duygudur.",
+        "Sabır sadece yaşlılar içindir."
+      ],
+      "correct": "Sabır, hızlı dünyamızda sıkça eksik olan bir erdemdir."
+    },
+    {
+      "id": 230,
+      "word": "hoffnung",
+      "translation": "umut",
+      "example": "Hoffnung gibt uns Kraft, auch in schwierigen Zeiten weiterzumachen.",
+      "exampleTranslation": "Umut, zor zamanlarda devam etmemiz için bize güç verir.",
+      "options": [
+        "Umut, zor zamanlarda devam etmemiz için bize güç verir.",
+        "Umut yalnızca hayalperestler içindir.",
+        "Umut hiçbir şeyi değiştirmez.",
+        "Umut zayıflıktır."
+      ],
+      "correct": "Umut, zor zamanlarda devam etmemiz için bize güç verir."
+    },
+    {
+      "id": 251,
+      "word": "lebensweisheit",
+      "translation": "hayat bilgeliği",
+      "example": "Manchmal lernt man mehr aus Fehlern als aus Erfolgen.",
+      "exampleTranslation": "Bazen başarıdan çok hatalardan öğrenilir.",
+      "options": [
+        "Bazen başarıdan çok hatalardan öğrenilir.",
+        "Hatalar hiçbir şey öğretmez.",
+        "Başarı daima tesadüftür.",
+        "Deneyim bilgiyle ilgisizdir."
+      ],
+      "correct": "Bazen başarıdan çok hatalardan öğrenilir."
+    },
+    {
+      "id": 252,
+      "word": "lebenserfahrung",
+      "translation": "yaşam deneyimi",
+      "example": "Lebenserfahrung kann kein Buch vollständig vermitteln.",
+      "exampleTranslation": "Yaşam deneyimi hiçbir kitap tarafından tam olarak aktarılamaz.",
+      "options": [
+        "Yaşam deneyimi hiçbir kitap tarafından tam olarak aktarılamaz.",
+        "Kitaplar hayatın tek öğretmenidir.",
+        "Deneyim önemsizdir.",
+        "Yaşam tecrübesi gereksizdir."
+      ],
+      "correct": "Yaşam deneyimi hiçbir kitap tarafından tam olarak aktarılamaz."
+    },
+    {
+      "id": 253,
+      "word": "selbstentwicklung",
+      "translation": "kişisel gelişim",
+      "example": "Selbstentwicklung erfordert Mut und Geduld.",
+      "exampleTranslation": "Kişisel gelişim cesaret ve sabır gerektirir.",
+      "options": [
+        "Kişisel gelişim cesaret ve sabır gerektirir.",
+        "Gelişim sadece eğitimle mümkündür.",
+        "Kişisel gelişim anlamsızdır.",
+        "Sabır kişisel gelişimi yavaşlatır."
+      ],
+      "correct": "Kişisel gelişim cesaret ve sabır gerektirir."
+    },
+    {
+      "id": 254,
+      "word": "glückseligkeit",
+      "translation": "mutluluk",
+      "example": "Wahre Glückseligkeit liegt nicht im Besitz, sondern im inneren Frieden.",
+      "exampleTranslation": "Gerçek mutluluk sahip olduklarında değil, iç huzurda yatar.",
+      "options": [
+        "Gerçek mutluluk sahip olduklarında değil, iç huzurda yatar.",
+        "Mutluluk yalnızca parayla mümkündür.",
+        "İç huzur önemsizdir.",
+        "Mutluluk dışarıdan gelir."
+      ],
+      "correct": "Gerçek mutluluk sahip olduklarında değil, iç huzurda yatar."
+    },
+    {
+      "id": 255,
+      "word": "freiheit",
+      "translation": "özgürlük",
+      "example": "Freiheit bedeutet, Verantwortung für seine Entscheidungen zu übernehmen.",
+      "exampleTranslation": "Özgürlük, kendi kararlarının sorumluluğunu almak demektir.",
+      "options": [
+        "Özgürlük, kendi kararlarının sorumluluğunu almak demektir.",
+        "Özgürlük sınırsız davranmaktır.",
+        "Özgürlük başkalarını görmezden gelmektir.",
+        "Özgürlük hiçbir sorumluluk taşımaz."
+      ],
+      "correct": "Özgürlük, kendi kararlarının sorumluluğunu almak demektir."
+    },
+    {
+      "id": 256,
+      "word": "gerechtigkeitssinn",
+      "translation": "adalet duygusu",
+      "example": "Ein starker Gerechtigkeitssinn fördert das Vertrauen in die Gesellschaft.",
+      "exampleTranslation": "Güçlü bir adalet duygusu topluma olan güveni artırır.",
+      "options": [
+        "Güçlü bir adalet duygusu topluma olan güveni artırır.",
+        "Adalet duygusu gereksizdir.",
+        "Adalet yalnızca yargı içindir.",
+        "Toplum güvene ihtiyaç duymaz."
+      ],
+      "correct": "Güçlü bir adalet duygusu topluma olan güveni artırır."
+    },
+    {
+      "id": 257,
+      "word": "verständnis",
+      "translation": "anlayış",
+      "example": "Verständnis ist die Grundlage jeder harmonischen Beziehung.",
+      "exampleTranslation": "Anlayış, her uyumlu ilişkinin temelidir.",
+      "options": [
+        "Anlayış, her uyumlu ilişkinin temelidir.",
+        "İlişkilerde anlayış önemsizdir.",
+        "Uyum için anlayış gerekmez.",
+        "Anlayış zayıflıktır."
+      ],
+      "correct": "Anlayış, her uyumlu ilişkinin temelidir."
+    },
+    {
+      "id": 258,
+      "word": "verträglichkeit",
+      "translation": "uyumluluk",
+      "example": "Verträglichkeit erleichtert die Zusammenarbeit in Gruppen.",
+      "exampleTranslation": "Uyumluluk, gruplarda iş birliğini kolaylaştırır.",
+      "options": [
+        "Uyumluluk, gruplarda iş birliğini kolaylaştırır.",
+        "Uyumluluk bireyselliği yok eder.",
+        "Gruplarda uyum gereksizdir.",
+        "Uyumluluk iş birliğini zorlaştırır."
+      ],
+      "correct": "Uyumluluk, gruplarda iş birliğini kolaylaştırır."
+    },
+    {
+      "id": 259,
+      "word": "toleranz",
+      "translation": "hoşgörü",
+      "example": "Toleranz ist notwendig, um in einer vielfältigen Gesellschaft friedlich zu leben.",
+      "exampleTranslation": "Hoşgörü, çeşitli bir toplumda barış içinde yaşamak için gereklidir.",
+      "options": [
+        "Hoşgörü, çeşitli bir toplumda barış içinde yaşamak için gereklidir.",
+        "Hoşgörü yalnızca zayıfların davranışıdır.",
+        "Toplumda hoşgörüye gerek yoktur.",
+        "Çeşitlilik hoşgörüyü azaltır."
+      ],
+      "correct": "Hoşgörü, çeşitli bir toplumda barış içinde yaşamak için gereklidir."
+    },
+    {
+      "id": 260,
+      "word": "selbstdisziplin",
+      "translation": "öz disiplin",
+      "example": "Selbstdisziplin ist der Schlüssel zum langfristigen Erfolg.",
+      "exampleTranslation": "Öz disiplin, uzun vadeli başarının anahtarıdır.",
+      "options": [
+        "Öz disiplin, uzun vadeli başarının anahtarıdır.",
+        "Disiplin başarıyı engeller.",
+        "Disiplin sadece çocuklara gereklidir.",
+        "Başarı şansla ilgilidir."
+      ],
+      "correct": "Öz disiplin, uzun vadeli başarının anahtarıdır."
+    },
+    {
+      "id": 261,
+      "word": "freundlichkeit",
+      "translation": "nezaket",
+      "example": "Freundlichkeit kostet nichts, kann aber viel bewirken.",
+      "exampleTranslation": "Nezaket hiçbir şeye mal olmaz ama çok şey değiştirebilir.",
+      "options": [
+        "Nezaket hiçbir şeye mal olmaz ama çok şey değiştirebilir.",
+        "Nezaket faydasızdır.",
+        "Nezaket sadece zenginler içindir.",
+        "Kibar olmak zaman kaybıdır."
+      ],
+      "correct": "Nezaket hiçbir şeye mal olmaz ama çok şey değiştirebilir."
+    },
+    {
+      "id": 262,
+      "word": "ehrlichkeit",
+      "translation": "dürüstlük",
+      "example": "Ehrlichkeit schafft Vertrauen und Respekt.",
+      "exampleTranslation": "Dürüstlük güven ve saygı yaratır.",
+      "options": [
+        "Dürüstlük güven ve saygı yaratır.",
+        "Dürüstlük ilişkileri zayıflatır.",
+        "Yalan bazen gereklidir.",
+        "Güven dürüstlük olmadan da olur."
+      ],
+      "correct": "Dürüstlük güven ve saygı yaratır."
+    },
+    {
+      "id": 263,
+      "word": "dankbarkeit",
+      "translation": "şükran",
+      "example": "Dankbarkeit hilft, das Leben positiver zu sehen.",
+      "exampleTranslation": "Şükran duygusu hayatı daha olumlu görmeye yardımcı olur.",
+      "options": [
+        "Şükran duygusu hayatı daha olumlu görmeye yardımcı olur.",
+        "Minnettarlık önemsizdir.",
+        "Şükran yalnızca dini bir kavramdır.",
+        "Pozitif düşünmek gereksizdir."
+      ],
+      "correct": "Şükran duygusu hayatı daha olumlu görmeye yardımcı olur."
+    },
+    {
+      "id": 264,
+      "word": "mitgefühl",
+      "translation": "şefkat",
+      "example": "Mitgefühl verbindet Menschen über kulturelle Grenzen hinweg.",
+      "exampleTranslation": "Şefkat, insanları kültürel sınırların ötesinde birleştirir.",
+      "options": [
+        "Şefkat, insanları kültürel sınırların ötesinde birleştirir.",
+        "Şefkat yalnızca aile içinde geçerlidir.",
+        "Şefkat toplumda zayıflık olarak görülür.",
+        "Kültürler arası anlayış gereksizdir."
+      ],
+      "correct": "Şefkat, insanları kültürel sınırların ötesinde birleştirir."
+    },
+    {
+      "id": 265,
+      "word": "respekt",
+      "translation": "saygı",
+      "example": "Respekt bedeutet, die Meinung anderer zu akzeptieren, auch wenn man anderer Meinung ist.",
+      "exampleTranslation": "Saygı, farklı düşüncelere katılmasan bile onları kabul etmektir.",
+      "options": [
+        "Saygı, farklı düşüncelere katılmasan bile onları kabul etmektir.",
+        "Saygı sadece büyükler içindir.",
+        "Farklı fikirleri reddetmek doğaldır.",
+        "Saygı gereksizdir."
+      ],
+      "correct": "Saygı, farklı düşüncelere katılmasan bile onları kabul etmektir."
+    },
+    {
+      "id": 266,
+      "word": "selbstachtung",
+      "translation": "öz saygı",
+      "example": "Selbstachtung beginnt damit, sich selbst zu akzeptieren.",
+      "exampleTranslation": "Öz saygı, kendini kabullenmekle başlar.",
+      "options": [
+        "Öz saygı, kendini kabullenmekle başlar.",
+        "Kendini sevmek bencilliktir.",
+        "Öz saygı önemsizdir.",
+        "Kendini eleştirmek en doğrusudur."
+      ],
+      "correct": "Öz saygı, kendini kabullenmekle başlar."
     }
   ]
 }
